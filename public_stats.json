@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-29T03:26:28.926740+08:00",
-  "all_time_total": 4031,
-  "last_30d_total": 2468,
+  "generated_at": "2026-09-29T04:26:36.653342+08:00",
+  "all_time_total": 4032,
+  "last_30d_total": 2469,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1078,
-      "all_time": 1618,
+      "last_30d": 1079,
+      "all_time": 1619,
       "subtypes": {
         "rent": {
-          "last_30d": 567,
-          "all_time": 882
+          "last_30d": 568,
+          "all_time": 883
         },
         "roommate": {
           "last_30d": 170,
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-09",
-      "total": 2345
+      "total": 2346
     }
   ],
   "system": {
-    "messages_scanned_total": 592158,
-    "messages_scanned_30d": 406857,
-    "noise_filtered_total": 257463,
-    "noise_filtered_30d": 204511,
-    "lead_sightings_total": 6382,
+    "messages_scanned_total": 593041,
+    "messages_scanned_30d": 407740,
+    "noise_filtered_total": 258047,
+    "noise_filtered_30d": 205095,
+    "lead_sightings_total": 6383,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1667,16 +1667,16 @@
       },
       {
         "period": "2026-09-29",
-        "total": 13,
+        "total": 14,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 3,
           "games_bali": 1,
-          "housing_bali": 7,
+          "housing_bali": 8,
           "visa_bali": 1
         },
         "housing": {
-          "rent": 6,
+          "rent": 7,
           "roommate": 1,
           "offer": 0
         }
@@ -1933,20 +1933,20 @@
       },
       {
         "period": "2026-09-28",
-        "total": 138,
+        "total": 139,
         "by_niche": {
           "banya_bali": 1,
           "beauty_bali": 15,
           "bikes_bali": 29,
           "games_bali": 5,
           "handyman_bali": 2,
-          "housing_bali": 72,
+          "housing_bali": 73,
           "massage_bali": 6,
           "transfer_bali": 4,
           "visa_bali": 4
         },
         "housing": {
-          "rent": 50,
+          "rent": 51,
           "roommate": 9,
           "offer": 13
         },
@@ -2000,7 +2000,7 @@
       },
       {
         "period": "2026-09",
-        "total": 2345,
+        "total": 2346,
         "by_niche": {
           "auto_bali": 53,
           "banya_bali": 10,
@@ -2008,7 +2008,7 @@
           "bikes_bali": 509,
           "games_bali": 149,
           "handyman_bali": 48,
-          "housing_bali": 1039,
+          "housing_bali": 1040,
           "massage_bali": 57,
           "photo_bali": 67,
           "transfer_bali": 164,
@@ -2017,7 +2017,7 @@
           "wedding_bali": 11
         },
         "housing": {
-          "rent": 549,
+          "rent": 550,
           "roommate": 157,
           "offer": 333
         },
@@ -2065,7 +2065,7 @@
       },
       {
         "geo": "Санур",
-        "count": 25
+        "count": 26
       }
     ],
     "geo_unknown": 266,
@@ -2077,6 +2077,13 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-09-29T03:45",
+      "subtype": "rent",
+      "geo": "Санур",
+      "text": "Ищем жилье в Сануре (желательно поближе к саду Unicorns) 1bdr или хороший гест. С 1 ноября на 3 месяца"
+    },
     {
       "niche": "visa_bali",
       "at": "2026-09-29T02:45",
@@ -2262,13 +2269,6 @@
       "at": "2026-09-28T20:15",
       "subtype": "rent",
       "text": "Всем привет! Приехали на Бали сняли виллу, ищем новые знакомства, где можно и с кем хорошо провести время?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-09-28T20:00",
-      "subtype": "rent",
-      "geo": "Букит",
-      "text": "Добрый день. Ищем 3BD виллу на Буките с 17 декабря по 17 января."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2355,7 +2355,7 @@
     "house": 68,
     "room": 75,
     "apartment": 47,
-    "unknown": 98
+    "unknown": 99
   },
   "activity_30d": {
     "all": [
@@ -2389,7 +2389,7 @@
         12,
         10,
         7,
-        1,
+        2,
         3,
         3,
         1,
@@ -3494,7 +3494,7 @@
           5,
           3,
           4,
-          0,
+          1,
           0,
           2,
           0,
