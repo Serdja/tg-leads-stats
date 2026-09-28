@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-29T04:26:36.653342+08:00",
-  "all_time_total": 4032,
-  "last_30d_total": 2469,
+  "generated_at": "2026-09-29T05:26:43.793136+08:00",
+  "all_time_total": 4033,
+  "last_30d_total": 2470,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1079,
-      "all_time": 1619,
+      "last_30d": 1080,
+      "all_time": 1620,
       "subtypes": {
         "rent": {
-          "last_30d": 568,
-          "all_time": 883
+          "last_30d": 569,
+          "all_time": 884
         },
         "roommate": {
           "last_30d": 170,
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-09",
-      "total": 2346
+      "total": 2347
     }
   ],
   "system": {
-    "messages_scanned_total": 593041,
-    "messages_scanned_30d": 407740,
-    "noise_filtered_total": 258047,
-    "noise_filtered_30d": 205095,
-    "lead_sightings_total": 6383,
+    "messages_scanned_total": 594038,
+    "messages_scanned_30d": 408737,
+    "noise_filtered_total": 258756,
+    "noise_filtered_30d": 205804,
+    "lead_sightings_total": 6384,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1667,16 +1667,16 @@
       },
       {
         "period": "2026-09-29",
-        "total": 14,
+        "total": 15,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 3,
           "games_bali": 1,
-          "housing_bali": 8,
+          "housing_bali": 9,
           "visa_bali": 1
         },
         "housing": {
-          "rent": 7,
+          "rent": 8,
           "roommate": 1,
           "offer": 0
         }
@@ -1933,20 +1933,20 @@
       },
       {
         "period": "2026-09-28",
-        "total": 139,
+        "total": 140,
         "by_niche": {
           "banya_bali": 1,
           "beauty_bali": 15,
           "bikes_bali": 29,
           "games_bali": 5,
           "handyman_bali": 2,
-          "housing_bali": 73,
+          "housing_bali": 74,
           "massage_bali": 6,
           "transfer_bali": 4,
           "visa_bali": 4
         },
         "housing": {
-          "rent": 51,
+          "rent": 52,
           "roommate": 9,
           "offer": 13
         },
@@ -2000,7 +2000,7 @@
       },
       {
         "period": "2026-09",
-        "total": 2346,
+        "total": 2347,
         "by_niche": {
           "auto_bali": 53,
           "banya_bali": 10,
@@ -2008,7 +2008,7 @@
           "bikes_bali": 509,
           "games_bali": 149,
           "handyman_bali": 48,
-          "housing_bali": 1040,
+          "housing_bali": 1041,
           "massage_bali": 57,
           "photo_bali": 67,
           "transfer_bali": 164,
@@ -2017,7 +2017,7 @@
           "wedding_bali": 11
         },
         "housing": {
-          "rent": 550,
+          "rent": 551,
           "roommate": 157,
           "offer": 333
         },
@@ -2068,7 +2068,7 @@
         "count": 26
       }
     ],
-    "geo_unknown": 266,
+    "geo_unknown": 267,
     "budget_idr": {
       "n": 327,
       "p25": 10000000,
@@ -2077,6 +2077,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-09-29T04:45",
+      "subtype": "rent",
+      "text": "Здравствуйте! 🙏 Нужна вилла для 13 человек на 4 дня — с 30-го числа по 3-е число. Желательно недалеко от пляжа. Подойдут районы Кандолим, Бага, Вагатор или…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-09-29T03:45",
@@ -2263,12 +2269,6 @@
       "geo": "Табанан",
       "budget_m": 22,
       "text": "Нужна вилла на долгосрок 1 BDR сад и быстрый интернет важны. Районы: перененан, бедугул, Табанан Буджет: до 22 млн в мес"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-09-28T20:15",
-      "subtype": "rent",
-      "text": "Всем привет! Приехали на Бали сняли виллу, ищем новые знакомства, где можно и с кем хорошо провести время?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2351,7 +2351,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 449,
+    "villa": 450,
     "house": 68,
     "room": 75,
     "apartment": 47,
@@ -2390,7 +2390,7 @@
         10,
         7,
         2,
-        3,
+        4,
         3,
         1,
         4,
@@ -3495,7 +3495,7 @@
           3,
           4,
           1,
-          0,
+          1,
           2,
           0,
           2,
