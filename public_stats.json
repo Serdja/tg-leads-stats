@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-29T21:14:30.884111+08:00",
+  "generated_at": "2026-09-29T21:19:41.454113+08:00",
   "all_time_total": 4111,
   "last_30d_total": 2548,
   "by_niche": [
@@ -124,14 +124,14 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 613549,
-    "messages_scanned_30d": 428248,
-    "noise_filtered_total": 270753,
-    "noise_filtered_30d": 217801,
+    "messages_scanned_total": 613680,
+    "messages_scanned_30d": 428379,
+    "noise_filtered_total": 270850,
+    "noise_filtered_30d": 217898,
     "lead_sightings_total": 6541,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
-    "chats_monitored": 253
+    "chats_monitored": 254
   },
   "series": {
     "daily": [
@@ -2357,17 +2357,31 @@
   "housing_offer_price_by_geo_90d": [
     {
       "geo": "Чангу",
-      "n": 56,
-      "median": 17500000,
-      "p25": 13375000,
-      "p75": 38000000
+      "n": 70,
+      "median": 24000000,
+      "p25": 14925000,
+      "p75": 39000000
     },
     {
       "geo": "Убуд",
-      "n": 41,
-      "median": 13500000,
+      "n": 47,
+      "median": 13000000,
       "p25": 7000000,
       "p75": 17000000
+    },
+    {
+      "geo": "Букит",
+      "n": 28,
+      "median": 21500000,
+      "p25": 15250000,
+      "p75": 25000000
+    },
+    {
+      "geo": "Берава",
+      "n": 20,
+      "median": 17000000,
+      "p25": 17000000,
+      "p75": 20000000
     }
   ],
   "housing_types_30d": {
