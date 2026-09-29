@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-30T04:20:38.395880+08:00",
-  "all_time_total": 4133,
-  "last_30d_total": 2515,
+  "generated_at": "2026-09-30T05:20:45.975418+08:00",
+  "all_time_total": 4134,
+  "last_30d_total": 2516,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1121,
-      "all_time": 1673,
+      "last_30d": 1122,
+      "all_time": 1674,
       "subtypes": {
         "rent": {
-          "last_30d": 588,
-          "all_time": 909
+          "last_30d": 589,
+          "all_time": 910
         },
         "roommate": {
           "last_30d": 178,
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-09",
-      "total": 2447
+      "total": 2448
     }
   ],
   "system": {
-    "messages_scanned_total": 623432,
-    "messages_scanned_30d": 430856,
-    "noise_filtered_total": 277678,
-    "noise_filtered_30d": 222015,
-    "lead_sightings_total": 6583,
+    "messages_scanned_total": 625031,
+    "messages_scanned_30d": 432455,
+    "noise_filtered_total": 278857,
+    "noise_filtered_30d": 223194,
+    "lead_sightings_total": 6584,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1677,15 +1677,15 @@
       },
       {
         "period": "2026-09-30",
-        "total": 7,
+        "total": 8,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 1,
-          "housing_bali": 4,
+          "housing_bali": 5,
           "transfer_bali": 1
         },
         "housing": {
-          "rent": 4,
+          "rent": 5,
           "roommate": 0,
           "offer": 0
         }
@@ -1942,14 +1942,14 @@
       },
       {
         "period": "2026-09-28",
-        "total": 240,
+        "total": 241,
         "by_niche": {
           "banya_bali": 1,
           "beauty_bali": 22,
           "bikes_bali": 48,
           "games_bali": 8,
           "handyman_bali": 6,
-          "housing_bali": 127,
+          "housing_bali": 128,
           "massage_bali": 6,
           "photo_bali": 6,
           "transfer_bali": 8,
@@ -1957,7 +1957,7 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 77,
+          "rent": 78,
           "roommate": 20,
           "offer": 30
         },
@@ -2011,7 +2011,7 @@
       },
       {
         "period": "2026-09",
-        "total": 2447,
+        "total": 2448,
         "by_niche": {
           "auto_bali": 53,
           "banya_bali": 10,
@@ -2019,7 +2019,7 @@
           "bikes_bali": 528,
           "games_bali": 152,
           "handyman_bali": 52,
-          "housing_bali": 1094,
+          "housing_bali": 1095,
           "massage_bali": 57,
           "photo_bali": 73,
           "transfer_bali": 168,
@@ -2028,7 +2028,7 @@
           "wedding_bali": 12
         },
         "housing": {
-          "rent": 576,
+          "rent": 577,
           "roommate": 168,
           "offer": 350
         },
@@ -2079,7 +2079,7 @@
         "count": 27
       }
     ],
-    "geo_unknown": 275,
+    "geo_unknown": 276,
     "budget_idr": {
       "n": 343,
       "p25": 10000000,
@@ -2088,6 +2088,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-09-30T04:45",
+      "subtype": "rent",
+      "text": "Подскажите специалиста по недвижимости — нужна студия в аренду, желательно с мебелью."
+    },
     {
       "niche": "housing_bali",
       "at": "2026-09-30T03:45",
@@ -2265,12 +2271,6 @@
       "geo": "Убуд",
       "budget_m": 30,
       "text": "Ищем виллу в Убуде или Чангу для долгосрочной аренды. Нужно: • 1-2 спальни • бюджет до 30 млн рупий в месяц • желательно современный, уютный вариант для жизни…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-09-29T18:45",
-      "subtype": "rent",
-      "text": "Ищу специалиста по недвижимости, который поможет найти квартиру 1+1 в аренду. Пишите в личные сообщения, пожалуйста."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2393,7 +2393,7 @@
     "villa": 471,
     "house": 71,
     "room": 73,
-    "apartment": 51,
+    "apartment": 52,
     "unknown": 100
   },
   "activity_30d": {
@@ -2455,7 +2455,7 @@
         13,
         10,
         8,
-        4,
+        5,
         2,
         3,
         2,
@@ -3560,7 +3560,7 @@
           10,
           6,
           5,
-          1,
+          2,
           2,
           2,
           0,
