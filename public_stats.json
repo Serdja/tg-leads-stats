@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-29T18:14:09.104696+08:00",
-  "all_time_total": 4101,
-  "last_30d_total": 2538,
+  "generated_at": "2026-09-29T19:14:16.317496+08:00",
+  "all_time_total": 4102,
+  "last_30d_total": 2539,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1118,
-      "all_time": 1658,
+      "last_30d": 1119,
+      "all_time": 1659,
       "subtypes": {
         "rent": {
-          "last_30d": 583,
-          "all_time": 898
+          "last_30d": 584,
+          "all_time": 899
         },
         "roommate": {
           "last_30d": 179,
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-09",
-      "total": 2415
+      "total": 2416
     }
   ],
   "system": {
-    "messages_scanned_total": 607988,
-    "messages_scanned_30d": 422687,
-    "noise_filtered_total": 266884,
-    "noise_filtered_30d": 213932,
-    "lead_sightings_total": 6522,
+    "messages_scanned_total": 609941,
+    "messages_scanned_30d": 424640,
+    "noise_filtered_total": 268162,
+    "noise_filtered_30d": 215210,
+    "lead_sightings_total": 6523,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1667,20 +1667,20 @@
       },
       {
         "period": "2026-09-29",
-        "total": 83,
+        "total": 84,
         "by_niche": {
           "beauty_bali": 3,
           "bikes_bali": 14,
           "games_bali": 3,
           "handyman_bali": 3,
-          "housing_bali": 47,
+          "housing_bali": 48,
           "photo_bali": 5,
           "transfer_bali": 3,
           "visa_bali": 4,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 22,
+          "rent": 23,
           "roommate": 10,
           "offer": 15
         }
@@ -1937,14 +1937,14 @@
       },
       {
         "period": "2026-09-28",
-        "total": 208,
+        "total": 209,
         "by_niche": {
           "banya_bali": 1,
           "beauty_bali": 17,
           "bikes_bali": 40,
           "games_bali": 7,
           "handyman_bali": 5,
-          "housing_bali": 112,
+          "housing_bali": 113,
           "massage_bali": 6,
           "photo_bali": 5,
           "transfer_bali": 7,
@@ -1952,7 +1952,7 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 66,
+          "rent": 67,
           "roommate": 18,
           "offer": 28
         },
@@ -2006,7 +2006,7 @@
       },
       {
         "period": "2026-09",
-        "total": 2415,
+        "total": 2416,
         "by_niche": {
           "auto_bali": 53,
           "banya_bali": 10,
@@ -2014,7 +2014,7 @@
           "bikes_bali": 520,
           "games_bali": 151,
           "handyman_bali": 51,
-          "housing_bali": 1079,
+          "housing_bali": 1080,
           "massage_bali": 57,
           "photo_bali": 72,
           "transfer_bali": 167,
@@ -2023,7 +2023,7 @@
           "wedding_bali": 12
         },
         "housing": {
-          "rent": 565,
+          "rent": 566,
           "roommate": 166,
           "offer": 348
         },
@@ -2074,7 +2074,7 @@
         "count": 27
       }
     ],
-    "geo_unknown": 270,
+    "geo_unknown": 271,
     "budget_idr": {
       "n": 340,
       "p25": 10000000,
@@ -2083,6 +2083,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-09-29T18:45",
+      "subtype": "rent",
+      "text": "Ищу специалиста по недвижимости, который поможет найти квартиру 1+1 в аренду. Пишите в личные сообщения, пожалуйста."
+    },
     {
       "niche": "housing_bali",
       "at": "2026-09-29T17:45",
@@ -2262,12 +2268,6 @@
       "niche": "bikes_bali",
       "at": "2026-09-29T13:15",
       "text": "Всем доброго дня! Может кто сталкивался с такой темой: еду с сыном (8лет) на остров, хотим взять байк для незначительных поездок до пляжа и назад. Как тут…"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-09-29T13:15",
-      "geo": "Букит",
-      "text": "ребят, всем привет) посоветуйте хорошего барбера на буките в районе унагасана. фарангоориентированый на стрижки. опытного и проверенного"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2376,7 +2376,7 @@
     "villa": 468,
     "house": 70,
     "room": 76,
-    "apartment": 48,
+    "apartment": 49,
     "unknown": 100
   },
   "activity_30d": {
@@ -2426,7 +2426,7 @@
         26,
         34,
         23,
-        25,
+        26,
         13,
         21,
         16,
@@ -3531,7 +3531,7 @@
           11,
           20,
           11,
-          8,
+          9,
           4,
           12,
           10,
