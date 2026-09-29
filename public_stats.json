@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-30T00:20:06.653342+08:00",
-  "all_time_total": 4127,
-  "last_30d_total": 2509,
+  "generated_at": "2026-09-30T01:20:14.193953+08:00",
+  "all_time_total": 4130,
+  "last_30d_total": 2512,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1117,
-      "all_time": 1669,
+      "last_30d": 1119,
+      "all_time": 1671,
       "subtypes": {
         "rent": {
-          "last_30d": 584,
-          "all_time": 905
+          "last_30d": 586,
+          "all_time": 907
         },
         "roommate": {
           "last_30d": 178,
@@ -39,8 +39,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 173,
-      "all_time": 286
+      "last_30d": 174,
+      "all_time": 287
     },
     {
       "niche": "games_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-09",
-      "total": 2441
+      "total": 2444
     }
   ],
   "system": {
-    "messages_scanned_total": 618637,
-    "messages_scanned_30d": 426061,
-    "noise_filtered_total": 274380,
-    "noise_filtered_30d": 218717,
-    "lead_sightings_total": 6569,
+    "messages_scanned_total": 619823,
+    "messages_scanned_30d": 427247,
+    "noise_filtered_total": 275210,
+    "noise_filtered_30d": 219547,
+    "lead_sightings_total": 6574,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1677,12 +1677,14 @@
       },
       {
         "period": "2026-09-30",
-        "total": 1,
+        "total": 4,
         "by_niche": {
-          "beauty_bali": 1
+          "beauty_bali": 1,
+          "housing_bali": 2,
+          "transfer_bali": 1
         },
         "housing": {
-          "rent": 0,
+          "rent": 2,
           "roommate": 0,
           "offer": 0
         }
@@ -1939,22 +1941,22 @@
       },
       {
         "period": "2026-09-28",
-        "total": 234,
+        "total": 237,
         "by_niche": {
           "banya_bali": 1,
           "beauty_bali": 22,
           "bikes_bali": 47,
           "games_bali": 8,
           "handyman_bali": 6,
-          "housing_bali": 123,
+          "housing_bali": 125,
           "massage_bali": 6,
           "photo_bali": 6,
-          "transfer_bali": 7,
+          "transfer_bali": 8,
           "visa_bali": 7,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 73,
+          "rent": 75,
           "roommate": 20,
           "offer": 30
         },
@@ -2008,7 +2010,7 @@
       },
       {
         "period": "2026-09",
-        "total": 2441,
+        "total": 2444,
         "by_niche": {
           "auto_bali": 53,
           "banya_bali": 10,
@@ -2016,16 +2018,16 @@
           "bikes_bali": 527,
           "games_bali": 152,
           "handyman_bali": 52,
-          "housing_bali": 1090,
+          "housing_bali": 1092,
           "massage_bali": 57,
           "photo_bali": 73,
-          "transfer_bali": 167,
+          "transfer_bali": 168,
           "video_bali": 16,
           "visa_bali": 61,
           "wedding_bali": 12
         },
         "housing": {
-          "rent": 572,
+          "rent": 574,
           "roommate": 168,
           "offer": 350
         },
@@ -2076,15 +2078,33 @@
         "count": 27
       }
     ],
-    "geo_unknown": 271,
+    "geo_unknown": 273,
     "budget_idr": {
-      "n": 341,
+      "n": 342,
       "p25": 10000000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-09-30T01:15",
+      "subtype": "rent",
+      "text": "Здравствуйте! Ищу риелтора по недвижимости для аренды квартиры 1+1. Буду рад вашим рекомендациям."
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-09-30T01:00",
+      "subtype": "rent",
+      "budget_m": 25,
+      "text": "Всем привет) Ищу жилье сейчас в районе 25 млн Подумала вдруг кто ищет тоже . Может объединимся и что то классное за 35- 50 снимем за эту сумму уже крутые…"
+    },
+    {
+      "niche": "transfer_bali",
+      "at": "2026-09-30T00:30",
+      "text": "Здравствуйте. Подскажите, как заказать заранее такси с аэропорта до отеля ? Может есть контакты"
+    },
     {
       "niche": "beauty_bali",
       "at": "2026-09-30T00:00",
@@ -2250,23 +2270,6 @@
       "niche": "bikes_bali",
       "at": "2026-09-29T17:30",
       "text": "Привет, подскажите пожалуйста где можно взять байк на дня 4-неделю?"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-09-29T17:30",
-      "text": "I need this [имя] today - tomorrow 1 month"
-    },
-    {
-      "niche": "transfer_bali",
-      "at": "2026-09-29T17:30",
-      "text": "В Ченду можно поехать либо в город, либо в парк панд (есть трансфер из аэропорта). Или заселиться в бесплатный отель. Но по мне так интереснее через Шанхай, тк…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-09-29T17:30",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "text": "Привет! Есть ли тренера по плаванью для малышей? Чтобы приезжали на виллу и плавали с ребенком ≈30 мин Если есть, поделитесь контактами/ рекомендациями,…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2389,8 +2392,8 @@
     "villa": 470,
     "house": 71,
     "room": 73,
-    "apartment": 49,
-    "unknown": 99
+    "apartment": 50,
+    "unknown": 100
   },
   "activity_30d": {
     "all": [
@@ -2447,8 +2450,8 @@
         17
       ],
       [
-        9,
-        11,
+        10,
+        13,
         10,
         5,
         4,
@@ -3553,7 +3556,7 @@
         ],
         [
           6,
-          8,
+          10,
           6,
           3,
           1,
@@ -4104,7 +4107,7 @@
           0
         ],
         [
-          0,
+          1,
           1,
           1,
           1,
