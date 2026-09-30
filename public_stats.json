@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-01T02:23:28.761478+08:00",
-  "all_time_total": 4261,
-  "last_30d_total": 2575,
+  "generated_at": "2026-10-01T03:23:36.689940+08:00",
+  "all_time_total": 4262,
+  "last_30d_total": 2576,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 559,
-      "all_time": 975
+      "last_30d": 560,
+      "all_time": 976
     },
     {
       "niche": "beauty_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 5
+      "total": 6
     }
   ],
   "system": {
-    "messages_scanned_total": 653260,
-    "messages_scanned_30d": 455032,
-    "noise_filtered_total": 296930,
-    "noise_filtered_30d": 239190,
-    "lead_sightings_total": 6798,
+    "messages_scanned_total": 654314,
+    "messages_scanned_30d": 456086,
+    "noise_filtered_total": 297581,
+    "noise_filtered_30d": 239841,
+    "lead_sightings_total": 6800,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1687,9 +1687,9 @@
       },
       {
         "period": "2026-10-01",
-        "total": 5,
+        "total": 6,
         "by_niche": {
-          "bikes_bali": 1,
+          "bikes_bali": 2,
           "handyman_bali": 1,
           "housing_bali": 3
         },
@@ -1951,12 +1951,12 @@
       },
       {
         "period": "2026-09-28",
-        "total": 368,
+        "total": 369,
         "by_niche": {
           "auto_bali": 1,
           "banya_bali": 1,
           "beauty_bali": 32,
-          "bikes_bali": 79,
+          "bikes_bali": 80,
           "games_bali": 16,
           "handyman_bali": 11,
           "housing_bali": 194,
@@ -2046,9 +2046,9 @@
       },
       {
         "period": "2026-10",
-        "total": 5,
+        "total": 6,
         "by_niche": {
-          "bikes_bali": 1,
+          "bikes_bali": 2,
           "handyman_bali": 1,
           "housing_bali": 3
         },
@@ -2113,6 +2113,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-01T02:30",
+      "text": "Вечер в хату братцы) Подскажите средний бюджет перелет проживание питание на пару недель в районе Нуса, без шика, самое необходимое + скутерок посмотреть…"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-10-01T01:30",
@@ -2290,11 +2295,6 @@
       "at": "2026-09-30T19:45",
       "subtype": "rent",
       "text": "Мы всё ещё ищем постоянный дом для Дейзи. ❤️ К сожалению, срок её временной передержки подходит к концу, и у нас осталось всего пять дней, чтобы найти любящий…"
-    },
-    {
-      "niche": "games_bali",
-      "at": "2026-09-30T19:45",
-      "text": "Девочки, ищу компанию на экскурсии (или просто на пляжи) 😊 Буду здесь до конца октября С радостью уже бы съездила куда-то в эту пятницу 🙌"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2503,7 +2503,7 @@
       [
         14,
         10,
-        6,
+        7,
         4,
         0,
         7,
@@ -3056,7 +3056,7 @@
         [
           2,
           2,
-          1,
+          2,
           1,
           0,
           1,
