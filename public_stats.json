@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-30T07:21:01.071291+08:00",
-  "all_time_total": 4137,
-  "last_30d_total": 2519,
+  "generated_at": "2026-09-30T08:21:08.686618+08:00",
+  "all_time_total": 4140,
+  "last_30d_total": 2522,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1123,
-      "all_time": 1675,
+      "last_30d": 1125,
+      "all_time": 1677,
       "subtypes": {
         "rent": {
           "last_30d": 590,
@@ -19,16 +19,16 @@
           "all_time": 253
         },
         "offer": {
-          "last_30d": 355,
-          "all_time": 511
+          "last_30d": 357,
+          "all_time": 513
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 540,
-      "all_time": 945
+      "last_30d": 541,
+      "all_time": 946
     },
     {
       "niche": "beauty_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-09",
-      "total": 2451
+      "total": 2454
     }
   ],
   "system": {
-    "messages_scanned_total": 626259,
-    "messages_scanned_30d": 433683,
-    "noise_filtered_total": 279670,
-    "noise_filtered_30d": 224007,
-    "lead_sightings_total": 6588,
+    "messages_scanned_total": 626740,
+    "messages_scanned_30d": 434164,
+    "noise_filtered_total": 279932,
+    "noise_filtered_30d": 224269,
+    "lead_sightings_total": 6592,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1677,18 +1677,18 @@
       },
       {
         "period": "2026-09-30",
-        "total": 11,
+        "total": 14,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 1,
-          "bikes_bali": 2,
-          "housing_bali": 6,
+          "bikes_bali": 3,
+          "housing_bali": 8,
           "transfer_bali": 1
         },
         "housing": {
           "rent": 6,
           "roommate": 0,
-          "offer": 0
+          "offer": 2
         }
       }
     ],
@@ -1943,15 +1943,15 @@
       },
       {
         "period": "2026-09-28",
-        "total": 244,
+        "total": 247,
         "by_niche": {
           "auto_bali": 1,
           "banya_bali": 1,
           "beauty_bali": 22,
-          "bikes_bali": 49,
+          "bikes_bali": 50,
           "games_bali": 8,
           "handyman_bali": 6,
-          "housing_bali": 129,
+          "housing_bali": 131,
           "massage_bali": 6,
           "photo_bali": 6,
           "transfer_bali": 8,
@@ -1961,7 +1961,7 @@
         "housing": {
           "rent": 79,
           "roommate": 20,
-          "offer": 30
+          "offer": 32
         },
         "partial": true
       }
@@ -2013,15 +2013,15 @@
       },
       {
         "period": "2026-09",
-        "total": 2451,
+        "total": 2454,
         "by_niche": {
           "auto_bali": 54,
           "banya_bali": 10,
           "beauty_bali": 171,
-          "bikes_bali": 529,
+          "bikes_bali": 530,
           "games_bali": 152,
           "handyman_bali": 52,
-          "housing_bali": 1096,
+          "housing_bali": 1098,
           "massage_bali": 57,
           "photo_bali": 73,
           "transfer_bali": 168,
@@ -2032,7 +2032,7 @@
         "housing": {
           "rent": 578,
           "roommate": 168,
-          "offer": 350
+          "offer": 352
         },
         "partial": true
       }
@@ -2090,6 +2090,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-09-30T08:00",
+      "budget_m": 1,
+      "text": "Looking to rent Xmax from Oct 1 — Oct 10 Model year 2024–2026 with ABS Mileage up to 5,000 kilometers No damage Black only Price: 1.5 mill for 9 days"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-09-30T06:45",
@@ -2264,12 +2270,6 @@
       "niche": "photo_bali",
       "at": "2026-09-29T19:45",
       "text": "Ищу удалённую работу в качестве личного/онлайн-ассистента. Могу помочь с: — организацией расписания и встреч — поиском информации и онлайн-исследованиями —…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-09-29T19:45",
-      "geo": "Чангу",
-      "text": "Looking for adv (preferable beige) for long term rent (montly) in Canggu"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2457,8 +2457,8 @@
         5,
         4,
         4,
-        2,
-        4,
+        3,
+        6,
         14,
         8,
         17,
@@ -3011,7 +3011,7 @@
           0,
           1,
           0,
-          2,
+          3,
           6,
           1,
           3,
@@ -3562,8 +3562,8 @@
           2,
           3,
           2,
-          0,
-          0,
+          1,
+          1,
           5,
           2,
           6,
