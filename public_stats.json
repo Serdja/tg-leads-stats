@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-01T03:23:36.689940+08:00",
-  "all_time_total": 4262,
-  "last_30d_total": 2576,
+  "generated_at": "2026-10-01T04:23:44.501222+08:00",
+  "all_time_total": 4263,
+  "last_30d_total": 2577,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1161,
-      "all_time": 1740,
+      "last_30d": 1162,
+      "all_time": 1741,
       "subtypes": {
         "rent": {
-          "last_30d": 607,
-          "all_time": 940
+          "last_30d": 608,
+          "all_time": 941
         },
         "roommate": {
           "last_30d": 181,
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 6
+      "total": 7
     }
   ],
   "system": {
-    "messages_scanned_total": 654314,
-    "messages_scanned_30d": 456086,
-    "noise_filtered_total": 297581,
-    "noise_filtered_30d": 239841,
-    "lead_sightings_total": 6800,
+    "messages_scanned_total": 655330,
+    "messages_scanned_30d": 457102,
+    "noise_filtered_total": 298228,
+    "noise_filtered_30d": 240488,
+    "lead_sightings_total": 6802,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1687,14 +1687,14 @@
       },
       {
         "period": "2026-10-01",
-        "total": 6,
+        "total": 7,
         "by_niche": {
           "bikes_bali": 2,
           "handyman_bali": 1,
-          "housing_bali": 3
+          "housing_bali": 4
         },
         "housing": {
-          "rent": 2,
+          "rent": 3,
           "roommate": 0,
           "offer": 1
         }
@@ -1951,7 +1951,7 @@
       },
       {
         "period": "2026-09-28",
-        "total": 369,
+        "total": 370,
         "by_niche": {
           "auto_bali": 1,
           "banya_bali": 1,
@@ -1959,7 +1959,7 @@
           "bikes_bali": 80,
           "games_bali": 16,
           "handyman_bali": 11,
-          "housing_bali": 194,
+          "housing_bali": 195,
           "massage_bali": 6,
           "photo_bali": 8,
           "transfer_bali": 10,
@@ -1967,7 +1967,7 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 108,
+          "rent": 109,
           "roommate": 33,
           "offer": 53
         },
@@ -2046,14 +2046,14 @@
       },
       {
         "period": "2026-10",
-        "total": 6,
+        "total": 7,
         "by_niche": {
           "bikes_bali": 2,
           "handyman_bali": 1,
-          "housing_bali": 3
+          "housing_bali": 4
         },
         "housing": {
-          "rent": 2,
+          "rent": 3,
           "roommate": 0,
           "offer": 1
         },
@@ -2104,15 +2104,22 @@
         "count": 27
       }
     ],
-    "geo_unknown": 280,
+    "geo_unknown": 281,
     "budget_idr": {
-      "n": 359,
+      "n": 360,
       "p25": 10000000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-01T03:45",
+      "subtype": "rent",
+      "budget_m": 17,
+      "text": "🏡 Ищу жильё на Бали на 1–2 месяца Всем привет! 👋 Ищу уютное современное жильё для одного человека с начала октября на 1–2 месяца. 💰 Бюджет — до 17 млн…"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-10-01T02:30",
@@ -2289,12 +2296,6 @@
       "niche": "bikes_bali",
       "at": "2026-09-30T19:45",
       "text": "Кто-нибудь ездил до Явы на скутере? Рассматриваю вариант с 2-4 ночевками"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-09-30T19:45",
-      "subtype": "rent",
-      "text": "Мы всё ещё ищем постоянный дом для Дейзи. ❤️ К сожалению, срок её временной передержки подходит к концу, и у нас осталось всего пять дней, чтобы найти любящий…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2414,7 +2415,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 478,
+    "villa": 479,
     "house": 75,
     "room": 75,
     "apartment": 55,
@@ -2504,7 +2505,7 @@
         14,
         10,
         7,
-        4,
+        5,
         0,
         7,
         3,
@@ -3609,7 +3610,7 @@
           8,
           7,
           1,
-          1,
+          2,
           0,
           3,
           3,
