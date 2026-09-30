@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-30T12:21:38.114600+08:00",
-  "all_time_total": 4171,
-  "last_30d_total": 2553,
+  "generated_at": "2026-09-30T13:21:45.885335+08:00",
+  "all_time_total": 4175,
+  "last_30d_total": 2557,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1142,
-      "all_time": 1694,
+      "last_30d": 1145,
+      "all_time": 1697,
       "subtypes": {
         "rent": {
           "last_30d": 595,
@@ -19,16 +19,16 @@
           "all_time": 256
         },
         "offer": {
-          "last_30d": 366,
-          "all_time": 522
+          "last_30d": 369,
+          "all_time": 525
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 552,
-      "all_time": 957
+      "last_30d": 553,
+      "all_time": 958
     },
     {
       "niche": "beauty_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-09",
-      "total": 2485
+      "total": 2489
     }
   ],
   "system": {
-    "messages_scanned_total": 629248,
-    "messages_scanned_30d": 436672,
-    "noise_filtered_total": 281262,
-    "noise_filtered_30d": 225599,
-    "lead_sightings_total": 6641,
+    "messages_scanned_total": 630243,
+    "messages_scanned_30d": 437667,
+    "noise_filtered_total": 281775,
+    "noise_filtered_30d": 226112,
+    "lead_sightings_total": 6649,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1677,20 +1677,20 @@
       },
       {
         "period": "2026-09-30",
-        "total": 45,
+        "total": 49,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 2,
-          "bikes_bali": 14,
+          "bikes_bali": 15,
           "games_bali": 1,
           "handyman_bali": 1,
-          "housing_bali": 25,
+          "housing_bali": 28,
           "transfer_bali": 1
         },
         "housing": {
           "rent": 11,
           "roommate": 3,
-          "offer": 11
+          "offer": 14
         }
       }
     ],
@@ -1945,15 +1945,15 @@
       },
       {
         "period": "2026-09-28",
-        "total": 278,
+        "total": 282,
         "by_niche": {
           "auto_bali": 1,
           "banya_bali": 1,
           "beauty_bali": 23,
-          "bikes_bali": 61,
+          "bikes_bali": 62,
           "games_bali": 9,
           "handyman_bali": 7,
-          "housing_bali": 148,
+          "housing_bali": 151,
           "massage_bali": 6,
           "photo_bali": 6,
           "transfer_bali": 8,
@@ -1963,7 +1963,7 @@
         "housing": {
           "rent": 84,
           "roommate": 23,
-          "offer": 41
+          "offer": 44
         },
         "partial": true
       }
@@ -2015,15 +2015,15 @@
       },
       {
         "period": "2026-09",
-        "total": 2485,
+        "total": 2489,
         "by_niche": {
           "auto_bali": 54,
           "banya_bali": 10,
           "beauty_bali": 172,
-          "bikes_bali": 541,
+          "bikes_bali": 542,
           "games_bali": 153,
           "handyman_bali": 53,
-          "housing_bali": 1115,
+          "housing_bali": 1118,
           "massage_bali": 57,
           "photo_bali": 73,
           "transfer_bali": 168,
@@ -2034,7 +2034,7 @@
         "housing": {
           "rent": 583,
           "roommate": 171,
-          "offer": 361
+          "offer": 364
         },
         "partial": true
       }
@@ -2092,6 +2092,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-09-30T12:45",
+      "text": "need adv roadstnc for 6 month"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-09-30T12:15",
@@ -2266,13 +2271,6 @@
       "at": "2026-09-30T01:15",
       "subtype": "rent",
       "text": "Здравствуйте! Ищу риелтора по недвижимости для аренды квартиры 1+1. Буду рад вашим рекомендациям."
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-09-30T01:00",
-      "subtype": "rent",
-      "budget_m": 25,
-      "text": "Всем привет) Ищу жилье сейчас в районе 25 млн Подумала вдруг кто ищет тоже . Может объединимся и что то классное за 35- 50 снимем за эту сумму уже крутые…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2465,7 +2463,7 @@
         18,
         11,
         28,
-        22,
+        26,
         16,
         23,
         16,
@@ -3018,7 +3016,7 @@
           8,
           2,
           6,
-          6,
+          7,
           5,
           1,
           5,
@@ -3570,7 +3568,7 @@
           7,
           4,
           14,
-          8,
+          11,
           6,
           19,
           2,
