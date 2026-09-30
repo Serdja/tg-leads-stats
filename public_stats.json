@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-30T09:21:16.362584+08:00",
-  "all_time_total": 4150,
-  "last_30d_total": 2532,
+  "generated_at": "2026-09-30T10:21:23.546501+08:00",
+  "all_time_total": 4152,
+  "last_30d_total": 2534,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1128,
-      "all_time": 1680,
+      "last_30d": 1129,
+      "all_time": 1681,
       "subtypes": {
         "rent": {
           "last_30d": 591,
@@ -19,16 +19,16 @@
           "all_time": 254
         },
         "offer": {
-          "last_30d": 358,
-          "all_time": 514
+          "last_30d": 359,
+          "all_time": 515
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 545,
-      "all_time": 950
+      "last_30d": 546,
+      "all_time": 951
     },
     {
       "niche": "beauty_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-09",
-      "total": 2464
+      "total": 2466
     }
   ],
   "system": {
-    "messages_scanned_total": 627292,
-    "messages_scanned_30d": 434716,
-    "noise_filtered_total": 280233,
-    "noise_filtered_30d": 224570,
-    "lead_sightings_total": 6605,
+    "messages_scanned_total": 627797,
+    "messages_scanned_30d": 435221,
+    "noise_filtered_total": 280514,
+    "noise_filtered_30d": 224851,
+    "lead_sightings_total": 6608,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1677,20 +1677,20 @@
       },
       {
         "period": "2026-09-30",
-        "total": 24,
+        "total": 26,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 2,
-          "bikes_bali": 7,
+          "bikes_bali": 8,
           "games_bali": 1,
           "handyman_bali": 1,
-          "housing_bali": 11,
+          "housing_bali": 12,
           "transfer_bali": 1
         },
         "housing": {
           "rent": 7,
           "roommate": 1,
-          "offer": 3
+          "offer": 4
         }
       }
     ],
@@ -1945,15 +1945,15 @@
       },
       {
         "period": "2026-09-28",
-        "total": 257,
+        "total": 259,
         "by_niche": {
           "auto_bali": 1,
           "banya_bali": 1,
           "beauty_bali": 23,
-          "bikes_bali": 54,
+          "bikes_bali": 55,
           "games_bali": 9,
           "handyman_bali": 7,
-          "housing_bali": 134,
+          "housing_bali": 135,
           "massage_bali": 6,
           "photo_bali": 6,
           "transfer_bali": 8,
@@ -1963,7 +1963,7 @@
         "housing": {
           "rent": 80,
           "roommate": 21,
-          "offer": 33
+          "offer": 34
         },
         "partial": true
       }
@@ -2015,15 +2015,15 @@
       },
       {
         "period": "2026-09",
-        "total": 2464,
+        "total": 2466,
         "by_niche": {
           "auto_bali": 54,
           "banya_bali": 10,
           "beauty_bali": 172,
-          "bikes_bali": 534,
+          "bikes_bali": 535,
           "games_bali": 153,
           "handyman_bali": 53,
-          "housing_bali": 1101,
+          "housing_bali": 1102,
           "massage_bali": 57,
           "photo_bali": 73,
           "transfer_bali": 168,
@@ -2034,7 +2034,7 @@
         "housing": {
           "rent": 579,
           "roommate": 169,
-          "offer": 353
+          "offer": 354
         },
         "partial": true
       }
@@ -2092,6 +2092,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-09-30T10:00",
+      "geo": "Чангу",
+      "text": "📍 [имя]: ADV I need a beautiful, bright feminine color! Neon, pearlescent! Fully covered in film 🔧 Good condition, not worn-out or damaged ⏳ Open to renting…"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-09-30T09:15",
@@ -2268,13 +2274,6 @@
       "at": "2026-09-29T22:30",
       "geo": "Букит",
       "text": "Привет! Подскажите пожалуйста хорошего мастера маникюр / педикюр на Буките"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-09-29T22:30",
-      "geo": "Букит",
-      "budget_m": 200,
-      "text": "Всем привет) Подскажите хороший проверенный барбершоп в районах Букита/Куты/Семиньяка или Чангу До 200к за мужскую стрижку"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2380,9 +2379,9 @@
     },
     {
       "geo": "Букит",
-      "n": 28,
+      "n": 29,
       "median": 21500000,
-      "p25": 15250000,
+      "p25": 17000000,
       "p75": 25000000
     },
     {
@@ -2464,8 +2463,8 @@
         4,
         3,
         13,
-        17,
-        8,
+        18,
+        9,
         17,
         16,
         16,
@@ -3018,7 +3017,7 @@
           0,
           5,
           8,
-          1,
+          2,
           3,
           3,
           5,
@@ -3569,7 +3568,7 @@
           2,
           1,
           3,
-          6,
+          7,
           2,
           6,
           5,
