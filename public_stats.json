@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-01T09:24:22.985598+08:00",
-  "all_time_total": 4277,
-  "last_30d_total": 2591,
+  "generated_at": "2026-10-01T10:01:46.624310+08:00",
+  "all_time_total": 4281,
+  "last_30d_total": 2595,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,14 +27,14 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 563,
-      "all_time": 979
+      "last_30d": 564,
+      "all_time": 980
     },
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 181,
-      "all_time": 260
+      "last_30d": 182,
+      "all_time": 261
     },
     {
       "niche": "transfer_bali",
@@ -63,8 +63,8 @@
     {
       "niche": "handyman_bali",
       "label": "🔧 Мастер на час",
-      "last_30d": 57,
-      "all_time": 196
+      "last_30d": 58,
+      "all_time": 197
     },
     {
       "niche": "massage_bali",
@@ -81,8 +81,8 @@
     {
       "niche": "video_bali",
       "label": "🎥 Видеограф",
-      "last_30d": 16,
-      "all_time": 29
+      "last_30d": 17,
+      "all_time": 30
     },
     {
       "niche": "wedding_bali",
@@ -120,18 +120,18 @@
     },
     {
       "month": "2026-10",
-      "total": 21
+      "total": 25
     }
   ],
   "system": {
-    "messages_scanned_total": 658208,
-    "messages_scanned_30d": 459980,
-    "noise_filtered_total": 299743,
-    "noise_filtered_30d": 242003,
-    "lead_sightings_total": 6827,
+    "messages_scanned_total": 658496,
+    "messages_scanned_30d": 460268,
+    "noise_filtered_total": 299863,
+    "noise_filtered_30d": 242123,
+    "lead_sightings_total": 6833,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
-    "chats_monitored": 253
+    "chats_monitored": 254
   },
   "series": {
     "daily": [
@@ -1687,11 +1687,13 @@
       },
       {
         "period": "2026-10-01",
-        "total": 21,
+        "total": 25,
         "by_niche": {
-          "bikes_bali": 5,
-          "handyman_bali": 1,
+          "beauty_bali": 1,
+          "bikes_bali": 6,
+          "handyman_bali": 2,
           "housing_bali": 14,
+          "video_bali": 1,
           "visa_bali": 1
         },
         "housing": {
@@ -1952,18 +1954,19 @@
       },
       {
         "period": "2026-09-28",
-        "total": 384,
+        "total": 388,
         "by_niche": {
           "auto_bali": 1,
           "banya_bali": 1,
-          "beauty_bali": 32,
-          "bikes_bali": 83,
+          "beauty_bali": 33,
+          "bikes_bali": 84,
           "games_bali": 16,
-          "handyman_bali": 11,
+          "handyman_bali": 12,
           "housing_bali": 205,
           "massage_bali": 6,
           "photo_bali": 8,
           "transfer_bali": 10,
+          "video_bali": 1,
           "visa_bali": 10,
           "wedding_bali": 1
         },
@@ -2047,11 +2050,13 @@
       },
       {
         "period": "2026-10",
-        "total": 21,
+        "total": 25,
         "by_niche": {
-          "bikes_bali": 5,
-          "handyman_bali": 1,
+          "beauty_bali": 1,
+          "bikes_bali": 6,
+          "handyman_bali": 2,
           "housing_bali": 14,
+          "video_bali": 1,
           "visa_bali": 1
         },
         "housing": {
@@ -2115,6 +2120,27 @@
     }
   },
   "ticker": [
+    {
+      "niche": "video_bali",
+      "at": "2026-10-01T09:45",
+      "budget_m": 6,
+      "text": "Бизнес / личный ассистент | Ищу клиента Беру на себя задачи, которые забирают ваше время и внимание. 2,5+ года опыта. -тайм-менеджмент -продвижение товаров и…"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-01T09:45",
+      "text": "Ищу русскоговорящего парикмахера в районе Куты. Буду благодарен за рекомендации 🙏"
+    },
+    {
+      "niche": "handyman_bali",
+      "at": "2026-10-01T09:45",
+      "text": "Регулярно. Но когда-то чаще, когда-то реже. Бывает так, что и в сезон дождей нет воды."
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-01T09:15",
+      "text": "Looking for bike nusa penida for 2 days"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-01T09:00",
@@ -2277,33 +2303,6 @@
       "at": "2026-09-30T22:00",
       "subtype": "rent",
       "text": "Всем привет! Посоветуйте пожалуйста где лучше искать жилье на Бали? На 1-2 месяца"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-09-30T21:30",
-      "subtype": "rent",
-      "geo": "Убуд",
-      "text": "Привет всем! Ищу жильё в Убуде на 1-2 месяца с 1 октября Бюджет до 5500 млн Байк тоже"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-09-30T21:30",
-      "subtype": "roommate",
-      "geo": "Табанан",
-      "text": "Посоветуйте пожалуйста гест/комнату С 13 по 20 или 27 октября Важно в комнате: - Стол для ноута - мини кухня - окно - до ~1500₽ / 16$ / 350k idr сутки Табанан,…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-09-30T21:30",
-      "subtype": "rent",
-      "geo": "Убуд",
-      "text": "Привет всем! Ищу жильё в Убуде на 1-2 месяца с 1 октября Бюджет до 5500 млн"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-09-30T21:15",
-      "subtype": "rent",
-      "text": "Добрый день. Посоветуйте, пожалуйста, риелтора, который занимается недвижимостью: ищу дом в аренду на длительный срок."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2526,7 +2525,7 @@
         3,
         7,
         8,
-        22,
+        26,
         13,
         21,
         29,
@@ -2895,7 +2894,7 @@
           0,
           0,
           0,
-          3,
+          4,
           5,
           3,
           3,
@@ -3079,7 +3078,7 @@
           0,
           1,
           3,
-          8,
+          9,
           3,
           3,
           6,
@@ -3447,7 +3446,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0,
           2,
