@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-01T20:46:57.430555+08:00",
-  "all_time_total": 4353,
-  "last_30d_total": 2667,
+  "generated_at": "2026-10-01T21:47:06.531448+08:00",
+  "all_time_total": 4355,
+  "last_30d_total": 2669,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1212,
-      "all_time": 1791,
+      "last_30d": 1214,
+      "all_time": 1793,
       "subtypes": {
         "rent": {
-          "last_30d": 631,
-          "all_time": 964
+          "last_30d": 633,
+          "all_time": 966
         },
         "roommate": {
           "last_30d": 193,
@@ -120,18 +120,18 @@
     },
     {
       "month": "2026-10",
-      "total": 97
+      "total": 99
     }
   ],
   "system": {
-    "messages_scanned_total": 677303,
-    "messages_scanned_30d": 479075,
-    "noise_filtered_total": 311216,
-    "noise_filtered_30d": 253476,
-    "lead_sightings_total": 6940,
+    "messages_scanned_total": 679369,
+    "messages_scanned_30d": 481141,
+    "noise_filtered_total": 312629,
+    "noise_filtered_30d": 254889,
+    "lead_sightings_total": 6942,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
-    "chats_monitored": 254
+    "chats_monitored": 253
   },
   "series": {
     "daily": [
@@ -1687,20 +1687,20 @@
       },
       {
         "period": "2026-10-01",
-        "total": 97,
+        "total": 99,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 3,
           "bikes_bali": 20,
           "games_bali": 8,
           "handyman_bali": 3,
-          "housing_bali": 54,
+          "housing_bali": 56,
           "transfer_bali": 4,
           "video_bali": 2,
           "visa_bali": 2
         },
         "housing": {
-          "rent": 26,
+          "rent": 28,
           "roommate": 12,
           "offer": 16
         }
@@ -1957,7 +1957,7 @@
       },
       {
         "period": "2026-09-28",
-        "total": 460,
+        "total": 462,
         "by_niche": {
           "auto_bali": 2,
           "banya_bali": 1,
@@ -1965,7 +1965,7 @@
           "bikes_bali": 98,
           "games_bali": 24,
           "handyman_bali": 13,
-          "housing_bali": 245,
+          "housing_bali": 247,
           "massage_bali": 6,
           "photo_bali": 8,
           "transfer_bali": 14,
@@ -1974,7 +1974,7 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 132,
+          "rent": 134,
           "roommate": 45,
           "offer": 68
         },
@@ -2053,20 +2053,20 @@
       },
       {
         "period": "2026-10",
-        "total": 97,
+        "total": 99,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 3,
           "bikes_bali": 20,
           "games_bali": 8,
           "handyman_bali": 3,
-          "housing_bali": 54,
+          "housing_bali": 56,
           "transfer_bali": 4,
           "video_bali": 2,
           "visa_bali": 2
         },
         "housing": {
-          "rent": 26,
+          "rent": 28,
           "roommate": 12,
           "offer": 16
         },
@@ -2086,7 +2086,7 @@
       },
       {
         "geo": "Убуд",
-        "count": 91
+        "count": 92
       },
       {
         "geo": "Букит",
@@ -2117,7 +2117,7 @@
         "count": 28
       }
     ],
-    "geo_unknown": 290,
+    "geo_unknown": 291,
     "budget_idr": {
       "n": 379,
       "p25": 10000000,
@@ -2126,6 +2126,13 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-01T20:45",
+      "subtype": "rent",
+      "geo": "Убуд",
+      "text": "Ищу дом в убуде 2 комнаты зал и бассейн 🌺🙏 благодарю"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-01T20:45",
@@ -2311,13 +2318,6 @@
       "geo": "Чангу",
       "budget_m": 9,
       "text": "Всем привет! 🏡 Ищу комнату на вилле в районе Чангу, Семеньяк и все что рядом 🗓️С 12 октября на полтора месяца (до декабря) 💰Бюджет 7-9 млн за месяц"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-01T12:30",
-      "subtype": "rent",
-      "geo": "Убуд",
-      "text": "Ищу виллу или гест в Убуде. О себе: воспитанный, очень чистоплотный и тактичный молодой человек. Важен стабильный интернет и бассейн."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2446,8 +2446,8 @@
   "housing_types_30d": {
     "villa": 501,
     "house": 78,
-    "room": 81,
-    "apartment": 55,
+    "room": 82,
+    "apartment": 56,
     "unknown": 109
   },
   "activity_30d": {
@@ -2551,7 +2551,7 @@
         28,
         22,
         28,
-        29,
+        31,
         16,
         9,
         8
@@ -3656,7 +3656,7 @@
           17,
           7,
           6,
-          11,
+          13,
           10,
           4,
           3
