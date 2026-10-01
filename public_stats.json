@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-02T05:48:12.735405+08:00",
-  "all_time_total": 4365,
-  "last_30d_total": 2606,
+  "generated_at": "2026-10-02T06:48:21.303092+08:00",
+  "all_time_total": 4366,
+  "last_30d_total": 2607,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1188,
-      "all_time": 1799,
+      "last_30d": 1189,
+      "all_time": 1800,
       "subtypes": {
         "rent": {
-          "last_30d": 627,
-          "all_time": 969
+          "last_30d": 628,
+          "all_time": 970
         },
         "roommate": {
           "last_30d": 187,
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 109
+      "total": 110
     }
   ],
   "system": {
-    "messages_scanned_total": 690868,
-    "messages_scanned_30d": 485317,
-    "noise_filtered_total": 320166,
-    "noise_filtered_30d": 259841,
-    "lead_sightings_total": 6960,
+    "messages_scanned_total": 691253,
+    "messages_scanned_30d": 485702,
+    "noise_filtered_total": 320320,
+    "noise_filtered_30d": 259995,
+    "lead_sightings_total": 6961,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1697,14 +1697,14 @@
       },
       {
         "period": "2026-10-02",
-        "total": 7,
+        "total": 8,
         "by_niche": {
           "games_bali": 1,
-          "housing_bali": 5,
+          "housing_bali": 6,
           "visa_bali": 1
         },
         "housing": {
-          "rent": 3,
+          "rent": 4,
           "roommate": 1,
           "offer": 1
         }
@@ -1961,7 +1961,7 @@
       },
       {
         "period": "2026-09-28",
-        "total": 472,
+        "total": 473,
         "by_niche": {
           "auto_bali": 2,
           "banya_bali": 1,
@@ -1969,7 +1969,7 @@
           "bikes_bali": 100,
           "games_bali": 25,
           "handyman_bali": 13,
-          "housing_bali": 253,
+          "housing_bali": 254,
           "massage_bali": 6,
           "photo_bali": 8,
           "transfer_bali": 14,
@@ -1978,7 +1978,7 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 137,
+          "rent": 138,
           "roommate": 46,
           "offer": 70
         },
@@ -2057,20 +2057,20 @@
       },
       {
         "period": "2026-10",
-        "total": 109,
+        "total": 110,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 3,
           "bikes_bali": 22,
           "games_bali": 9,
           "handyman_bali": 3,
-          "housing_bali": 62,
+          "housing_bali": 63,
           "transfer_bali": 4,
           "video_bali": 2,
           "visa_bali": 3
         },
         "housing": {
-          "rent": 31,
+          "rent": 32,
           "roommate": 13,
           "offer": 18
         },
@@ -2082,7 +2082,7 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 228
+        "count": 229
       },
       {
         "geo": "Улувату",
@@ -2102,7 +2102,7 @@
       },
       {
         "geo": "Переренан",
-        "count": 73
+        "count": 74
       },
       {
         "geo": "Семиньяк",
@@ -2113,12 +2113,12 @@
         "count": 29
       },
       {
-        "geo": "Санур",
+        "geo": "Берава",
         "count": 28
       },
       {
-        "geo": "Берава",
-        "count": 27
+        "geo": "Санур",
+        "count": 28
       }
     ],
     "geo_unknown": 284,
@@ -2130,6 +2130,13 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-02T06:00",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "text": "Привет! Ищу 2br виллу в Чангу/Берава/Переренан С 11 октября на 3 месяца и дольше"
+    },
     {
       "niche": "visa_bali",
       "at": "2026-10-02T05:30",
@@ -2316,11 +2323,6 @@
       "niche": "bikes_bali",
       "at": "2026-10-01T13:45",
       "text": "Hi 👋 I’m looking for Nmax . The only thing is, I need it to have a passenger backrest or a good rear luggage rack that doesn't wobble."
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-01T13:45",
-      "text": "Ищу байк pcx или nmax от 21 года - Напишите пожалуйста с предложением"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2447,7 +2449,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 494,
+    "villa": 495,
     "house": 77,
     "room": 80,
     "apartment": 54,
@@ -2566,7 +2568,7 @@
         5,
         4,
         3,
-        6,
+        7,
         7,
         8,
         13,
@@ -3671,7 +3673,7 @@
           3,
           2,
           0,
-          0,
+          1,
           5,
           4,
           2,
