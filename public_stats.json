@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-02T09:48:45.853207+08:00",
-  "all_time_total": 4372,
-  "last_30d_total": 2613,
+  "generated_at": "2026-10-02T10:48:53.957116+08:00",
+  "all_time_total": 4375,
+  "last_30d_total": 2616,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1190,
-      "all_time": 1801,
+      "last_30d": 1193,
+      "all_time": 1804,
       "subtypes": {
         "rent": {
-          "last_30d": 628,
-          "all_time": 970
+          "last_30d": 629,
+          "all_time": 971
         },
         "roommate": {
           "last_30d": 187,
           "all_time": 279
         },
         "offer": {
-          "last_30d": 375,
-          "all_time": 552
+          "last_30d": 377,
+          "all_time": 554
         }
       }
     },
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 116
+      "total": 119
     }
   ],
   "system": {
-    "messages_scanned_total": 692747,
-    "messages_scanned_30d": 487196,
-    "noise_filtered_total": 320971,
-    "noise_filtered_30d": 260646,
-    "lead_sightings_total": 6981,
+    "messages_scanned_total": 693283,
+    "messages_scanned_30d": 487732,
+    "noise_filtered_total": 321188,
+    "noise_filtered_30d": 260863,
+    "lead_sightings_total": 6984,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1697,19 +1697,19 @@
       },
       {
         "period": "2026-10-02",
-        "total": 14,
+        "total": 17,
         "by_niche": {
           "bikes_bali": 2,
           "games_bali": 1,
-          "housing_bali": 7,
+          "housing_bali": 10,
           "massage_bali": 1,
           "photo_bali": 1,
           "visa_bali": 2
         },
         "housing": {
-          "rent": 4,
+          "rent": 5,
           "roommate": 1,
-          "offer": 2
+          "offer": 4
         }
       }
     ],
@@ -1964,7 +1964,7 @@
       },
       {
         "period": "2026-09-28",
-        "total": 479,
+        "total": 482,
         "by_niche": {
           "auto_bali": 2,
           "banya_bali": 1,
@@ -1972,7 +1972,7 @@
           "bikes_bali": 102,
           "games_bali": 25,
           "handyman_bali": 13,
-          "housing_bali": 255,
+          "housing_bali": 258,
           "massage_bali": 7,
           "photo_bali": 9,
           "transfer_bali": 14,
@@ -1981,9 +1981,9 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 138,
+          "rent": 139,
           "roommate": 46,
-          "offer": 71
+          "offer": 73
         },
         "partial": true
       }
@@ -2060,14 +2060,14 @@
       },
       {
         "period": "2026-10",
-        "total": 116,
+        "total": 119,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 3,
           "bikes_bali": 24,
           "games_bali": 9,
           "handyman_bali": 3,
-          "housing_bali": 64,
+          "housing_bali": 67,
           "massage_bali": 1,
           "photo_bali": 1,
           "transfer_bali": 4,
@@ -2075,9 +2075,9 @@
           "visa_bali": 4
         },
         "housing": {
-          "rent": 32,
+          "rent": 33,
           "roommate": 13,
-          "offer": 19
+          "offer": 21
         },
         "partial": true
       }
@@ -2126,7 +2126,7 @@
         "count": 28
       }
     ],
-    "geo_unknown": 284,
+    "geo_unknown": 285,
     "budget_idr": {
       "n": 378,
       "p25": 9700000,
@@ -2135,6 +2135,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-02T10:15",
+      "subtype": "rent",
+      "text": "Всем привет! Кто знает классные отели/виллы на Бали? Желательно с выходом к океану"
+    },
     {
       "niche": "photo_bali",
       "at": "2026-10-02T09:30",
@@ -2320,11 +2326,6 @@
       "niche": "beauty_bali",
       "at": "2026-10-01T15:00",
       "text": "Девочки, привет, посоветуйте пожалуйста мастера по наращиванию волос 🌸"
-    },
-    {
-      "niche": "transfer_bali",
-      "at": "2026-10-01T14:15",
-      "text": "Или может у кого есть контакты по трансферу не дорогому?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2451,7 +2452,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 495,
+    "villa": 496,
     "house": 77,
     "room": 80,
     "apartment": 54,
@@ -2574,7 +2575,7 @@
         10,
         8,
         16,
-        14,
+        17,
         21,
         26,
         23,
@@ -3679,7 +3680,7 @@
           5,
           4,
           3,
-          3,
+          6,
           9,
           13,
           8,
