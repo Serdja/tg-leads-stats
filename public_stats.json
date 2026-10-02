@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-03T03:42:43.783843+08:00",
+  "generated_at": "2026-10-03T04:42:51.070830+08:00",
   "all_time_total": 4466,
   "last_30d_total": 2639,
   "by_niche": [
@@ -124,10 +124,10 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 724141,
-    "messages_scanned_30d": 509436,
-    "noise_filtered_total": 340579,
-    "noise_filtered_30d": 276595,
+    "messages_scanned_total": 725079,
+    "messages_scanned_30d": 510374,
+    "noise_filtered_total": 341202,
+    "noise_filtered_30d": 277218,
     "lead_sightings_total": 7125,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
