@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-03T19:45:03.873942+08:00",
-  "all_time_total": 4536,
-  "last_30d_total": 2709,
+  "generated_at": "2026-10-03T20:45:12.032270+08:00",
+  "all_time_total": 4538,
+  "last_30d_total": 2711,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1259,
-      "all_time": 1894,
+      "last_30d": 1260,
+      "all_time": 1895,
       "subtypes": {
         "rent": {
-          "last_30d": 662,
-          "all_time": 1017
+          "last_30d": 663,
+          "all_time": 1018
         },
         "roommate": {
           "last_30d": 202,
@@ -45,8 +45,8 @@
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 165,
-      "all_time": 235
+      "last_30d": 166,
+      "all_time": 236
     },
     {
       "niche": "photo_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 280
+      "total": 282
     }
   ],
   "system": {
-    "messages_scanned_total": 743919,
-    "messages_scanned_30d": 529214,
-    "noise_filtered_total": 351622,
-    "noise_filtered_30d": 287638,
-    "lead_sightings_total": 7269,
+    "messages_scanned_total": 746064,
+    "messages_scanned_30d": 531359,
+    "noise_filtered_total": 353034,
+    "noise_filtered_30d": 289050,
+    "lead_sightings_total": 7292,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1708,20 +1708,20 @@
       },
       {
         "period": "2026-10-03",
-        "total": 80,
+        "total": 82,
         "by_niche": {
           "auto_bali": 4,
           "beauty_bali": 4,
           "bikes_bali": 16,
-          "games_bali": 1,
+          "games_bali": 2,
           "handyman_bali": 3,
-          "housing_bali": 45,
+          "housing_bali": 46,
           "massage_bali": 1,
           "photo_bali": 1,
           "transfer_bali": 5
         },
         "housing": {
-          "rent": 20,
+          "rent": 21,
           "roommate": 9,
           "offer": 16
         }
@@ -1978,15 +1978,15 @@
       },
       {
         "period": "2026-09-28",
-        "total": 643,
+        "total": 645,
         "by_niche": {
           "auto_bali": 9,
           "banya_bali": 2,
           "beauty_bali": 43,
           "bikes_bali": 133,
-          "games_bali": 29,
+          "games_bali": 30,
           "handyman_bali": 16,
-          "housing_bali": 348,
+          "housing_bali": 349,
           "massage_bali": 9,
           "photo_bali": 10,
           "transfer_bali": 24,
@@ -1995,7 +1995,7 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 185,
+          "rent": 186,
           "roommate": 64,
           "offer": 99
         },
@@ -2074,15 +2074,15 @@
       },
       {
         "period": "2026-10",
-        "total": 280,
+        "total": 282,
         "by_niche": {
           "auto_bali": 8,
           "banya_bali": 1,
           "beauty_bali": 11,
           "bikes_bali": 55,
-          "games_bali": 13,
+          "games_bali": 14,
           "handyman_bali": 6,
-          "housing_bali": 157,
+          "housing_bali": 158,
           "massage_bali": 3,
           "photo_bali": 2,
           "transfer_bali": 14,
@@ -2090,7 +2090,7 @@
           "visa_bali": 8
         },
         "housing": {
-          "rent": 79,
+          "rent": 80,
           "roommate": 31,
           "offer": 47
         },
@@ -2102,7 +2102,7 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 246
+        "count": 247
       },
       {
         "geo": "Улувату",
@@ -2459,7 +2459,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 523,
+    "villa": 524,
     "house": 81,
     "room": 86,
     "apartment": 58,
@@ -2617,8 +2617,8 @@
         30,
         25,
         34,
-        29,
-        23,
+        30,
+        24,
         16,
         18,
         13
@@ -3355,7 +3355,7 @@
           0,
           3,
           3,
-          2,
+          3,
           1,
           1,
           1
@@ -3722,7 +3722,7 @@
           15,
           14,
           14,
-          17,
+          18,
           12,
           8,
           9,
