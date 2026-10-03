@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-03T22:45:28.153820+08:00",
-  "all_time_total": 4555,
-  "last_30d_total": 2728,
+  "generated_at": "2026-10-03T23:45:35.927322+08:00",
+  "all_time_total": 4561,
+  "last_30d_total": 2734,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1270,
-      "all_time": 1905,
+      "last_30d": 1276,
+      "all_time": 1911,
       "subtypes": {
         "rent": {
-          "last_30d": 668,
-          "all_time": 1023
+          "last_30d": 670,
+          "all_time": 1025
         },
         "roommate": {
           "last_30d": 205,
           "all_time": 300
         },
         "offer": {
-          "last_30d": 397,
-          "all_time": 582
+          "last_30d": 401,
+          "all_time": 586
         }
       }
     },
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 299
+      "total": 305
     }
   ],
   "system": {
-    "messages_scanned_total": 750433,
-    "messages_scanned_30d": 535728,
-    "noise_filtered_total": 355910,
-    "noise_filtered_30d": 291926,
-    "lead_sightings_total": 7333,
+    "messages_scanned_total": 752671,
+    "messages_scanned_30d": 537966,
+    "noise_filtered_total": 357309,
+    "noise_filtered_30d": 293325,
+    "lead_sightings_total": 7341,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1708,22 +1708,22 @@
       },
       {
         "period": "2026-10-03",
-        "total": 99,
+        "total": 105,
         "by_niche": {
           "auto_bali": 4,
           "beauty_bali": 4,
           "bikes_bali": 20,
           "games_bali": 4,
           "handyman_bali": 3,
-          "housing_bali": 56,
+          "housing_bali": 62,
           "massage_bali": 1,
           "photo_bali": 1,
           "transfer_bali": 6
         },
         "housing": {
-          "rent": 26,
+          "rent": 28,
           "roommate": 12,
-          "offer": 18
+          "offer": 22
         }
       }
     ],
@@ -1978,7 +1978,7 @@
       },
       {
         "period": "2026-09-28",
-        "total": 662,
+        "total": 668,
         "by_niche": {
           "auto_bali": 9,
           "banya_bali": 2,
@@ -1986,7 +1986,7 @@
           "bikes_bali": 137,
           "games_bali": 32,
           "handyman_bali": 16,
-          "housing_bali": 359,
+          "housing_bali": 365,
           "massage_bali": 9,
           "photo_bali": 10,
           "transfer_bali": 25,
@@ -1995,9 +1995,9 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 191,
+          "rent": 193,
           "roommate": 67,
-          "offer": 101
+          "offer": 105
         },
         "partial": true
       }
@@ -2074,7 +2074,7 @@
       },
       {
         "period": "2026-10",
-        "total": 299,
+        "total": 305,
         "by_niche": {
           "auto_bali": 8,
           "banya_bali": 1,
@@ -2082,7 +2082,7 @@
           "bikes_bali": 59,
           "games_bali": 16,
           "handyman_bali": 6,
-          "housing_bali": 168,
+          "housing_bali": 174,
           "massage_bali": 3,
           "photo_bali": 2,
           "transfer_bali": 15,
@@ -2090,9 +2090,9 @@
           "visa_bali": 8
         },
         "housing": {
-          "rent": 85,
+          "rent": 87,
           "roommate": 34,
-          "offer": 49
+          "offer": 53
         },
         "partial": true
       }
@@ -2141,7 +2141,7 @@
         "count": 29
       }
     ],
-    "geo_unknown": 307,
+    "geo_unknown": 309,
     "budget_idr": {
       "n": 406,
       "p25": 9000000,
@@ -2150,6 +2150,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-03T22:45",
+      "subtype": "rent",
+      "text": "Ищу дом в Greenlot. На 2 месяца"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-03T22:45",
@@ -2331,14 +2337,6 @@
       "at": "2026-10-03T16:45",
       "geo": "Улувату",
       "text": "Всем привет Нужно арендовать машину Улувату?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-03T16:30",
-      "subtype": "rent",
-      "geo": "Керобокан",
-      "budget_m": 5,
-      "text": "Всем привет! 🙌 Ищу жилье в Керобокане /Семиньяке Может есть у кого проверенный классный гест или апартаменты? 5 млн +/-, на долгосрок нужно"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2465,8 +2463,8 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 529,
-    "house": 81,
+    "villa": 530,
+    "house": 82,
     "room": 87,
     "apartment": 58,
     "unknown": 118
@@ -2626,8 +2624,8 @@
         30,
         24,
         29,
-        22,
-        13
+        23,
+        18
       ],
       [
         12,
@@ -3731,8 +3729,8 @@
           18,
           12,
           15,
-          12,
-          5
+          13,
+          10
         ],
         [
           6,
