@@ -1,34 +1,34 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-03T10:43:55.708641+08:00",
-  "all_time_total": 4474,
-  "last_30d_total": 2647,
+  "generated_at": "2026-10-03T11:44:03.274557+08:00",
+  "all_time_total": 4479,
+  "last_30d_total": 2652,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1223,
-      "all_time": 1858,
+      "last_30d": 1225,
+      "all_time": 1860,
       "subtypes": {
         "rent": {
           "last_30d": 646,
           "all_time": 1001
         },
         "roommate": {
-          "last_30d": 194,
-          "all_time": 289
+          "last_30d": 195,
+          "all_time": 290
         },
         "offer": {
-          "last_30d": 383,
-          "all_time": 568
+          "last_30d": 384,
+          "all_time": 569
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 574,
-      "all_time": 1016
+      "last_30d": 577,
+      "all_time": 1019
     },
     {
       "niche": "beauty_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 218
+      "total": 223
     }
   ],
   "system": {
-    "messages_scanned_total": 727957,
-    "messages_scanned_30d": 513252,
-    "noise_filtered_total": 342552,
-    "noise_filtered_30d": 278568,
-    "lead_sightings_total": 7136,
+    "messages_scanned_total": 728515,
+    "messages_scanned_30d": 513810,
+    "noise_filtered_total": 342765,
+    "noise_filtered_30d": 278781,
+    "lead_sightings_total": 7144,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1708,20 +1708,20 @@
       },
       {
         "period": "2026-10-03",
-        "total": 18,
+        "total": 23,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 1,
-          "bikes_bali": 3,
+          "bikes_bali": 6,
           "games_bali": 1,
           "handyman_bali": 1,
-          "housing_bali": 9,
+          "housing_bali": 11,
           "transfer_bali": 2
         },
         "housing": {
           "rent": 4,
-          "roommate": 1,
-          "offer": 4
+          "roommate": 2,
+          "offer": 5
         }
       }
     ],
@@ -1976,15 +1976,15 @@
       },
       {
         "period": "2026-09-28",
-        "total": 581,
+        "total": 586,
         "by_niche": {
           "auto_bali": 6,
           "banya_bali": 2,
           "beauty_bali": 40,
-          "bikes_bali": 120,
+          "bikes_bali": 123,
           "games_bali": 29,
           "handyman_bali": 14,
-          "housing_bali": 312,
+          "housing_bali": 314,
           "massage_bali": 8,
           "photo_bali": 9,
           "transfer_bali": 21,
@@ -1994,8 +1994,8 @@
         },
         "housing": {
           "rent": 169,
-          "roommate": 56,
-          "offer": 87
+          "roommate": 57,
+          "offer": 88
         },
         "partial": true
       }
@@ -2072,15 +2072,15 @@
       },
       {
         "period": "2026-10",
-        "total": 218,
+        "total": 223,
         "by_niche": {
           "auto_bali": 5,
           "banya_bali": 1,
           "beauty_bali": 8,
-          "bikes_bali": 42,
+          "bikes_bali": 45,
           "games_bali": 13,
           "handyman_bali": 4,
-          "housing_bali": 121,
+          "housing_bali": 123,
           "massage_bali": 2,
           "photo_bali": 1,
           "transfer_bali": 11,
@@ -2089,8 +2089,8 @@
         },
         "housing": {
           "rent": 63,
-          "roommate": 23,
-          "offer": 35
+          "roommate": 24,
+          "offer": 36
         },
         "partial": true
       }
@@ -2141,13 +2141,30 @@
     ],
     "geo_unknown": 294,
     "budget_idr": {
-      "n": 394,
+      "n": 395,
       "p25": 9000000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-03T11:15",
+      "geo": "Чангу",
+      "text": "I'm looking for a monthly rental NMAX or ADV with a trunk. Around Canggu, Kuta, Seminyak. from tonight."
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-03T11:15",
+      "text": "Need n max - adv for with trunk 1 month rent from today"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-03T11:15",
+      "geo": "Чангу",
+      "text": "I’m looking for a monthly rental of an N‐Max or an ADV from 2025–2026 with a trunk! I have driving experience and a driver’s license! The area is Canggu Kuta…"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-10-03T10:30",
@@ -2310,25 +2327,6 @@
       "niche": "transfer_bali",
       "at": "2026-10-02T20:30",
       "text": "Подскажите как обстоят дела с такси на Нуса Пенида? Grab там работает?"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-02T20:15",
-      "budget_m": 2,
-      "text": "Need a manual transmission bike for under 2 million xrs"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-02T20:00",
-      "geo": "Сесех",
-      "text": "hello everyone I am looking for NEW Scoopy , Filano from in Seseh for one month"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-02T20:00",
-      "subtype": "rent",
-      "geo": "Улувату",
-      "text": "Uluwatu, ищу жилье с 7 октября [имя] (Дримленд)"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2455,7 +2453,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 511,
+    "villa": 512,
     "house": 78,
     "room": 83,
     "apartment": 53,
@@ -2604,8 +2602,8 @@
         6,
         1,
         13,
-        19,
-        8,
+        20,
+        12,
         8,
         34,
         28,
@@ -3158,7 +3156,7 @@
           1,
           5,
           7,
-          2,
+          5,
           2,
           7,
           4,
@@ -3709,8 +3707,8 @@
           5,
           0,
           3,
-          5,
-          2,
+          6,
+          3,
           4,
           20,
           14,
