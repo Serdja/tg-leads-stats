@@ -1,34 +1,34 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-03T15:44:33.289941+08:00",
-  "all_time_total": 4502,
-  "last_30d_total": 2675,
+  "generated_at": "2026-10-03T16:44:40.634271+08:00",
+  "all_time_total": 4507,
+  "last_30d_total": 2680,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1238,
-      "all_time": 1873,
+      "last_30d": 1241,
+      "all_time": 1876,
       "subtypes": {
         "rent": {
-          "last_30d": 649,
-          "all_time": 1004
+          "last_30d": 651,
+          "all_time": 1006
         },
         "roommate": {
           "last_30d": 198,
           "all_time": 293
         },
         "offer": {
-          "last_30d": 391,
-          "all_time": 576
+          "last_30d": 392,
+          "all_time": 577
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 582,
-      "all_time": 1024
+      "last_30d": 584,
+      "all_time": 1026
     },
     {
       "niche": "beauty_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 246
+      "total": 251
     }
   ],
   "system": {
-    "messages_scanned_total": 734630,
-    "messages_scanned_30d": 519925,
-    "noise_filtered_total": 345870,
-    "noise_filtered_30d": 281886,
-    "lead_sightings_total": 7182,
+    "messages_scanned_total": 736797,
+    "messages_scanned_30d": 522092,
+    "noise_filtered_total": 347223,
+    "noise_filtered_30d": 283239,
+    "lead_sightings_total": 7192,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1708,20 +1708,20 @@
       },
       {
         "period": "2026-10-03",
-        "total": 46,
+        "total": 51,
         "by_niche": {
           "auto_bali": 2,
           "beauty_bali": 3,
-          "bikes_bali": 11,
+          "bikes_bali": 13,
           "games_bali": 1,
           "handyman_bali": 2,
-          "housing_bali": 24,
+          "housing_bali": 27,
           "transfer_bali": 3
         },
         "housing": {
-          "rent": 7,
+          "rent": 9,
           "roommate": 5,
-          "offer": 12
+          "offer": 13
         }
       }
     ],
@@ -1976,15 +1976,15 @@
       },
       {
         "period": "2026-09-28",
-        "total": 609,
+        "total": 614,
         "by_niche": {
           "auto_bali": 7,
           "banya_bali": 2,
           "beauty_bali": 42,
-          "bikes_bali": 128,
+          "bikes_bali": 130,
           "games_bali": 29,
           "handyman_bali": 15,
-          "housing_bali": 327,
+          "housing_bali": 330,
           "massage_bali": 8,
           "photo_bali": 9,
           "transfer_bali": 22,
@@ -1993,9 +1993,9 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 172,
+          "rent": 174,
           "roommate": 60,
-          "offer": 95
+          "offer": 96
         },
         "partial": true
       }
@@ -2072,15 +2072,15 @@
       },
       {
         "period": "2026-10",
-        "total": 246,
+        "total": 251,
         "by_niche": {
           "auto_bali": 6,
           "banya_bali": 1,
           "beauty_bali": 10,
-          "bikes_bali": 50,
+          "bikes_bali": 52,
           "games_bali": 13,
           "handyman_bali": 5,
-          "housing_bali": 136,
+          "housing_bali": 139,
           "massage_bali": 2,
           "photo_bali": 1,
           "transfer_bali": 12,
@@ -2088,9 +2088,9 @@
           "visa_bali": 8
         },
         "housing": {
-          "rent": 66,
+          "rent": 68,
           "roommate": 27,
-          "offer": 43
+          "offer": 44
         },
         "partial": true
       }
@@ -2124,7 +2124,7 @@
       },
       {
         "geo": "Семиньяк",
-        "count": 42
+        "count": 43
       },
       {
         "geo": "Нуса Дуа",
@@ -2139,15 +2139,34 @@
         "count": 28
       }
     ],
-    "geo_unknown": 296,
+    "geo_unknown": 297,
     "budget_idr": {
-      "n": 398,
+      "n": 400,
       "p25": 9000000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-03T16:30",
+      "subtype": "rent",
+      "geo": "Керобокан",
+      "budget_m": 5,
+      "text": "Всем привет! 🙌 Ищу жилье в Керобокане /Семиньяке Может есть у кого проверенный классный гест или апартаменты? 5 млн +/-, на долгосрок нужно"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-03T15:45",
+      "text": "Люди добрые подскажите, пожалуйста, в каком районе бали. Меньше всего проблем с гаи, при вождении, байка без прав. Насколько ситуация отличается от Вьетнама?"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-03T15:45",
+      "geo": "Семиньяк",
+      "text": "Hello! Need nmax for 1 month ( seminyak)"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-10-03T15:00",
@@ -2310,24 +2329,6 @@
       "at": "2026-10-03T00:15",
       "subtype": "rent",
       "text": "Всем привет, порекомендуйте пожалуйста где можно снять виллы посуточно с возможностью продления, желательно частники и компании, а не AirBnb и подобные"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-10-03T00:00",
-      "text": "Очень нужен хороший косметолог, уколоть губы 👄 Посоветуйте хорошего🙏"
-    },
-    {
-      "niche": "visa_bali",
-      "at": "2026-10-02T22:15",
-      "text": "Не очень поняла, в чем отличие продления продления e-voa и voa? В статье прописано, что можно через визового агента, но можно и самостоятельно. Если у меня…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-02T22:15",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "budget_m": 6,
-      "text": "Ищу жилье с 4 октября по 4 ноября ,с возможностью продления Одна девушка ,Чангу до 350$"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2382,17 +2383,17 @@
     },
     {
       "geo": "Семиньяк",
-      "n": 36,
+      "n": 37,
       "median": 16000000,
-      "p25": 11750000,
+      "p25": 11000000,
       "p75": 25000000
     },
     {
       "geo": "Керобокан",
-      "n": 30,
+      "n": 31,
       "median": 12000000,
       "p25": 10000000,
-      "p75": 27250000
+      "p75": 26500000
     },
     {
       "geo": "Умалас",
@@ -2455,9 +2456,9 @@
   ],
   "housing_types_30d": {
     "villa": 517,
-    "house": 79,
+    "house": 80,
     "room": 83,
-    "apartment": 53,
+    "apartment": 54,
     "unknown": 115
   },
   "activity_30d": {
@@ -2608,8 +2609,8 @@
         15,
         40,
         36,
-        33,
-        24,
+        35,
+        27,
         16,
         24,
         22,
@@ -3161,7 +3162,7 @@
           6,
           7,
           4,
-          7,
+          9,
           4,
           4,
           5,
@@ -3714,7 +3715,7 @@
           24,
           20,
           15,
-          11,
+          14,
           7,
           7,
           14,
