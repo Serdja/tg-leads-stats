@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-03T12:44:10.758408+08:00",
-  "all_time_total": 4484,
-  "last_30d_total": 2657,
+  "generated_at": "2026-10-03T13:44:18.304362+08:00",
+  "all_time_total": 4489,
+  "last_30d_total": 2662,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1226,
-      "all_time": 1861,
+      "last_30d": 1229,
+      "all_time": 1864,
       "subtypes": {
         "rent": {
           "last_30d": 646,
@@ -19,22 +19,22 @@
           "all_time": 291
         },
         "offer": {
-          "last_30d": 384,
-          "all_time": 569
+          "last_30d": 387,
+          "all_time": 572
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 580,
-      "all_time": 1022
+      "last_30d": 581,
+      "all_time": 1023
     },
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 175,
-      "all_time": 268
+      "last_30d": 176,
+      "all_time": 269
     },
     {
       "niche": "transfer_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 228
+      "total": 233
     }
   ],
   "system": {
-    "messages_scanned_total": 729494,
-    "messages_scanned_30d": 514789,
-    "noise_filtered_total": 343080,
-    "noise_filtered_30d": 279096,
-    "lead_sightings_total": 7150,
+    "messages_scanned_total": 730947,
+    "messages_scanned_30d": 516242,
+    "noise_filtered_total": 343713,
+    "noise_filtered_30d": 279729,
+    "lead_sightings_total": 7158,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1708,20 +1708,20 @@
       },
       {
         "period": "2026-10-03",
-        "total": 28,
+        "total": 33,
         "by_niche": {
           "auto_bali": 2,
-          "beauty_bali": 1,
-          "bikes_bali": 9,
+          "beauty_bali": 2,
+          "bikes_bali": 10,
           "games_bali": 1,
           "handyman_bali": 1,
-          "housing_bali": 12,
+          "housing_bali": 15,
           "transfer_bali": 2
         },
         "housing": {
           "rent": 4,
           "roommate": 3,
-          "offer": 5
+          "offer": 8
         }
       }
     ],
@@ -1976,15 +1976,15 @@
       },
       {
         "period": "2026-09-28",
-        "total": 591,
+        "total": 596,
         "by_niche": {
           "auto_bali": 7,
           "banya_bali": 2,
-          "beauty_bali": 40,
-          "bikes_bali": 126,
+          "beauty_bali": 41,
+          "bikes_bali": 127,
           "games_bali": 29,
           "handyman_bali": 14,
-          "housing_bali": 315,
+          "housing_bali": 318,
           "massage_bali": 8,
           "photo_bali": 9,
           "transfer_bali": 21,
@@ -1995,7 +1995,7 @@
         "housing": {
           "rent": 169,
           "roommate": 58,
-          "offer": 88
+          "offer": 91
         },
         "partial": true
       }
@@ -2072,15 +2072,15 @@
       },
       {
         "period": "2026-10",
-        "total": 228,
+        "total": 233,
         "by_niche": {
           "auto_bali": 6,
           "banya_bali": 1,
-          "beauty_bali": 8,
-          "bikes_bali": 48,
+          "beauty_bali": 9,
+          "bikes_bali": 49,
           "games_bali": 13,
           "handyman_bali": 4,
-          "housing_bali": 124,
+          "housing_bali": 127,
           "massage_bali": 2,
           "photo_bali": 1,
           "transfer_bali": 11,
@@ -2090,7 +2090,7 @@
         "housing": {
           "rent": 63,
           "roommate": 25,
-          "offer": 36
+          "offer": 39
         },
         "partial": true
       }
@@ -2148,6 +2148,17 @@
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-03T13:30",
+      "text": "Девочки всем привет , ищу мастера по наращиванию волос , у меня капсулы быстро слетают , поэтому нужен профи 🙏😊"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-03T12:45",
+      "geo": "Унгасан",
+      "text": "hello everyone 🎀 I am looking for Filano from in Ungasan for long term!"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-03T12:30",
@@ -2312,21 +2323,6 @@
       "niche": "bikes_bali",
       "at": "2026-10-02T21:00",
       "text": "Need xmax [имя] (now)"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-02T21:00",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "budget_m": 42,
-      "text": "Ищу виллу Чангу, Семиньяк ✨ Даты: 27 окт - 7 декабря 2 спальни [имя]: до 42 млн"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-02T20:45",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "text": "Ищу виллу на 2 спальни с 27 окт - 7 декабря Чангу"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2604,8 +2600,8 @@
         13,
         20,
         12,
-        13,
-        34,
+        15,
+        37,
         28,
         31,
         24,
@@ -2974,7 +2970,7 @@
           1,
           0,
           0,
-          3,
+          4,
           0,
           5,
           2,
@@ -3157,7 +3153,7 @@
           5,
           7,
           5,
-          5,
+          6,
           7,
           4,
           6,
@@ -3709,8 +3705,8 @@
           3,
           6,
           3,
-          5,
-          20,
+          6,
+          22,
           14,
           14,
           11,
