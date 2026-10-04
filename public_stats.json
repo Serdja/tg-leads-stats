@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-04T07:46:38.088608+08:00",
-  "all_time_total": 4575,
-  "last_30d_total": 2681,
+  "generated_at": "2026-10-04T08:46:45.791178+08:00",
+  "all_time_total": 4576,
+  "last_30d_total": 2682,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -75,8 +75,8 @@
     {
       "niche": "massage_bali",
       "label": "💆 Массаж",
-      "last_30d": 55,
-      "all_time": 137
+      "last_30d": 56,
+      "all_time": 138
     },
     {
       "niche": "video_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 319
+      "total": 320
     }
   ],
   "system": {
-    "messages_scanned_total": 761209,
-    "messages_scanned_30d": 536798,
-    "noise_filtered_total": 362605,
-    "noise_filtered_30d": 295098,
-    "lead_sightings_total": 7365,
+    "messages_scanned_total": 761583,
+    "messages_scanned_30d": 537172,
+    "noise_filtered_total": 362790,
+    "noise_filtered_30d": 295283,
+    "lead_sightings_total": 7366,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1718,9 +1718,10 @@
       },
       {
         "period": "2026-10-04",
-        "total": 12,
+        "total": 13,
         "by_niche": {
-          "housing_bali": 12
+          "housing_bali": 12,
+          "massage_bali": 1
         },
         "housing": {
           "rent": 8,
@@ -1980,7 +1981,7 @@
       },
       {
         "period": "2026-09-28",
-        "total": 682,
+        "total": 683,
         "by_niche": {
           "auto_bali": 9,
           "banya_bali": 2,
@@ -1989,7 +1990,7 @@
           "games_bali": 32,
           "handyman_bali": 16,
           "housing_bali": 379,
-          "massage_bali": 9,
+          "massage_bali": 10,
           "photo_bali": 10,
           "transfer_bali": 25,
           "video_bali": 2,
@@ -2076,7 +2077,7 @@
       },
       {
         "period": "2026-10",
-        "total": 319,
+        "total": 320,
         "by_niche": {
           "auto_bali": 8,
           "banya_bali": 1,
@@ -2085,7 +2086,7 @@
           "games_bali": 16,
           "handyman_bali": 6,
           "housing_bali": 188,
-          "massage_bali": 3,
+          "massage_bali": 4,
           "photo_bali": 2,
           "transfer_bali": 15,
           "video_bali": 2,
@@ -2152,6 +2153,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "massage_bali",
+      "at": "2026-10-04T08:15",
+      "text": "Вопрос к знатокам. Лечу на Бали на 2 недели. Беру с собой мультивалютную дебитную карту Wize и наличку. Карту в поездке пополнять не получится, нужен нужен…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-04T06:00",
@@ -2345,11 +2351,6 @@
       "niche": "bikes_bali",
       "at": "2026-10-03T19:15",
       "text": "Hi, I need nmax for two weeks"
-    },
-    {
-      "niche": "massage_bali",
-      "at": "2026-10-03T19:15",
-      "text": "Добрый вечер, посоветуйте хороший массаж в Семеньяке."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2649,7 +2650,7 @@
         6,
         8,
         8,
-        5,
+        6,
         12,
         12,
         5,
@@ -3938,7 +3939,7 @@
           0,
           0,
           0,
-          1,
+          2,
           0,
           0,
           0,
