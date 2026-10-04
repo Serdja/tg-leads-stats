@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-04T08:46:45.791178+08:00",
-  "all_time_total": 4576,
-  "last_30d_total": 2682,
+  "generated_at": "2026-10-04T09:46:53.359870+08:00",
+  "all_time_total": 4577,
+  "last_30d_total": 2683,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 574,
-      "all_time": 1033
+      "last_30d": 575,
+      "all_time": 1034
     },
     {
       "niche": "beauty_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 320
+      "total": 321
     }
   ],
   "system": {
-    "messages_scanned_total": 761583,
-    "messages_scanned_30d": 537172,
-    "noise_filtered_total": 362790,
-    "noise_filtered_30d": 295283,
-    "lead_sightings_total": 7366,
+    "messages_scanned_total": 761985,
+    "messages_scanned_30d": 537574,
+    "noise_filtered_total": 362964,
+    "noise_filtered_30d": 295457,
+    "lead_sightings_total": 7368,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1718,8 +1718,9 @@
       },
       {
         "period": "2026-10-04",
-        "total": 13,
+        "total": 14,
         "by_niche": {
+          "bikes_bali": 1,
           "housing_bali": 12,
           "massage_bali": 1
         },
@@ -1981,12 +1982,12 @@
       },
       {
         "period": "2026-09-28",
-        "total": 683,
+        "total": 684,
         "by_niche": {
           "auto_bali": 9,
           "banya_bali": 2,
           "beauty_bali": 43,
-          "bikes_bali": 137,
+          "bikes_bali": 138,
           "games_bali": 32,
           "handyman_bali": 16,
           "housing_bali": 379,
@@ -2077,12 +2078,12 @@
       },
       {
         "period": "2026-10",
-        "total": 320,
+        "total": 321,
         "by_niche": {
           "auto_bali": 8,
           "banya_bali": 1,
           "beauty_bali": 11,
-          "bikes_bali": 59,
+          "bikes_bali": 60,
           "games_bali": 16,
           "handyman_bali": 6,
           "housing_bali": 188,
@@ -2153,6 +2154,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-04T09:15",
+      "text": "Looking for a Nmax in nusa lembongan for today in mushroom harbour around 12 today for 1 day"
+    },
     {
       "niche": "massage_bali",
       "at": "2026-10-04T08:15",
@@ -2346,11 +2352,6 @@
       "geo": "Улувату",
       "budget_m": 5,
       "text": "LOOKING FOR CAR RENT Budget: 5mill/month max Start: 3 October (tomorrow) Term: 3months + But payment every month Specs: automatic transmission Big car (not…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-03T19:15",
-      "text": "Hi, I need nmax for two weeks"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2651,7 +2652,7 @@
         8,
         8,
         6,
-        12,
+        13,
         12,
         5,
         13,
@@ -3204,7 +3205,7 @@
           0,
           1,
           0,
-          2,
+          3,
           4,
           2,
           0,
