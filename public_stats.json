@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-05T03:49:19.828206+08:00",
-  "all_time_total": 4653,
-  "last_30d_total": 2681,
+  "generated_at": "2026-10-05T04:49:28.150347+08:00",
+  "all_time_total": 4654,
+  "last_30d_total": 2682,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -63,8 +63,8 @@
     {
       "niche": "auto_bali",
       "label": "🚙 Аренда авто",
-      "last_30d": 56,
-      "all_time": 88
+      "last_30d": 57,
+      "all_time": 89
     },
     {
       "niche": "handyman_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 397
+      "total": 398
     }
   ],
   "system": {
-    "messages_scanned_total": 786956,
-    "messages_scanned_30d": 552885,
-    "noise_filtered_total": 376945,
-    "noise_filtered_30d": 306382,
-    "lead_sightings_total": 7542,
+    "messages_scanned_total": 787987,
+    "messages_scanned_30d": 553916,
+    "noise_filtered_total": 377619,
+    "noise_filtered_30d": 307056,
+    "lead_sightings_total": 7544,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1728,8 +1728,9 @@
       },
       {
         "period": "2026-10-05",
-        "total": 7,
+        "total": 8,
         "by_niche": {
+          "auto_bali": 1,
           "bikes_bali": 2,
           "housing_bali": 4,
           "transfer_bali": 1
@@ -2017,8 +2018,9 @@
       },
       {
         "period": "2026-10-05",
-        "total": 7,
+        "total": 8,
         "by_niche": {
+          "auto_bali": 1,
           "bikes_bali": 2,
           "housing_bali": 4,
           "transfer_bali": 1
@@ -2103,9 +2105,9 @@
       },
       {
         "period": "2026-10",
-        "total": 397,
+        "total": 398,
         "by_niche": {
-          "auto_bali": 10,
+          "auto_bali": 11,
           "banya_bali": 1,
           "beauty_bali": 14,
           "bikes_bali": 76,
@@ -2507,7 +2509,7 @@
         8,
         8,
         6,
-        2,
+        3,
         1,
         3,
         2,
@@ -2692,7 +2694,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0,
           0,
