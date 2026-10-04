@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-04T21:48:31.169797+08:00",
-  "all_time_total": 4641,
-  "last_30d_total": 2747,
+  "generated_at": "2026-10-04T22:48:39.303091+08:00",
+  "all_time_total": 4643,
+  "last_30d_total": 2749,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -39,14 +39,14 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 173,
-      "all_time": 306
+      "last_30d": 174,
+      "all_time": 307
     },
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 172,
-      "all_time": 244
+      "last_30d": 173,
+      "all_time": 245
     },
     {
       "niche": "photo_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 385
+      "total": 387
     }
   ],
   "system": {
-    "messages_scanned_total": 778388,
-    "messages_scanned_30d": 553977,
-    "noise_filtered_total": 372212,
-    "noise_filtered_30d": 304705,
-    "lead_sightings_total": 7513,
+    "messages_scanned_total": 779917,
+    "messages_scanned_30d": 555506,
+    "noise_filtered_total": 373092,
+    "noise_filtered_30d": 305585,
+    "lead_sightings_total": 7515,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1718,16 +1718,16 @@
       },
       {
         "period": "2026-10-04",
-        "total": 78,
+        "total": 80,
         "by_niche": {
           "auto_bali": 2,
           "beauty_bali": 3,
           "bikes_bali": 14,
-          "games_bali": 6,
+          "games_bali": 7,
           "handyman_bali": 1,
           "housing_bali": 46,
           "massage_bali": 2,
-          "transfer_bali": 2,
+          "transfer_bali": 3,
           "visa_bali": 2
         },
         "housing": {
@@ -1988,18 +1988,18 @@
       },
       {
         "period": "2026-09-28",
-        "total": 748,
+        "total": 750,
         "by_niche": {
           "auto_bali": 11,
           "banya_bali": 2,
           "beauty_bali": 46,
           "bikes_bali": 151,
-          "games_bali": 38,
+          "games_bali": 39,
           "handyman_bali": 17,
           "housing_bali": 413,
           "massage_bali": 11,
           "photo_bali": 10,
-          "transfer_bali": 27,
+          "transfer_bali": 28,
           "video_bali": 2,
           "visa_bali": 19,
           "wedding_bali": 1
@@ -2084,18 +2084,18 @@
       },
       {
         "period": "2026-10",
-        "total": 385,
+        "total": 387,
         "by_niche": {
           "auto_bali": 10,
           "banya_bali": 1,
           "beauty_bali": 14,
           "bikes_bali": 73,
-          "games_bali": 22,
+          "games_bali": 23,
           "handyman_bali": 7,
           "housing_bali": 222,
           "massage_bali": 5,
           "photo_bali": 2,
-          "transfer_bali": 17,
+          "transfer_bali": 18,
           "video_bali": 2,
           "visa_bali": 10
         },
@@ -2661,8 +2661,8 @@
         28,
         16,
         25,
-        17,
-        19,
+        18,
+        20,
         8
       ]
     ],
@@ -3399,7 +3399,7 @@
           0,
           2,
           0,
-          3,
+          4,
           0
         ]
       ],
@@ -4318,7 +4318,7 @@
           0,
           2,
           2,
-          1,
+          2,
           1,
           0
         ]
