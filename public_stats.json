@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-04T09:46:53.359870+08:00",
-  "all_time_total": 4577,
-  "last_30d_total": 2683,
+  "generated_at": "2026-10-04T10:47:00.936195+08:00",
+  "all_time_total": 4581,
+  "last_30d_total": 2687,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,14 +27,14 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 575,
-      "all_time": 1034
+      "last_30d": 577,
+      "all_time": 1036
     },
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 176,
-      "all_time": 271
+      "last_30d": 177,
+      "all_time": 272
     },
     {
       "niche": "transfer_bali",
@@ -63,8 +63,8 @@
     {
       "niche": "auto_bali",
       "label": "🚙 Аренда авто",
-      "last_30d": 56,
-      "all_time": 86
+      "last_30d": 57,
+      "all_time": 87
     },
     {
       "niche": "handyman_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 321
+      "total": 325
     }
   ],
   "system": {
-    "messages_scanned_total": 761985,
-    "messages_scanned_30d": 537574,
-    "noise_filtered_total": 362964,
-    "noise_filtered_30d": 295457,
-    "lead_sightings_total": 7368,
+    "messages_scanned_total": 762439,
+    "messages_scanned_30d": 538028,
+    "noise_filtered_total": 363169,
+    "noise_filtered_30d": 295662,
+    "lead_sightings_total": 7376,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1718,9 +1718,11 @@
       },
       {
         "period": "2026-10-04",
-        "total": 14,
+        "total": 18,
         "by_niche": {
-          "bikes_bali": 1,
+          "auto_bali": 1,
+          "beauty_bali": 1,
+          "bikes_bali": 3,
           "housing_bali": 12,
           "massage_bali": 1
         },
@@ -1982,12 +1984,12 @@
       },
       {
         "period": "2026-09-28",
-        "total": 684,
+        "total": 688,
         "by_niche": {
-          "auto_bali": 9,
+          "auto_bali": 10,
           "banya_bali": 2,
-          "beauty_bali": 43,
-          "bikes_bali": 138,
+          "beauty_bali": 44,
+          "bikes_bali": 140,
           "games_bali": 32,
           "handyman_bali": 16,
           "housing_bali": 379,
@@ -2078,12 +2080,12 @@
       },
       {
         "period": "2026-10",
-        "total": 321,
+        "total": 325,
         "by_niche": {
-          "auto_bali": 8,
+          "auto_bali": 9,
           "banya_bali": 1,
-          "beauty_bali": 11,
-          "bikes_bali": 60,
+          "beauty_bali": 12,
+          "bikes_bali": 62,
           "games_bali": 16,
           "handyman_bali": 6,
           "housing_bali": 188,
@@ -2154,6 +2156,21 @@
     }
   },
   "ticker": [
+    {
+      "niche": "auto_bali",
+      "at": "2026-10-04T10:15",
+      "text": "Hi I need [имя] good condition for 5 days. Budget is 1.2M"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-04T09:45",
+      "text": "Приветик) посоветуйте, пожалуйста, место, где можно сделать маникюр с покрытием как в России"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-04T09:45",
+      "text": "Я понимаю ценообразование, нам просто нужен байк)"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-10-04T09:15",
@@ -2333,25 +2350,6 @@
       "at": "2026-10-03T21:00",
       "geo": "Улувату",
       "text": "Всем привет! Ищу компанию куда-нибудь поехать из улувату, я без байка, поддержу любые мероприятия 😇"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-03T19:30",
-      "subtype": "rent",
-      "text": "Нужен муж на час, помочь по квартире Вкусно накормлю и дам 5000"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-03T19:30",
-      "subtype": "rent",
-      "text": "Здравствуйте, подскажите пожалуйста кто нибудь сталкивался с проблемой на airbnb , при попытке оплатить виллу просит ввести номер и смс не доходит , у кого то…"
-    },
-    {
-      "niche": "auto_bali",
-      "at": "2026-10-03T19:30",
-      "geo": "Улувату",
-      "budget_m": 5,
-      "text": "LOOKING FOR CAR RENT Budget: 5mill/month max Start: 3 October (tomorrow) Term: 3months + But payment every month Specs: automatic transmission Big car (not…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2652,8 +2650,8 @@
         8,
         8,
         6,
-        13,
-        12,
+        15,
+        14,
         5,
         13,
         24,
@@ -2838,7 +2836,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0,
           0,
@@ -3021,7 +3019,7 @@
           0,
           0,
           0,
-          1,
+          2,
           1,
           0,
           3,
@@ -3205,8 +3203,8 @@
           0,
           1,
           0,
-          3,
           4,
+          5,
           2,
           0,
           9,
