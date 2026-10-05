@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-05T07:49:52.002898+08:00",
-  "all_time_total": 4658,
-  "last_30d_total": 2686,
+  "generated_at": "2026-10-05T08:50:00.497540+08:00",
+  "all_time_total": 4660,
+  "last_30d_total": 2688,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1281,
-      "all_time": 1968,
+      "last_30d": 1282,
+      "all_time": 1969,
       "subtypes": {
         "rent": {
           "last_30d": 667,
@@ -19,8 +19,8 @@
           "all_time": 320
         },
         "offer": {
-          "last_30d": 397,
-          "all_time": 598
+          "last_30d": 398,
+          "all_time": 599
         }
       }
     },
@@ -63,8 +63,8 @@
     {
       "niche": "auto_bali",
       "label": "🚙 Аренда авто",
-      "last_30d": 57,
-      "all_time": 89
+      "last_30d": 58,
+      "all_time": 90
     },
     {
       "niche": "handyman_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 402
+      "total": 404
     }
   ],
   "system": {
-    "messages_scanned_total": 789390,
-    "messages_scanned_30d": 555319,
-    "noise_filtered_total": 378424,
-    "noise_filtered_30d": 307861,
-    "lead_sightings_total": 7550,
+    "messages_scanned_total": 789792,
+    "messages_scanned_30d": 555721,
+    "noise_filtered_total": 378616,
+    "noise_filtered_30d": 308053,
+    "lead_sightings_total": 7554,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1728,17 +1728,17 @@
       },
       {
         "period": "2026-10-05",
-        "total": 12,
+        "total": 14,
         "by_niche": {
-          "auto_bali": 1,
+          "auto_bali": 2,
           "bikes_bali": 2,
-          "housing_bali": 8,
+          "housing_bali": 9,
           "transfer_bali": 1
         },
         "housing": {
           "rent": 4,
           "roommate": 2,
-          "offer": 2
+          "offer": 3
         }
       }
     ],
@@ -2018,17 +2018,17 @@
       },
       {
         "period": "2026-10-05",
-        "total": 12,
+        "total": 14,
         "by_niche": {
-          "auto_bali": 1,
+          "auto_bali": 2,
           "bikes_bali": 2,
-          "housing_bali": 8,
+          "housing_bali": 9,
           "transfer_bali": 1
         },
         "housing": {
           "rent": 4,
           "roommate": 2,
-          "offer": 2
+          "offer": 3
         },
         "partial": true
       }
@@ -2105,15 +2105,15 @@
       },
       {
         "period": "2026-10",
-        "total": 402,
+        "total": 404,
         "by_niche": {
-          "auto_bali": 11,
+          "auto_bali": 12,
           "banya_bali": 1,
           "beauty_bali": 14,
           "bikes_bali": 76,
           "games_bali": 24,
           "handyman_bali": 7,
-          "housing_bali": 231,
+          "housing_bali": 232,
           "massage_bali": 5,
           "photo_bali": 2,
           "transfer_bali": 19,
@@ -2123,7 +2123,7 @@
         "housing": {
           "rent": 112,
           "roommate": 54,
-          "offer": 65
+          "offer": 66
         },
         "partial": true
       }
@@ -2483,10 +2483,10 @@
     },
     {
       "geo": "Букит",
-      "n": 34,
-      "median": 21750000,
-      "p25": 14750000,
-      "p75": 25000000
+      "n": 35,
+      "median": 22000000,
+      "p25": 15500000,
+      "p75": 25500000
     },
     {
       "geo": "Берава",
@@ -2514,7 +2514,7 @@
         2,
         3,
         4,
-        12,
+        14,
         14,
         17,
         27,
@@ -2699,7 +2699,7 @@
           0,
           0,
           0,
-          1,
+          2,
           1,
           0,
           0,
@@ -3619,7 +3619,7 @@
           1,
           0,
           4,
-          7,
+          8,
           2,
           4,
           12,
