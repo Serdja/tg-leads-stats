@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-05T22:51:56.093319+08:00",
-  "all_time_total": 4756,
-  "last_30d_total": 2784,
+  "generated_at": "2026-10-05T23:52:05.509690+08:00",
+  "all_time_total": 4762,
+  "last_30d_total": 2790,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1333,
-      "all_time": 2020,
+      "last_30d": 1336,
+      "all_time": 2023,
       "subtypes": {
         "rent": {
-          "last_30d": 693,
-          "all_time": 1076
+          "last_30d": 694,
+          "all_time": 1077
         },
         "roommate": {
-          "last_30d": 220,
-          "all_time": 323
+          "last_30d": 221,
+          "all_time": 324
         },
         "offer": {
-          "last_30d": 420,
-          "all_time": 621
+          "last_30d": 421,
+          "all_time": 622
         }
       }
     },
@@ -33,8 +33,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 179,
-      "all_time": 279
+      "last_30d": 180,
+      "all_time": 280
     },
     {
       "niche": "transfer_bali",
@@ -51,14 +51,14 @@
     {
       "niche": "photo_bali",
       "label": "📸 Фотограф",
-      "last_30d": 65,
-      "all_time": 150
+      "last_30d": 66,
+      "all_time": 151
     },
     {
       "niche": "visa_bali",
       "label": "📄 Визы",
-      "last_30d": 64,
-      "all_time": 153
+      "last_30d": 65,
+      "all_time": 154
     },
     {
       "niche": "auto_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 500
+      "total": 506
     }
   ],
   "system": {
-    "messages_scanned_total": 812214,
-    "messages_scanned_30d": 578143,
-    "noise_filtered_total": 391799,
-    "noise_filtered_30d": 321236,
-    "lead_sightings_total": 7714,
+    "messages_scanned_total": 814064,
+    "messages_scanned_30d": 579993,
+    "noise_filtered_total": 392905,
+    "noise_filtered_30d": 322342,
+    "lead_sightings_total": 7724,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1728,22 +1728,23 @@
       },
       {
         "period": "2026-10-05",
-        "total": 110,
+        "total": 116,
         "by_niche": {
           "auto_bali": 2,
-          "beauty_bali": 5,
+          "beauty_bali": 6,
           "bikes_bali": 27,
           "games_bali": 6,
           "handyman_bali": 2,
-          "housing_bali": 60,
+          "housing_bali": 63,
           "massage_bali": 1,
-          "photo_bali": 3,
-          "transfer_bali": 4
+          "photo_bali": 4,
+          "transfer_bali": 4,
+          "visa_bali": 1
         },
         "housing": {
-          "rent": 30,
-          "roommate": 5,
-          "offer": 25
+          "rent": 31,
+          "roommate": 6,
+          "offer": 26
         }
       }
     ],
@@ -2023,22 +2024,23 @@
       },
       {
         "period": "2026-10-05",
-        "total": 110,
+        "total": 116,
         "by_niche": {
           "auto_bali": 2,
-          "beauty_bali": 5,
+          "beauty_bali": 6,
           "bikes_bali": 27,
           "games_bali": 6,
           "handyman_bali": 2,
-          "housing_bali": 60,
+          "housing_bali": 63,
           "massage_bali": 1,
-          "photo_bali": 3,
-          "transfer_bali": 4
+          "photo_bali": 4,
+          "transfer_bali": 4,
+          "visa_bali": 1
         },
         "housing": {
-          "rent": 30,
-          "roommate": 5,
-          "offer": 25
+          "rent": 31,
+          "roommate": 6,
+          "offer": 26
         },
         "partial": true
       }
@@ -2115,25 +2117,25 @@
       },
       {
         "period": "2026-10",
-        "total": 500,
+        "total": 506,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 1,
-          "beauty_bali": 19,
+          "beauty_bali": 20,
           "bikes_bali": 101,
           "games_bali": 30,
           "handyman_bali": 9,
-          "housing_bali": 283,
+          "housing_bali": 286,
           "massage_bali": 6,
-          "photo_bali": 5,
+          "photo_bali": 6,
           "transfer_bali": 22,
           "video_bali": 2,
-          "visa_bali": 10
+          "visa_bali": 11
         },
         "housing": {
-          "rent": 138,
-          "roommate": 57,
-          "offer": 88
+          "rent": 139,
+          "roommate": 58,
+          "offer": 89
         },
         "partial": true
       }
@@ -2143,11 +2145,11 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 261
+        "count": 262
       },
       {
         "geo": "Улувату",
-        "count": 109
+        "count": 110
       },
       {
         "geo": "Убуд",
@@ -2155,7 +2157,7 @@
       },
       {
         "geo": "Букит",
-        "count": 86
+        "count": 87
       },
       {
         "geo": "Сесех",
@@ -2184,13 +2186,31 @@
     ],
     "geo_unknown": 317,
     "budget_idr": {
-      "n": 431,
+      "n": 432,
       "p25": 9000000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-05T23:30",
+      "text": "Посоветуйте, пожалуйста, где можно сделать кератин"
+    },
+    {
+      "niche": "visa_bali",
+      "at": "2026-10-05T23:30",
+      "text": "Добрый день, подскажите, а как можно жить дольше 2-х месяцев на Бали? Визаран? Или есть другие пути?"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-05T23:30",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "budget_m": 8,
+      "text": "Ищу гест на неделю Район Чангу с 12-18 число Бюджет до 7-8 млн"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-05T22:30",
@@ -2362,29 +2382,12 @@
       "niche": "bikes_bali",
       "at": "2026-10-05T15:30",
       "text": "Всем привет, подскажите пожалуйста, кто байк виниловой пленкой обтягивал, как вам опыт эксплуатации? Есть желание обтянуть , для приятного внешнего вида и…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-05T15:15",
-      "text": "Привет все Ищу в аренду scoopy filano желтого цвета"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-05T15:15",
-      "text": "Hi everyone I need scoopy filano color yellow"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-05T15:15",
-      "geo": "Чангу",
-      "budget_m": 2,
-      "text": "Hi everyone, i need nmax today in canggu, less then 5000km monthly, budget 1.8mln🙏"
     }
   ],
   "housing_budget_by_geo_90d": [
     {
       "geo": "Чангу",
-      "n": 242,
+      "n": 243,
       "median": 16000000,
       "p25": 10000000,
       "p75": 25000000
@@ -2512,11 +2515,11 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 554,
+    "villa": 555,
     "house": 81,
     "room": 96,
     "apartment": 58,
-    "unknown": 124
+    "unknown": 125
   },
   "activity_30d": {
     "all": [
@@ -2544,7 +2547,7 @@
         26,
         23,
         19,
-        9
+        15
       ],
       [
         12,
@@ -2913,7 +2916,7 @@
           0,
           1,
           1,
-          2
+          3
         ],
         [
           2,
@@ -3649,7 +3652,7 @@
           14,
           15,
           11,
-          4
+          7
         ],
         [
           5,
@@ -4017,7 +4020,7 @@
           1,
           1,
           0,
-          0
+          1
         ],
         [
           0,
@@ -4385,7 +4388,7 @@
           0,
           0,
           1,
-          0
+          1
         ],
         [
           1,
