@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-06T05:52:52.952347+08:00",
-  "all_time_total": 4780,
-  "last_30d_total": 2734,
+  "generated_at": "2026-10-06T06:53:01.296245+08:00",
+  "all_time_total": 4782,
+  "last_30d_total": 2736,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1318,
-      "all_time": 2033,
+      "last_30d": 1320,
+      "all_time": 2035,
       "subtypes": {
         "rent": {
-          "last_30d": 691,
-          "all_time": 1083
+          "last_30d": 693,
+          "all_time": 1085
         },
         "roommate": {
           "last_30d": 223,
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 524
+      "total": 526
     }
   ],
   "system": {
-    "messages_scanned_total": 821449,
-    "messages_scanned_30d": 577074,
-    "noise_filtered_total": 397028,
-    "noise_filtered_30d": 323283,
-    "lead_sightings_total": 7748,
+    "messages_scanned_total": 821739,
+    "messages_scanned_30d": 577364,
+    "noise_filtered_total": 397156,
+    "noise_filtered_30d": 323411,
+    "lead_sightings_total": 7752,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1739,17 +1739,17 @@
       },
       {
         "period": "2026-10-06",
-        "total": 18,
+        "total": 20,
         "by_niche": {
           "bikes_bali": 3,
-          "housing_bali": 10,
+          "housing_bali": 12,
           "photo_bali": 1,
           "transfer_bali": 2,
           "video_bali": 1,
           "visa_bali": 1
         },
         "housing": {
-          "rent": 6,
+          "rent": 8,
           "roommate": 3,
           "offer": 1
         }
@@ -2031,14 +2031,14 @@
       },
       {
         "period": "2026-10-05",
-        "total": 134,
+        "total": 136,
         "by_niche": {
           "auto_bali": 2,
           "beauty_bali": 6,
           "bikes_bali": 30,
           "games_bali": 6,
           "handyman_bali": 2,
-          "housing_bali": 73,
+          "housing_bali": 75,
           "massage_bali": 1,
           "photo_bali": 5,
           "transfer_bali": 6,
@@ -2046,7 +2046,7 @@
           "visa_bali": 2
         },
         "housing": {
-          "rent": 37,
+          "rent": 39,
           "roommate": 9,
           "offer": 27
         },
@@ -2125,7 +2125,7 @@
       },
       {
         "period": "2026-10",
-        "total": 524,
+        "total": 526,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 1,
@@ -2133,7 +2133,7 @@
           "bikes_bali": 104,
           "games_bali": 30,
           "handyman_bali": 9,
-          "housing_bali": 296,
+          "housing_bali": 298,
           "massage_bali": 6,
           "photo_bali": 7,
           "transfer_bali": 24,
@@ -2141,7 +2141,7 @@
           "visa_bali": 12
         },
         "housing": {
-          "rent": 145,
+          "rent": 147,
           "roommate": 61,
           "offer": 90
         },
@@ -2192,7 +2192,7 @@
         "count": 30
       }
     ],
-    "geo_unknown": 312,
+    "geo_unknown": 313,
     "budget_idr": {
       "n": 435,
       "p25": 9000000,
@@ -2201,6 +2201,19 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-06T06:15",
+      "subtype": "rent",
+      "geo": "Джимбаран",
+      "text": "Всем привет! Ищу виллу в Джимбаран с 17 октября по 28 октября. Основные требования: — минимум 3 спальни; — бассейн; — кухня; — современный ремонт."
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-06T06:00",
+      "subtype": "rent",
+      "text": "Ребят! Ищу строителя, который шарит за гидроизоляцию крыш и стен, знает что такое Cika cement итд. Помогите, надо подготовить дом к сезону дождей. Есть у кого…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-06T04:30",
@@ -2384,16 +2397,6 @@
       "geo": "Улувату",
       "budget_m": 20,
       "text": "Добрый день! Ищу апартаменты или виллу/комнату на вилле для одного, в районе бингин Улувату С 15 октября Бюджет около 20 млн"
-    },
-    {
-      "niche": "transfer_bali",
-      "at": "2026-10-05T19:15",
-      "text": "Здравствуйте, подскажите пожалуйста, как получить международные водительские права кат Б, если я нахожусь например в Тае или на Бали ? Российские права…"
-    },
-    {
-      "niche": "massage_bali",
-      "at": "2026-10-05T19:00",
-      "text": "Hello, I am looking for experienced massage therapists who are interested in working in Turkey. I have a spa, massage and beauty salon in Turkey. We are…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2527,8 +2530,8 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 553,
-    "house": 79,
+    "villa": 554,
+    "house": 80,
     "room": 97,
     "apartment": 56,
     "unknown": 129
@@ -2568,7 +2571,7 @@
         5,
         8,
         3,
-        2,
+        4,
         4,
         7,
         11,
@@ -3673,7 +3676,7 @@
           2,
           5,
           2,
-          0,
+          2,
           2,
           4,
           3,
