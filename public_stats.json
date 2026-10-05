@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-06T06:53:01.296245+08:00",
-  "all_time_total": 4782,
-  "last_30d_total": 2736,
+  "generated_at": "2026-10-06T07:53:09.891859+08:00",
+  "all_time_total": 4783,
+  "last_30d_total": 2737,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1320,
-      "all_time": 2035,
+      "last_30d": 1321,
+      "all_time": 2036,
       "subtypes": {
         "rent": {
-          "last_30d": 693,
-          "all_time": 1085
+          "last_30d": 694,
+          "all_time": 1086
         },
         "roommate": {
           "last_30d": 223,
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 526
+      "total": 527
     }
   ],
   "system": {
-    "messages_scanned_total": 821739,
-    "messages_scanned_30d": 577364,
-    "noise_filtered_total": 397156,
-    "noise_filtered_30d": 323411,
-    "lead_sightings_total": 7752,
+    "messages_scanned_total": 822070,
+    "messages_scanned_30d": 577695,
+    "noise_filtered_total": 397319,
+    "noise_filtered_30d": 323574,
+    "lead_sightings_total": 7755,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1739,17 +1739,17 @@
       },
       {
         "period": "2026-10-06",
-        "total": 20,
+        "total": 21,
         "by_niche": {
           "bikes_bali": 3,
-          "housing_bali": 12,
+          "housing_bali": 13,
           "photo_bali": 1,
           "transfer_bali": 2,
           "video_bali": 1,
           "visa_bali": 1
         },
         "housing": {
-          "rent": 8,
+          "rent": 9,
           "roommate": 3,
           "offer": 1
         }
@@ -2031,14 +2031,14 @@
       },
       {
         "period": "2026-10-05",
-        "total": 136,
+        "total": 137,
         "by_niche": {
           "auto_bali": 2,
           "beauty_bali": 6,
           "bikes_bali": 30,
           "games_bali": 6,
           "handyman_bali": 2,
-          "housing_bali": 75,
+          "housing_bali": 76,
           "massage_bali": 1,
           "photo_bali": 5,
           "transfer_bali": 6,
@@ -2046,7 +2046,7 @@
           "visa_bali": 2
         },
         "housing": {
-          "rent": 39,
+          "rent": 40,
           "roommate": 9,
           "offer": 27
         },
@@ -2125,7 +2125,7 @@
       },
       {
         "period": "2026-10",
-        "total": 526,
+        "total": 527,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 1,
@@ -2133,7 +2133,7 @@
           "bikes_bali": 104,
           "games_bali": 30,
           "handyman_bali": 9,
-          "housing_bali": 298,
+          "housing_bali": 299,
           "massage_bali": 6,
           "photo_bali": 7,
           "transfer_bali": 24,
@@ -2141,7 +2141,7 @@
           "visa_bali": 12
         },
         "housing": {
-          "rent": 147,
+          "rent": 148,
           "roommate": 61,
           "offer": 90
         },
@@ -2153,7 +2153,7 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 264
+        "count": 265
       },
       {
         "geo": "Улувату",
@@ -2194,13 +2194,21 @@
     ],
     "geo_unknown": 313,
     "budget_idr": {
-      "n": 435,
+      "n": 436,
       "p25": 9000000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-06T07:45",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "budget_m": 13,
+      "text": "Ищу виллу 4 бр с 19 ого по 1 ое район чангу или что то рядом Бюджет $ Предоплаты не делаю Я на Бали приеду и на месте оплачу !"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-06T06:15",
@@ -2389,21 +2397,13 @@
       "geo": "Ловина",
       "budget_m": 5,
       "text": "Ищем дом на севере Бали для долгосрочной аренды. Сейчас мы живём в отеле Dupa в Ловине, поэтому Ловина или ближайшие районы были бы идеальны. Но мы также…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-05T19:30",
-      "subtype": "rent",
-      "geo": "Улувату",
-      "budget_m": 20,
-      "text": "Добрый день! Ищу апартаменты или виллу/комнату на вилле для одного, в районе бингин Улувату С 15 октября Бюджет около 20 млн"
     }
   ],
   "housing_budget_by_geo_90d": [
     {
       "geo": "Чангу",
-      "n": 245,
-      "median": 16000000,
+      "n": 246,
+      "median": 15500000,
       "p25": 10000000,
       "p75": 25000000
     },
@@ -2530,7 +2530,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 554,
+    "villa": 555,
     "house": 80,
     "room": 97,
     "apartment": 56,
@@ -2572,7 +2572,7 @@
         8,
         3,
         4,
-        4,
+        5,
         7,
         11,
         16,
@@ -3677,7 +3677,7 @@
           5,
           2,
           2,
-          2,
+          3,
           4,
           3,
           9,
