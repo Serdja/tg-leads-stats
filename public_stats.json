@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-07T04:08:08.343133+08:00",
-  "all_time_total": 4909,
-  "last_30d_total": 2803,
+  "generated_at": "2026-10-07T05:08:16.297559+08:00",
+  "all_time_total": 4911,
+  "last_30d_total": 2805,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1360,
-      "all_time": 2094,
+      "last_30d": 1362,
+      "all_time": 2096,
       "subtypes": {
         "rent": {
-          "last_30d": 715,
-          "all_time": 1118
+          "last_30d": 717,
+          "all_time": 1120
         },
         "roommate": {
           "last_30d": 233,
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 653
+      "total": 655
     }
   ],
   "system": {
-    "messages_scanned_total": 850101,
-    "messages_scanned_30d": 597444,
-    "noise_filtered_total": 414968,
-    "noise_filtered_30d": 338202,
-    "lead_sightings_total": 7979,
+    "messages_scanned_total": 851291,
+    "messages_scanned_30d": 598634,
+    "noise_filtered_total": 415703,
+    "noise_filtered_30d": 338937,
+    "lead_sightings_total": 7984,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1752,15 +1752,15 @@
       },
       {
         "period": "2026-10-07",
-        "total": 12,
+        "total": 14,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 1,
-          "housing_bali": 8,
+          "housing_bali": 10,
           "transfer_bali": 2
         },
         "housing": {
-          "rent": 5,
+          "rent": 7,
           "roommate": 1,
           "offer": 2
         }
@@ -2042,14 +2042,14 @@
       },
       {
         "period": "2026-10-05",
-        "total": 263,
+        "total": 265,
         "by_niche": {
           "auto_bali": 4,
           "beauty_bali": 14,
           "bikes_bali": 57,
           "games_bali": 14,
           "handyman_bali": 4,
-          "housing_bali": 134,
+          "housing_bali": 136,
           "massage_bali": 3,
           "photo_bali": 9,
           "transfer_bali": 19,
@@ -2058,7 +2058,7 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 72,
+          "rent": 74,
           "roommate": 21,
           "offer": 41
         },
@@ -2137,7 +2137,7 @@
       },
       {
         "period": "2026-10",
-        "total": 653,
+        "total": 655,
         "by_niche": {
           "auto_bali": 14,
           "banya_bali": 1,
@@ -2145,7 +2145,7 @@
           "bikes_bali": 131,
           "games_bali": 38,
           "handyman_bali": 11,
-          "housing_bali": 357,
+          "housing_bali": 359,
           "massage_bali": 8,
           "photo_bali": 11,
           "transfer_bali": 37,
@@ -2154,7 +2154,7 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 180,
+          "rent": 182,
           "roommate": 73,
           "offer": 104
         },
@@ -2166,11 +2166,11 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 272
+        "count": 273
       },
       {
         "geo": "Улувату",
-        "count": 118
+        "count": 119
       },
       {
         "geo": "Букит",
@@ -2207,13 +2207,21 @@
     ],
     "geo_unknown": 317,
     "budget_idr": {
-      "n": 454,
+      "n": 455,
       "p25": 9000000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-07T04:15",
+      "subtype": "rent",
+      "geo": "Улувату",
+      "budget_m": 35,
+      "text": "Ищу виллу, Улувату, с 29 октября, помячно. Две спальни. До 35 млн"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-07T03:00",
@@ -2399,13 +2407,6 @@
       "subtype": "roommate",
       "geo": "Чангу",
       "text": "Чангу (и ближайшие) Ищу на 1 неделю жилье или комнату на вилле, вдруг кто-то ищет соседей"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-06T20:00",
-      "subtype": "roommate",
-      "geo": "Чангу",
-      "text": "Ищу жильё в Чангу — гестхаус или комнату в доме, можно с соседями. Если у кого-то есть варианты, напишите, пожалуйста 🙏"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2439,10 +2440,10 @@
     },
     {
       "geo": "Улувату",
-      "n": 69,
+      "n": 70,
       "median": 20000000,
-      "p25": 12800000,
-      "p75": 25000000
+      "p25": 13100000,
+      "p75": 26500000
     },
     {
       "geo": "Убуд",
@@ -2539,7 +2540,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 570,
+    "villa": 572,
     "house": 85,
     "room": 102,
     "apartment": 58,
@@ -2604,7 +2605,7 @@
         15,
         10,
         9,
-        4,
+        6,
         3,
         4,
         1,
@@ -3709,7 +3710,7 @@
           13,
           8,
           6,
-          2,
+          4,
           2,
           2,
           1,
