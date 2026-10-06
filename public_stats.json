@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-06T08:53:17.365965+08:00",
-  "all_time_total": 4787,
-  "last_30d_total": 2741,
+  "generated_at": "2026-10-06T09:53:25.262799+08:00",
+  "all_time_total": 4790,
+  "last_30d_total": 2744,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 580,
-      "all_time": 1078
+      "last_30d": 582,
+      "all_time": 1080
     },
     {
       "niche": "beauty_bali",
@@ -39,8 +39,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 170,
-      "all_time": 313
+      "last_30d": 171,
+      "all_time": 314
     },
     {
       "niche": "games_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 531
+      "total": 534
     }
   ],
   "system": {
-    "messages_scanned_total": 822496,
-    "messages_scanned_30d": 578121,
-    "noise_filtered_total": 397500,
-    "noise_filtered_30d": 323755,
-    "lead_sightings_total": 7765,
+    "messages_scanned_total": 822873,
+    "messages_scanned_30d": 578498,
+    "noise_filtered_total": 397645,
+    "noise_filtered_30d": 323900,
+    "lead_sightings_total": 7771,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1739,12 +1739,12 @@
       },
       {
         "period": "2026-10-06",
-        "total": 25,
+        "total": 28,
         "by_niche": {
-          "bikes_bali": 3,
+          "bikes_bali": 5,
           "housing_bali": 15,
           "photo_bali": 2,
-          "transfer_bali": 2,
+          "transfer_bali": 3,
           "video_bali": 1,
           "visa_bali": 2
         },
@@ -2031,17 +2031,17 @@
       },
       {
         "period": "2026-10-05",
-        "total": 141,
+        "total": 144,
         "by_niche": {
           "auto_bali": 2,
           "beauty_bali": 6,
-          "bikes_bali": 30,
+          "bikes_bali": 32,
           "games_bali": 6,
           "handyman_bali": 2,
           "housing_bali": 78,
           "massage_bali": 1,
           "photo_bali": 6,
-          "transfer_bali": 6,
+          "transfer_bali": 7,
           "video_bali": 1,
           "visa_bali": 3
         },
@@ -2125,18 +2125,18 @@
       },
       {
         "period": "2026-10",
-        "total": 531,
+        "total": 534,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 1,
           "beauty_bali": 20,
-          "bikes_bali": 104,
+          "bikes_bali": 106,
           "games_bali": 30,
           "handyman_bali": 9,
           "housing_bali": 301,
           "massage_bali": 6,
           "photo_bali": 8,
-          "transfer_bali": 24,
+          "transfer_bali": 25,
           "video_bali": 3,
           "visa_bali": 13
         },
@@ -2201,6 +2201,17 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-06T09:30",
+      "geo": "Убуд",
+      "text": "Need xmax monthly in Ubud"
+    },
+    {
+      "niche": "transfer_bali",
+      "at": "2026-10-06T09:15",
+      "text": "Доброе утро ☀️ подскажите , пожалуйста , если брать лодку на Нуса - Пенида она какая вообще ? Чем-то отличаются трансферы ? Лучше билет на трип коме покупать,…"
+    },
     {
       "niche": "visa_bali",
       "at": "2026-10-06T08:45",
@@ -2386,16 +2397,6 @@
       "subtype": "rent",
       "geo": "Чангу",
       "text": "Добрый вечер! Подскажите, пожалуйста, проверенных риелторов или группы для поиска виллы в Чангу."
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-05T20:45",
-      "text": "Планирую поездку на водопад. Ищу попутчицу желающую составить компанию. Едем двумя мопедами с товарищем. В лс"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-05T20:45",
-      "text": "Планирую тусовку в виде поездки на водопад. Ищу попутчицу желающую составить компанию. Едем двумя мопедами с товарищем. В лс"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2572,8 +2573,8 @@
         3,
         4,
         5,
-        11,
-        11,
+        12,
+        13,
         16,
         22,
         15,
@@ -3125,8 +3126,8 @@
           0,
           1,
           1,
-          0,
           1,
+          2,
           3,
           5,
           3,
@@ -4230,7 +4231,7 @@
           0,
           1,
           0,
-          1,
+          2,
           2,
           0,
           0,
