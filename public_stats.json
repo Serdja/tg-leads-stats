@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-07T19:10:06.056504+08:00",
-  "all_time_total": 4994,
-  "last_30d_total": 2888,
+  "generated_at": "2026-10-07T20:10:21.676462+08:00",
+  "all_time_total": 4996,
+  "last_30d_total": 2890,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 603,
-      "all_time": 1121
+      "last_30d": 604,
+      "all_time": 1122
     },
     {
       "niche": "transfer_bali",
@@ -51,8 +51,8 @@
     {
       "niche": "photo_bali",
       "label": "📸 Фотограф",
-      "last_30d": 66,
-      "all_time": 158
+      "last_30d": 67,
+      "all_time": 159
     },
     {
       "niche": "visa_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 738
+      "total": 740
     }
   ],
   "system": {
-    "messages_scanned_total": 869288,
-    "messages_scanned_30d": 616631,
-    "noise_filtered_total": 426733,
-    "noise_filtered_30d": 349967,
-    "lead_sightings_total": 8130,
+    "messages_scanned_total": 871290,
+    "messages_scanned_30d": 618633,
+    "noise_filtered_total": 428095,
+    "noise_filtered_30d": 351329,
+    "lead_sightings_total": 8135,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1752,15 +1752,15 @@
       },
       {
         "period": "2026-10-07",
-        "total": 97,
+        "total": 99,
         "by_niche": {
           "beauty_bali": 4,
-          "bikes_bali": 17,
+          "bikes_bali": 18,
           "games_bali": 5,
           "handyman_bali": 6,
           "housing_bali": 54,
           "massage_bali": 2,
-          "photo_bali": 2,
+          "photo_bali": 3,
           "transfer_bali": 7
         },
         "housing": {
@@ -2046,16 +2046,16 @@
       },
       {
         "period": "2026-10-05",
-        "total": 348,
+        "total": 350,
         "by_niche": {
           "auto_bali": 4,
           "beauty_bali": 17,
-          "bikes_bali": 73,
+          "bikes_bali": 74,
           "games_bali": 19,
           "handyman_bali": 10,
           "housing_bali": 180,
           "massage_bali": 5,
-          "photo_bali": 11,
+          "photo_bali": 12,
           "transfer_bali": 24,
           "video_bali": 1,
           "visa_bali": 3,
@@ -2141,17 +2141,17 @@
       },
       {
         "period": "2026-10",
-        "total": 738,
+        "total": 740,
         "by_niche": {
           "auto_bali": 14,
           "banya_bali": 1,
           "beauty_bali": 31,
-          "bikes_bali": 147,
+          "bikes_bali": 148,
           "games_bali": 43,
           "handyman_bali": 17,
           "housing_bali": 403,
           "massage_bali": 10,
-          "photo_bali": 13,
+          "photo_bali": 14,
           "transfer_bali": 42,
           "video_bali": 3,
           "visa_bali": 13,
@@ -2218,6 +2218,18 @@
     }
   },
   "ticker": [
+    {
+      "niche": "photo_bali",
+      "at": "2026-10-07T19:45",
+      "geo": "Убуд",
+      "text": "Добрый день! Кто может провести экспресс фото сессию на вилле в убуде? Желательно завтра (8 октября) утром, например в 11."
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-07T19:00",
+      "geo": "Сесех",
+      "text": "Hello I’m looking for new 0 km adv, seseh/canggu"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-10-07T19:00",
@@ -2397,17 +2409,6 @@
       "subtype": "roommate",
       "geo": "Убуд",
       "text": "Девушки, ищу соседку в потрясающий домик в Пенестанане, очень уютный и артистичный 👩🎨 🐇в замечательном месте по приятной цене, есть ванная - пишите 🦋 Убуд"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-07T14:30",
-      "subtype": "roommate",
-      "text": "Девушки, ищу соседку в потрясающий домик в Пенестанане, очень уютный и артистичный 👩🎨 🐇в замечательном месте по приятной цене, есть ванная - пишите 🦋"
-    },
-    {
-      "niche": "handyman_bali",
-      "at": "2026-10-07T14:00",
-      "text": "Всем привет, нужен муж на час , адекватный , обещаю за помощь 7000. у кого есть время напишите мне . спасибо"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2621,7 +2622,7 @@
         33,
         32,
         22,
-        30,
+        32,
         20,
         19,
         18,
@@ -3174,7 +3175,7 @@
           4,
           4,
           5,
-          6,
+          7,
           3,
           2,
           4,
@@ -4094,7 +4095,7 @@
           1,
           1,
           0,
-          1,
+          2,
           1,
           1,
           0,
