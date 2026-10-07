@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-08T04:12:09.509340+08:00",
-  "all_time_total": 5023,
-  "last_30d_total": 2862,
+  "generated_at": "2026-10-08T05:12:17.346196+08:00",
+  "all_time_total": 5025,
+  "last_30d_total": 2864,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1404,
-      "all_time": 2157,
+      "last_30d": 1406,
+      "all_time": 2159,
       "subtypes": {
         "rent": {
           "last_30d": 734,
           "all_time": 1145
         },
         "roommate": {
-          "last_30d": 252,
-          "all_time": 358
+          "last_30d": 254,
+          "all_time": 360
         },
         "offer": {
           "last_30d": 418,
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 767
+      "total": 769
     }
   ],
   "system": {
-    "messages_scanned_total": 884180,
-    "messages_scanned_30d": 622315,
-    "noise_filtered_total": 436113,
-    "noise_filtered_30d": 355534,
-    "lead_sightings_total": 8178,
+    "messages_scanned_total": 885383,
+    "messages_scanned_30d": 623518,
+    "noise_filtered_total": 436916,
+    "noise_filtered_30d": 356337,
+    "lead_sightings_total": 8181,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1762,16 +1762,16 @@
       },
       {
         "period": "2026-10-08",
-        "total": 9,
+        "total": 11,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 3,
           "handyman_bali": 1,
-          "housing_bali": 4
+          "housing_bali": 6
         },
         "housing": {
           "rent": 3,
-          "roommate": 1,
+          "roommate": 3,
           "offer": 0
         }
       }
@@ -2052,14 +2052,14 @@
       },
       {
         "period": "2026-10-05",
-        "total": 377,
+        "total": 379,
         "by_niche": {
           "auto_bali": 4,
           "beauty_bali": 18,
           "bikes_bali": 78,
           "games_bali": 20,
           "handyman_bali": 11,
-          "housing_bali": 197,
+          "housing_bali": 199,
           "massage_bali": 6,
           "photo_bali": 12,
           "transfer_bali": 24,
@@ -2069,7 +2069,7 @@
         },
         "housing": {
           "rent": 99,
-          "roommate": 40,
+          "roommate": 42,
           "offer": 58
         },
         "partial": true
@@ -2147,7 +2147,7 @@
       },
       {
         "period": "2026-10",
-        "total": 767,
+        "total": 769,
         "by_niche": {
           "auto_bali": 14,
           "banya_bali": 1,
@@ -2155,7 +2155,7 @@
           "bikes_bali": 152,
           "games_bali": 44,
           "handyman_bali": 18,
-          "housing_bali": 420,
+          "housing_bali": 422,
           "massage_bali": 11,
           "photo_bali": 14,
           "transfer_bali": 42,
@@ -2165,7 +2165,7 @@
         },
         "housing": {
           "rent": 207,
-          "roommate": 92,
+          "roommate": 94,
           "offer": 121
         },
         "partial": true
@@ -2188,7 +2188,7 @@
       },
       {
         "geo": "Букит",
-        "count": 97
+        "count": 98
       },
       {
         "geo": "Сесех",
@@ -2215,15 +2215,23 @@
         "count": 32
       }
     ],
-    "geo_unknown": 321,
+    "geo_unknown": 322,
     "budget_idr": {
-      "n": 477,
+      "n": 478,
       "p25": 9000000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-08T04:45",
+      "subtype": "roommate",
+      "geo": "Букит",
+      "budget_m": 15,
+      "text": "🏡 Комната на вилле р-н Букит (1 км до GWK) Ищу пару или соседа/соседку ✨ Цена: 15 млн IDR / месяц ✅ Всё включено: — Свет, вода и интернет — Уборка 2 раза в…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-08T03:30",
@@ -2410,14 +2418,6 @@
       "at": "2026-10-07T17:15",
       "geo": "Убуд",
       "text": "Подскажите где можно арендовать мотоцикл [имя] на Бали(Убуд)?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-07T17:15",
-      "subtype": "roommate",
-      "geo": "Чангу",
-      "budget_m": 6,
-      "text": "Привет ❤️ Ищу комнату в shared villa в Чангу или Переренане , чтобы комната была отдельная, со своим санузлом и рабочим местом(стол, кресло) Было бы здорово,…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2444,8 +2444,8 @@
     },
     {
       "geo": "Букит",
-      "n": 76,
-      "median": 15450000,
+      "n": 77,
+      "median": 15000000,
       "p25": 10000000,
       "p75": 25000000
     },
@@ -2551,7 +2551,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 593,
+    "villa": 595,
     "house": 90,
     "room": 108,
     "apartment": 57,
@@ -2642,8 +2642,8 @@
         10,
         6,
         6,
-        0,
-        3,
+        1,
+        4,
         3,
         7,
         8,
@@ -3747,8 +3747,8 @@
           7,
           2,
           2,
-          0,
           1,
+          2,
           3,
           5,
           2,
