@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-07T08:08:39.504530+08:00",
-  "all_time_total": 4911,
-  "last_30d_total": 2805,
+  "generated_at": "2026-10-07T09:08:46.878191+08:00",
+  "all_time_total": 4912,
+  "last_30d_total": 2806,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -61,16 +61,16 @@
       "all_time": 156
     },
     {
+      "niche": "handyman_bali",
+      "label": "🔧 Мастер на час",
+      "last_30d": 58,
+      "all_time": 207
+    },
+    {
       "niche": "auto_bali",
       "label": "🚙 Аренда авто",
       "last_30d": 57,
       "all_time": 92
-    },
-    {
-      "niche": "handyman_bali",
-      "label": "🔧 Мастер на час",
-      "last_30d": 57,
-      "all_time": 206
     },
     {
       "niche": "massage_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 655
+      "total": 656
     }
   ],
   "system": {
-    "messages_scanned_total": 852601,
-    "messages_scanned_30d": 599944,
-    "noise_filtered_total": 416402,
-    "noise_filtered_30d": 339636,
-    "lead_sightings_total": 7987,
+    "messages_scanned_total": 853239,
+    "messages_scanned_30d": 600582,
+    "noise_filtered_total": 416825,
+    "noise_filtered_30d": 340059,
+    "lead_sightings_total": 7988,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1752,10 +1752,11 @@
       },
       {
         "period": "2026-10-07",
-        "total": 14,
+        "total": 15,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 1,
+          "handyman_bali": 1,
           "housing_bali": 10,
           "transfer_bali": 2
         },
@@ -2042,13 +2043,13 @@
       },
       {
         "period": "2026-10-05",
-        "total": 265,
+        "total": 266,
         "by_niche": {
           "auto_bali": 4,
           "beauty_bali": 14,
           "bikes_bali": 57,
           "games_bali": 14,
-          "handyman_bali": 4,
+          "handyman_bali": 5,
           "housing_bali": 136,
           "massage_bali": 3,
           "photo_bali": 9,
@@ -2137,14 +2138,14 @@
       },
       {
         "period": "2026-10",
-        "total": 655,
+        "total": 656,
         "by_niche": {
           "auto_bali": 14,
           "banya_bali": 1,
           "beauty_bali": 28,
           "bikes_bali": 131,
           "games_bali": 38,
-          "handyman_bali": 11,
+          "handyman_bali": 12,
           "housing_bali": 359,
           "massage_bali": 8,
           "photo_bali": 11,
@@ -2214,6 +2215,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "handyman_bali",
+      "at": "2026-10-07T09:00",
+      "text": "подскажите электрика, кто может починить колонку и зарядную станцию?"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-07T04:15",
@@ -2400,13 +2406,6 @@
       "at": "2026-10-06T20:45",
       "subtype": "rent",
       "text": "Подскажите пожалуйста, где можно найти аренду виллы на сутки-двое"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-06T20:45",
-      "subtype": "roommate",
-      "geo": "Чангу",
-      "text": "Чангу (и ближайшие) Ищу на 1 неделю жилье или комнату на вилле, вдруг кто-то ищет соседей"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2610,7 +2609,7 @@
         4,
         1,
         11,
-        17,
+        18,
         9,
         27,
         23,
@@ -3531,7 +3530,7 @@
           0,
           0,
           1,
-          1,
+          2,
           0,
           1,
           0,
