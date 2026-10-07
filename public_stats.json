@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-08T01:11:41.889357+08:00",
-  "all_time_total": 5019,
-  "last_30d_total": 2858,
+  "generated_at": "2026-10-08T02:11:53.449505+08:00",
+  "all_time_total": 5020,
+  "last_30d_total": 2859,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 591,
-      "all_time": 1125
+      "last_30d": 592,
+      "all_time": 1126
     },
     {
       "niche": "transfer_bali",
@@ -120,15 +120,15 @@
     },
     {
       "month": "2026-10",
-      "total": 763
+      "total": 764
     }
   ],
   "system": {
-    "messages_scanned_total": 880388,
-    "messages_scanned_30d": 618523,
-    "noise_filtered_total": 433882,
-    "noise_filtered_30d": 353303,
-    "lead_sightings_total": 8173,
+    "messages_scanned_total": 881805,
+    "messages_scanned_30d": 619940,
+    "noise_filtered_total": 434668,
+    "noise_filtered_30d": 354089,
+    "lead_sightings_total": 8175,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1762,9 +1762,9 @@
       },
       {
         "period": "2026-10-08",
-        "total": 5,
+        "total": 6,
         "by_niche": {
-          "bikes_bali": 2,
+          "bikes_bali": 3,
           "handyman_bali": 1,
           "housing_bali": 2
         },
@@ -2051,11 +2051,11 @@
       },
       {
         "period": "2026-10-05",
-        "total": 373,
+        "total": 374,
         "by_niche": {
           "auto_bali": 4,
           "beauty_bali": 17,
-          "bikes_bali": 77,
+          "bikes_bali": 78,
           "games_bali": 20,
           "handyman_bali": 11,
           "housing_bali": 195,
@@ -2146,12 +2146,12 @@
       },
       {
         "period": "2026-10",
-        "total": 763,
+        "total": 764,
         "by_niche": {
           "auto_bali": 14,
           "banya_bali": 1,
           "beauty_bali": 31,
-          "bikes_bali": 151,
+          "bikes_bali": 152,
           "games_bali": 44,
           "handyman_bali": 18,
           "housing_bali": 418,
@@ -2223,6 +2223,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-08T01:15",
+      "text": "Здравствуйте. Подскажите где взять мопед в аренду на 10 дней"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-08T00:15",
@@ -2414,12 +2419,6 @@
       "geo": "Берава",
       "budget_m": 8,
       "text": "Доброго времени !) Ищу приятное адекватное жилье в диапазоне 8мл. районы берава,чангу,перененан,умалас"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-10-07T16:30",
-      "geo": "Чангу",
-      "text": "Ищу в Чангу, где сделать маникюр, чтобы держался дольше недели. К кому ходите сами?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2641,7 +2640,7 @@
       ],
       [
         17,
-        9,
+        10,
         5,
         4,
         0,
@@ -3194,7 +3193,7 @@
         ],
         [
           2,
-          2,
+          3,
           2,
           1,
           0,
