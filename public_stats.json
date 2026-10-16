@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-17T00:52:50.804225+08:00",
-  "all_time_total": 6610,
-  "last_30d_total": 3862,
+  "generated_at": "2026-10-17T01:53:32.707880+08:00",
+  "all_time_total": 6612,
+  "last_30d_total": 3864,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 2226,
-      "all_time": 3161,
+      "last_30d": 2228,
+      "all_time": 3163,
       "subtypes": {
         "rent": {
           "last_30d": 943,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2354
+      "total": 2356
     }
   ],
   "system": {
-    "messages_scanned_total": 1175626,
-    "messages_scanned_30d": 834481,
-    "noise_filtered_total": 613490,
-    "noise_filtered_30d": 506560,
-    "lead_sightings_total": 9814,
+    "messages_scanned_total": 1177385,
+    "messages_scanned_30d": 836240,
+    "noise_filtered_total": 614640,
+    "noise_filtered_30d": 507710,
+    "lead_sightings_total": 9815,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -2346,6 +2346,12 @@
   "ticker": [
     {
       "niche": "housing_bali",
+      "at": "2026-10-17T01:00",
+      "subtype": "rent",
+      "text": "подскажите, кто продлевал визу по прилету - можно заполнить форму на сайте, а оплатить в офисе минрашки?"
+    },
+    {
+      "niche": "housing_bali",
       "at": "2026-10-17T00:45",
       "subtype": "rent",
       "budget_m": 5,
@@ -2524,12 +2530,6 @@
       "niche": "handyman_bali",
       "at": "2026-10-16T19:15",
       "text": "Привет, близкие! Я третий день на острове, первый раз приехал. Почти никого не знаю, почитал чатики, поискал какие-то анонсы мероприятий, где можно…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-16T19:00",
-      "subtype": "rent",
-      "text": "Доброго времени суток. Ищем трое мужчин с водительским удостоверением. И рабочих чтобы разгрузить склад 5-6 человек Завтра нужно завести людей на склад. Своя…"
     }
   ],
   "housing_budget_by_geo_90d": [
