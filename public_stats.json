@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-17T06:57:01.189251+08:00",
-  "all_time_total": 6619,
-  "last_30d_total": 3871,
+  "generated_at": "2026-10-17T07:57:42.453097+08:00",
+  "all_time_total": 6620,
+  "last_30d_total": 3872,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 673,
-      "all_time": 1359
+      "last_30d": 674,
+      "all_time": 1360
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2363
+      "total": 2364
     }
   ],
   "system": {
-    "messages_scanned_total": 1182424,
-    "messages_scanned_30d": 841279,
-    "noise_filtered_total": 617712,
-    "noise_filtered_30d": 510782,
-    "lead_sightings_total": 9820,
+    "messages_scanned_total": 1182865,
+    "messages_scanned_30d": 841720,
+    "noise_filtered_total": 617952,
+    "noise_filtered_30d": 511022,
+    "lead_sightings_total": 9822,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1859,9 +1859,9 @@
       },
       {
         "period": "2026-10-17",
-        "total": 7,
+        "total": 8,
         "by_niche": {
-          "bikes_bali": 2,
+          "bikes_bali": 3,
           "games_bali": 1,
           "handyman_bali": 1,
           "housing_bali": 1,
@@ -2174,12 +2174,12 @@
       },
       {
         "period": "2026-10-12",
-        "total": 815,
+        "total": 816,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 1,
           "beauty_bali": 40,
-          "bikes_bali": 135,
+          "bikes_bali": 136,
           "games_bali": 48,
           "handyman_bali": 28,
           "housing_bali": 472,
@@ -2269,12 +2269,12 @@
       },
       {
         "period": "2026-10",
-        "total": 2029,
+        "total": 2030,
         "by_niche": {
           "auto_bali": 37,
           "banya_bali": 2,
           "beauty_bali": 103,
-          "bikes_bali": 385,
+          "bikes_bali": 386,
           "games_bali": 124,
           "handyman_bali": 49,
           "housing_bali": 1096,
@@ -2346,6 +2346,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-17T07:30",
+      "geo": "Семиньяк",
+      "text": "Мы уже три дня катаемся на Максиме, до этого на Грабе, Максим ждать дольше, машины победнее, но цены на машины почти в два раза дешевле, ездим из Семиньяк в…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-17T04:15",
@@ -2525,12 +2531,6 @@
       "at": "2026-10-16T20:00",
       "subtype": "rent",
       "text": "⚠️ 10 иностранцев лишились КИТАС и права на въезд. Что нужно знать инвесторам? Иммиграционная служба [имя] жестко пресекла нарушения среди иностранных…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-16T20:00",
-      "subtype": "rent",
-      "text": "Нужно пару человек на уборку складского помещения 5500 на руки после смены"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2838,7 +2838,7 @@
         5,
         3,
         3,
-        5,
+        6,
         2,
         16,
         16,
@@ -3391,7 +3391,7 @@
           0,
           0,
           2,
-          1,
+          2,
           0,
           5,
           4,
