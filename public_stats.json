@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-17T17:43:00.261072+08:00",
+  "generated_at": "2026-10-17T17:47:59.897725+08:00",
   "all_time_total": 6113,
   "last_30d_total": 3535,
   "by_niche": [
@@ -130,10 +130,10 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 1193820,
-    "messages_scanned_30d": 852675,
-    "noise_filtered_total": 624176,
-    "noise_filtered_30d": 517246,
+    "messages_scanned_total": 1193942,
+    "messages_scanned_30d": 852797,
+    "noise_filtered_total": 624271,
+    "noise_filtered_30d": 517341,
     "lead_sightings_total": 9905,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
@@ -2353,6 +2353,12 @@
   "ticker": [
     {
       "niche": "housing_bali",
+      "at": "2026-10-17T17:45",
+      "subtype": "rent",
+      "text": "Если кому то нужны ps5, то в mall galleria в магазине gs shop есть 2 шт, slim disc, цена как ррц"
+    },
+    {
+      "niche": "housing_bali",
       "at": "2026-10-17T17:15",
       "subtype": "rent",
       "geo": "Переренан",
@@ -2536,12 +2542,6 @@
       "subtype": "rent",
       "budget_m": 17,
       "text": "Всем привет. Ищу виллу в районе сукавати +-5 км 2 beds, 2 bath С бассейном и хорошей открытой кухней Бюджет до 17млн"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-17T12:30",
-      "subtype": "rent",
-      "text": "Не переживайте, там уже в стоимость аренды дома зашита аренда*3"
     }
   ],
   "housing_budget_by_geo_90d": [
