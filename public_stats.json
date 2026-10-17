@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-17T10:59:50.126625+08:00",
-  "all_time_total": 6637,
-  "last_30d_total": 3889,
+  "generated_at": "2026-10-17T12:00:33.477089+08:00",
+  "all_time_total": 6641,
+  "last_30d_total": 3893,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 2247,
-      "all_time": 3182,
+      "last_30d": 2248,
+      "all_time": 3183,
       "subtypes": {
         "rent": {
           "last_30d": 949,
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 674,
-      "all_time": 1360
+      "last_30d": 677,
+      "all_time": 1363
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2381
+      "total": 2385
     }
   ],
   "system": {
-    "messages_scanned_total": 1184616,
-    "messages_scanned_30d": 843471,
-    "noise_filtered_total": 618802,
-    "noise_filtered_30d": 511872,
-    "lead_sightings_total": 9838,
+    "messages_scanned_total": 1185337,
+    "messages_scanned_30d": 844192,
+    "noise_filtered_total": 619104,
+    "noise_filtered_30d": 512174,
+    "lead_sightings_total": 9842,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1859,10 +1859,10 @@
       },
       {
         "period": "2026-10-17",
-        "total": 17,
+        "total": 20,
         "by_niche": {
           "beauty_bali": 1,
-          "bikes_bali": 3,
+          "bikes_bali": 6,
           "games_bali": 1,
           "handyman_bali": 1,
           "housing_bali": 8,
@@ -2176,12 +2176,12 @@
       },
       {
         "period": "2026-10-12",
-        "total": 825,
+        "total": 828,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 1,
           "beauty_bali": 41,
-          "bikes_bali": 136,
+          "bikes_bali": 139,
           "games_bali": 48,
           "handyman_bali": 28,
           "housing_bali": 479,
@@ -2271,12 +2271,12 @@
       },
       {
         "period": "2026-10",
-        "total": 2039,
+        "total": 2042,
         "by_niche": {
           "auto_bali": 37,
           "banya_bali": 2,
           "beauty_bali": 104,
-          "bikes_bali": 386,
+          "bikes_bali": 389,
           "games_bali": 124,
           "handyman_bali": 49,
           "housing_bali": 1103,
@@ -2348,6 +2348,23 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-17T11:45",
+      "subtype": "rent",
+      "text": "Хочу купить кофе домой в Россию рядом с Нуса-Дуа"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-17T11:45",
+      "budget_m": 2,
+      "text": "Всем привет! Ищу байк на долгосрочную аренду pcx или adv в пределах 1.8mil - в идеале голубой или розовый 🩷🩵Посоветуйте пожалуйста где можно арендовать!"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-17T11:00",
+      "text": "Hello im looking for nmax turbo for 1 month good price"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-17T10:45",
@@ -2514,28 +2531,6 @@
       "geo": "Чангу",
       "budget_m": 10,
       "text": "Всем привет) Ищу апартаменты на 2 недели. Чангу/Улувату До 10 млн"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-16T22:45",
-      "subtype": "rent",
-      "geo": "Переренан",
-      "budget_m": 16,
-      "text": "Всем привет! 👋 Ищем жильё на месяц 📍 Переренан 📅 31.10 — 30.11 👥 Для двоих, 1–2 спальни 🏡 Вилла 💰 До 1000 $ за месяц С учётом всех платежей. 💻 Работаем…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-16T22:15",
-      "budget_m": 4,
-      "text": "Hello. I need xmax for pink color. Price until 3,5mln"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-16T22:00",
-      "subtype": "rent",
-      "geo": "Букит",
-      "budget_m": 12,
-      "text": "Добрый вечер всем! Ищу апартаменты/виллу на 2 недели с 26.10 по 9.11 на Буките ❗️Важно наличие: кухни, WiFi, кондиционера, бассейна. 💵Бюджет до 12 млн idr"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2847,7 +2842,7 @@
         3,
         21,
         19,
-        15,
+        18,
         17,
         41,
         30,
@@ -3400,7 +3395,7 @@
           0,
           5,
           4,
-          6,
+          9,
           7,
           9,
           3,
