@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-18T08:58:41.526296+08:00",
-  "all_time_total": 6159,
-  "last_30d_total": 3512,
+  "generated_at": "2026-10-18T09:59:24.490199+08:00",
+  "all_time_total": 6162,
+  "last_30d_total": 3515,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 677,
-      "all_time": 1379
+      "last_30d": 679,
+      "all_time": 1381
     },
     {
       "niche": "games_bali",
@@ -75,8 +75,8 @@
     {
       "niche": "auto_bali",
       "label": "🚙 Аренда авто",
-      "last_30d": 59,
-      "all_time": 115
+      "last_30d": 60,
+      "all_time": 116
     },
     {
       "niche": "video_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2128
+      "total": 2131
     }
   ],
   "system": {
-    "messages_scanned_total": 1213962,
-    "messages_scanned_30d": 863876,
-    "noise_filtered_total": 636876,
-    "noise_filtered_30d": 526500,
-    "lead_sightings_total": 9982,
+    "messages_scanned_total": 1214439,
+    "messages_scanned_30d": 864353,
+    "noise_filtered_total": 637070,
+    "noise_filtered_30d": 526694,
+    "lead_sightings_total": 9986,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1871,10 +1871,11 @@
       },
       {
         "period": "2026-10-18",
-        "total": 9,
+        "total": 12,
         "by_niche": {
+          "auto_bali": 1,
           "beauty_bali": 1,
-          "bikes_bali": 2,
+          "bikes_bali": 4,
           "housing_bali": 6
         },
         "housing": {
@@ -2184,12 +2185,12 @@
       },
       {
         "period": "2026-10-12",
-        "total": 914,
+        "total": 917,
         "by_niche": {
-          "auto_bali": 12,
+          "auto_bali": 13,
           "banya_bali": 2,
           "beauty_bali": 49,
-          "bikes_bali": 155,
+          "bikes_bali": 157,
           "games_bali": 57,
           "handyman_bali": 28,
           "housing_bali": 525,
@@ -2279,12 +2280,12 @@
       },
       {
         "period": "2026-10",
-        "total": 2128,
+        "total": 2131,
         "by_niche": {
-          "auto_bali": 37,
+          "auto_bali": 38,
           "banya_bali": 3,
           "beauty_bali": 112,
-          "bikes_bali": 405,
+          "bikes_bali": 407,
           "games_bali": 133,
           "handyman_bali": 49,
           "housing_bali": 1149,
@@ -2356,6 +2357,27 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-18T09:45",
+      "text": "Подскажите, а ведь не все fullface шлема влезают в XMax?"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-18T09:45",
+      "text": "Hi! Looking for Honda scoopy 2026 for monthly rental"
+    },
+    {
+      "niche": "auto_bali",
+      "at": "2026-10-18T09:30",
+      "text": "Здравствуйте! Подскажите пожалуйста возможно ли арендовать авто с русскоязычным водителем?"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-18T09:15",
+      "subtype": "rent",
+      "text": "Добрый день !Подскажите ,пожалуйста ,по поводу Саваи и гест листа !Есть возможность столик взять ?или как это происходит..."
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-18T08:45",
@@ -2516,30 +2538,6 @@
       "subtype": "rent",
       "geo": "Чангу",
       "text": "ищем виллу 3br или 4br чангу, далунг, сесех"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-17T19:30",
-      "subtype": "rent",
-      "text": "Нужно перенести наши с подругой вещи на новую квартиру 6000 руб, жду в лс"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-17T19:15",
-      "subtype": "rent",
-      "text": "И помимо комнаты ищу компанию для игры в падел, уровень у меня начально-средний)"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-17T19:15",
-      "subtype": "rent",
-      "text": "Всем привет! Ищу комнату на вилле на долгий срок, готова заехать в ближайшее время. Адекватная, чистоплотная) пишите, если есть предложения)"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-17T19:00",
-      "subtype": "rent",
-      "text": "Всем привет! Ищу комнату на вилле на долгий срок, готова заехать в ближайшее время. Адекватная, чистоплотная)"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2875,7 +2873,7 @@
         6,
         11,
         7,
-        16,
+        19,
         19,
         15,
         19,
@@ -3060,7 +3058,7 @@
           1,
           0,
           0,
-          0,
+          1,
           1,
           1,
           0,
@@ -3428,7 +3426,7 @@
           0,
           1,
           2,
-          5,
+          7,
           4,
           6,
           0,
