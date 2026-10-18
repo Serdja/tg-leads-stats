@@ -1,40 +1,40 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-18T14:02:48.361657+08:00",
-  "all_time_total": 6193,
-  "last_30d_total": 3546,
+  "generated_at": "2026-10-18T15:03:30.644345+08:00",
+  "all_time_total": 6210,
+  "last_30d_total": 3563,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1894,
-      "all_time": 2681,
+      "last_30d": 1902,
+      "all_time": 2689,
       "subtypes": {
         "rent": {
-          "last_30d": 985,
-          "all_time": 1366
+          "last_30d": 991,
+          "all_time": 1372
         },
         "roommate": {
           "last_30d": 351,
           "all_time": 464
         },
         "offer": {
-          "last_30d": 558,
-          "all_time": 851
+          "last_30d": 560,
+          "all_time": 853
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 683,
-      "all_time": 1385
+      "last_30d": 690,
+      "all_time": 1392
     },
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 216,
-      "all_time": 358
+      "last_30d": 217,
+      "all_time": 359
     },
     {
       "niche": "beauty_bali",
@@ -51,8 +51,8 @@
     {
       "niche": "handyman_bali",
       "label": "🔧 Мастер на час",
-      "last_30d": 78,
-      "all_time": 244
+      "last_30d": 79,
+      "all_time": 245
     },
     {
       "niche": "visa_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2162
+      "total": 2179
     }
   ],
   "system": {
-    "messages_scanned_total": 1217206,
-    "messages_scanned_30d": 867120,
-    "noise_filtered_total": 638507,
-    "noise_filtered_30d": 528131,
-    "lead_sightings_total": 10044,
+    "messages_scanned_total": 1218606,
+    "messages_scanned_30d": 868520,
+    "noise_filtered_total": 639337,
+    "noise_filtered_30d": 528961,
+    "lead_sightings_total": 10083,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1871,19 +1871,20 @@
       },
       {
         "period": "2026-10-18",
-        "total": 43,
+        "total": 60,
         "by_niche": {
           "auto_bali": 2,
           "beauty_bali": 2,
-          "bikes_bali": 8,
-          "games_bali": 3,
-          "housing_bali": 26,
+          "bikes_bali": 15,
+          "games_bali": 4,
+          "handyman_bali": 1,
+          "housing_bali": 34,
           "transfer_bali": 2
         },
         "housing": {
-          "rent": 17,
+          "rent": 23,
           "roommate": 1,
-          "offer": 8
+          "offer": 10
         }
       }
     ],
@@ -2187,15 +2188,15 @@
       },
       {
         "period": "2026-10-12",
-        "total": 948,
+        "total": 965,
         "by_niche": {
           "auto_bali": 14,
           "banya_bali": 2,
           "beauty_bali": 50,
-          "bikes_bali": 161,
-          "games_bali": 60,
-          "handyman_bali": 28,
-          "housing_bali": 545,
+          "bikes_bali": 168,
+          "games_bali": 61,
+          "handyman_bali": 29,
+          "housing_bali": 553,
           "massage_bali": 12,
           "photo_bali": 11,
           "transfer_bali": 42,
@@ -2203,9 +2204,9 @@
           "visa_bali": 19
         },
         "housing": {
-          "rent": 349,
+          "rent": 355,
           "roommate": 71,
-          "offer": 125
+          "offer": 127
         },
         "partial": false
       }
@@ -2282,15 +2283,15 @@
       },
       {
         "period": "2026-10",
-        "total": 2162,
+        "total": 2179,
         "by_niche": {
           "auto_bali": 39,
           "banya_bali": 3,
           "beauty_bali": 113,
-          "bikes_bali": 411,
-          "games_bali": 136,
-          "handyman_bali": 49,
-          "housing_bali": 1169,
+          "bikes_bali": 418,
+          "games_bali": 137,
+          "handyman_bali": 50,
+          "housing_bali": 1177,
           "massage_bali": 32,
           "photo_bali": 36,
           "transfer_bali": 115,
@@ -2299,9 +2300,9 @@
           "wedding_bali": 4
         },
         "housing": {
-          "rent": 629,
+          "rent": 635,
           "roommate": 215,
-          "offer": 325
+          "offer": 327
         },
         "partial": true
       }
@@ -2311,7 +2312,7 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 519
+        "count": 523
       },
       {
         "geo": "Улувату",
@@ -2327,7 +2328,7 @@
       },
       {
         "geo": "Сесех",
-        "count": 140
+        "count": 141
       },
       {
         "geo": "Букит",
@@ -2350,15 +2351,86 @@
         "count": 50
       }
     ],
-    "geo_unknown": 298,
+    "geo_unknown": 299,
     "budget_idr": {
-      "n": 763,
+      "n": 767,
       "p25": 10000000,
       "median": 17000000,
-      "p75": 25500000
+      "p75": 26000000
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-18T14:45",
+      "text": "Hi guys 👋🏻 Looking for an ADV. well maintained please 🙏🏻 Monthly payments pls."
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-18T14:45",
+      "subtype": "rent",
+      "text": "Привет всем, ищу человека для уборки квартиры раз в неделю. Оплату и график обсудим в личке"
+    },
+    {
+      "niche": "handyman_bali",
+      "at": "2026-10-18T14:45",
+      "text": "Привет всем, кто может помочь настроить роутер? Интернет работает через раз, уже замучился"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-18T14:45",
+      "subtype": "rent",
+      "geo": "Джимбаран",
+      "text": "Всем привет! Ищу комнату на месяц в Джимбаране с конца октября. Особых пожеланий нет, только кондей и стабильный интернет 😅"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-18T14:30",
+      "text": "Hi, I'm looking for a Scoopy today and until November 4"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-18T14:30",
+      "budget_m": 4,
+      "text": "Привет, ищу scoopy сегодня и до 4 ноября"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-18T14:30",
+      "text": "Need for sport bike Kawasaki ninja/Honda cbr/[имя] black, white or red Please write with your price for week/month"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-18T14:15",
+      "subtype": "rent",
+      "budget_m": 30,
+      "text": "Ищем виллу 2BD с 12 ноября по 11 января двое взрослых до 30млн в месяц"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-18T14:15",
+      "text": "Всем привет , может кто порекомендовать где взять байк за хорошую цену и качество ?"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-18T14:00",
+      "geo": "Убуд",
+      "text": "need nmax in ubud and nusa dua"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-18T14:00",
+      "geo": "Нуса Дуа",
+      "text": "need nmax in nusa dua monthly"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-18T14:00",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "budget_m": 10,
+      "text": "Всем привет! Ищу комнату на вилле/гест хаус Рассматриваю локации в 15-20 минутах езды от центра Чангу. Бюджет до 600$/мес. Снимать планирую на долгий срок.…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-18T13:45",
@@ -2482,81 +2554,12 @@
       "at": "2026-10-18T11:30",
       "subtype": "rent",
       "text": "Подскажите, на Гили Эйр где сейчас лучше купаться в первой половине дня ? А то находимся около ресторана Movies, с самого утра очень мелко и на убывание идет.…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-18T11:15",
-      "text": "Подскажите пожалуйста с приложения Grab никак не заказать 2 байка?"
-    },
-    {
-      "niche": "transfer_bali",
-      "at": "2026-10-18T11:00",
-      "geo": "Убуд",
-      "text": "Подскажите пожалуйста номер шеринг такси с убуда до Амеда"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-18T10:45",
-      "subtype": "rent",
-      "text": "Не заходила сюда 2 дня и такое чтиво интересное! 😍 столько срача 💃 хочу вставить свои 5 копеек по поводу. У меня 2 псины и кошка, даже когда была 1 псина, нам…"
-    },
-    {
-      "niche": "auto_bali",
-      "at": "2026-10-18T10:45",
-      "geo": "Нуса Дуа",
-      "text": "I’m looking for a small car ([имя]/ [имя] / [имя]) for 1 month 28 Oktober - 27 November. Automatic transmission, full tank. !!️Delivery to Nusa dua, Kutuh,…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-18T10:45",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "text": "Доброе утро, Баличане ☺️ Подскажите, взяли в аренду байк в Чангу, хотим сгонять на батур отсюда, реально ? Можно на байке этом? Полиция есть или расскажите,…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-18T10:00",
-      "subtype": "rent",
-      "geo": "Букит",
-      "text": "Друзья, очень срочно ищу передержку для своих кошек! Девушка что взяла их, сменила планы и мне нужно найти им новый дом. Ищу на 2-3 месяца. Оплачиваю корм и…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-18T09:45",
-      "text": "Подскажите, а ведь не все fullface шлема влезают в XMax?"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-18T09:45",
-      "text": "Hi! Looking for Honda scoopy 2026 for monthly rental"
-    },
-    {
-      "niche": "auto_bali",
-      "at": "2026-10-18T09:30",
-      "text": "Здравствуйте! Подскажите пожалуйста возможно ли арендовать авто с русскоязычным водителем?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-18T09:15",
-      "subtype": "rent",
-      "text": "Добрый день !Подскажите ,пожалуйста ,по поводу Саваи и гест листа !Есть возможность столик взять ?или как это происходит..."
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-18T08:45",
-      "subtype": "rent",
-      "text": "Доброе утро, уважаемые участники чата. Недавно я была на пляже [имя] Beach и там со мной провзаимодействовала одна собака. Сейчас я уже в России и, чтобы не…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-18T08:00",
-      "text": "Товарищи подскажите пожалуйста норм цену за месяц аренды Nmax Turbo Abs+Keyless?)"
     }
   ],
   "housing_budget_by_geo_90d": [
     {
       "geo": "Чангу",
-      "n": 454,
+      "n": 457,
       "median": 20000000,
       "p25": 10000000,
       "p75": 30000000
@@ -2577,7 +2580,7 @@
     },
     {
       "geo": "Сесех",
-      "n": 128,
+      "n": 129,
       "median": 15000000,
       "p25": 10000000,
       "p75": 25000000
@@ -2712,10 +2715,10 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 928,
+    "villa": 931,
     "house": 75,
-    "room": 136,
-    "apartment": 47,
+    "room": 138,
+    "apartment": 48,
     "unknown": 150
   },
   "activity_30d": {
@@ -2891,7 +2894,7 @@
         22,
         27,
         42,
-        28,
+        45,
         27,
         32,
         16,
@@ -3444,7 +3447,7 @@
           8,
           0,
           14,
-          4,
+          11,
           7,
           3,
           3,
@@ -3628,7 +3631,7 @@
           0,
           3,
           4,
-          1,
+          2,
           3,
           6,
           1,
@@ -3812,7 +3815,7 @@
           0,
           0,
           0,
-          1,
+          2,
           0,
           1,
           0,
@@ -3996,7 +3999,7 @@
           7,
           23,
           18,
-          17,
+          25,
           13,
           15,
           9,
