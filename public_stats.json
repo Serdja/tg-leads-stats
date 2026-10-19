@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-19T21:48:06.863020+08:00",
-  "all_time_total": 6362,
-  "last_30d_total": 3624,
+  "generated_at": "2026-10-19T22:49:00.754228+08:00",
+  "all_time_total": 6366,
+  "last_30d_total": 3628,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1931,
-      "all_time": 2754,
+      "last_30d": 1933,
+      "all_time": 2756,
       "subtypes": {
         "rent": {
-          "last_30d": 1015,
-          "all_time": 1413
+          "last_30d": 1016,
+          "all_time": 1414
         },
         "roommate": {
           "last_30d": 347,
           "all_time": 465
         },
         "offer": {
-          "last_30d": 569,
-          "all_time": 876
+          "last_30d": 570,
+          "all_time": 877
         }
       }
     },
@@ -75,14 +75,14 @@
     {
       "niche": "massage_bali",
       "label": "💆 Массаж",
-      "last_30d": 60,
-      "all_time": 167
+      "last_30d": 61,
+      "all_time": 168
     },
     {
       "niche": "video_bali",
       "label": "🎥 Видеограф",
-      "last_30d": 17,
-      "all_time": 42
+      "last_30d": 18,
+      "all_time": 43
     },
     {
       "niche": "banya_bali",
@@ -126,18 +126,18 @@
     },
     {
       "month": "2026-10",
-      "total": 2344
+      "total": 2348
     }
   ],
   "system": {
-    "messages_scanned_total": 1257402,
-    "messages_scanned_30d": 898050,
-    "noise_filtered_total": 662150,
-    "noise_filtered_30d": 548388,
-    "lead_sightings_total": 10327,
+    "messages_scanned_total": 1259096,
+    "messages_scanned_30d": 899744,
+    "noise_filtered_total": 663248,
+    "noise_filtered_30d": 549486,
+    "lead_sightings_total": 10333,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
-    "chats_monitored": 254
+    "chats_monitored": 253
   },
   "series": {
     "daily": [
@@ -1879,22 +1879,23 @@
       },
       {
         "period": "2026-10-19",
-        "total": 112,
+        "total": 116,
         "by_niche": {
           "auto_bali": 3,
           "beauty_bali": 10,
           "bikes_bali": 22,
           "games_bali": 2,
           "handyman_bali": 3,
-          "housing_bali": 60,
+          "housing_bali": 62,
+          "massage_bali": 1,
           "transfer_bali": 10,
-          "video_bali": 1,
+          "video_bali": 2,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 39,
+          "rent": 40,
           "roommate": 1,
-          "offer": 20
+          "offer": 21
         }
       }
     ],
@@ -2222,22 +2223,23 @@
       },
       {
         "period": "2026-10-19",
-        "total": 112,
+        "total": 116,
         "by_niche": {
           "auto_bali": 3,
           "beauty_bali": 10,
           "bikes_bali": 22,
           "games_bali": 2,
           "handyman_bali": 3,
-          "housing_bali": 60,
+          "housing_bali": 62,
+          "massage_bali": 1,
           "transfer_bali": 10,
-          "video_bali": 1,
+          "video_bali": 2,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 39,
+          "rent": 40,
           "roommate": 1,
-          "offer": 20
+          "offer": 21
         },
         "partial": true
       }
@@ -2314,7 +2316,7 @@
       },
       {
         "period": "2026-10",
-        "total": 2344,
+        "total": 2348,
         "by_niche": {
           "auto_bali": 43,
           "banya_bali": 3,
@@ -2322,18 +2324,18 @@
           "bikes_bali": 455,
           "games_bali": 144,
           "handyman_bali": 54,
-          "housing_bali": 1255,
-          "massage_bali": 33,
+          "housing_bali": 1257,
+          "massage_bali": 34,
           "photo_bali": 38,
           "transfer_bali": 126,
-          "video_bali": 13,
+          "video_bali": 14,
           "visa_bali": 47,
           "wedding_bali": 5
         },
         "housing": {
-          "rent": 685,
+          "rent": 686,
           "roommate": 217,
-          "offer": 353
+          "offer": 354
         },
         "partial": true
       }
@@ -2382,7 +2384,7 @@
         "count": 54
       }
     ],
-    "geo_unknown": 290,
+    "geo_unknown": 291,
     "budget_idr": {
       "n": 794,
       "p25": 10000000,
@@ -2391,6 +2393,18 @@
     }
   },
   "ticker": [
+    {
+      "niche": "massage_bali",
+      "at": "2026-10-19T22:30",
+      "geo": "Чангу",
+      "text": "А есть тут или кто может посоветует профессиональный йони массаж в районе Чангу."
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-19T22:30",
+      "subtype": "rent",
+      "text": "Вопрос: как и где узнавать про закрытые вечеринки/тусовки? Не в клубах с туристами, а для своих? В прошлый раз, когда жила здесь как-то виллы снимали в разных…"
+    },
     {
       "niche": "transfer_bali",
       "at": "2026-10-19T21:30",
@@ -2568,17 +2582,6 @@
       "at": "2026-10-19T17:15",
       "geo": "Семиньяк",
       "text": "Всем привет! Можете, пожалуйста, поделиться опытом, мне нужно из Семиньяка проделать путь до Убуда, по карте показывает около 19км, граб показывает где-то час…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-19T17:15",
-      "geo": "Меласти",
-      "text": "Hi😉I need a [имя] 2026🛵New or with a mileage of up to 3000 kilometers, without scratches and scuffs on the body and plastic!Location in Melasti! Do I need a…"
-    },
-    {
-      "niche": "transfer_bali",
-      "at": "2026-10-19T17:00",
-      "text": "Есть тут водители,нужно документы отвезти,напишите пожалуйста мне"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2747,7 +2750,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 956,
+    "villa": 957,
     "house": 69,
     "room": 139,
     "apartment": 46,
@@ -2778,7 +2781,7 @@
         40,
         42,
         27,
-        20,
+        24,
         18
       ],
       [
@@ -3883,7 +3886,7 @@
           19,
           28,
           18,
-          14,
+          16,
           7
         ],
         [
@@ -4067,7 +4070,7 @@
           6,
           0,
           2,
-          1,
+          2,
           0
         ],
         [
