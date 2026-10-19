@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-20T02:52:35.458591+08:00",
-  "all_time_total": 6380,
-  "last_30d_total": 3555,
+  "generated_at": "2026-10-20T03:53:28.301681+08:00",
+  "all_time_total": 6383,
+  "last_30d_total": 3558,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 191,
-      "all_time": 416
+      "last_30d": 192,
+      "all_time": 417
     },
     {
       "niche": "handyman_bali",
@@ -63,14 +63,14 @@
     {
       "niche": "photo_bali",
       "label": "📸 Фотограф",
-      "last_30d": 61,
-      "all_time": 183
+      "last_30d": 62,
+      "all_time": 184
     },
     {
       "niche": "auto_bali",
       "label": "🚙 Аренда авто",
-      "last_30d": 59,
-      "all_time": 121
+      "last_30d": 60,
+      "all_time": 122
     },
     {
       "niche": "massage_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2362
+      "total": 2365
     }
   ],
   "system": {
-    "messages_scanned_total": 1265808,
-    "messages_scanned_30d": 897550,
-    "noise_filtered_total": 667245,
-    "noise_filtered_30d": 550285,
-    "lead_sightings_total": 10350,
+    "messages_scanned_total": 1267168,
+    "messages_scanned_30d": 898910,
+    "noise_filtered_total": 668061,
+    "noise_filtered_30d": 551101,
+    "lead_sightings_total": 10353,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1886,12 +1886,14 @@
       },
       {
         "period": "2026-10-20",
-        "total": 10,
+        "total": 13,
         "by_niche": {
+          "auto_bali": 1,
           "beauty_bali": 1,
           "bikes_bali": 2,
           "housing_bali": 6,
-          "transfer_bali": 1
+          "photo_bali": 1,
+          "transfer_bali": 2
         },
         "housing": {
           "rent": 4,
@@ -2224,16 +2226,17 @@
       },
       {
         "period": "2026-10-19",
-        "total": 130,
+        "total": 133,
         "by_niche": {
-          "auto_bali": 3,
+          "auto_bali": 4,
           "beauty_bali": 11,
           "bikes_bali": 24,
           "games_bali": 2,
           "handyman_bali": 3,
           "housing_bali": 72,
           "massage_bali": 1,
-          "transfer_bali": 11,
+          "photo_bali": 1,
+          "transfer_bali": 12,
           "video_bali": 2,
           "wedding_bali": 1
         },
@@ -2317,9 +2320,9 @@
       },
       {
         "period": "2026-10",
-        "total": 2362,
+        "total": 2365,
         "by_niche": {
-          "auto_bali": 43,
+          "auto_bali": 44,
           "banya_bali": 3,
           "beauty_bali": 129,
           "bikes_bali": 457,
@@ -2327,8 +2330,8 @@
           "handyman_bali": 54,
           "housing_bali": 1267,
           "massage_bali": 34,
-          "photo_bali": 38,
-          "transfer_bali": 127,
+          "photo_bali": 39,
+          "transfer_bali": 128,
           "video_bali": 14,
           "visa_bali": 47,
           "wedding_bali": 5
@@ -2394,6 +2397,23 @@
     }
   },
   "ticker": [
+    {
+      "niche": "auto_bali",
+      "at": "2026-10-20T03:30",
+      "geo": "Убуд",
+      "budget_m": 1,
+      "text": "Ребята! Завтра 20 окт в 12:00 бронируем машину и выезжаем в Убуду (Рисовые террасы Тегенунган. Лес обезьян) 🙋♀️Нас 2 девочек. Ищем еще 2 чел. 🚘за аренду машины…"
+    },
+    {
+      "niche": "transfer_bali",
+      "at": "2026-10-20T03:00",
+      "text": "Где взять русского водителя"
+    },
+    {
+      "niche": "photo_bali",
+      "at": "2026-10-20T02:45",
+      "text": "Привет, всем😀 Ищу фотографа на Бали. Буду с 23 октября по 3 ноября. Пишите 😉"
+    },
     {
       "niche": "transfer_bali",
       "at": "2026-10-20T02:30",
@@ -2571,23 +2591,6 @@
       "at": "2026-10-19T20:15",
       "subtype": "rent",
       "text": "Добрый день всем в этом чате! подскажите, пожалуйста, кто знает, где лучше всего искать жилье на бали не посуточно, а помесячно? какие есть надежные ресурсы,…"
-    },
-    {
-      "niche": "auto_bali",
-      "at": "2026-10-19T20:00",
-      "text": "Добрый день. Подскажите пожалуйста как происходит аренда машины с водителем. Вопрос в доплатах за отдаленные районы. Надо будет оплачивать зону высадки и зону…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-19T20:00",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "text": "Всем привет, Чангу, ищу жилье с 6 ноября, если у кого то еще есть варианты, скажите пожалуйста"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-10-19T19:45",
-      "text": "Кто сможет снять нарощенные волосы ? Сделать покраску и стрижка"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2793,8 +2796,8 @@
       [
         30,
         13,
-        7,
-        6,
+        8,
+        8,
         5,
         4,
         4,
@@ -2979,7 +2982,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0,
           0,
@@ -4266,7 +4269,7 @@
         [
           1,
           0,
-          0,
+          1,
           1,
           0,
           0,
@@ -4451,7 +4454,7 @@
           2,
           2,
           1,
-          0,
+          1,
           0,
           1,
           0,
