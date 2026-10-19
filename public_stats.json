@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-20T05:55:15.643047+08:00",
-  "all_time_total": 6387,
-  "last_30d_total": 3562,
+  "generated_at": "2026-10-20T06:56:09.052646+08:00",
+  "all_time_total": 6388,
+  "last_30d_total": 3563,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -39,8 +39,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 205,
-      "all_time": 389
+      "last_30d": 206,
+      "all_time": 390
     },
     {
       "niche": "transfer_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2369
+      "total": 2370
     }
   ],
   "system": {
-    "messages_scanned_total": 1269115,
-    "messages_scanned_30d": 900857,
-    "noise_filtered_total": 669375,
-    "noise_filtered_30d": 552415,
-    "lead_sightings_total": 10358,
+    "messages_scanned_total": 1269475,
+    "messages_scanned_30d": 901217,
+    "noise_filtered_total": 669570,
+    "noise_filtered_30d": 552610,
+    "lead_sightings_total": 10359,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1886,10 +1886,10 @@
       },
       {
         "period": "2026-10-20",
-        "total": 17,
+        "total": 18,
         "by_niche": {
           "auto_bali": 1,
-          "beauty_bali": 1,
+          "beauty_bali": 2,
           "bikes_bali": 2,
           "housing_bali": 10,
           "photo_bali": 1,
@@ -2226,10 +2226,10 @@
       },
       {
         "period": "2026-10-19",
-        "total": 137,
+        "total": 138,
         "by_niche": {
           "auto_bali": 4,
-          "beauty_bali": 11,
+          "beauty_bali": 12,
           "bikes_bali": 24,
           "games_bali": 2,
           "handyman_bali": 3,
@@ -2320,11 +2320,11 @@
       },
       {
         "period": "2026-10",
-        "total": 2369,
+        "total": 2370,
         "by_niche": {
           "auto_bali": 44,
           "banya_bali": 3,
-          "beauty_bali": 129,
+          "beauty_bali": 130,
           "bikes_bali": 457,
           "games_bali": 144,
           "handyman_bali": 54,
@@ -2397,6 +2397,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-20T06:45",
+      "text": "Здравствуйте, подскажите пожалуйста барбершоп на Бали? Только не местные"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-20T05:15",
@@ -2588,12 +2593,6 @@
       "subtype": "rent",
       "geo": "Чангу",
       "text": "Ищу виллу Чангу, берава 2 спальни, 2 ванные с 1 ноября на месяц"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-19T20:45",
-      "geo": "Чангу",
-      "text": "Всем привет , подскажите, где лучше и дешевле арендовать байк на пару дней И где можно обучиться вождению недорого Чангу"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2803,7 +2802,7 @@
         8,
         8,
         5,
-        4,
+        5,
         5,
         16,
         10,
@@ -3172,7 +3171,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0,
           0,
