@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-21T01:13:11.458895+08:00",
-  "all_time_total": 6499,
-  "last_30d_total": 3575,
+  "generated_at": "2026-10-21T02:14:07.136852+08:00",
+  "all_time_total": 6500,
+  "last_30d_total": 3576,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -39,8 +39,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 206,
-      "all_time": 394
+      "last_30d": 207,
+      "all_time": 395
     },
     {
       "niche": "transfer_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2483
+      "total": 2484
     }
   ],
   "system": {
-    "messages_scanned_total": 1297528,
-    "messages_scanned_30d": 919655,
-    "noise_filtered_total": 687242,
-    "noise_filtered_30d": 567905,
-    "lead_sightings_total": 10508,
+    "messages_scanned_total": 1299393,
+    "messages_scanned_30d": 921520,
+    "noise_filtered_total": 688451,
+    "noise_filtered_30d": 569114,
+    "lead_sightings_total": 10514,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1894,8 +1894,9 @@
       },
       {
         "period": "2026-10-21",
-        "total": 4,
+        "total": 5,
         "by_niche": {
+          "beauty_bali": 1,
           "games_bali": 1,
           "housing_bali": 3
         },
@@ -2230,10 +2231,10 @@
       },
       {
         "period": "2026-10-19",
-        "total": 253,
+        "total": 254,
         "by_niche": {
           "auto_bali": 8,
-          "beauty_bali": 16,
+          "beauty_bali": 17,
           "bikes_bali": 52,
           "games_bali": 8,
           "handyman_bali": 5,
@@ -2325,11 +2326,11 @@
       },
       {
         "period": "2026-10",
-        "total": 2483,
+        "total": 2484,
         "by_niche": {
           "auto_bali": 48,
           "banya_bali": 3,
-          "beauty_bali": 134,
+          "beauty_bali": 135,
           "bikes_bali": 485,
           "games_bali": 150,
           "handyman_bali": 56,
@@ -2402,6 +2403,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-21T01:45",
+      "text": "Тебе брови нужны новые? 🙈"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-21T01:00",
@@ -2586,11 +2592,6 @@
       "niche": "transfer_bali",
       "at": "2026-10-20T19:00",
       "text": "Добрый вечер✨ Будте добры🙏🏽поделитесь контактом надежного водителя , который повозит по нужным локациям , подождет и привезет обратно"
-    },
-    {
-      "niche": "photo_bali",
-      "at": "2026-10-20T19:00",
-      "text": "Здравствуйте, ищем фотографа для романтической фотосессии? На 6.11 интересуют красивые локации на рассвете. Оплатить сможем в долларах (нал), рупий (нал) или…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2821,7 +2822,7 @@
       ],
       [
         19,
-        11,
+        12,
         11,
         10,
         12,
@@ -3190,7 +3191,7 @@
         ],
         [
           3,
-          0,
+          1,
           1,
           0,
           0,
