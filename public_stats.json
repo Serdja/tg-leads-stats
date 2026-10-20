@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-21T06:17:52.290354+08:00",
-  "all_time_total": 6507,
-  "last_30d_total": 3583,
+  "generated_at": "2026-10-21T07:18:48.130145+08:00",
+  "all_time_total": 6508,
+  "last_30d_total": 3584,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 187,
-      "all_time": 420
+      "last_30d": 188,
+      "all_time": 421
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2491
+      "total": 2492
     }
   ],
   "system": {
-    "messages_scanned_total": 1304008,
-    "messages_scanned_30d": 926135,
-    "noise_filtered_total": 691436,
-    "noise_filtered_30d": 572099,
-    "lead_sightings_total": 10525,
+    "messages_scanned_total": 1304472,
+    "messages_scanned_30d": 926599,
+    "noise_filtered_total": 691634,
+    "noise_filtered_30d": 572297,
+    "lead_sightings_total": 10537,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1894,12 +1894,13 @@
       },
       {
         "period": "2026-10-21",
-        "total": 12,
+        "total": 13,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 1,
           "games_bali": 1,
-          "housing_bali": 9
+          "housing_bali": 9,
+          "transfer_bali": 1
         },
         "housing": {
           "rent": 7,
@@ -2232,7 +2233,7 @@
       },
       {
         "period": "2026-10-19",
-        "total": 261,
+        "total": 262,
         "by_niche": {
           "auto_bali": 8,
           "beauty_bali": 17,
@@ -2242,7 +2243,7 @@
           "housing_bali": 135,
           "massage_bali": 6,
           "photo_bali": 5,
-          "transfer_bali": 15,
+          "transfer_bali": 16,
           "video_bali": 4,
           "visa_bali": 4,
           "wedding_bali": 1
@@ -2327,7 +2328,7 @@
       },
       {
         "period": "2026-10",
-        "total": 2491,
+        "total": 2492,
         "by_niche": {
           "auto_bali": 48,
           "banya_bali": 3,
@@ -2338,7 +2339,7 @@
           "housing_bali": 1328,
           "massage_bali": 39,
           "photo_bali": 43,
-          "transfer_bali": 131,
+          "transfer_bali": 132,
           "video_bali": 16,
           "visa_bali": 51,
           "wedding_bali": 5
@@ -2404,6 +2405,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "transfer_bali",
+      "at": "2026-10-21T06:15",
+      "text": "Подскажите плиз как ситуация с топливом?))) граб такси работает штатно?? Цены не взвинтили?₽"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-21T05:30",
@@ -2592,11 +2598,6 @@
       "geo": "Букит",
       "budget_m": 4,
       "text": "Освобождается половина дома. Ищу соседа/соседку. Кутух (Букит), свой санузел, общая кухня и общая зона. Кондиционеры в обоих спальнях. До пляжа Нуса Дуа 15…"
-    },
-    {
-      "niche": "visa_bali",
-      "at": "2026-10-20T19:45",
-      "text": "Подскажите пожалуйста агенство, где можно продлить визу по истечению 2 месяцев пребывания"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2832,7 +2833,7 @@
         10,
         17,
         10,
-        8,
+        9,
         10,
         22,
         28,
@@ -4489,7 +4490,7 @@
           0,
           0,
           0,
-          0,
+          1,
           1,
           0,
           0,
