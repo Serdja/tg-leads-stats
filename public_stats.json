@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-20T16:04:39.340688+08:00",
-  "all_time_total": 6439,
-  "last_30d_total": 3614,
+  "generated_at": "2026-10-20T17:05:37.479268+08:00",
+  "all_time_total": 6442,
+  "last_30d_total": 3617,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1922,
-      "all_time": 2794,
+      "last_30d": 1923,
+      "all_time": 2795,
       "subtypes": {
         "rent": {
-          "last_30d": 1018,
-          "all_time": 1443
+          "last_30d": 1019,
+          "all_time": 1444
         },
         "roommate": {
           "last_30d": 344,
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 707,
-      "all_time": 1446
+      "last_30d": 708,
+      "all_time": 1447
     },
     {
       "niche": "games_bali",
@@ -81,8 +81,8 @@
     {
       "niche": "video_bali",
       "label": "🎥 Видеограф",
-      "last_30d": 17,
-      "all_time": 43
+      "last_30d": 18,
+      "all_time": 44
     },
     {
       "niche": "banya_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2422
+      "total": 2425
     }
   ],
   "system": {
-    "messages_scanned_total": 1278071,
-    "messages_scanned_30d": 909813,
-    "noise_filtered_total": 674776,
-    "noise_filtered_30d": 557816,
-    "lead_sightings_total": 10437,
+    "messages_scanned_total": 1280446,
+    "messages_scanned_30d": 912188,
+    "noise_filtered_total": 676344,
+    "noise_filtered_30d": 559384,
+    "lead_sightings_total": 10438,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1627,14 +1627,14 @@
       },
       {
         "period": "2026-10-08",
-        "total": 127,
+        "total": 126,
         "by_niche": {
           "auto_bali": 3,
           "beauty_bali": 8,
           "bikes_bali": 26,
           "games_bali": 4,
           "handyman_bali": 1,
-          "housing_bali": 65,
+          "housing_bali": 64,
           "massage_bali": 2,
           "photo_bali": 3,
           "transfer_bali": 9,
@@ -1644,7 +1644,7 @@
         "housing": {
           "rent": 21,
           "roommate": 18,
-          "offer": 26
+          "offer": 25
         }
       },
       {
@@ -1886,22 +1886,23 @@
       },
       {
         "period": "2026-10-20",
-        "total": 70,
+        "total": 74,
         "by_niche": {
           "auto_bali": 3,
           "beauty_bali": 4,
-          "bikes_bali": 17,
+          "bikes_bali": 18,
           "games_bali": 1,
-          "housing_bali": 35,
+          "housing_bali": 37,
           "massage_bali": 2,
           "photo_bali": 3,
           "transfer_bali": 2,
+          "video_bali": 1,
           "visa_bali": 3
         },
         "housing": {
-          "rent": 25,
+          "rent": 26,
           "roommate": 6,
-          "offer": 4
+          "offer": 5
         }
       }
     ],
@@ -2181,14 +2182,14 @@
       },
       {
         "period": "2026-10-05",
-        "total": 838,
+        "total": 837,
         "by_niche": {
           "auto_bali": 15,
           "beauty_bali": 49,
           "bikes_bali": 176,
           "games_bali": 52,
           "handyman_bali": 14,
-          "housing_bali": 415,
+          "housing_bali": 414,
           "massage_bali": 15,
           "photo_bali": 23,
           "transfer_bali": 55,
@@ -2199,7 +2200,7 @@
         "housing": {
           "rent": 184,
           "roommate": 93,
-          "offer": 138
+          "offer": 137
         },
         "partial": false
       },
@@ -2229,25 +2230,25 @@
       },
       {
         "period": "2026-10-19",
-        "total": 190,
+        "total": 194,
         "by_niche": {
           "auto_bali": 6,
           "beauty_bali": 14,
-          "bikes_bali": 39,
+          "bikes_bali": 40,
           "games_bali": 3,
           "handyman_bali": 3,
-          "housing_bali": 101,
+          "housing_bali": 103,
           "massage_bali": 3,
           "photo_bali": 3,
           "transfer_bali": 12,
-          "video_bali": 2,
+          "video_bali": 3,
           "visa_bali": 3,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 69,
+          "rent": 70,
           "roommate": 7,
-          "offer": 25
+          "offer": 26
         },
         "partial": true
       }
@@ -2324,24 +2325,24 @@
       },
       {
         "period": "2026-10",
-        "total": 2422,
+        "total": 2425,
         "by_niche": {
           "auto_bali": 46,
           "banya_bali": 3,
           "beauty_bali": 132,
-          "bikes_bali": 472,
+          "bikes_bali": 473,
           "games_bali": 145,
           "handyman_bali": 54,
-          "housing_bali": 1296,
+          "housing_bali": 1297,
           "massage_bali": 36,
           "photo_bali": 41,
           "transfer_bali": 128,
-          "video_bali": 14,
+          "video_bali": 15,
           "visa_bali": 50,
           "wedding_bali": 5
         },
         "housing": {
-          "rent": 715,
+          "rent": 716,
           "roommate": 223,
           "offer": 358
         },
@@ -2392,7 +2393,7 @@
         "count": 53
       }
     ],
-    "geo_unknown": 291,
+    "geo_unknown": 292,
     "budget_idr": {
       "n": 796,
       "p25": 10000000,
@@ -2401,6 +2402,17 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-20T16:15",
+      "geo": "Берава",
+      "text": "need red or brown adv for monthly rent to berawa"
+    },
+    {
+      "niche": "video_bali",
+      "at": "2026-10-20T16:00",
+      "text": "Требуется: видеограф (сьемка на мобильный телефон) Надо: в репортажном жанре поснимать практику на фестивале, занятость 1,5-2 часа, без монтажа Оплата:…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-20T16:00",
@@ -2582,16 +2594,6 @@
       "niche": "auto_bali",
       "at": "2026-10-20T11:30",
       "text": "сколько стоит аренда машины(самой простой) в месяц в среднем ?"
-    },
-    {
-      "niche": "auto_bali",
-      "at": "2026-10-20T11:15",
-      "text": "Где недорого арендовать машину? Посоветуйте контакты"
-    },
-    {
-      "niche": "visa_bali",
-      "at": "2026-10-20T11:00",
-      "text": "Здравствуйте, сделали продление визы онлайн , нужно сфоткаться в имиграционке, кто делал подскажите долго там , сколько примерно времени закладывать ?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2762,7 +2764,7 @@
   "housing_types_30d": {
     "villa": 960,
     "house": 68,
-    "room": 136,
+    "room": 137,
     "apartment": 46,
     "unknown": 152
   },
@@ -2811,7 +2813,7 @@
         48,
         37,
         33,
-        38,
+        42,
         28,
         21,
         27,
@@ -2862,7 +2864,7 @@
         37,
         39,
         33,
-        49,
+        48,
         38,
         36,
         15,
@@ -3364,7 +3366,7 @@
           14,
           3,
           10,
-          9,
+          10,
           6,
           4,
           9,
@@ -3916,7 +3918,7 @@
           27,
           25,
           14,
-          26,
+          28,
           12,
           9,
           7,
@@ -3967,7 +3969,7 @@
           14,
           18,
           18,
-          30,
+          29,
           18,
           24,
           5,
