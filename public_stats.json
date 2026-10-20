@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-20T21:09:28.988282+08:00",
-  "all_time_total": 6474,
-  "last_30d_total": 3649,
+  "generated_at": "2026-10-20T22:10:24.595120+08:00",
+  "all_time_total": 6480,
+  "last_30d_total": 3655,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 715,
-      "all_time": 1454
+      "last_30d": 719,
+      "all_time": 1458
     },
     {
       "niche": "games_bali",
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 194,
-      "all_time": 419
+      "last_30d": 195,
+      "all_time": 420
     },
     {
       "niche": "handyman_bali",
@@ -81,8 +81,8 @@
     {
       "niche": "video_bali",
       "label": "🎥 Видеограф",
-      "last_30d": 18,
-      "all_time": 44
+      "last_30d": 19,
+      "all_time": 45
     },
     {
       "niche": "banya_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2458
+      "total": 2464
     }
   ],
   "system": {
-    "messages_scanned_total": 1289205,
-    "messages_scanned_30d": 920947,
-    "noise_filtered_total": 682069,
-    "noise_filtered_30d": 565109,
-    "lead_sightings_total": 10466,
+    "messages_scanned_total": 1291470,
+    "messages_scanned_30d": 923212,
+    "noise_filtered_total": 683561,
+    "noise_filtered_30d": 566601,
+    "lead_sightings_total": 10473,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1886,18 +1886,18 @@
       },
       {
         "period": "2026-10-20",
-        "total": 107,
+        "total": 113,
         "by_niche": {
           "auto_bali": 5,
           "beauty_bali": 5,
-          "bikes_bali": 25,
+          "bikes_bali": 29,
           "games_bali": 3,
           "handyman_bali": 1,
           "housing_bali": 51,
           "massage_bali": 3,
           "photo_bali": 5,
-          "transfer_bali": 4,
-          "video_bali": 1,
+          "transfer_bali": 5,
+          "video_bali": 2,
           "visa_bali": 4
         },
         "housing": {
@@ -2231,18 +2231,18 @@
       },
       {
         "period": "2026-10-19",
-        "total": 227,
+        "total": 233,
         "by_niche": {
           "auto_bali": 8,
           "beauty_bali": 15,
-          "bikes_bali": 47,
+          "bikes_bali": 51,
           "games_bali": 5,
           "handyman_bali": 4,
           "housing_bali": 117,
           "massage_bali": 4,
           "photo_bali": 5,
-          "transfer_bali": 14,
-          "video_bali": 3,
+          "transfer_bali": 15,
+          "video_bali": 4,
           "visa_bali": 4,
           "wedding_bali": 1
         },
@@ -2326,19 +2326,19 @@
       },
       {
         "period": "2026-10",
-        "total": 2458,
+        "total": 2464,
         "by_niche": {
           "auto_bali": 48,
           "banya_bali": 3,
           "beauty_bali": 133,
-          "bikes_bali": 480,
+          "bikes_bali": 484,
           "games_bali": 147,
           "handyman_bali": 55,
           "housing_bali": 1311,
           "massage_bali": 37,
           "photo_bali": 43,
-          "transfer_bali": 130,
-          "video_bali": 15,
+          "transfer_bali": 131,
+          "video_bali": 16,
           "visa_bali": 51,
           "wedding_bali": 5
         },
@@ -2403,6 +2403,42 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-20T22:00",
+      "geo": "Переренан",
+      "text": "Hello! Looking for montly rent ADV 160 abs Dm please Pererenan"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-20T22:00",
+      "text": "Всем привет , хочу на нусу пениду съездить, возможно ли туда со своим байком ? Как вообще это происходит? Кто ездит или кто знает, что да как ?) Или можно ли…"
+    },
+    {
+      "niche": "video_bali",
+      "at": "2026-10-20T21:45",
+      "text": "Там не те деды, для рилсов нужны беззубые"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-20T21:30",
+      "subtype": "rent",
+      "budget_m": 40,
+      "text": "🐶 Ребята, ищем дом для трёх очаровательных щенков! ❤️ Друзья нашли трёх малышей: одну девочку и двух мальчиков. Сейчас ищем для них любящих и заботливых…"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-20T21:15",
+      "geo": "Чангу",
+      "text": "Looking for a new Yamaha FreeGo for 1 week in Canggu"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-20T21:15",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "text": "Хотим снять виллу в Чангу на месяц может больше, напишите пожалуйста кто ищет соседей. Так же можем рассмотреть вариант совместного поиска !"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-10-20T20:45",
@@ -2550,39 +2586,6 @@
       "niche": "bikes_bali",
       "at": "2026-10-20T17:00",
       "text": "Hi!I need a Yamaha n max neo !New or with a mileage of up to ODO 3000 kilometers, without scratches and scuffs on the body and plastic!Location in Canguu ! Do…"
-    },
-    {
-      "niche": "massage_bali",
-      "at": "2026-10-20T17:00",
-      "geo": "Убуд",
-      "text": "Всем привет! Подскажите, где можно сходить на тантрический массаж, б2б, и прочее, в Убуде? Спрашиваю чисто для друга)"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-20T16:15",
-      "geo": "Берава",
-      "text": "need red or brown adv for monthly rent to berawa"
-    },
-    {
-      "niche": "video_bali",
-      "at": "2026-10-20T16:00",
-      "text": "Требуется: видеограф (сьемка на мобильный телефон) Надо: в репортажном жанре поснимать практику на фестивале, занятость 1,5-2 часа, без монтажа Оплата:…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-20T16:00",
-      "subtype": "rent",
-      "text": "Нужно помыть окна в двухкомнатной квартире (3 этаж). Плачу 2000 рублей."
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-20T16:00",
-      "text": "Всем привет! Подскажите, а по какой схеме покупаются мотоциклы в личное пользование? На местного человека или можно и на себя каким-то образом?"
-    },
-    {
-      "niche": "massage_bali",
-      "at": "2026-10-20T15:15",
-      "text": "Привет, какой именно массаж нужен? У меня есть русская знакомая, которая делает профессиональные массажи лица и тела"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2807,8 +2810,8 @@
         27,
         39,
         41,
-        30,
-        31,
+        34,
+        33,
         15
       ],
       [
@@ -3360,8 +3363,8 @@
           6,
           10,
           9,
-          8,
-          2,
+          10,
+          4,
           2
         ],
         [
@@ -4464,7 +4467,7 @@
           1,
           4,
           3,
-          1,
+          2,
           2,
           1
         ],
