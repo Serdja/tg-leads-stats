@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T04:42:53.527950+08:00",
+  "generated_at": "2026-10-22T05:43:49.634639+08:00",
   "all_time_total": 6614,
   "last_30d_total": 3588,
   "by_niche": [
@@ -130,10 +130,10 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 1337562,
-    "messages_scanned_30d": 949765,
-    "noise_filtered_total": 712254,
-    "noise_filtered_30d": 589997,
+    "messages_scanned_total": 1338620,
+    "messages_scanned_30d": 950823,
+    "noise_filtered_total": 712802,
+    "noise_filtered_30d": 590545,
     "lead_sightings_total": 10684,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
@@ -2413,6 +2413,12 @@
   "ticker": [
     {
       "niche": "housing_bali",
+      "at": "2026-10-22T04:45",
+      "subtype": "rent",
+      "text": "Кто будет на Бали с 23 января по апрель и хочет вместе снять квартиру/домик?) Мужчина/женщина не важно Я айтишник-удаленщик, спортивная, позитивная, носки не…"
+    },
+    {
+      "niche": "housing_bali",
       "at": "2026-10-22T02:15",
       "subtype": "rent",
       "geo": "Сесех",
@@ -2604,13 +2610,6 @@
       "niche": "bikes_bali",
       "at": "2026-10-21T19:15",
       "text": "Че за хрень в группе «байки на Бали» нужно заплатить, чтобы написать в чат... кто знает че за прикол?)"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-21T18:45",
-      "subtype": "rent",
-      "geo": "Убуд",
-      "text": "Добрый день, подскажите, пожалуйста, со скольки часов работает этот офис? На Бали форуме написано, что с 7:30 утра, но на Гугл картах с 8 утра. Так же хотел бы…"
     }
   ],
   "housing_budget_by_geo_90d": [
