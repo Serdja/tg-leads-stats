@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-21T22:37:14.069041+08:00",
-  "all_time_total": 6600,
-  "last_30d_total": 3676,
+  "generated_at": "2026-10-21T23:38:10.397568+08:00",
+  "all_time_total": 6601,
+  "last_30d_total": 3677,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 719,
-      "all_time": 1479
+      "last_30d": 720,
+      "all_time": 1480
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2586
+      "total": 2587
     }
   ],
   "system": {
-    "messages_scanned_total": 1326788,
-    "messages_scanned_30d": 948915,
-    "noise_filtered_total": 705033,
-    "noise_filtered_30d": 585696,
-    "lead_sightings_total": 10660,
+    "messages_scanned_total": 1328905,
+    "messages_scanned_30d": 951032,
+    "noise_filtered_total": 706415,
+    "noise_filtered_30d": 587078,
+    "lead_sightings_total": 10663,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1894,11 +1894,11 @@
       },
       {
         "period": "2026-10-21",
-        "total": 108,
+        "total": 109,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 4,
-          "bikes_bali": 20,
+          "bikes_bali": 21,
           "games_bali": 2,
           "handyman_bali": 1,
           "housing_bali": 71,
@@ -2238,11 +2238,11 @@
       },
       {
         "period": "2026-10-19",
-        "total": 356,
+        "total": 357,
         "by_niche": {
           "auto_bali": 9,
           "beauty_bali": 20,
-          "bikes_bali": 72,
+          "bikes_bali": 73,
           "games_bali": 9,
           "handyman_bali": 6,
           "housing_bali": 196,
@@ -2333,12 +2333,12 @@
       },
       {
         "period": "2026-10",
-        "total": 2586,
+        "total": 2587,
         "by_niche": {
           "auto_bali": 49,
           "banya_bali": 3,
           "beauty_bali": 138,
-          "bikes_bali": 505,
+          "bikes_bali": 506,
           "games_bali": 151,
           "handyman_bali": 57,
           "housing_bali": 1389,
@@ -2410,6 +2410,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-21T23:00",
+      "text": "Получается мне раз в месяц нужно новый байк покупать😂"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-21T22:30",
@@ -2603,12 +2608,6 @@
       "subtype": "rent",
       "geo": "Керобокан",
       "text": "Ищу мастера: Глубокий массаж лица 💆♀️ Привет! Ищу профессионального русскоязычного мастера по глубокому скульптурному, фасциальному или миопластическому…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-21T17:00",
-      "subtype": "rent",
-      "geo": "Керобокан"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2861,7 +2860,7 @@
         30,
         24,
         24,
-        15
+        16
       ],
       [
         12,
@@ -3414,7 +3413,7 @@
           3,
           3,
           5,
-          2
+          3
         ],
         [
           2,
