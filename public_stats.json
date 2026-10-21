@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-21T09:55:08.343854+08:00",
-  "all_time_total": 6511,
-  "last_30d_total": 3587,
+  "generated_at": "2026-10-21T10:19:21.450836+08:00",
+  "all_time_total": 6515,
+  "last_30d_total": 3591,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1906,
-      "all_time": 2827,
+      "last_30d": 1908,
+      "all_time": 2829,
       "subtypes": {
         "rent": {
           "last_30d": 1015,
@@ -19,16 +19,16 @@
           "all_time": 474
         },
         "offer": {
-          "last_30d": 559,
-          "all_time": 887
+          "last_30d": 561,
+          "all_time": 889
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 701,
-      "all_time": 1461
+      "last_30d": 703,
+      "all_time": 1463
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2495
+      "total": 2499
     }
   ],
   "system": {
-    "messages_scanned_total": 1304760,
-    "messages_scanned_30d": 926887,
-    "noise_filtered_total": 691751,
-    "noise_filtered_30d": 572414,
-    "lead_sightings_total": 10540,
+    "messages_scanned_total": 1305306,
+    "messages_scanned_30d": 927433,
+    "noise_filtered_total": 691902,
+    "noise_filtered_30d": 572565,
+    "lead_sightings_total": 10549,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 254
@@ -1894,18 +1894,18 @@
       },
       {
         "period": "2026-10-21",
-        "total": 16,
+        "total": 20,
         "by_niche": {
           "beauty_bali": 1,
-          "bikes_bali": 2,
+          "bikes_bali": 4,
           "games_bali": 1,
-          "housing_bali": 11,
+          "housing_bali": 13,
           "transfer_bali": 1
         },
         "housing": {
           "rent": 8,
           "roommate": 1,
-          "offer": 2
+          "offer": 4
         }
       }
     ],
@@ -2233,14 +2233,14 @@
       },
       {
         "period": "2026-10-19",
-        "total": 265,
+        "total": 269,
         "by_niche": {
           "auto_bali": 8,
           "beauty_bali": 17,
-          "bikes_bali": 54,
+          "bikes_bali": 56,
           "games_bali": 8,
           "handyman_bali": 5,
-          "housing_bali": 137,
+          "housing_bali": 139,
           "massage_bali": 6,
           "photo_bali": 5,
           "transfer_bali": 16,
@@ -2251,7 +2251,7 @@
         "housing": {
           "rent": 94,
           "roommate": 10,
-          "offer": 33
+          "offer": 35
         },
         "partial": true
       }
@@ -2328,15 +2328,15 @@
       },
       {
         "period": "2026-10",
-        "total": 2495,
+        "total": 2499,
         "by_niche": {
           "auto_bali": 48,
           "banya_bali": 3,
           "beauty_bali": 135,
-          "bikes_bali": 487,
+          "bikes_bali": 489,
           "games_bali": 150,
           "handyman_bali": 56,
-          "housing_bali": 1330,
+          "housing_bali": 1332,
           "massage_bali": 39,
           "photo_bali": 43,
           "transfer_bali": 132,
@@ -2347,7 +2347,7 @@
         "housing": {
           "rent": 739,
           "roommate": 226,
-          "offer": 365
+          "offer": 367
         },
         "partial": true
       }
@@ -2405,6 +2405,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-21T10:00",
+      "text": "Hello, I’m looking for adv for monthly"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-10-21T07:30",
@@ -2589,13 +2594,6 @@
       "subtype": "rent",
       "geo": "Чангу",
       "text": "Привет! Мне нужно снять видео виллы и комнат отдельно на телефон; +несколько кадров гостиной и комнат. Работа на 15 минут максимум; Чангу"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-20T20:45",
-      "subtype": "rent",
-      "geo": "Убуд",
-      "text": "Ищу дом в убуде, своя территория, кухня, желательно сад. Кондиционер будет плюсом но не принципиально. Бассейн не нужен, если есть пусть будет, закапывать не…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2715,10 +2713,10 @@
   "housing_offer_price_by_geo_90d": [
     {
       "geo": "Чангу",
-      "n": 106,
+      "n": 107,
       "median": 26000000,
       "p25": 15000000,
-      "p75": 47000000
+      "p75": 48000000
     },
     {
       "geo": "Убуд",
@@ -2736,7 +2734,7 @@
     },
     {
       "geo": "Берава",
-      "n": 33,
+      "n": 34,
       "median": 20000000,
       "p25": 17000000,
       "p75": 48000000
@@ -2834,8 +2832,8 @@
         9,
         13,
         22,
-        28,
-        30,
+        29,
+        33,
         42,
         38,
         33,
@@ -3388,7 +3386,7 @@
           1,
           6,
           6,
-          6,
+          8,
           6,
           11,
           7,
@@ -3939,8 +3937,8 @@
           7,
           11,
           12,
-          18,
           19,
+          20,
           29,
           23,
           19,
