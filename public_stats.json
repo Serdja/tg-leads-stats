@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T05:43:49.634639+08:00",
-  "all_time_total": 6614,
-  "last_30d_total": 3588,
+  "generated_at": "2026-10-22T06:44:44.960215+08:00",
+  "all_time_total": 6615,
+  "last_30d_total": 3589,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1930,
-      "all_time": 2894,
+      "last_30d": 1931,
+      "all_time": 2895,
       "subtypes": {
         "rent": {
-          "last_30d": 1036,
-          "all_time": 1508
+          "last_30d": 1037,
+          "all_time": 1509
         },
         "roommate": {
           "last_30d": 338,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2600
+      "total": 2601
     }
   ],
   "system": {
-    "messages_scanned_total": 1338620,
-    "messages_scanned_30d": 950823,
-    "noise_filtered_total": 712802,
-    "noise_filtered_30d": 590545,
-    "lead_sightings_total": 10684,
+    "messages_scanned_total": 1339172,
+    "messages_scanned_30d": 951375,
+    "noise_filtered_total": 712994,
+    "noise_filtered_30d": 590737,
+    "lead_sightings_total": 10688,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1902,14 +1902,14 @@
       },
       {
         "period": "2026-10-22",
-        "total": 9,
+        "total": 10,
         "by_niche": {
           "bikes_bali": 2,
           "games_bali": 1,
-          "housing_bali": 6
+          "housing_bali": 7
         },
         "housing": {
-          "rent": 1,
+          "rent": 2,
           "roommate": 4,
           "offer": 1
         }
@@ -2239,14 +2239,14 @@
       },
       {
         "period": "2026-10-19",
-        "total": 370,
+        "total": 371,
         "by_niche": {
           "auto_bali": 9,
           "beauty_bali": 20,
           "bikes_bali": 75,
           "games_bali": 10,
           "handyman_bali": 6,
-          "housing_bali": 206,
+          "housing_bali": 207,
           "massage_bali": 7,
           "photo_bali": 7,
           "transfer_bali": 20,
@@ -2255,7 +2255,7 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 136,
+          "rent": 137,
           "roommate": 23,
           "offer": 47
         },
@@ -2334,7 +2334,7 @@
       },
       {
         "period": "2026-10",
-        "total": 2600,
+        "total": 2601,
         "by_niche": {
           "auto_bali": 49,
           "banya_bali": 3,
@@ -2342,7 +2342,7 @@
           "bikes_bali": 508,
           "games_bali": 152,
           "handyman_bali": 57,
-          "housing_bali": 1399,
+          "housing_bali": 1400,
           "massage_bali": 40,
           "photo_bali": 45,
           "transfer_bali": 136,
@@ -2351,7 +2351,7 @@
           "wedding_bali": 5
         },
         "housing": {
-          "rent": 781,
+          "rent": 782,
           "roommate": 239,
           "offer": 379
         },
@@ -2383,7 +2383,7 @@
       },
       {
         "geo": "Букит",
-        "count": 138
+        "count": 139
       },
       {
         "geo": "Семиньяк",
@@ -2395,22 +2395,30 @@
       },
       {
         "geo": "Нуса Дуа",
-        "count": 54
+        "count": 55
       },
       {
         "geo": "Унгасан",
-        "count": 52
+        "count": 53
       }
     ],
     "geo_unknown": 297,
     "budget_idr": {
-      "n": 794,
+      "n": 795,
       "p25": 10000000,
       "median": 17000000,
-      "p75": 25750000
+      "p75": 25500000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-22T05:45",
+      "subtype": "rent",
+      "geo": "Букит",
+      "budget_m": 9,
+      "text": "Всем привет! Ищу жилье! Бюджет до 9 млн Район Букит, Нуса Дуа , унгасан В приоритете апарты/вилла На месяц, ориентир заезда на 12 декабря"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-22T04:45",
@@ -2605,11 +2613,6 @@
       "geo": "Чангу",
       "budget_m": 40,
       "text": "Ищем виллу на месяц: 2–3 спальни, с бассейном 📅 – Прилёт 18-го в 22:00, вылет 19-го поздно вечером 👥 4 взрослых, две пары 📍 Чангу, рядом с [имя] ([имя]'s)…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-21T19:15",
-      "text": "Че за хрень в группе «байки на Бали» нужно заплатить, чтобы написать в чат... кто знает че за прикол?)"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2643,8 +2646,8 @@
     },
     {
       "geo": "Букит",
-      "n": 130,
-      "median": 13500000,
+      "n": 131,
+      "median": 13000000,
       "p25": 9000000,
       "p75": 20000000
     },
@@ -2671,10 +2674,10 @@
     },
     {
       "geo": "Унгасан",
-      "n": 50,
+      "n": 51,
       "median": 12000000,
-      "p25": 7250000,
-      "p75": 15675000
+      "p25": 7500000,
+      "p75": 15450000
     },
     {
       "geo": "Умалас",
@@ -2685,10 +2688,10 @@
     },
     {
       "geo": "Нуса Дуа",
-      "n": 45,
-      "median": 15000000,
-      "p25": 8000000,
-      "p75": 30000000
+      "n": 46,
+      "median": 14000000,
+      "p25": 8250000,
+      "p75": 29250000
     },
     {
       "geo": "Керобокан",
@@ -2778,7 +2781,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 973,
+    "villa": 974,
     "house": 73,
     "room": 128,
     "apartment": 46,
@@ -2870,7 +2873,7 @@
         9,
         7,
         4,
-        4,
+        5,
         2,
         6,
         8,
@@ -3975,7 +3978,7 @@
           4,
           4,
           3,
-          3,
+          4,
           1,
           4,
           4,
