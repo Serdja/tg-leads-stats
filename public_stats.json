@@ -1,69 +1,69 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T23:00:37.663346+08:00",
-  "all_time_total": 6711,
-  "last_30d_total": 3685,
+  "generated_at": "2026-10-23T00:01:35.358845+08:00",
+  "all_time_total": 6715,
+  "last_30d_total": 3570,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1998,
-      "all_time": 2962,
+      "last_30d": 1933,
+      "all_time": 2965,
       "subtypes": {
         "rent": {
-          "last_30d": 1063,
+          "last_30d": 1031,
           "all_time": 1535
         },
         "roommate": {
-          "last_30d": 353,
-          "all_time": 502
+          "last_30d": 341,
+          "all_time": 503
         },
         "offer": {
-          "last_30d": 582,
-          "all_time": 925
+          "last_30d": 561,
+          "all_time": 927
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 708,
+      "last_30d": 683,
       "all_time": 1493
-    },
-    {
-      "niche": "beauty_bali",
-      "label": "💅 Красота",
-      "last_30d": 212,
-      "all_time": 408
     },
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 212,
+      "last_30d": 207,
       "all_time": 376
+    },
+    {
+      "niche": "beauty_bali",
+      "label": "💅 Красота",
+      "last_30d": 204,
+      "all_time": 408
     },
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 183,
+      "last_30d": 178,
       "all_time": 425
     },
     {
       "niche": "handyman_bali",
       "label": "🔧 Мастер на час",
-      "last_30d": 79,
-      "all_time": 252
+      "last_30d": 78,
+      "all_time": 253
     },
     {
       "niche": "visa_bali",
       "label": "📄 Визы",
-      "last_30d": 77,
+      "last_30d": 73,
       "all_time": 197
     },
     {
       "niche": "photo_bali",
       "label": "📸 Фотограф",
-      "last_30d": 66,
+      "last_30d": 65,
       "all_time": 192
     },
     {
@@ -75,7 +75,7 @@
     {
       "niche": "massage_bali",
       "label": "💆 Массаж",
-      "last_30d": 56,
+      "last_30d": 55,
       "all_time": 174
     },
     {
@@ -126,31 +126,21 @@
     },
     {
       "month": "2026-10",
-      "total": 2697
+      "total": 2701
     }
   ],
   "system": {
-    "messages_scanned_total": 1365832,
-    "messages_scanned_30d": 978035,
-    "noise_filtered_total": 729134,
-    "noise_filtered_30d": 606877,
-    "lead_sightings_total": 10842,
+    "messages_scanned_total": 1368091,
+    "messages_scanned_30d": 957936,
+    "noise_filtered_total": 730439,
+    "noise_filtered_30d": 594836,
+    "lead_sightings_total": 10850,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
   },
   "series": {
     "daily": [
-      {
-        "period": "2026-07-25",
-        "total": 0,
-        "by_niche": {},
-        "housing": {
-          "rent": 0,
-          "roommate": 0,
-          "offer": 0
-        }
-      },
       {
         "period": "2026-07-26",
         "total": 5,
@@ -1902,20 +1892,31 @@
       },
       {
         "period": "2026-10-22",
-        "total": 107,
+        "total": 111,
         "by_niche": {
           "beauty_bali": 10,
           "bikes_bali": 13,
           "games_bali": 3,
-          "housing_bali": 75,
+          "handyman_bali": 1,
+          "housing_bali": 78,
           "photo_bali": 2,
           "visa_bali": 2,
           "wedding_bali": 2
         },
         "housing": {
           "rent": 28,
-          "roommate": 19,
-          "offer": 28
+          "roommate": 20,
+          "offer": 30
+        }
+      },
+      {
+        "period": "2026-10-23",
+        "total": 0,
+        "by_niche": {},
+        "housing": {
+          "rent": 0,
+          "roommate": 0,
+          "offer": 0
         }
       }
     ],
@@ -2243,14 +2244,14 @@
       },
       {
         "period": "2026-10-19",
-        "total": 468,
+        "total": 472,
         "by_niche": {
           "auto_bali": 9,
           "beauty_bali": 30,
           "bikes_bali": 86,
           "games_bali": 12,
-          "handyman_bali": 6,
-          "housing_bali": 275,
+          "handyman_bali": 7,
+          "housing_bali": 278,
           "massage_bali": 7,
           "photo_bali": 9,
           "transfer_bali": 20,
@@ -2260,8 +2261,8 @@
         },
         "housing": {
           "rent": 163,
-          "roommate": 38,
-          "offer": 74
+          "roommate": 39,
+          "offer": 76
         },
         "partial": true
       }
@@ -2338,15 +2339,15 @@
       },
       {
         "period": "2026-10",
-        "total": 2697,
+        "total": 2701,
         "by_niche": {
           "auto_bali": 49,
           "banya_bali": 3,
           "beauty_bali": 148,
           "bikes_bali": 519,
           "games_bali": 154,
-          "handyman_bali": 57,
-          "housing_bali": 1467,
+          "handyman_bali": 58,
+          "housing_bali": 1470,
           "massage_bali": 40,
           "photo_bali": 47,
           "transfer_bali": 136,
@@ -2356,8 +2357,8 @@
         },
         "housing": {
           "rent": 808,
-          "roommate": 254,
-          "offer": 405
+          "roommate": 255,
+          "offer": 407
         },
         "partial": true
       }
@@ -2367,31 +2368,31 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 571
+        "count": 552
       },
       {
         "geo": "Улувату",
-        "count": 207
+        "count": 203
       },
       {
         "geo": "Переренан",
-        "count": 183
+        "count": 176
       },
       {
         "geo": "Убуд",
-        "count": 174
-      },
-      {
-        "geo": "Сесех",
         "count": 167
       },
       {
+        "geo": "Сесех",
+        "count": 162
+      },
+      {
         "geo": "Букит",
-        "count": 146
+        "count": 142
       },
       {
         "geo": "Семиньяк",
-        "count": 86
+        "count": 85
       },
       {
         "geo": "Берава",
@@ -2406,15 +2407,26 @@
         "count": 53
       }
     ],
-    "geo_unknown": 301,
+    "geo_unknown": 296,
     "budget_idr": {
-      "n": 823,
+      "n": 795,
       "p25": 10000000,
       "median": 17000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-22T23:30",
+      "subtype": "roommate",
+      "text": "Всем привет! мы молодая пара с кошкой-красоткой. ищем пару, которая хочет совместно снять просторную светлую виллу с бассейном, 2-мя спальнями и 2-мя санузлами…"
+    },
+    {
+      "niche": "handyman_bali",
+      "at": "2026-10-22T23:15",
+      "text": "Приветики . нужен муж на час ) дам 5000 за помощь . пишите"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-22T22:45",
@@ -2598,21 +2610,6 @@
       "geo": "Сесех",
       "budget_m": 11,
       "text": "Ищу комнату с ноября 🌿 📍 Район Seseh / Pererenan/Canggu Рассматриваю комнату на вилле 💰 Бюджет: 8-11 млн IDR/месяц 🏡 [имя] меня важно: • светлая, современная…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-22T18:00",
-      "subtype": "roommate",
-      "geo": "Чангу",
-      "budget_m": 8,
-      "text": "Привет ✌🏻 Ищу комнату на вилле/комнату в гесте Чангу Бюджет +- 8 млн Готова в ближайшие дни заезжать"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-22T18:00",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "text": "Ищу 2 комнатную виллу с бассейном в районах: Чангу, Переренан, Сесех"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2788,11 +2785,11 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 1005,
-    "house": 77,
-    "room": 130,
-    "apartment": 49,
-    "unknown": 155
+    "villa": 975,
+    "house": 75,
+    "room": 125,
+    "apartment": 47,
+    "unknown": 150
   },
   "activity_30d": {
     "all": [
@@ -2823,30 +2820,30 @@
         16
       ],
       [
-        30,
-        13,
+        25,
+        9,
         8,
+        7,
         8,
-        8,
+        2,
         5,
-        5,
-        5,
-        17,
-        13,
-        37,
-        38,
-        39,
-        48,
-        37,
+        4,
+        16,
+        11,
+        32,
+        29,
         33,
-        42,
-        35,
-        27,
-        39,
-        41,
+        36,
+        29,
+        29,
+        31,
+        32,
+        22,
         34,
-        42,
-        22
+        29,
+        23,
+        34,
+        19
       ],
       [
         19,
@@ -2898,7 +2895,7 @@
         29,
         47,
         22,
-        10
+        14
       ],
       [
         7,
@@ -3204,17 +3201,17 @@
           0,
           2,
           1,
+          1,
+          1,
           2,
-          2,
+          1,
+          0,
           3,
-          1,
-          1,
-          4,
           1,
           3,
           0,
-          2,
-          6,
+          1,
+          4,
           1
         ],
         [
@@ -3376,8 +3373,8 @@
           3
         ],
         [
-          6,
           4,
+          3,
           1,
           1,
           0,
@@ -3387,17 +3384,17 @@
           3,
           6,
           4,
-          7,
-          14,
-          14,
-          3,
-          10,
-          10,
-          8,
-          6,
-          10,
+          4,
+          13,
           9,
-          10,
+          0,
+          9,
+          6,
+          7,
+          5,
+          9,
+          8,
+          9,
           5,
           2
         ],
@@ -3561,28 +3558,28 @@
         ],
         [
           1,
-          1,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           0,
           1,
-          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           1,
+          2,
           1,
+          0,
           2,
           2,
           1,
           2,
           4,
-          3,
+          2,
           2,
           1,
-          2,
+          1,
           2
         ],
         [
@@ -3763,9 +3760,9 @@
           0,
           1,
           0,
+          0,
+          2,
           1,
-          2,
-          2,
           2,
           0
         ],
@@ -3819,7 +3816,7 @@
           4,
           8,
           0,
-          0
+          1
         ],
         [
           0,
@@ -3928,30 +3925,30 @@
           8
         ],
         [
-          17,
+          14,
           6,
           3,
           3,
           8,
+          1,
           3,
+          4,
+          8,
           3,
-          5,
+          15,
+          13,
+          13,
+          22,
+          22,
+          11,
+          22,
+          13,
           9,
-          5,
-          20,
-          16,
-          16,
-          27,
-          25,
-          14,
-          28,
-          14,
-          12,
-          12,
-          25,
-          16,
-          23,
-          15
+          11,
+          15,
+          8,
+          18,
+          12
         ],
         [
           10,
@@ -4003,7 +4000,7 @@
           19,
           22,
           10,
-          3
+          6
         ],
         [
           6,
@@ -4124,7 +4121,7 @@
           0,
           2,
           1,
-          2,
+          1,
           0,
           0,
           1,
@@ -4299,7 +4296,7 @@
           1,
           0,
           1,
-          1,
+          0,
           0,
           0,
           0,
@@ -4481,26 +4478,26 @@
         ],
         [
           2,
-          2,
-          1,
-          1,
-          0,
-          1,
-          0,
-          0,
-          0,
-          1,
-          4,
-          2,
-          0,
-          0,
-          0,
           0,
           1,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
           1,
           4,
+          2,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
           3,
+          2,
           2,
           2,
           1
@@ -4675,14 +4672,14 @@
           3,
           0,
           2,
-          4,
-          1,
-          0,
+          2,
           1,
           0,
           0,
+          0,
+          0,
           1,
-          1,
+          0,
           1,
           0,
           0,
