@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-24T05:53:01.766209+08:00",
-  "all_time_total": 6838,
-  "last_30d_total": 3599,
+  "generated_at": "2026-10-24T06:53:58.967020+08:00",
+  "all_time_total": 6839,
+  "last_30d_total": 3600,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 182,
-      "all_time": 436
+      "last_30d": 183,
+      "all_time": 437
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2824
+      "total": 2825
     }
   ],
   "system": {
-    "messages_scanned_total": 1411195,
-    "messages_scanned_30d": 971880,
-    "noise_filtered_total": 756142,
-    "noise_filtered_30d": 600760,
-    "lead_sightings_total": 11093,
+    "messages_scanned_total": 1411579,
+    "messages_scanned_30d": 972264,
+    "noise_filtered_total": 756331,
+    "noise_filtered_30d": 600949,
+    "lead_sightings_total": 11095,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1918,12 +1918,12 @@
       },
       {
         "period": "2026-10-24",
-        "total": 12,
+        "total": 13,
         "by_niche": {
           "banya_bali": 1,
           "bikes_bali": 2,
           "housing_bali": 4,
-          "transfer_bali": 4,
+          "transfer_bali": 5,
           "video_bali": 1
         },
         "housing": {
@@ -2257,7 +2257,7 @@
       },
       {
         "period": "2026-10-19",
-        "total": 596,
+        "total": 597,
         "by_niche": {
           "auto_bali": 11,
           "banya_bali": 1,
@@ -2268,7 +2268,7 @@
           "housing_bali": 345,
           "massage_bali": 9,
           "photo_bali": 9,
-          "transfer_bali": 31,
+          "transfer_bali": 32,
           "video_bali": 9,
           "visa_bali": 8,
           "wedding_bali": 3
@@ -2353,7 +2353,7 @@
       },
       {
         "period": "2026-10",
-        "total": 2824,
+        "total": 2825,
         "by_niche": {
           "auto_bali": 51,
           "banya_bali": 4,
@@ -2364,7 +2364,7 @@
           "housing_bali": 1536,
           "massage_bali": 42,
           "photo_bali": 47,
-          "transfer_bali": 147,
+          "transfer_bali": 148,
           "video_bali": 21,
           "visa_bali": 55,
           "wedding_bali": 7
@@ -2430,6 +2430,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "transfer_bali",
+      "at": "2026-10-24T06:15",
+      "text": "Сколько стоит машина с водителем ?"
+    },
     {
       "niche": "transfer_bali",
       "at": "2026-10-24T04:45",
@@ -2607,13 +2612,6 @@
       "niche": "auto_bali",
       "at": "2026-10-23T19:45",
       "text": "здравствуйте! подскажите где можно арендовать машину с водителем на день"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-23T19:45",
-      "geo": "Убуд",
-      "budget_m": 2,
-      "text": "🏍️ Сниму байк в Убуде с 29 октября. Honda ADV / PCX / Yamaha NMAX. Бюджет: до 1,6 млн IDR/месяц. Год не важен, главное — хорошее техническое состояние и…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2934,7 +2932,7 @@
         7,
         5,
         2,
-        3,
+        4,
         4,
         3,
         19,
@@ -4591,7 +4589,7 @@
           1,
           1,
           0,
-          1,
+          2,
           0,
           1,
           1,
