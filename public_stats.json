@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-24T04:52:04.402463+08:00",
-  "all_time_total": 6837,
-  "last_30d_total": 3598,
+  "generated_at": "2026-10-24T05:53:01.766209+08:00",
+  "all_time_total": 6838,
+  "last_30d_total": 3599,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -81,8 +81,8 @@
     {
       "niche": "video_bali",
       "label": "🎥 Видеограф",
-      "last_30d": 22,
-      "all_time": 49
+      "last_30d": 23,
+      "all_time": 50
     },
     {
       "niche": "wedding_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2823
+      "total": 2824
     }
   ],
   "system": {
-    "messages_scanned_total": 1410335,
-    "messages_scanned_30d": 971020,
-    "noise_filtered_total": 755593,
-    "noise_filtered_30d": 600211,
-    "lead_sightings_total": 11090,
+    "messages_scanned_total": 1411195,
+    "messages_scanned_30d": 971880,
+    "noise_filtered_total": 756142,
+    "noise_filtered_30d": 600760,
+    "lead_sightings_total": 11093,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1918,12 +1918,13 @@
       },
       {
         "period": "2026-10-24",
-        "total": 11,
+        "total": 12,
         "by_niche": {
           "banya_bali": 1,
           "bikes_bali": 2,
           "housing_bali": 4,
-          "transfer_bali": 4
+          "transfer_bali": 4,
+          "video_bali": 1
         },
         "housing": {
           "rent": 4,
@@ -2256,7 +2257,7 @@
       },
       {
         "period": "2026-10-19",
-        "total": 595,
+        "total": 596,
         "by_niche": {
           "auto_bali": 11,
           "banya_bali": 1,
@@ -2268,7 +2269,7 @@
           "massage_bali": 9,
           "photo_bali": 9,
           "transfer_bali": 31,
-          "video_bali": 8,
+          "video_bali": 9,
           "visa_bali": 8,
           "wedding_bali": 3
         },
@@ -2352,7 +2353,7 @@
       },
       {
         "period": "2026-10",
-        "total": 2823,
+        "total": 2824,
         "by_niche": {
           "auto_bali": 51,
           "banya_bali": 4,
@@ -2364,7 +2365,7 @@
           "massage_bali": 42,
           "photo_bali": 47,
           "transfer_bali": 147,
-          "video_bali": 20,
+          "video_bali": 21,
           "visa_bali": 55,
           "wedding_bali": 7
         },
@@ -2932,7 +2933,7 @@
         10,
         7,
         5,
-        1,
+        2,
         3,
         4,
         3,
