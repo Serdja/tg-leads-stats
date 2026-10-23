@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-24T03:51:07.279236+08:00",
-  "all_time_total": 6835,
-  "last_30d_total": 3596,
+  "generated_at": "2026-10-24T04:52:04.402463+08:00",
+  "all_time_total": 6837,
+  "last_30d_total": 3598,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1940,
-      "all_time": 3030,
+      "last_30d": 1941,
+      "all_time": 3031,
       "subtypes": {
         "rent": {
-          "last_30d": 1037,
-          "all_time": 1568
+          "last_30d": 1038,
+          "all_time": 1569
         },
         "roommate": {
           "last_30d": 341,
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 181,
-      "all_time": 435
+      "last_30d": 182,
+      "all_time": 436
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2821
+      "total": 2823
     }
   ],
   "system": {
-    "messages_scanned_total": 1409187,
-    "messages_scanned_30d": 969872,
-    "noise_filtered_total": 754769,
-    "noise_filtered_30d": 599387,
-    "lead_sightings_total": 11088,
+    "messages_scanned_total": 1410335,
+    "messages_scanned_30d": 971020,
+    "noise_filtered_total": 755593,
+    "noise_filtered_30d": 600211,
+    "lead_sightings_total": 11090,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1918,15 +1918,15 @@
       },
       {
         "period": "2026-10-24",
-        "total": 9,
+        "total": 11,
         "by_niche": {
           "banya_bali": 1,
           "bikes_bali": 2,
-          "housing_bali": 3,
-          "transfer_bali": 3
+          "housing_bali": 4,
+          "transfer_bali": 4
         },
         "housing": {
-          "rent": 3,
+          "rent": 4,
           "roommate": 0,
           "offer": 0
         }
@@ -2256,7 +2256,7 @@
       },
       {
         "period": "2026-10-19",
-        "total": 593,
+        "total": 595,
         "by_niche": {
           "auto_bali": 11,
           "banya_bali": 1,
@@ -2264,16 +2264,16 @@
           "bikes_bali": 109,
           "games_bali": 20,
           "handyman_bali": 7,
-          "housing_bali": 344,
+          "housing_bali": 345,
           "massage_bali": 9,
           "photo_bali": 9,
-          "transfer_bali": 30,
+          "transfer_bali": 31,
           "video_bali": 8,
           "visa_bali": 8,
           "wedding_bali": 3
         },
         "housing": {
-          "rent": 197,
+          "rent": 198,
           "roommate": 48,
           "offer": 99
         },
@@ -2352,7 +2352,7 @@
       },
       {
         "period": "2026-10",
-        "total": 2821,
+        "total": 2823,
         "by_niche": {
           "auto_bali": 51,
           "banya_bali": 4,
@@ -2360,16 +2360,16 @@
           "bikes_bali": 542,
           "games_bali": 162,
           "handyman_bali": 58,
-          "housing_bali": 1535,
+          "housing_bali": 1536,
           "massage_bali": 42,
           "photo_bali": 47,
-          "transfer_bali": 146,
+          "transfer_bali": 147,
           "video_bali": 20,
           "visa_bali": 55,
           "wedding_bali": 7
         },
         "housing": {
-          "rent": 841,
+          "rent": 842,
           "roommate": 264,
           "offer": 430
         },
@@ -2420,7 +2420,7 @@
         "count": 53
       }
     ],
-    "geo_unknown": 300,
+    "geo_unknown": 301,
     "budget_idr": {
       "n": 792,
       "p25": 10000000,
@@ -2429,6 +2429,17 @@
     }
   },
   "ticker": [
+    {
+      "niche": "transfer_bali",
+      "at": "2026-10-24T04:45",
+      "text": "Ахренеть. Приезжать на Бали танцевать. А че не на северный полюс? На Бали под сорок сейчас. То проститутки ищут клиентов. То не только они. Расшарим такси с…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-24T04:15",
+      "subtype": "rent",
+      "text": "Всем привет! Буду на Бали с компанией девчонок, я хореограф, со мной едут мои ученицы) Если тут есть желающие потанцевать и отдохнуть вместе, ищу женскую…"
+    },
     {
       "niche": "transfer_bali",
       "at": "2026-10-24T03:15",
@@ -2602,18 +2613,6 @@
       "geo": "Убуд",
       "budget_m": 2,
       "text": "🏍️ Сниму байк в Убуде с 29 октября. Honda ADV / PCX / Yamaha NMAX. Бюджет: до 1,6 млн IDR/месяц. Год не важен, главное — хорошее техническое состояние и…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-23T19:45",
-      "subtype": "rent",
-      "text": "Всем привет! Ищем гест лист на Хэллоуин (31.10) в какой-нибудь бич-клуб Нас 6-7 человек. Если у кого-то есть контакт промоутера или можете вписать — напишите,…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-23T19:15",
-      "subtype": "rent",
-      "text": "На участке нужно рассортировать остатки строительных материалов и освободить проход. Выплата в тот же день — 5 400."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2793,7 +2792,7 @@
     "house": 74,
     "room": 126,
     "apartment": 48,
-    "unknown": 150
+    "unknown": 151
   },
   "activity_30d": {
     "all": [
@@ -2932,7 +2931,7 @@
         4,
         10,
         7,
-        3,
+        5,
         1,
         3,
         4,
@@ -4037,7 +4036,7 @@
           3,
           3,
           5,
-          2,
+          3,
           0,
           0,
           3,
@@ -4589,7 +4588,7 @@
           0,
           0,
           1,
-          0,
+          1,
           0,
           1,
           0,
