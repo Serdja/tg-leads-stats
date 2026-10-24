@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-24T19:06:09.448234+08:00",
-  "all_time_total": 6878,
-  "last_30d_total": 3639,
+  "generated_at": "2026-10-24T20:07:15.216125+08:00",
+  "all_time_total": 6879,
+  "last_30d_total": 3640,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1956,
-      "all_time": 3046,
+      "last_30d": 1957,
+      "all_time": 3047,
       "subtypes": {
         "rent": {
-          "last_30d": 1045,
-          "all_time": 1576
+          "last_30d": 1046,
+          "all_time": 1577
         },
         "roommate": {
           "last_30d": 343,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2865
+      "total": 2866
     }
   ],
   "system": {
-    "messages_scanned_total": 1427665,
-    "messages_scanned_30d": 988350,
-    "noise_filtered_total": 765412,
-    "noise_filtered_30d": 610030,
-    "lead_sightings_total": 11132,
+    "messages_scanned_total": 1429782,
+    "messages_scanned_30d": 990467,
+    "noise_filtered_total": 766835,
+    "noise_filtered_30d": 611453,
+    "lead_sightings_total": 11133,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1918,20 +1918,20 @@
       },
       {
         "period": "2026-10-24",
-        "total": 53,
+        "total": 54,
         "by_niche": {
           "banya_bali": 2,
           "beauty_bali": 6,
           "bikes_bali": 11,
           "games_bali": 1,
           "handyman_bali": 1,
-          "housing_bali": 20,
+          "housing_bali": 21,
           "transfer_bali": 8,
           "video_bali": 1,
           "visa_bali": 3
         },
         "housing": {
-          "rent": 11,
+          "rent": 12,
           "roommate": 2,
           "offer": 7
         }
@@ -2261,7 +2261,7 @@
       },
       {
         "period": "2026-10-19",
-        "total": 637,
+        "total": 638,
         "by_niche": {
           "auto_bali": 11,
           "banya_bali": 2,
@@ -2269,7 +2269,7 @@
           "bikes_bali": 118,
           "games_bali": 21,
           "handyman_bali": 8,
-          "housing_bali": 361,
+          "housing_bali": 362,
           "massage_bali": 9,
           "photo_bali": 9,
           "transfer_bali": 35,
@@ -2278,7 +2278,7 @@
           "wedding_bali": 3
         },
         "housing": {
-          "rent": 205,
+          "rent": 206,
           "roommate": 50,
           "offer": 106
         },
@@ -2357,7 +2357,7 @@
       },
       {
         "period": "2026-10",
-        "total": 2865,
+        "total": 2866,
         "by_niche": {
           "auto_bali": 51,
           "banya_bali": 5,
@@ -2365,7 +2365,7 @@
           "bikes_bali": 551,
           "games_bali": 163,
           "handyman_bali": 59,
-          "housing_bali": 1552,
+          "housing_bali": 1553,
           "massage_bali": 42,
           "photo_bali": 47,
           "transfer_bali": 151,
@@ -2374,7 +2374,7 @@
           "wedding_bali": 7
         },
         "housing": {
-          "rent": 849,
+          "rent": 850,
           "roommate": 266,
           "offer": 437
         },
@@ -2406,7 +2406,7 @@
       },
       {
         "geo": "Букит",
-        "count": 146
+        "count": 147
       },
       {
         "geo": "Семиньяк",
@@ -2434,6 +2434,19 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-24T19:45",
+      "subtype": "rent",
+      "text": "Подскажите пожалуйста, средний ценник за месяц, уборка 2 раза в неделю виллу с двумя спальнями?"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-24T19:30",
+      "subtype": "rent",
+      "geo": "Убуд",
+      "text": "Будьте осторожны 🥲⚠️ Кто-то здесь оставлял контакт приюта. Я туда написала, и мне ответила девушка. Мы с ней договорились, что если я до отлета не успею найти…"
+    },
     {
       "niche": "beauty_bali",
       "at": "2026-10-24T18:30",
@@ -2598,18 +2611,6 @@
       "subtype": "rent",
       "budget_m": 3,
       "text": "Ищу человек кто летит Москва-Бали Нужно передать посылку В посылке около 3кг косметики уходовой. Доставлю прям вам домой. Кто-то летит в ближайшее время? 🙏🏼"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-24T12:45",
-      "subtype": "rent",
-      "text": "Всем привет 🙏 куплю петлички, свет, штатив и тд Хочу оборудовать комнату для съемки"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-10-24T12:45",
-      "geo": "Чангу",
-      "text": "Всем привет, подскажите хорошего русского барбера в Чангу"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2785,7 +2786,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 985,
+    "villa": 986,
     "house": 75,
     "room": 126,
     "apartment": 48,
@@ -2943,7 +2944,7 @@
         41,
         24,
         30,
-        27,
+        28,
         19,
         25,
         19,
@@ -4048,7 +4049,7 @@
           21,
           14,
           15,
-          16,
+          17,
           9,
           13,
           10,
