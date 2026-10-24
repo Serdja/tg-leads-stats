@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-24T10:57:53.556110+08:00",
-  "all_time_total": 6847,
-  "last_30d_total": 3608,
+  "generated_at": "2026-10-24T11:58:54.307207+08:00",
+  "all_time_total": 6848,
+  "last_30d_total": 3609,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1945,
-      "all_time": 3035,
+      "last_30d": 1946,
+      "all_time": 3036,
       "subtypes": {
         "rent": {
-          "last_30d": 1039,
-          "all_time": 1570
+          "last_30d": 1040,
+          "all_time": 1571
         },
         "roommate": {
           "last_30d": 342,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2833
+      "total": 2834
     }
   ],
   "system": {
-    "messages_scanned_total": 1413508,
-    "messages_scanned_30d": 974193,
-    "noise_filtered_total": 757332,
-    "noise_filtered_30d": 601950,
-    "lead_sightings_total": 11110,
+    "messages_scanned_total": 1414164,
+    "messages_scanned_30d": 974849,
+    "noise_filtered_total": 757640,
+    "noise_filtered_30d": 602258,
+    "lead_sightings_total": 11112,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1918,17 +1918,17 @@
       },
       {
         "period": "2026-10-24",
-        "total": 21,
+        "total": 22,
         "by_niche": {
           "banya_bali": 1,
           "beauty_bali": 1,
           "bikes_bali": 5,
-          "housing_bali": 8,
+          "housing_bali": 9,
           "transfer_bali": 5,
           "video_bali": 1
         },
         "housing": {
-          "rent": 5,
+          "rent": 6,
           "roommate": 1,
           "offer": 2
         }
@@ -2258,7 +2258,7 @@
       },
       {
         "period": "2026-10-19",
-        "total": 605,
+        "total": 606,
         "by_niche": {
           "auto_bali": 11,
           "banya_bali": 1,
@@ -2266,7 +2266,7 @@
           "bikes_bali": 112,
           "games_bali": 20,
           "handyman_bali": 7,
-          "housing_bali": 349,
+          "housing_bali": 350,
           "massage_bali": 9,
           "photo_bali": 9,
           "transfer_bali": 32,
@@ -2275,7 +2275,7 @@
           "wedding_bali": 3
         },
         "housing": {
-          "rent": 199,
+          "rent": 200,
           "roommate": 49,
           "offer": 101
         },
@@ -2354,7 +2354,7 @@
       },
       {
         "period": "2026-10",
-        "total": 2833,
+        "total": 2834,
         "by_niche": {
           "auto_bali": 51,
           "banya_bali": 4,
@@ -2362,7 +2362,7 @@
           "bikes_bali": 545,
           "games_bali": 162,
           "handyman_bali": 58,
-          "housing_bali": 1540,
+          "housing_bali": 1541,
           "massage_bali": 42,
           "photo_bali": 47,
           "transfer_bali": 148,
@@ -2371,7 +2371,7 @@
           "wedding_bali": 7
         },
         "housing": {
-          "rent": 843,
+          "rent": 844,
           "roommate": 265,
           "offer": 432
         },
@@ -2383,7 +2383,7 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 557
+        "count": 558
       },
       {
         "geo": "Улувату",
@@ -2395,7 +2395,7 @@
       },
       {
         "geo": "Сесех",
-        "count": 168
+        "count": 169
       },
       {
         "geo": "Убуд",
@@ -2403,7 +2403,7 @@
       },
       {
         "geo": "Букит",
-        "count": 144
+        "count": 145
       },
       {
         "geo": "Семиньяк",
@@ -2431,6 +2431,13 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-24T11:45",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "text": "Ищем однокомнатную виллу, Чангу, сесех, умалас, букит с 01.11 на месяц"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-10-24T10:45",
@@ -2605,11 +2612,6 @@
       "at": "2026-10-23T22:00",
       "subtype": "rent",
       "text": "А подскажите магазин, где одежду для йоги можно купить ?"
-    },
-    {
-      "niche": "transfer_bali",
-      "at": "2026-10-23T21:30",
-      "text": "Всем привет Хотели завтра отправиться на водопады. Подскажите, где и как можно это оформить, чтобы оплатить картой и был трансфер туда - обратно?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2785,7 +2787,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 982,
+    "villa": 983,
     "house": 74,
     "room": 126,
     "apartment": 48,
@@ -2935,7 +2937,7 @@
         4,
         21,
         18,
-        15,
+        16,
         20,
         44,
         29,
@@ -4040,7 +4042,7 @@
           2,
           10,
           9,
-          4,
+          5,
           8,
           21,
           19,
