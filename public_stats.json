@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-24T17:04:05.112469+08:00",
-  "all_time_total": 6872,
-  "last_30d_total": 3633,
+  "generated_at": "2026-10-24T18:05:06.705758+08:00",
+  "all_time_total": 6875,
+  "last_30d_total": 3636,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 706,
-      "all_time": 1524
+      "last_30d": 707,
+      "all_time": 1525
     },
     {
       "niche": "beauty_bali",
@@ -39,8 +39,8 @@
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 207,
-      "all_time": 384
+      "last_30d": 208,
+      "all_time": 385
     },
     {
       "niche": "transfer_bali",
@@ -57,8 +57,8 @@
     {
       "niche": "visa_bali",
       "label": "📄 Визы",
-      "last_30d": 74,
-      "all_time": 200
+      "last_30d": 75,
+      "all_time": 201
     },
     {
       "niche": "photo_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2858
+      "total": 2861
     }
   ],
   "system": {
-    "messages_scanned_total": 1423141,
-    "messages_scanned_30d": 983826,
-    "noise_filtered_total": 762610,
-    "noise_filtered_30d": 607228,
-    "lead_sightings_total": 11147,
+    "messages_scanned_total": 1425459,
+    "messages_scanned_30d": 986144,
+    "noise_filtered_total": 763976,
+    "noise_filtered_30d": 608594,
+    "lead_sightings_total": 11151,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1918,16 +1918,17 @@
       },
       {
         "period": "2026-10-24",
-        "total": 46,
+        "total": 49,
         "by_niche": {
           "banya_bali": 2,
           "beauty_bali": 5,
-          "bikes_bali": 10,
+          "bikes_bali": 11,
+          "games_bali": 1,
           "handyman_bali": 1,
           "housing_bali": 18,
           "transfer_bali": 7,
           "video_bali": 1,
-          "visa_bali": 2
+          "visa_bali": 3
         },
         "housing": {
           "rent": 11,
@@ -2260,20 +2261,20 @@
       },
       {
         "period": "2026-10-19",
-        "total": 630,
+        "total": 633,
         "by_niche": {
           "auto_bali": 11,
           "banya_bali": 2,
           "beauty_bali": 39,
-          "bikes_bali": 117,
-          "games_bali": 20,
+          "bikes_bali": 118,
+          "games_bali": 21,
           "handyman_bali": 8,
           "housing_bali": 359,
           "massage_bali": 9,
           "photo_bali": 9,
           "transfer_bali": 34,
           "video_bali": 9,
-          "visa_bali": 10,
+          "visa_bali": 11,
           "wedding_bali": 3
         },
         "housing": {
@@ -2356,20 +2357,20 @@
       },
       {
         "period": "2026-10",
-        "total": 2858,
+        "total": 2861,
         "by_niche": {
           "auto_bali": 51,
           "banya_bali": 5,
           "beauty_bali": 157,
-          "bikes_bali": 550,
-          "games_bali": 162,
+          "bikes_bali": 551,
+          "games_bali": 163,
           "handyman_bali": 59,
           "housing_bali": 1550,
           "massage_bali": 42,
           "photo_bali": 47,
           "transfer_bali": 150,
           "video_bali": 21,
-          "visa_bali": 57,
+          "visa_bali": 58,
           "wedding_bali": 7
         },
         "housing": {
@@ -2433,6 +2434,17 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-24T17:30",
+      "subtype": "rent",
+      "text": "Нужно покрасить забор, частный участок. 5 тыс за всю работу. Заберём на машине, если сложно будет добраться самостоятельно"
+    },
+    {
+      "niche": "visa_bali",
+      "at": "2026-10-24T17:00",
+      "text": "Привет! Посоветуйте пожалуйста агенство визовое, которое может помочь с нестандартной и важной визовой проблемой!!!!"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-24T17:00",
@@ -2600,19 +2612,6 @@
       "at": "2026-10-24T10:45",
       "geo": "Чангу",
       "text": "Hi all, I am looking for xmax dark grey with small windshield for 2 month min, maybe more, canggu. Until 3.5/month. Fresh please, before 5k mileage, thank you."
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-24T10:30",
-      "subtype": "roommate",
-      "text": "Ребята, привет. Есть ли у кого то свободная комната на вилле, остаюсь пожить на Бали, ищу жилье. Девчонки, пишите, если ищите классную соседку.))"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-24T10:30",
-      "subtype": "rent",
-      "geo": "Сесех",
-      "text": "Может кто-то сдает хорошую виллу в сесехе/чемаги на 2-3 мес с декабря? Или знаете контакт того, кто может сдавать"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2944,7 +2943,7 @@
         32,
         36,
         41,
-        21,
+        24,
         26,
         27,
         19,
@@ -3497,7 +3496,7 @@
           3,
           14,
           4,
-          2,
+          3,
           4,
           3,
           5,
@@ -3681,7 +3680,7 @@
           3,
           2,
           2,
-          1,
+          2,
           3,
           2,
           3,
@@ -4785,7 +4784,7 @@
           0,
           1,
           1,
-          0,
+          1,
           0,
           0,
           0,
