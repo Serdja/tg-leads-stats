@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-25T05:16:13.177924+08:00",
+  "generated_at": "2026-10-25T06:17:10.138438+08:00",
   "all_time_total": 6910,
   "last_30d_total": 3543,
   "by_niche": [
@@ -130,10 +130,10 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 1445046,
-    "messages_scanned_30d": 977786,
-    "noise_filtered_total": 777263,
-    "noise_filtered_30d": 602885,
+    "messages_scanned_total": 1445660,
+    "messages_scanned_30d": 978400,
+    "noise_filtered_total": 777636,
+    "noise_filtered_30d": 603258,
     "lead_sightings_total": 11182,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
@@ -2437,6 +2437,12 @@
   "ticker": [
     {
       "niche": "housing_bali",
+      "at": "2026-10-25T06:00",
+      "subtype": "rent",
+      "text": "В купе поезда входит дама с четырьмя детьми. Они шумят, толкаются, ни минуты не сидят на месте. Один из пассажиров говорит раздраженно: - Отправляясь в…"
+    },
+    {
+      "niche": "housing_bali",
       "at": "2026-10-25T02:00",
       "subtype": "rent",
       "geo": "Переренан",
@@ -2610,12 +2616,6 @@
       "niche": "beauty_bali",
       "at": "2026-10-24T16:45",
       "text": "Посоветуйте плиз хороший барбершоп 💈"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-10-24T16:45",
-      "geo": "Чангу",
-      "text": "Всем привет! Посоветуйте, пожалуйста, салоны с русскими мастерами маникюра/педикюра в Чангу/Умалас/Семиньяк С возможностью оплаты apple pay🙏🏻"
     }
   ],
   "housing_budget_by_geo_90d": [
