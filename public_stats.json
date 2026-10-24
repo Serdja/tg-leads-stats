@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-24T08:55:53.149065+08:00",
-  "all_time_total": 6841,
-  "last_30d_total": 3602,
+  "generated_at": "2026-10-24T09:56:53.400970+08:00",
+  "all_time_total": 6842,
+  "last_30d_total": 3603,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -39,8 +39,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 205,
-      "all_time": 412
+      "last_30d": 206,
+      "all_time": 413
     },
     {
       "niche": "transfer_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2827
+      "total": 2828
     }
   ],
   "system": {
-    "messages_scanned_total": 1412464,
-    "messages_scanned_30d": 973149,
-    "noise_filtered_total": 756775,
-    "noise_filtered_30d": 601393,
-    "lead_sightings_total": 11097,
+    "messages_scanned_total": 1412980,
+    "messages_scanned_30d": 973665,
+    "noise_filtered_total": 757066,
+    "noise_filtered_30d": 601684,
+    "lead_sightings_total": 11102,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1918,9 +1918,10 @@
       },
       {
         "period": "2026-10-24",
-        "total": 15,
+        "total": 16,
         "by_niche": {
           "banya_bali": 1,
+          "beauty_bali": 1,
           "bikes_bali": 4,
           "housing_bali": 4,
           "transfer_bali": 5,
@@ -2257,11 +2258,11 @@
       },
       {
         "period": "2026-10-19",
-        "total": 599,
+        "total": 600,
         "by_niche": {
           "auto_bali": 11,
           "banya_bali": 1,
-          "beauty_bali": 34,
+          "beauty_bali": 35,
           "bikes_bali": 111,
           "games_bali": 20,
           "handyman_bali": 7,
@@ -2353,11 +2354,11 @@
       },
       {
         "period": "2026-10",
-        "total": 2827,
+        "total": 2828,
         "by_niche": {
           "auto_bali": 51,
           "banya_bali": 4,
-          "beauty_bali": 152,
+          "beauty_bali": 153,
           "bikes_bali": 544,
           "games_bali": 162,
           "handyman_bali": 58,
@@ -2430,6 +2431,25 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-24T09:30",
+      "subtype": "rent",
+      "geo": "Букит",
+      "text": "Девочки, кто хочет сегодня присоединиться в ресторан на отвесной скале ? Бронь есть на двоих сегодня на 15.45. ищу компанию (Букит)"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-24T09:00",
+      "subtype": "rent",
+      "text": "Здравствуйте, подскажите пожалуйста контакт, если есть, простого рабочего который может вывезти мусор с виллы"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-24T09:00",
+      "geo": "Убуд",
+      "text": "Девочки, подскажите кто в Убуде наращивает ресницы, пожалуйста"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-24T08:30",
@@ -2590,26 +2610,6 @@
       "at": "2026-10-23T21:00",
       "subtype": "rent",
       "text": "Ребят у кого есть авто или может знакомый с машиной,сестре нужно перевезти пару коробок с дому,за бензин платим"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-23T20:45",
-      "subtype": "rent",
-      "geo": "Санур",
-      "text": "Всем привет! А есть тут кто кто может посоветовать конкретные хорошие проверенные апартаменты для аренды в Сануре ближе к пляжу? Скажите, плиз, название"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-23T20:15",
-      "subtype": "rent",
-      "geo": "Букит",
-      "budget_m": 18,
-      "text": "Ищем жилье,займем 2 комнаты Мама и дочь Только Букит Желательно недалеко от пляжа С 14-го ноября примерно,надолго,примерно до марта-апреля Бюджет за 2 комнаты…"
-    },
-    {
-      "niche": "massage_bali",
-      "at": "2026-10-23T20:15",
-      "text": "Всем привет!! Подскажите нормальные хорошие массажные салоны/спа пожалуйста 🥹"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2933,7 +2933,7 @@
         4,
         5,
         4,
-        19,
+        20,
         14,
         15,
         20,
@@ -3302,7 +3302,7 @@
           0,
           0,
           0,
-          2,
+          3,
           2,
           0,
           1,
