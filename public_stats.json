@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-25T07:18:07.424917+08:00",
-  "all_time_total": 6911,
-  "last_30d_total": 3544,
+  "generated_at": "2026-10-25T08:19:08.645089+08:00",
+  "all_time_total": 6912,
+  "last_30d_total": 3545,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1912,
-      "all_time": 3067,
+      "last_30d": 1913,
+      "all_time": 3068,
       "subtypes": {
         "rent": {
-          "last_30d": 1022,
-          "all_time": 1584
+          "last_30d": 1023,
+          "all_time": 1585
         },
         "roommate": {
           "last_30d": 329,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2898
+      "total": 2899
     }
   ],
   "system": {
-    "messages_scanned_total": 1446080,
-    "messages_scanned_30d": 978820,
-    "noise_filtered_total": 777851,
-    "noise_filtered_30d": 603473,
-    "lead_sightings_total": 11183,
+    "messages_scanned_total": 1446549,
+    "messages_scanned_30d": 979289,
+    "noise_filtered_total": 778112,
+    "noise_filtered_30d": 603734,
+    "lead_sightings_total": 11184,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1927,12 +1927,12 @@
       },
       {
         "period": "2026-10-25",
-        "total": 6,
+        "total": 7,
         "by_niche": {
-          "housing_bali": 6
+          "housing_bali": 7
         },
         "housing": {
-          "rent": 3,
+          "rent": 4,
           "roommate": 2,
           "offer": 1
         }
@@ -2262,7 +2262,7 @@
       },
       {
         "period": "2026-10-19",
-        "total": 670,
+        "total": 671,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 2,
@@ -2270,7 +2270,7 @@
           "bikes_bali": 120,
           "games_bali": 24,
           "handyman_bali": 9,
-          "housing_bali": 382,
+          "housing_bali": 383,
           "massage_bali": 10,
           "photo_bali": 9,
           "transfer_bali": 36,
@@ -2279,7 +2279,7 @@
           "wedding_bali": 3
         },
         "housing": {
-          "rent": 213,
+          "rent": 214,
           "roommate": 52,
           "offer": 117
         },
@@ -2358,7 +2358,7 @@
       },
       {
         "period": "2026-10",
-        "total": 2898,
+        "total": 2899,
         "by_niche": {
           "auto_bali": 52,
           "banya_bali": 5,
@@ -2366,7 +2366,7 @@
           "bikes_bali": 553,
           "games_bali": 166,
           "handyman_bali": 60,
-          "housing_bali": 1573,
+          "housing_bali": 1574,
           "massage_bali": 43,
           "photo_bali": 47,
           "transfer_bali": 152,
@@ -2375,7 +2375,7 @@
           "wedding_bali": 7
         },
         "housing": {
-          "rent": 857,
+          "rent": 858,
           "roommate": 268,
           "offer": 448
         },
@@ -2387,7 +2387,7 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 547
+        "count": 548
       },
       {
         "geo": "Улувату",
@@ -2435,6 +2435,13 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-25T07:45",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "text": "Ищу комнату на неделю в Чангу)"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-25T06:30",
@@ -2613,11 +2620,6 @@
       "subtype": "rent",
       "budget_m": 5,
       "text": "В какую часть можно перебраться? Море шибко не интересует, нужна инфраструктура вокруг, чтобы вышла из отеля/вилы и в пределах 5-ти минут был mart и кафешки…"
-    },
-    {
-      "niche": "handyman_bali",
-      "at": "2026-10-24T16:45",
-      "text": "Маруся. 1. Яйца куриные нужно мыть и сушить бумажным полотенцем. Только потом готовить. Опция - перед головкой протирать антибактериальными салфетками и…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2795,7 +2797,7 @@
   "housing_types_30d": {
     "villa": 960,
     "house": 70,
-    "room": 124,
+    "room": 125,
     "apartment": 47,
     "unknown": 150
   },
@@ -2965,7 +2967,7 @@
         1,
         6,
         3,
-        9,
+        10,
         7,
         15,
         24,
@@ -4070,7 +4072,7 @@
           1,
           6,
           3,
-          2,
+          3,
           1,
           6,
           14,
