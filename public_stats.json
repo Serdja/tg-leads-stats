@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T06:07:40.608505+08:00",
-  "all_time_total": 6990,
-  "last_30d_total": 3505,
+  "generated_at": "2026-10-26T07:08:39.546535+08:00",
+  "all_time_total": 6991,
+  "last_30d_total": 3506,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -39,8 +39,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 201,
-      "all_time": 421
+      "last_30d": 202,
+      "all_time": 422
     },
     {
       "niche": "transfer_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2978
+      "total": 2979
     }
   ],
   "system": {
-    "messages_scanned_total": 1469639,
-    "messages_scanned_30d": 972499,
-    "noise_filtered_total": 790714,
-    "noise_filtered_30d": 595959,
-    "lead_sightings_total": 11283,
+    "messages_scanned_total": 1470097,
+    "messages_scanned_30d": 972957,
+    "noise_filtered_total": 790944,
+    "noise_filtered_30d": 596189,
+    "lead_sightings_total": 11284,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1936,8 +1936,9 @@
       },
       {
         "period": "2026-10-26",
-        "total": 4,
+        "total": 5,
         "by_niche": {
+          "beauty_bali": 1,
           "games_bali": 1,
           "housing_bali": 2,
           "wedding_bali": 1
@@ -2298,8 +2299,9 @@
       },
       {
         "period": "2026-10-26",
-        "total": 4,
+        "total": 5,
         "by_niche": {
+          "beauty_bali": 1,
           "games_bali": 1,
           "housing_bali": 2,
           "wedding_bali": 1
@@ -2384,11 +2386,11 @@
       },
       {
         "period": "2026-10",
-        "total": 2978,
+        "total": 2979,
         "by_niche": {
           "auto_bali": 52,
           "banya_bali": 5,
-          "beauty_bali": 161,
+          "beauty_bali": 162,
           "bikes_bali": 567,
           "games_bali": 171,
           "handyman_bali": 61,
@@ -2461,6 +2463,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-26T07:00",
+      "geo": "Кута",
+      "text": "Подскажите снг барбера «кута»"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-26T03:30",
@@ -2640,13 +2648,6 @@
       "geo": "Улувату",
       "budget_m": 8,
       "text": "Улувату Ищу комнату на вилле с середины ноября, до 8кк, на 2-4 месяца"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-25T20:00",
-      "subtype": "roommate",
-      "geo": "Улувату",
-      "text": "Улувату Ищу комнату на вилле, или 1B виллу/апарты с середины ноября, желательно на долгий срок"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2838,7 +2839,7 @@
         7,
         4,
         3,
-        3,
+        4,
         9,
         10,
         27,
@@ -3207,7 +3208,7 @@
           0,
           0,
           0,
-          0,
+          1,
           1,
           1,
           4,
