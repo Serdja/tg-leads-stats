@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T01:02:50.342578+08:00",
-  "all_time_total": 6988,
-  "last_30d_total": 3503,
+  "generated_at": "2026-10-26T02:03:48.388308+08:00",
+  "all_time_total": 6989,
+  "last_30d_total": 3504,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1884,
-      "all_time": 3109,
+      "last_30d": 1885,
+      "all_time": 3110,
       "subtypes": {
         "rent": {
           "last_30d": 1012,
@@ -19,8 +19,8 @@
           "all_time": 522
         },
         "offer": {
-          "last_30d": 551,
-          "all_time": 980
+          "last_30d": 552,
+          "all_time": 981
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 2976
+      "total": 2977
     }
   ],
   "system": {
-    "messages_scanned_total": 1462925,
-    "messages_scanned_30d": 965785,
-    "noise_filtered_total": 786889,
-    "noise_filtered_30d": 592134,
-    "lead_sightings_total": 11276,
+    "messages_scanned_total": 1464496,
+    "messages_scanned_30d": 967356,
+    "noise_filtered_total": 787805,
+    "noise_filtered_30d": 593050,
+    "lead_sightings_total": 11278,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1936,15 +1936,15 @@
       },
       {
         "period": "2026-10-26",
-        "total": 2,
+        "total": 3,
         "by_niche": {
-          "housing_bali": 1,
+          "housing_bali": 2,
           "wedding_bali": 1
         },
         "housing": {
           "rent": 1,
           "roommate": 0,
-          "offer": 0
+          "offer": 1
         }
       }
     ],
@@ -2297,15 +2297,15 @@
       },
       {
         "period": "2026-10-26",
-        "total": 2,
+        "total": 3,
         "by_niche": {
-          "housing_bali": 1,
+          "housing_bali": 2,
           "wedding_bali": 1
         },
         "housing": {
           "rent": 1,
           "roommate": 0,
-          "offer": 0
+          "offer": 1
         },
         "partial": true
       }
@@ -2382,7 +2382,7 @@
       },
       {
         "period": "2026-10",
-        "total": 2976,
+        "total": 2977,
         "by_niche": {
           "auto_bali": 52,
           "banya_bali": 5,
@@ -2390,7 +2390,7 @@
           "bikes_bali": 567,
           "games_bali": 170,
           "handyman_bali": 61,
-          "housing_bali": 1616,
+          "housing_bali": 1617,
           "massage_bali": 44,
           "photo_bali": 50,
           "transfer_bali": 157,
@@ -2401,7 +2401,7 @@
         "housing": {
           "rent": 880,
           "roommate": 274,
-          "offer": 462
+          "offer": 463
         },
         "partial": true
       }
@@ -2459,6 +2459,13 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-26T01:45",
+      "subtype": "rent",
+      "budget_m": 1,
+      "text": "Это частный врач? Какие то цены тоже Кто объявил Вам 1 млн за выезд на дом? Напишите этих врачей Спросите у этого доктора, сколько стоит её вызов [имя]"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-26T00:45",
@@ -2639,11 +2646,6 @@
       "geo": "Чангу",
       "budget_m": 2,
       "text": "Hi all, I am looking for adv dark green or white with ABS for 4 month, canggu. 2mln/month. Fresh please, before 5k mileage and no any scratches, thank you."
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-25T20:00",
-      "text": "🌍✨ Международные водительские права (МВУ) на 3 года: оформим быстро, официально и без лишних хлопот! Собираетесь в путешествие? ✈️ Мы поможем получить…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2830,7 +2832,7 @@
       [
         14,
         10,
-        7,
+        8,
         4,
         7,
         4,
@@ -3935,7 +3937,7 @@
         [
           7,
           7,
-          3,
+          4,
           3,
           4,
           3,
