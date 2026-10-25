@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-26T03:04:46.363190+08:00",
+  "generated_at": "2026-10-26T04:05:44.467290+08:00",
   "all_time_total": 6990,
   "last_30d_total": 3505,
   "by_niche": [
@@ -130,10 +130,10 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 1465973,
-    "messages_scanned_30d": 968833,
-    "noise_filtered_total": 788588,
-    "noise_filtered_30d": 593833,
+    "messages_scanned_total": 1467495,
+    "messages_scanned_30d": 970355,
+    "noise_filtered_total": 789467,
+    "noise_filtered_30d": 594712,
     "lead_sightings_total": 11283,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
@@ -2463,6 +2463,12 @@
   "ticker": [
     {
       "niche": "housing_bali",
+      "at": "2026-10-26T03:30",
+      "subtype": "rent",
+      "text": "Не не , чат хорош) нужно побыть подольше здесь чтоб перейти на сарказм и едкие ответы. Щас в меня домашние заготовки закончатся и я раскроюсь с другой стороны"
+    },
+    {
+      "niche": "housing_bali",
       "at": "2026-10-26T01:45",
       "subtype": "rent",
       "budget_m": 1,
@@ -2641,13 +2647,6 @@
       "subtype": "roommate",
       "geo": "Улувату",
       "text": "Улувату Ищу комнату на вилле, или 1B виллу/апарты с середины ноября, желательно на долгий срок"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-25T20:00",
-      "geo": "Чангу",
-      "budget_m": 2,
-      "text": "Hi all, I am looking for adv dark green or white with ABS for 4 month, canggu. 2mln/month. Fresh please, before 5k mileage and no any scratches, thank you."
     }
   ],
   "housing_budget_by_geo_90d": [
