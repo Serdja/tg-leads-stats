@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T01:27:39.073997+08:00",
-  "all_time_total": 7108,
-  "last_30d_total": 3528,
+  "generated_at": "2026-10-27T02:28:36.995847+08:00",
+  "all_time_total": 7110,
+  "last_30d_total": 3530,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,14 +27,14 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 690,
-      "all_time": 1567
+      "last_30d": 691,
+      "all_time": 1568
     },
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 206,
-      "all_time": 432
+      "last_30d": 207,
+      "all_time": 433
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3096
+      "total": 3098
     }
   ],
   "system": {
-    "messages_scanned_total": 1500681,
-    "messages_scanned_30d": 975318,
-    "noise_filtered_total": 809340,
-    "noise_filtered_30d": 594617,
-    "lead_sightings_total": 11481,
+    "messages_scanned_total": 1502267,
+    "messages_scanned_30d": 976904,
+    "noise_filtered_total": 810404,
+    "noise_filtered_30d": 595681,
+    "lead_sightings_total": 11487,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1946,9 +1946,10 @@
       },
       {
         "period": "2026-10-27",
-        "total": 3,
+        "total": 5,
         "by_niche": {
-          "bikes_bali": 2,
+          "beauty_bali": 1,
+          "bikes_bali": 3,
           "photo_bali": 1
         },
         "housing": {
@@ -2307,12 +2308,12 @@
       },
       {
         "period": "2026-10-26",
-        "total": 122,
+        "total": 124,
         "by_niche": {
           "auto_bali": 1,
           "banya_bali": 1,
-          "beauty_bali": 11,
-          "bikes_bali": 26,
+          "beauty_bali": 12,
+          "bikes_bali": 27,
           "games_bali": 6,
           "handyman_bali": 2,
           "housing_bali": 64,
@@ -2402,12 +2403,12 @@
       },
       {
         "period": "2026-10",
-        "total": 3096,
+        "total": 3098,
         "by_niche": {
           "auto_bali": 53,
           "banya_bali": 6,
-          "beauty_bali": 172,
-          "bikes_bali": 593,
+          "beauty_bali": 173,
+          "bikes_bali": 594,
           "games_bali": 176,
           "handyman_bali": 63,
           "housing_bali": 1679,
@@ -2479,6 +2480,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-27T01:15",
+      "geo": "Чангу",
+      "text": "Подскажите, где делают педикюр в кресле реклайнере ?🙏🏻 Чангу📍"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-27T01:15",
@@ -2664,12 +2671,6 @@
       "at": "2026-10-26T19:30",
       "geo": "Улувату",
       "text": "Hi I need only xmax only from 1 November until 13 November. Just send me price and photo bike. Delivery in Uluwatu."
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-10-26T19:30",
-      "geo": "Букит",
-      "text": "Добрый вечер Ищу мастера по маникюру и педикюру на Буките - видела много сообщений про lasernice и beautique, но локация не очень подходит. Может, есть мастера…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2881,7 +2882,7 @@
       ],
       [
         28,
-        9,
+        11,
         8,
         7,
         8,
@@ -3250,7 +3251,7 @@
         ],
         [
           2,
-          0,
+          1,
           0,
           0,
           0,
@@ -3434,7 +3435,7 @@
         ],
         [
           6,
-          3,
+          4,
           1,
           1,
           0,
