@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T21:48:16.568189+08:00",
-  "all_time_total": 7212,
-  "last_30d_total": 3632,
+  "generated_at": "2026-10-27T22:49:21.161574+08:00",
+  "all_time_total": 7213,
+  "last_30d_total": 3633,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1953,
-      "all_time": 3226,
+      "last_30d": 1954,
+      "all_time": 3227,
       "subtypes": {
         "rent": {
           "last_30d": 1045,
@@ -19,8 +19,8 @@
           "all_time": 540
         },
         "offer": {
-          "last_30d": 575,
-          "all_time": 1029
+          "last_30d": 576,
+          "all_time": 1030
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3200
+      "total": 3201
     }
   ],
   "system": {
-    "messages_scanned_total": 1529530,
-    "messages_scanned_30d": 1004167,
-    "noise_filtered_total": 827738,
-    "noise_filtered_30d": 613015,
-    "lead_sightings_total": 11674,
+    "messages_scanned_total": 1531782,
+    "messages_scanned_30d": 1006419,
+    "noise_filtered_total": 829243,
+    "noise_filtered_30d": 614520,
+    "lead_sightings_total": 11675,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1946,14 +1946,14 @@
       },
       {
         "period": "2026-10-27",
-        "total": 107,
+        "total": 108,
         "by_niche": {
           "auto_bali": 3,
           "beauty_bali": 8,
           "bikes_bali": 17,
           "games_bali": 5,
           "handyman_bali": 4,
-          "housing_bali": 54,
+          "housing_bali": 55,
           "massage_bali": 2,
           "photo_bali": 3,
           "transfer_bali": 5,
@@ -1963,7 +1963,7 @@
         "housing": {
           "rent": 23,
           "roommate": 14,
-          "offer": 17
+          "offer": 18
         }
       }
     ],
@@ -2316,7 +2316,7 @@
       },
       {
         "period": "2026-10-26",
-        "total": 226,
+        "total": 227,
         "by_niche": {
           "auto_bali": 4,
           "banya_bali": 1,
@@ -2324,7 +2324,7 @@
           "bikes_bali": 41,
           "games_bali": 11,
           "handyman_bali": 6,
-          "housing_bali": 118,
+          "housing_bali": 119,
           "massage_bali": 2,
           "photo_bali": 3,
           "transfer_bali": 9,
@@ -2335,7 +2335,7 @@
         "housing": {
           "rent": 51,
           "roommate": 18,
-          "offer": 49
+          "offer": 50
         },
         "partial": true
       }
@@ -2412,7 +2412,7 @@
       },
       {
         "period": "2026-10",
-        "total": 3200,
+        "total": 3201,
         "by_niche": {
           "auto_bali": 56,
           "banya_bali": 6,
@@ -2420,7 +2420,7 @@
           "bikes_bali": 608,
           "games_bali": 181,
           "handyman_bali": 67,
-          "housing_bali": 1733,
+          "housing_bali": 1734,
           "massage_bali": 46,
           "photo_bali": 53,
           "transfer_bali": 166,
@@ -2431,7 +2431,7 @@
         "housing": {
           "rent": 930,
           "roommate": 292,
-          "offer": 511
+          "offer": 512
         },
         "partial": true
       }
@@ -2489,6 +2489,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-27T22:15",
+      "subtype": "rent",
+      "text": "На склад нужны двое на смену,7500 за день"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-27T21:45",
@@ -2676,12 +2682,6 @@
       "geo": "Букит",
       "budget_m": 5,
       "text": "Сколько на самом деле приносят виллы на Бали🔺 [имя] опубликовала честную аналитику по [имя] (чистой доходности) — то, что приходит на карту инвестору после…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-27T15:15",
-      "budget_m": 1,
-      "text": "need nmax 2026 budget 1.8"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2914,7 +2914,7 @@
         43,
         35,
         28,
-        34,
+        35,
         19
       ],
       [
@@ -4019,7 +4019,7 @@
           15,
           20,
           12,
-          18,
+          19,
           12
         ],
         [
