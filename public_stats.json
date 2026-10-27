@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T22:49:21.161574+08:00",
-  "all_time_total": 7213,
-  "last_30d_total": 3633,
+  "generated_at": "2026-10-27T23:50:22.543796+08:00",
+  "all_time_total": 7214,
+  "last_30d_total": 3634,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -51,8 +51,8 @@
     {
       "niche": "handyman_bali",
       "label": "🔧 Мастер на час",
-      "last_30d": 79,
-      "all_time": 262
+      "last_30d": 80,
+      "all_time": 263
     },
     {
       "niche": "visa_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3201
+      "total": 3202
     }
   ],
   "system": {
-    "messages_scanned_total": 1531782,
-    "messages_scanned_30d": 1006419,
-    "noise_filtered_total": 829243,
-    "noise_filtered_30d": 614520,
-    "lead_sightings_total": 11675,
+    "messages_scanned_total": 1533981,
+    "messages_scanned_30d": 1008618,
+    "noise_filtered_total": 830730,
+    "noise_filtered_30d": 616007,
+    "lead_sightings_total": 11676,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1946,13 +1946,13 @@
       },
       {
         "period": "2026-10-27",
-        "total": 108,
+        "total": 109,
         "by_niche": {
           "auto_bali": 3,
           "beauty_bali": 8,
           "bikes_bali": 17,
           "games_bali": 5,
-          "handyman_bali": 4,
+          "handyman_bali": 5,
           "housing_bali": 55,
           "massage_bali": 2,
           "photo_bali": 3,
@@ -2316,14 +2316,14 @@
       },
       {
         "period": "2026-10-26",
-        "total": 227,
+        "total": 228,
         "by_niche": {
           "auto_bali": 4,
           "banya_bali": 1,
           "beauty_bali": 19,
           "bikes_bali": 41,
           "games_bali": 11,
-          "handyman_bali": 6,
+          "handyman_bali": 7,
           "housing_bali": 119,
           "massage_bali": 2,
           "photo_bali": 3,
@@ -2412,14 +2412,14 @@
       },
       {
         "period": "2026-10",
-        "total": 3201,
+        "total": 3202,
         "by_niche": {
           "auto_bali": 56,
           "banya_bali": 6,
           "beauty_bali": 180,
           "bikes_bali": 608,
           "games_bali": 181,
-          "handyman_bali": 67,
+          "handyman_bali": 68,
           "housing_bali": 1734,
           "massage_bali": 46,
           "photo_bali": 53,
@@ -2489,6 +2489,25 @@
     }
   },
   "ticker": [
+    {
+      "niche": "handyman_bali",
+      "at": "2026-10-27T23:30",
+      "text": "привет) кто-нибудь знает средство, которое мокрые дыры заделывает ( протечки) в трубах?))"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-27T23:15",
+      "subtype": "rent",
+      "text": "Мне нужно английский практиковать. На тиндере еще носителя. Они пид зовут на виллу медитировать 🙄😂"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-27T22:45",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "budget_m": 35,
+      "text": "Всем привет! Ищу виллу или апартаменты для аренды на Бали. Также открыта к совместной аренде с девушкой, с которой совпадём по интересам и образу жизни. Что…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-27T22:15",
@@ -2660,28 +2679,6 @@
       "at": "2026-10-27T17:00",
       "subtype": "rent",
       "text": "Нужен уборщик частного дома,5000 за пару часов"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-27T16:45",
-      "subtype": "rent",
-      "text": "💼 Маркетолог → CMO: строим систему и масштабируем агентство Hospitality & Lifestyle | Бали / удалённо с релокацией 🚀 О компании Мы — performance-агентство,…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-27T15:45",
-      "subtype": "rent",
-      "geo": "Сесех",
-      "budget_m": 19,
-      "text": "всем привет 👋🏽 ищем аппарты или дом 2 bedroom в районе Сесех. от 15 до 19 млн."
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-27T15:30",
-      "subtype": "rent",
-      "geo": "Букит",
-      "budget_m": 5,
-      "text": "Сколько на самом деле приносят виллы на Бали🔺 [имя] опубликовала честную аналитику по [имя] (чистой доходности) — то, что приходит на карту инвестору после…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2915,7 +2912,7 @@
         35,
         28,
         35,
-        19
+        20
       ],
       [
         15,
@@ -3836,7 +3833,7 @@
           2,
           1,
           2,
-          0
+          1
         ],
         [
           0,
