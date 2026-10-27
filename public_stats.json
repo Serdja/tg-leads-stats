@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T02:53:23.351558+08:00",
+  "generated_at": "2026-10-28T03:54:23.917210+08:00",
   "all_time_total": 7221,
   "last_30d_total": 3560,
   "by_niche": [
@@ -130,10 +130,10 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 1539365,
-    "messages_scanned_30d": 984138,
-    "noise_filtered_total": 834233,
-    "noise_filtered_30d": 599513,
+    "messages_scanned_total": 1540875,
+    "messages_scanned_30d": 985648,
+    "noise_filtered_total": 835178,
+    "noise_filtered_30d": 600458,
     "lead_sightings_total": 11688,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
@@ -2492,6 +2492,12 @@
   },
   "ticker": [
     {
+      "niche": "housing_bali",
+      "at": "2026-10-28T02:45",
+      "subtype": "rent",
+      "text": "И второй вопрос (новый). Докажи, что людей с шестью руками в мире не больще 20% от населения планеты земля. Это для Маши нужно"
+    },
+    {
       "niche": "bikes_bali",
       "at": "2026-10-28T02:15",
       "geo": "Чангу",
@@ -2677,13 +2683,6 @@
       "geo": "Чангу",
       "budget_m": 24,
       "text": "Ищу виллу на долгосрок, Чангу. До 1500$/мес"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-27T17:45",
-      "subtype": "rent",
-      "geo": "Унгасан",
-      "text": "девчонки красавицы 🥹 подскажите пожалуйста мастеров по окрашиванию унгасан/улувату/нуса дуа, которые специализируются на блонде. может кто осветлял отросшие…"
     }
   ],
   "housing_budget_by_geo_90d": [
