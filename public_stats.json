@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T07:58:24.433482+08:00",
-  "all_time_total": 7230,
-  "last_30d_total": 3569,
+  "generated_at": "2026-10-28T08:59:24.812048+08:00",
+  "all_time_total": 7232,
+  "last_30d_total": 3571,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1919,
-      "all_time": 3233,
+      "last_30d": 1920,
+      "all_time": 3234,
       "subtypes": {
         "rent": {
-          "last_30d": 1028,
-          "all_time": 1660
+          "last_30d": 1029,
+          "all_time": 1661
         },
         "roommate": {
           "last_30d": 325,
@@ -39,8 +39,8 @@
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 201,
-      "all_time": 407
+      "last_30d": 202,
+      "all_time": 408
     },
     {
       "niche": "transfer_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3218
+      "total": 3220
     }
   ],
   "system": {
-    "messages_scanned_total": 1544196,
-    "messages_scanned_30d": 988969,
-    "noise_filtered_total": 837318,
-    "noise_filtered_30d": 602598,
-    "lead_sightings_total": 11698,
+    "messages_scanned_total": 1544722,
+    "messages_scanned_30d": 989495,
+    "noise_filtered_total": 837630,
+    "noise_filtered_30d": 602910,
+    "lead_sightings_total": 11700,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1955,16 +1955,16 @@
       },
       {
         "period": "2026-10-28",
-        "total": 16,
+        "total": 18,
         "by_niche": {
           "bikes_bali": 2,
-          "games_bali": 4,
+          "games_bali": 5,
           "handyman_bali": 3,
-          "housing_bali": 6,
+          "housing_bali": 7,
           "massage_bali": 1
         },
         "housing": {
-          "rent": 3,
+          "rent": 4,
           "roommate": 1,
           "offer": 2
         }
@@ -2319,15 +2319,15 @@
       },
       {
         "period": "2026-10-26",
-        "total": 244,
+        "total": 246,
         "by_niche": {
           "auto_bali": 4,
           "banya_bali": 1,
           "beauty_bali": 19,
           "bikes_bali": 43,
-          "games_bali": 15,
+          "games_bali": 16,
           "handyman_bali": 10,
-          "housing_bali": 125,
+          "housing_bali": 126,
           "massage_bali": 3,
           "photo_bali": 3,
           "transfer_bali": 9,
@@ -2336,7 +2336,7 @@
           "wedding_bali": 2
         },
         "housing": {
-          "rent": 54,
+          "rent": 55,
           "roommate": 19,
           "offer": 52
         },
@@ -2415,15 +2415,15 @@
       },
       {
         "period": "2026-10",
-        "total": 3218,
+        "total": 3220,
         "by_niche": {
           "auto_bali": 56,
           "banya_bali": 6,
           "beauty_bali": 180,
           "bikes_bali": 610,
-          "games_bali": 185,
+          "games_bali": 186,
           "handyman_bali": 71,
-          "housing_bali": 1740,
+          "housing_bali": 1741,
           "massage_bali": 47,
           "photo_bali": 53,
           "transfer_bali": 166,
@@ -2432,7 +2432,7 @@
           "wedding_bali": 9
         },
         "housing": {
-          "rent": 933,
+          "rent": 934,
           "roommate": 293,
           "offer": 514
         },
@@ -2483,7 +2483,7 @@
         "count": 53
       }
     ],
-    "geo_unknown": 283,
+    "geo_unknown": 284,
     "budget_idr": {
       "n": 766,
       "p25": 10000000,
@@ -2492,6 +2492,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-28T08:00",
+      "subtype": "rent",
+      "text": "Добрый день , кто может посоветовать , где можно посмотреть виллы ?"
+    },
     {
       "niche": "massage_bali",
       "at": "2026-10-28T06:30",
@@ -2673,14 +2679,6 @@
       "at": "2026-10-27T18:30",
       "subtype": "rent",
       "text": "Друзья, кошатники, нужен ваш совет! Я раньше никогда не жила с кошками, и только на Бали начала узнавать их характеры и привычки. У меня есть старшая кошка,…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-27T18:15",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "budget_m": 17,
-      "text": "Ищу виллу в Чангу , бюджете до 17млн"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2856,7 +2854,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 964,
+    "villa": 965,
     "house": 71,
     "room": 124,
     "apartment": 44,
@@ -2925,7 +2923,7 @@
         13,
         9,
         14,
-        21,
+        23,
         24,
         32,
         39,
@@ -3662,7 +3660,7 @@
           3,
           0,
           0,
-          1,
+          2,
           1,
           0,
           1,
@@ -4030,7 +4028,7 @@
           9,
           6,
           12,
-          12,
+          13,
           16,
           19,
           28,
