@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T19:10:54.823783+08:00",
-  "all_time_total": 7286,
-  "last_30d_total": 3626,
+  "generated_at": "2026-10-28T20:11:58.586599+08:00",
+  "all_time_total": 7289,
+  "last_30d_total": 3629,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,14 +27,14 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 695,
-      "all_time": 1591
+      "last_30d": 696,
+      "all_time": 1592
     },
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 215,
-      "all_time": 443
+      "last_30d": 217,
+      "all_time": 445
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3275
+      "total": 3278
     }
   ],
   "system": {
-    "messages_scanned_total": 1560722,
-    "messages_scanned_30d": 1005495,
-    "noise_filtered_total": 847628,
-    "noise_filtered_30d": 612908,
-    "lead_sightings_total": 11806,
+    "messages_scanned_total": 1563169,
+    "messages_scanned_30d": 1007942,
+    "noise_filtered_total": 849292,
+    "noise_filtered_30d": 614572,
+    "lead_sightings_total": 11810,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1955,11 +1955,11 @@
       },
       {
         "period": "2026-10-28",
-        "total": 73,
+        "total": 76,
         "by_niche": {
           "auto_bali": 2,
-          "beauty_bali": 3,
-          "bikes_bali": 9,
+          "beauty_bali": 5,
+          "bikes_bali": 10,
           "games_bali": 13,
           "handyman_bali": 3,
           "housing_bali": 37,
@@ -2323,12 +2323,12 @@
       },
       {
         "period": "2026-10-26",
-        "total": 301,
+        "total": 304,
         "by_niche": {
           "auto_bali": 6,
           "banya_bali": 1,
-          "beauty_bali": 22,
-          "bikes_bali": 50,
+          "beauty_bali": 24,
+          "bikes_bali": 51,
           "games_bali": 24,
           "handyman_bali": 10,
           "housing_bali": 156,
@@ -2419,12 +2419,12 @@
       },
       {
         "period": "2026-10",
-        "total": 3275,
+        "total": 3278,
         "by_niche": {
           "auto_bali": 58,
           "banya_bali": 6,
-          "beauty_bali": 183,
-          "bikes_bali": 617,
+          "beauty_bali": 185,
+          "bikes_bali": 618,
           "games_bali": 194,
           "handyman_bali": 71,
           "housing_bali": 1771,
@@ -2496,6 +2496,29 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-28T19:30",
+      "subtype": "rent",
+      "text": "Ну кстати,если на Бали продлеваетесь ,то там вообще никакие другие варианты не канают ,как то ,что из Суматры куплю потом билет на паром до Малайзии,а вот в…"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-28T19:15",
+      "geo": "Чангу",
+      "text": "Ищу колориста, кто делает эиртач, контуринг. Чангу, Семиньяк, Керабокан. Посоветуйте пожалуйста"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-28T19:15",
+      "geo": "Убуд",
+      "text": "Всем привет! Подскажите пожалуйста хорошую парикмахерскую в Убуде или хорошего мастера"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-28T19:00",
+      "text": "Сколько стоит аренда байка, скутера?"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-28T19:00",
@@ -2656,31 +2679,6 @@
       "subtype": "roommate",
       "geo": "Чангу",
       "text": "Здравствуйте, мы с девушкой ищем свободную комнату на вилле, в районе Чангу, если у кого хорошие варианты 🙏"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-10-28T13:00",
-      "geo": "Кута",
-      "text": "Посоветуйте пожалуйста ,в куте где можно в 4 руки сделать маникюр и педикюр ?)"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-10-28T13:00",
-      "geo": "Кута",
-      "text": "Посоветуйте пожалуйста в куте где можно сделать в 4 руки маникюр и педикюр ?)"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-28T12:45",
-      "subtype": "rent",
-      "budget_m": 8,
-      "text": "Всем привет. Срочно собираюсь в ближайшие дни с Пхукета на Бали. Подскажите, смогу найти жилье для парня с девушкой на ноябрь и декабрь до 500$ в месяц? Это…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-28T12:15",
-      "subtype": "rent",
-      "text": "Добрый день,Ангелина! Для продления визы С1 не требуется банковская выписка. Если вы оформляли визу самостоятельно ,то и продлить ее можете самостоятельно.…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2936,7 +2934,7 @@
         52,
         42,
         31,
-        30,
+        33,
         24,
         18,
         19,
@@ -3305,7 +3303,7 @@
           5,
           1,
           2,
-          0,
+          2,
           1,
           3,
           1,
@@ -3489,7 +3487,7 @@
           9,
           6,
           7,
-          7,
+          8,
           2,
           3,
           4,
