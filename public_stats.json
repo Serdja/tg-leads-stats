@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T08:59:24.812048+08:00",
-  "all_time_total": 7232,
-  "last_30d_total": 3571,
+  "generated_at": "2026-10-28T10:00:31.009723+08:00",
+  "all_time_total": 7238,
+  "last_30d_total": 3577,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1920,
-      "all_time": 3234,
+      "last_30d": 1922,
+      "all_time": 3236,
       "subtypes": {
         "rent": {
           "last_30d": 1029,
@@ -19,16 +19,16 @@
           "all_time": 541
         },
         "offer": {
-          "last_30d": 566,
-          "all_time": 1032
+          "last_30d": 568,
+          "all_time": 1034
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 688,
-      "all_time": 1584
+      "last_30d": 690,
+      "all_time": 1586
     },
     {
       "niche": "beauty_bali",
@@ -39,8 +39,8 @@
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 202,
-      "all_time": 408
+      "last_30d": 203,
+      "all_time": 409
     },
     {
       "niche": "transfer_bali",
@@ -57,8 +57,8 @@
     {
       "niche": "visa_bali",
       "label": "📄 Визы",
-      "last_30d": 77,
-      "all_time": 211
+      "last_30d": 78,
+      "all_time": 212
     },
     {
       "niche": "photo_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3220
+      "total": 3226
     }
   ],
   "system": {
-    "messages_scanned_total": 1544722,
-    "messages_scanned_30d": 989495,
-    "noise_filtered_total": 837630,
-    "noise_filtered_30d": 602910,
-    "lead_sightings_total": 11700,
+    "messages_scanned_total": 1545343,
+    "messages_scanned_30d": 990116,
+    "noise_filtered_total": 837948,
+    "noise_filtered_30d": 603228,
+    "lead_sightings_total": 11714,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1955,18 +1955,19 @@
       },
       {
         "period": "2026-10-28",
-        "total": 18,
+        "total": 24,
         "by_niche": {
-          "bikes_bali": 2,
-          "games_bali": 5,
+          "bikes_bali": 4,
+          "games_bali": 6,
           "handyman_bali": 3,
-          "housing_bali": 7,
-          "massage_bali": 1
+          "housing_bali": 9,
+          "massage_bali": 1,
+          "visa_bali": 1
         },
         "housing": {
           "rent": 4,
           "roommate": 1,
-          "offer": 2
+          "offer": 4
         }
       }
     ],
@@ -2319,26 +2320,26 @@
       },
       {
         "period": "2026-10-26",
-        "total": 246,
+        "total": 252,
         "by_niche": {
           "auto_bali": 4,
           "banya_bali": 1,
           "beauty_bali": 19,
-          "bikes_bali": 43,
-          "games_bali": 16,
+          "bikes_bali": 45,
+          "games_bali": 17,
           "handyman_bali": 10,
-          "housing_bali": 126,
+          "housing_bali": 128,
           "massage_bali": 3,
           "photo_bali": 3,
           "transfer_bali": 9,
           "video_bali": 3,
-          "visa_bali": 7,
+          "visa_bali": 8,
           "wedding_bali": 2
         },
         "housing": {
           "rent": 55,
           "roommate": 19,
-          "offer": 52
+          "offer": 54
         },
         "partial": true
       }
@@ -2415,26 +2416,26 @@
       },
       {
         "period": "2026-10",
-        "total": 3220,
+        "total": 3226,
         "by_niche": {
           "auto_bali": 56,
           "banya_bali": 6,
           "beauty_bali": 180,
-          "bikes_bali": 610,
-          "games_bali": 186,
+          "bikes_bali": 612,
+          "games_bali": 187,
           "handyman_bali": 71,
-          "housing_bali": 1741,
+          "housing_bali": 1743,
           "massage_bali": 47,
           "photo_bali": 53,
           "transfer_bali": 166,
           "video_bali": 27,
-          "visa_bali": 68,
+          "visa_bali": 69,
           "wedding_bali": 9
         },
         "housing": {
           "rent": 934,
           "roommate": 293,
-          "offer": 514
+          "offer": 516
         },
         "partial": true
       }
@@ -2492,6 +2493,35 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-28T10:00",
+      "text": "Looking for Xmax with original yamaha comfort seat or xmax tech good price"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-28T09:45",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "text": "Ребят сломалась зарядка на ноутбук Ищу второй день по магазинам не нашла Может кто знает адреса ?чангу ..кута ..денпасар"
+    },
+    {
+      "niche": "visa_bali",
+      "at": "2026-10-28T09:45",
+      "text": "Добрый день! Подскажите, пожалуйста, если самостоятельно оформлять продление визы С1, то я так поняла нужна выписка с банковского счета, а может быть другой…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-28T09:45",
+      "subtype": "rent",
+      "text": "Добрый день , кто может посоветовать виллы, ближайшие тасовки и хороший 🥥"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-28T09:30",
+      "geo": "Меласти",
+      "text": "На байке сел аккумулятор, не можем завести. Как можно это решить? Нужно подкурить байк о другой. Подскажите пожалуйста Пляж меласти"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-28T08:00",
@@ -2648,37 +2678,6 @@
       "niche": "transfer_bali",
       "at": "2026-10-27T19:15",
       "text": "Ищем водителя для междугородних перевозок. До 55 000 ₽ за выполненный рейс. Условия и маршрут уточняйте в личных сообщениях"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-27T19:15",
-      "subtype": "rent",
-      "geo": "Семиньяк",
-      "text": "Ищу виллу/апартаменты/кондо в Семиньяке С 2 ноября на 3-6 месяцев - закрытая гостиная - бассейн не обязательно :)"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-27T19:15",
-      "subtype": "rent",
-      "text": "🌍 Живёте за границей, но всё ещё неуверенно говорите по-английски? Вы переехали, путешествуете, строите новую жизнь и хотите чувствовать себя свободнее? Но…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-27T19:00",
-      "subtype": "rent",
-      "text": "Нужно помочь повесить шторы в двух этажном доме.4000 руб"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-27T19:00",
-      "subtype": "rent",
-      "text": "Если я своих ночью закрою дома - мне нужно будет псих скорую вызывать. Они будут орать и биться в дверь"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-27T18:30",
-      "subtype": "rent",
-      "text": "Друзья, кошатники, нужен ваш совет! Я раньше никогда не жила с кошками, и только на Бали начала узнавать их характеры и привычки. У меня есть старшая кошка,…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2924,8 +2923,8 @@
         9,
         14,
         23,
-        24,
-        32,
+        29,
+        33,
         39,
         35,
         46,
@@ -3477,8 +3476,8 @@
           1,
           1,
           6,
-          5,
-          9,
+          6,
+          10,
           7,
           11,
           7,
@@ -3661,7 +3660,7 @@
           0,
           0,
           2,
-          1,
+          2,
           0,
           1,
           0,
@@ -4029,7 +4028,7 @@
           6,
           12,
           13,
-          16,
+          18,
           19,
           28,
           22,
@@ -4765,7 +4764,7 @@
           0,
           0,
           0,
-          1,
+          2,
           2,
           0,
           0,
