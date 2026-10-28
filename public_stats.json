@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-28T15:06:37.004875+08:00",
-  "all_time_total": 7268,
-  "last_30d_total": 3608,
+  "generated_at": "2026-10-28T16:07:41.349825+08:00",
+  "all_time_total": 7270,
+  "last_30d_total": 3610,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1940,
-      "all_time": 3253,
+      "last_30d": 1941,
+      "all_time": 3254,
       "subtypes": {
         "rent": {
-          "last_30d": 1036,
-          "all_time": 1667
+          "last_30d": 1037,
+          "all_time": 1668
         },
         "roommate": {
           "last_30d": 328,
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 692,
-      "all_time": 1588
+      "last_30d": 693,
+      "all_time": 1589
     },
     {
       "niche": "beauty_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3257
+      "total": 3259
     }
   ],
   "system": {
-    "messages_scanned_total": 1551119,
-    "messages_scanned_30d": 995892,
-    "noise_filtered_total": 841406,
-    "noise_filtered_30d": 606686,
-    "lead_sightings_total": 11759,
+    "messages_scanned_total": 1553387,
+    "messages_scanned_30d": 998160,
+    "noise_filtered_total": 842813,
+    "noise_filtered_30d": 608093,
+    "lead_sightings_total": 11764,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 253
@@ -1955,20 +1955,20 @@
       },
       {
         "period": "2026-10-28",
-        "total": 55,
+        "total": 57,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 3,
-          "bikes_bali": 6,
+          "bikes_bali": 7,
           "games_bali": 9,
           "handyman_bali": 3,
-          "housing_bali": 27,
+          "housing_bali": 28,
           "massage_bali": 1,
           "transfer_bali": 1,
           "visa_bali": 4
         },
         "housing": {
-          "rent": 11,
+          "rent": 12,
           "roommate": 4,
           "offer": 12
         }
@@ -2323,15 +2323,15 @@
       },
       {
         "period": "2026-10-26",
-        "total": 283,
+        "total": 285,
         "by_niche": {
           "auto_bali": 5,
           "banya_bali": 1,
           "beauty_bali": 22,
-          "bikes_bali": 47,
+          "bikes_bali": 48,
           "games_bali": 20,
           "handyman_bali": 10,
-          "housing_bali": 146,
+          "housing_bali": 147,
           "massage_bali": 3,
           "photo_bali": 3,
           "transfer_bali": 10,
@@ -2340,7 +2340,7 @@
           "wedding_bali": 2
         },
         "housing": {
-          "rent": 62,
+          "rent": 63,
           "roommate": 22,
           "offer": 62
         },
@@ -2419,15 +2419,15 @@
       },
       {
         "period": "2026-10",
-        "total": 3257,
+        "total": 3259,
         "by_niche": {
           "auto_bali": 57,
           "banya_bali": 6,
           "beauty_bali": 183,
-          "bikes_bali": 614,
+          "bikes_bali": 615,
           "games_bali": 190,
           "handyman_bali": 71,
-          "housing_bali": 1761,
+          "housing_bali": 1762,
           "massage_bali": 47,
           "photo_bali": 53,
           "transfer_bali": 167,
@@ -2436,7 +2436,7 @@
           "wedding_bali": 9
         },
         "housing": {
-          "rent": 941,
+          "rent": 942,
           "roommate": 296,
           "offer": 524
         },
@@ -2448,7 +2448,7 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 559
+        "count": 560
       },
       {
         "geo": "Улувату",
@@ -2496,6 +2496,38 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-28T16:00",
+      "subtype": "rent",
+      "text": "Привет! На завтра нужен помощник в магазине — разобрать новую поставку аксессуаров. 5 300"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-28T16:00",
+      "subtype": "rent",
+      "geo": "Денпасар",
+      "text": "Всем привет! Подскажите, пожалуйста, где на Бали купить оборудование для съёмки: - беспроводные петличные микрофоны DJI Mic 2, комплект на двоих (или что-то…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-28T15:30",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "text": "Здравствуйте, ищу виллу в Чангу"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-28T15:15",
+      "subtype": "rent",
+      "text": "🩸Нужны анализы? Медсестра приедет к вам – в виллу, отель или апартаменты. Выбираете анализы → получаете расчёт → подтверждаете время. 📲 Всё через чат. Без…"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-28T15:00",
+      "geo": "Улувату",
+      "text": "Нужен мопед на месяц в Улувату, можно старенький. Где арендовать байк по нормальной цене, киньте контакты"
+    },
     {
       "niche": "transfer_bali",
       "at": "2026-10-28T14:30",
@@ -2653,35 +2685,6 @@
       "subtype": "rent",
       "geo": "Чангу",
       "text": "Ребят сломалась зарядка на ноутбук Ищу второй день по магазинам не нашла Может кто знает адреса ?чангу ..кута ..денпасар"
-    },
-    {
-      "niche": "visa_bali",
-      "at": "2026-10-28T09:45",
-      "text": "Добрый день! Подскажите, пожалуйста, если самостоятельно оформлять продление визы С1, то я так поняла нужна выписка с банковского счета, а может быть другой…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-28T09:45",
-      "subtype": "rent",
-      "text": "Добрый день , кто может посоветовать виллы, ближайшие тасовки и хороший 🥥"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-28T09:30",
-      "geo": "Меласти",
-      "text": "На байке сел аккумулятор, не можем завести. Как можно это решить? Нужно подкурить байк о другой. Подскажите пожалуйста Пляж меласти"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-28T08:00",
-      "subtype": "rent",
-      "text": "Добрый день , кто может посоветовать , где можно посмотреть виллы ?"
-    },
-    {
-      "niche": "massage_bali",
-      "at": "2026-10-28T06:30",
-      "geo": "Джимбаран",
-      "text": "опытного пунктуального массажиста с выездом в Джимбаран для регулярного массажа. Нужен специалист, который умеет глубоко прорабатывать мышцы, снимать…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2857,7 +2860,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 970,
+    "villa": 971,
     "house": 71,
     "room": 125,
     "apartment": 45,
@@ -2933,7 +2936,7 @@
         41,
         56,
         64,
-        36,
+        38,
         47,
         39,
         25,
@@ -3486,7 +3489,7 @@
           11,
           8,
           12,
-          6,
+          7,
           8,
           5,
           7,
@@ -4038,7 +4041,7 @@
           27,
           37,
           35,
-          20,
+          21,
           27,
           24,
           13,
