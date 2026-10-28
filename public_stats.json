@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T02:31:21.666970+08:00",
-  "all_time_total": 7310,
-  "last_30d_total": 3526,
+  "generated_at": "2026-10-29T03:32:21.060893+08:00",
+  "all_time_total": 7312,
+  "last_30d_total": 3528,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 674,
-      "all_time": 1596
+      "last_30d": 675,
+      "all_time": 1597
     },
     {
       "niche": "games_bali",
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 175,
-      "all_time": 458
+      "last_30d": 176,
+      "all_time": 459
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3299
+      "total": 3301
     }
   ],
   "system": {
-    "messages_scanned_total": 1577164,
-    "messages_scanned_30d": 989024,
-    "noise_filtered_total": 858017,
-    "noise_filtered_30d": 603223,
-    "lead_sightings_total": 11850,
+    "messages_scanned_total": 1578218,
+    "messages_scanned_30d": 990078,
+    "noise_filtered_total": 858682,
+    "noise_filtered_30d": 603888,
+    "lead_sightings_total": 11852,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1959,10 +1959,11 @@
       },
       {
         "period": "2026-10-29",
-        "total": 6,
+        "total": 8,
         "by_niche": {
-          "bikes_bali": 1,
-          "housing_bali": 5
+          "bikes_bali": 2,
+          "housing_bali": 5,
+          "transfer_bali": 1
         },
         "housing": {
           "rent": 3,
@@ -2320,18 +2321,18 @@
       },
       {
         "period": "2026-10-26",
-        "total": 325,
+        "total": 327,
         "by_niche": {
           "auto_bali": 6,
           "banya_bali": 1,
           "beauty_bali": 24,
-          "bikes_bali": 55,
+          "bikes_bali": 56,
           "games_bali": 24,
           "handyman_bali": 10,
           "housing_bali": 168,
           "massage_bali": 4,
           "photo_bali": 4,
-          "transfer_bali": 12,
+          "transfer_bali": 13,
           "video_bali": 4,
           "visa_bali": 11,
           "wedding_bali": 2
@@ -2416,18 +2417,18 @@
       },
       {
         "period": "2026-10",
-        "total": 3299,
+        "total": 3301,
         "by_niche": {
           "auto_bali": 58,
           "banya_bali": 6,
           "beauty_bali": 185,
-          "bikes_bali": 622,
+          "bikes_bali": 623,
           "games_bali": 194,
           "handyman_bali": 71,
           "housing_bali": 1783,
           "massage_bali": 48,
           "photo_bali": 54,
-          "transfer_bali": 169,
+          "transfer_bali": 170,
           "video_bali": 28,
           "visa_bali": 72,
           "wedding_bali": 9
@@ -2493,6 +2494,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "transfer_bali",
+      "at": "2026-10-29T03:00",
+      "text": "Ищу водителя в срочном порядке, есть отличная тема для заработка"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-29T01:30",
@@ -2675,12 +2681,6 @@
       "at": "2026-10-28T18:15",
       "subtype": "rent",
       "text": "Приветствую всех в чате , нам в ресторан привезли рыбок для аквариумов, нужно 2 человека для помощи их туда запустить до открытия, за помощь плачу каждому 5500…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-28T17:45",
-      "geo": "Улувату",
-      "text": "Looking for NEW ADV 2026 from today to 21 of December. Uluwatu."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2946,7 +2946,7 @@
         19,
         13,
         7,
-        5,
+        7,
         4,
         3,
         1,
@@ -3499,7 +3499,7 @@
           3,
           4,
           3,
-          0,
+          1,
           0,
           0,
           1,
@@ -4419,7 +4419,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0,
           0,
