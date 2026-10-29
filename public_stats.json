@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T22:52:35.238941+08:00",
-  "all_time_total": 7408,
-  "last_30d_total": 3624,
+  "generated_at": "2026-10-29T23:53:35.352292+08:00",
+  "all_time_total": 7412,
+  "last_30d_total": 3628,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1952,
-      "all_time": 3329,
+      "last_30d": 1954,
+      "all_time": 3331,
       "subtypes": {
         "rent": {
-          "last_30d": 1038,
-          "all_time": 1712
+          "last_30d": 1040,
+          "all_time": 1714
         },
         "roommate": {
           "last_30d": 327,
@@ -33,8 +33,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 210,
-      "all_time": 452
+      "last_30d": 211,
+      "all_time": 453
     },
     {
       "niche": "games_bali",
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 179,
-      "all_time": 462
+      "last_30d": 180,
+      "all_time": 463
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3397
+      "total": 3401
     }
   ],
   "system": {
-    "messages_scanned_total": 1603528,
-    "messages_scanned_30d": 1015388,
-    "noise_filtered_total": 875406,
-    "noise_filtered_30d": 620612,
-    "lead_sightings_total": 12011,
+    "messages_scanned_total": 1605614,
+    "messages_scanned_30d": 1017474,
+    "noise_filtered_total": 876755,
+    "noise_filtered_30d": 621961,
+    "lead_sightings_total": 12015,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1959,21 +1959,21 @@
       },
       {
         "period": "2026-10-29",
-        "total": 104,
+        "total": 108,
         "by_niche": {
           "auto_bali": 3,
-          "beauty_bali": 7,
+          "beauty_bali": 8,
           "bikes_bali": 20,
           "games_bali": 3,
           "handyman_bali": 2,
-          "housing_bali": 59,
+          "housing_bali": 61,
           "photo_bali": 4,
-          "transfer_bali": 4,
+          "transfer_bali": 5,
           "video_bali": 1,
           "visa_bali": 1
         },
         "housing": {
-          "rent": 36,
+          "rent": 38,
           "roommate": 6,
           "offer": 17
         }
@@ -2328,24 +2328,24 @@
       },
       {
         "period": "2026-10-26",
-        "total": 423,
+        "total": 427,
         "by_niche": {
           "auto_bali": 9,
           "banya_bali": 1,
-          "beauty_bali": 31,
+          "beauty_bali": 32,
           "bikes_bali": 74,
           "games_bali": 27,
           "handyman_bali": 12,
-          "housing_bali": 222,
+          "housing_bali": 224,
           "massage_bali": 4,
           "photo_bali": 8,
-          "transfer_bali": 16,
+          "transfer_bali": 17,
           "video_bali": 5,
           "visa_bali": 12,
           "wedding_bali": 2
         },
         "housing": {
-          "rent": 107,
+          "rent": 109,
           "roommate": 29,
           "offer": 86
         },
@@ -2424,24 +2424,24 @@
       },
       {
         "period": "2026-10",
-        "total": 3397,
+        "total": 3401,
         "by_niche": {
           "auto_bali": 61,
           "banya_bali": 6,
-          "beauty_bali": 192,
+          "beauty_bali": 193,
           "bikes_bali": 641,
           "games_bali": 197,
           "handyman_bali": 73,
-          "housing_bali": 1837,
+          "housing_bali": 1839,
           "massage_bali": 48,
           "photo_bali": 58,
-          "transfer_bali": 173,
+          "transfer_bali": 174,
           "video_bali": 29,
           "visa_bali": 73,
           "wedding_bali": 9
         },
         "housing": {
-          "rent": 986,
+          "rent": 988,
           "roommate": 303,
           "offer": 548
         },
@@ -2465,7 +2465,7 @@
       },
       {
         "geo": "Переренан",
-        "count": 169
+        "count": 170
       },
       {
         "geo": "Убуд",
@@ -2492,7 +2492,7 @@
         "count": 49
       }
     ],
-    "geo_unknown": 280,
+    "geo_unknown": 281,
     "budget_idr": {
       "n": 778,
       "p25": 10000000,
@@ -2501,6 +2501,31 @@
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-29T23:15",
+      "geo": "Убуд",
+      "text": "Ищу парикмахера в Убуде"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-29T23:15",
+      "subtype": "rent",
+      "text": "Всем привет ,нужна помощь . до открытия магазина два дня . нужн помочь ынести хлам и все расставить по полкам , за помощь дам 10 000. можно и разоо , есть…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-29T23:15",
+      "subtype": "rent",
+      "geo": "Переренан",
+      "text": "Всем привет! 👋 Ищем виллу с 2 спальнями (2BR) в районе Переренан (Pererenan) Рассмотрим все варианты! Если у кого-то есть предложения или контакты…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-29T23:00",
+      "subtype": "rent",
+      "text": "Посоветуйте хорошую виллу для отдыха с маленьким ребёнком"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-29T22:30",
@@ -2661,30 +2686,6 @@
       "subtype": "rent",
       "geo": "Улувату",
       "text": "Здравствуйте! Ищем виллу в Улувату. 3 спальни, бассейн. с 2.02.27 по 19.02.27"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-29T18:15",
-      "text": "Looking for not old ADV or PCX with top case from 4 November to 20 of December."
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-29T18:15",
-      "subtype": "rent",
-      "geo": "Улувату",
-      "text": "Друзья, всем привет! Впервые собираемся на Бали, выбрали для проживания Улувату. Ищем виллу на 3 спальни на 2 недели (начало февраля). Если у кого-то есть…"
-    },
-    {
-      "niche": "video_bali",
-      "at": "2026-10-29T18:00",
-      "text": "Говорю для рилса нужно позируйте 😂😂😂😂"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-29T18:00",
-      "subtype": "rent",
-      "budget_m": 11,
-      "text": "Ищу апартаменты на долгий срок, обязательно отдельная спальня + гостиная. Бюджет до 11 млн. Планируем проживать вдвоем + кошка воспитанная ✨"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2860,7 +2861,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 975,
+    "villa": 977,
     "house": 70,
     "room": 126,
     "apartment": 44,
@@ -2970,7 +2971,7 @@
         24,
         47,
         22,
-        11
+        15
       ],
       [
         8,
@@ -3339,7 +3340,7 @@
           1,
           0,
           1,
-          1
+          2
         ],
         [
           0,
@@ -4075,7 +4076,7 @@
           14,
           21,
           12,
-          5
+          7
         ],
         [
           6,
@@ -4443,7 +4444,7 @@
           1,
           1,
           5,
-          2
+          3
         ],
         [
           0,
