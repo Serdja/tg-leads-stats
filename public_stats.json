@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T04:58:34.418571+08:00",
+  "generated_at": "2026-10-30T05:59:33.926120+08:00",
   "all_time_total": 7424,
   "last_30d_total": 3540,
   "by_niche": [
@@ -130,11 +130,11 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 1612440,
-    "messages_scanned_30d": 994273,
-    "noise_filtered_total": 881110,
-    "noise_filtered_30d": 607063,
-    "lead_sightings_total": 12034,
+    "messages_scanned_total": 1613228,
+    "messages_scanned_30d": 995061,
+    "noise_filtered_total": 881631,
+    "noise_filtered_30d": 607584,
+    "lead_sightings_total": 12037,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2503,6 +2503,12 @@
   "ticker": [
     {
       "niche": "housing_bali",
+      "at": "2026-10-30T05:15",
+      "subtype": "rent",
+      "text": "Нужны руки для уборки квартиры, отвезу и привезу 5800р Человек на покраску стен, 15000 после"
+    },
+    {
+      "niche": "housing_bali",
       "at": "2026-10-30T04:30",
       "subtype": "rent",
       "geo": "Чангу",
@@ -2686,11 +2692,6 @@
       "niche": "bikes_bali",
       "at": "2026-10-29T21:00",
       "text": "Hi! I’m looking for a new 2 XMAX bikes, excellent condition, for 2 weeks, from desember 16st to desember 29nd"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-29T21:00",
-      "text": "Привет) подскажите аренду байков в районе Куты. Хочу nmax на 12 дней. Благодарю за контакты🙏🏼"
     }
   ],
   "housing_budget_by_geo_90d": [
