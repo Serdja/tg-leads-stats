@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T08:37:17.513171+08:00",
-  "all_time_total": 7316,
-  "last_30d_total": 3532,
+  "generated_at": "2026-10-29T09:38:20.992945+08:00",
+  "all_time_total": 7317,
+  "last_30d_total": 3533,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1901,
-      "all_time": 3278,
+      "last_30d": 1902,
+      "all_time": 3279,
       "subtypes": {
         "rent": {
-          "last_30d": 1007,
-          "all_time": 1681
+          "last_30d": 1008,
+          "all_time": 1682
         },
         "roommate": {
           "last_30d": 322,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3305
+      "total": 3306
     }
   ],
   "system": {
-    "messages_scanned_total": 1581298,
-    "messages_scanned_30d": 993158,
-    "noise_filtered_total": 860643,
-    "noise_filtered_30d": 605849,
-    "lead_sightings_total": 11863,
+    "messages_scanned_total": 1581789,
+    "messages_scanned_30d": 993649,
+    "noise_filtered_total": 860916,
+    "noise_filtered_30d": 606122,
+    "lead_sightings_total": 11867,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1959,14 +1959,14 @@
       },
       {
         "period": "2026-10-29",
-        "total": 12,
+        "total": 13,
         "by_niche": {
           "bikes_bali": 3,
-          "housing_bali": 8,
+          "housing_bali": 9,
           "transfer_bali": 1
         },
         "housing": {
-          "rent": 5,
+          "rent": 6,
           "roommate": 1,
           "offer": 2
         }
@@ -2321,7 +2321,7 @@
       },
       {
         "period": "2026-10-26",
-        "total": 331,
+        "total": 332,
         "by_niche": {
           "auto_bali": 6,
           "banya_bali": 1,
@@ -2329,7 +2329,7 @@
           "bikes_bali": 57,
           "games_bali": 24,
           "handyman_bali": 10,
-          "housing_bali": 171,
+          "housing_bali": 172,
           "massage_bali": 4,
           "photo_bali": 4,
           "transfer_bali": 13,
@@ -2338,7 +2338,7 @@
           "wedding_bali": 2
         },
         "housing": {
-          "rent": 76,
+          "rent": 77,
           "roommate": 24,
           "offer": 71
         },
@@ -2417,7 +2417,7 @@
       },
       {
         "period": "2026-10",
-        "total": 3305,
+        "total": 3306,
         "by_niche": {
           "auto_bali": 58,
           "banya_bali": 6,
@@ -2425,7 +2425,7 @@
           "bikes_bali": 624,
           "games_bali": 194,
           "handyman_bali": 71,
-          "housing_bali": 1786,
+          "housing_bali": 1787,
           "massage_bali": 48,
           "photo_bali": 54,
           "transfer_bali": 170,
@@ -2434,7 +2434,7 @@
           "wedding_bali": 9
         },
         "housing": {
-          "rent": 955,
+          "rent": 956,
           "roommate": 298,
           "offer": 533
         },
@@ -2450,7 +2450,7 @@
       },
       {
         "geo": "Улувату",
-        "count": 193
+        "count": 194
       },
       {
         "geo": "Сесех",
@@ -2494,6 +2494,19 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-29T09:30",
+      "subtype": "rent",
+      "text": "💵 Полиция и [имя] уничтожили больше 3,7 тысячи поддельных банкнот. Фальшивки выявили банки при обработке наличности. Злоумышленники могут сминать фальшивки и…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-29T09:15",
+      "subtype": "rent",
+      "geo": "Улувату",
+      "text": "Всем привет✌️ Подскажите, в каком месте в Улувату лучше искать жильё?"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-29T08:30",
@@ -2671,17 +2684,6 @@
       "at": "2026-10-28T19:15",
       "geo": "Убуд",
       "text": "Всем привет! Подскажите пожалуйста хорошую парикмахерскую в Убуде или хорошего мастера"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-28T19:00",
-      "text": "Сколько стоит аренда байка, скутера?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-28T19:00",
-      "subtype": "rent",
-      "text": "Ищу квартиру в аренду, можно на полгода. Предложения в личку."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2861,7 +2863,7 @@
     "house": 70,
     "room": 124,
     "apartment": 43,
-    "unknown": 144
+    "unknown": 145
   },
   "activity_30d": {
     "all": [
@@ -2953,7 +2955,7 @@
         1,
         7,
         15,
-        21,
+        22,
         30,
         30,
         28,
@@ -4058,7 +4060,7 @@
           0,
           5,
           9,
-          10,
+          11,
           17,
           17,
           12,
