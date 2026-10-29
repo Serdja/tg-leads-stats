@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-29T09:38:20.992945+08:00",
-  "all_time_total": 7317,
-  "last_30d_total": 3533,
+  "generated_at": "2026-10-29T10:39:24.242415+08:00",
+  "all_time_total": 7318,
+  "last_30d_total": 3534,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 176,
-      "all_time": 459
+      "last_30d": 177,
+      "all_time": 460
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3306
+      "total": 3307
     }
   ],
   "system": {
-    "messages_scanned_total": 1581789,
-    "messages_scanned_30d": 993649,
-    "noise_filtered_total": 860916,
-    "noise_filtered_30d": 606122,
-    "lead_sightings_total": 11867,
+    "messages_scanned_total": 1582292,
+    "messages_scanned_30d": 994152,
+    "noise_filtered_total": 861201,
+    "noise_filtered_30d": 606407,
+    "lead_sightings_total": 11871,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1959,11 +1959,11 @@
       },
       {
         "period": "2026-10-29",
-        "total": 13,
+        "total": 14,
         "by_niche": {
           "bikes_bali": 3,
           "housing_bali": 9,
-          "transfer_bali": 1
+          "transfer_bali": 2
         },
         "housing": {
           "rent": 6,
@@ -2321,7 +2321,7 @@
       },
       {
         "period": "2026-10-26",
-        "total": 332,
+        "total": 333,
         "by_niche": {
           "auto_bali": 6,
           "banya_bali": 1,
@@ -2332,7 +2332,7 @@
           "housing_bali": 172,
           "massage_bali": 4,
           "photo_bali": 4,
-          "transfer_bali": 13,
+          "transfer_bali": 14,
           "video_bali": 4,
           "visa_bali": 11,
           "wedding_bali": 2
@@ -2417,7 +2417,7 @@
       },
       {
         "period": "2026-10",
-        "total": 3306,
+        "total": 3307,
         "by_niche": {
           "auto_bali": 58,
           "banya_bali": 6,
@@ -2428,7 +2428,7 @@
           "housing_bali": 1787,
           "massage_bali": 48,
           "photo_bali": 54,
-          "transfer_bali": 170,
+          "transfer_bali": 171,
           "video_bali": 28,
           "visa_bali": 72,
           "wedding_bali": 9
@@ -2494,6 +2494,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "transfer_bali",
+      "at": "2026-10-29T10:15",
+      "text": "Всем привет🤗 Ребята, если есть контакты водителей байков, кого можно арендовать на полдня или целый день, поделитесь пож-та) Нужны районы Бедугул и Кинтамани.…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-29T09:30",
@@ -2678,12 +2683,6 @@
       "at": "2026-10-28T19:15",
       "geo": "Чангу",
       "text": "Ищу колориста, кто делает эиртач, контуринг. Чангу, Семиньяк, Керабокан. Посоветуйте пожалуйста"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-10-28T19:15",
-      "geo": "Убуд",
-      "text": "Всем привет! Подскажите пожалуйста хорошую парикмахерскую в Убуде или хорошего мастера"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2956,7 +2955,7 @@
         7,
         15,
         22,
-        30,
+        31,
         30,
         28,
         41,
@@ -4429,7 +4428,7 @@
           0,
           0,
           0,
-          2,
+          3,
           1,
           0,
           2,
