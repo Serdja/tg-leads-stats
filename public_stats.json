@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T18:08:21.746122+08:00",
-  "all_time_total": 7477,
-  "last_30d_total": 3593,
+  "generated_at": "2026-10-30T19:09:26.844319+08:00",
+  "all_time_total": 7483,
+  "last_30d_total": 3599,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1944,
-      "all_time": 3371,
+      "last_30d": 1948,
+      "all_time": 3375,
       "subtypes": {
         "rent": {
-          "last_30d": 1039,
-          "all_time": 1735
+          "last_30d": 1041,
+          "all_time": 1737
         },
         "roommate": {
           "last_30d": 325,
           "all_time": 560
         },
         "offer": {
-          "last_30d": 580,
-          "all_time": 1076
+          "last_30d": 582,
+          "all_time": 1078
         }
       }
     },
@@ -33,8 +33,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 210,
-      "all_time": 459
+      "last_30d": 212,
+      "all_time": 461
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3466
+      "total": 3472
     }
   ],
   "system": {
-    "messages_scanned_total": 1627195,
-    "messages_scanned_30d": 1009028,
-    "noise_filtered_total": 890602,
-    "noise_filtered_30d": 616555,
-    "lead_sightings_total": 12135,
+    "messages_scanned_total": 1629456,
+    "messages_scanned_30d": 1011289,
+    "noise_filtered_total": 892177,
+    "noise_filtered_30d": 618130,
+    "lead_sightings_total": 12142,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1965,21 +1965,21 @@
       },
       {
         "period": "2026-10-30",
-        "total": 65,
+        "total": 71,
         "by_niche": {
-          "beauty_bali": 6,
+          "beauty_bali": 8,
           "bikes_bali": 9,
           "handyman_bali": 1,
-          "housing_bali": 40,
+          "housing_bali": 44,
           "photo_bali": 1,
           "transfer_bali": 4,
           "visa_bali": 3,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 21,
+          "rent": 23,
           "roommate": 9,
-          "offer": 10
+          "offer": 12
         }
       }
     ],
@@ -2332,15 +2332,15 @@
       },
       {
         "period": "2026-10-26",
-        "total": 492,
+        "total": 498,
         "by_niche": {
           "auto_bali": 9,
           "banya_bali": 1,
-          "beauty_bali": 38,
+          "beauty_bali": 40,
           "bikes_bali": 83,
           "games_bali": 27,
           "handyman_bali": 13,
-          "housing_bali": 264,
+          "housing_bali": 268,
           "massage_bali": 4,
           "photo_bali": 9,
           "transfer_bali": 21,
@@ -2349,9 +2349,9 @@
           "wedding_bali": 3
         },
         "housing": {
-          "rent": 130,
+          "rent": 132,
           "roommate": 38,
-          "offer": 96
+          "offer": 98
         },
         "partial": true
       }
@@ -2428,15 +2428,15 @@
       },
       {
         "period": "2026-10",
-        "total": 3466,
+        "total": 3472,
         "by_niche": {
           "auto_bali": 61,
           "banya_bali": 6,
-          "beauty_bali": 199,
+          "beauty_bali": 201,
           "bikes_bali": 650,
           "games_bali": 197,
           "handyman_bali": 74,
-          "housing_bali": 1879,
+          "housing_bali": 1883,
           "massage_bali": 48,
           "photo_bali": 59,
           "transfer_bali": 178,
@@ -2445,9 +2445,9 @@
           "wedding_bali": 10
         },
         "housing": {
-          "rent": 1009,
+          "rent": 1011,
           "roommate": 312,
-          "offer": 558
+          "offer": 560
         },
         "partial": true
       }
@@ -2496,15 +2496,40 @@
         "count": 48
       }
     ],
-    "geo_unknown": 279,
+    "geo_unknown": 280,
     "budget_idr": {
-      "n": 778,
+      "n": 780,
       "p25": 10000000,
       "median": 16000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-30T19:00",
+      "text": "Девушки, посоветуйте, пожалуйста, где можно сделать хороший маникюр и педикюр в Буде? Спасибо!"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-30T19:00",
+      "subtype": "rent",
+      "budget_m": 7,
+      "text": "Привет! Ищу апартаменты / гестхаус Пекату 8-20 ноября До 7 млн"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-10-30T19:00",
+      "text": "Девочки, подскажите у кого делаете маникюр 🙏"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-30T19:00",
+      "subtype": "rent",
+      "geo": "Санур",
+      "budget_m": 15,
+      "text": "Всем привет! Ищем отдельную виллу на Бали на декабрь–январь (2 месяца). Семья: 2 взрослых и ребёнок 2,5 года. Районы: Санур или Нуса-Дуа. Бюджет: до 15 млн…"
+    },
     {
       "niche": "beauty_bali",
       "at": "2026-10-30T18:00",
@@ -2676,31 +2701,6 @@
       "niche": "beauty_bali",
       "at": "2026-10-30T13:45",
       "text": "Подскажите парикмахера.🙏 Кто занимается наращиванием волос. Надо только заново переделать уже имеющиеся"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-30T13:45",
-      "subtype": "rent",
-      "budget_m": 12,
-      "text": "Ищу до 10-12 млн жилье на месяц. с 15 ноября по 15 декабря. Мы пара, готовы рассмотреть и часть виллы, если будет личный санузел и хорошие условия. На Бали в…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-30T13:45",
-      "subtype": "rent",
-      "geo": "Берава",
-      "text": "Всем привет! Ищу классную виллу на 1 месяц. 1-2 спальни, хороший вайфай, личный бассейн и телевизор в спальне. Берава/семиньяк. Старт 4 ноября, посмотреть…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-30T13:45",
-      "subtype": "rent",
-      "text": "В это воскресенье делаем первый джем по импровизации! Играем разные сценические форматы, немного упражнений и много смеёмся, позволяя себе быть ребенком!…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-30T13:15",
-      "text": "Всем, привет, подскажите по опыту, что лучше для езды вдвоем и что устойчивее? Nmax или Adv 2026?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2804,10 +2804,10 @@
     },
     {
       "geo": "Санур",
-      "n": 32,
+      "n": 33,
       "median": 12000000,
       "p25": 9000000,
-      "p75": 25250000
+      "p75": 25000000
     },
     {
       "geo": "Кута",
@@ -2876,9 +2876,9 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 973,
+    "villa": 974,
     "house": 68,
-    "room": 130,
+    "room": 131,
     "apartment": 43,
     "unknown": 150
   },
@@ -3007,8 +3007,8 @@
         41,
         40,
         30,
+        38,
         37,
-        32,
         28,
         11,
         29,
@@ -3377,7 +3377,7 @@
           3,
           1,
           1,
-          2,
+          4,
           0,
           1,
           1,
@@ -4112,8 +4112,8 @@
           25,
           21,
           15,
-          16,
-          11,
+          17,
+          14,
           13,
           5,
           15,
