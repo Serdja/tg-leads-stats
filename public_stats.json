@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T09:40:46.745808+08:00",
-  "all_time_total": 7431,
-  "last_30d_total": 3547,
+  "generated_at": "2026-10-30T09:59:42.345905+08:00",
+  "all_time_total": 7432,
+  "last_30d_total": 3548,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1916,
-      "all_time": 3343,
+      "last_30d": 1917,
+      "all_time": 3344,
       "subtypes": {
         "rent": {
           "last_30d": 1025,
@@ -19,8 +19,8 @@
           "all_time": 554
         },
         "offer": {
-          "last_30d": 572,
-          "all_time": 1068
+          "last_30d": 573,
+          "all_time": 1069
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3420
+      "total": 3421
     }
   ],
   "system": {
-    "messages_scanned_total": 1615044,
-    "messages_scanned_30d": 996877,
-    "noise_filtered_total": 882623,
-    "noise_filtered_30d": 608576,
-    "lead_sightings_total": 12045,
+    "messages_scanned_total": 1615225,
+    "messages_scanned_30d": 997058,
+    "noise_filtered_total": 882700,
+    "noise_filtered_30d": 608653,
+    "lead_sightings_total": 12046,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 254
@@ -1965,11 +1965,11 @@
       },
       {
         "period": "2026-10-30",
-        "total": 19,
+        "total": 20,
         "by_niche": {
           "beauty_bali": 2,
           "handyman_bali": 1,
-          "housing_bali": 12,
+          "housing_bali": 13,
           "transfer_bali": 2,
           "visa_bali": 1,
           "wedding_bali": 1
@@ -1977,7 +1977,7 @@
         "housing": {
           "rent": 7,
           "roommate": 3,
-          "offer": 2
+          "offer": 3
         }
       }
     ],
@@ -2330,7 +2330,7 @@
       },
       {
         "period": "2026-10-26",
-        "total": 446,
+        "total": 447,
         "by_niche": {
           "auto_bali": 9,
           "banya_bali": 1,
@@ -2338,7 +2338,7 @@
           "bikes_bali": 74,
           "games_bali": 27,
           "handyman_bali": 13,
-          "housing_bali": 236,
+          "housing_bali": 237,
           "massage_bali": 4,
           "photo_bali": 8,
           "transfer_bali": 19,
@@ -2349,7 +2349,7 @@
         "housing": {
           "rent": 116,
           "roommate": 32,
-          "offer": 88
+          "offer": 89
         },
         "partial": true
       }
@@ -2426,7 +2426,7 @@
       },
       {
         "period": "2026-10",
-        "total": 3420,
+        "total": 3421,
         "by_niche": {
           "auto_bali": 61,
           "banya_bali": 6,
@@ -2434,7 +2434,7 @@
           "bikes_bali": 641,
           "games_bali": 197,
           "handyman_bali": 74,
-          "housing_bali": 1851,
+          "housing_bali": 1852,
           "massage_bali": 48,
           "photo_bali": 58,
           "transfer_bali": 176,
@@ -2445,7 +2445,7 @@
         "housing": {
           "rent": 995,
           "roommate": 306,
-          "offer": 550
+          "offer": 551
         },
         "partial": true
       }
@@ -2986,7 +2986,7 @@
         3,
         10,
         9,
-        18,
+        19,
         32,
         22,
         30,
@@ -4091,7 +4091,7 @@
           3,
           3,
           2,
-          10,
+          11,
           19,
           13,
           15,
