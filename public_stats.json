@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-30T19:09:26.844319+08:00",
-  "all_time_total": 7483,
-  "last_30d_total": 3599,
+  "generated_at": "2026-10-30T20:10:31.917722+08:00",
+  "all_time_total": 7490,
+  "last_30d_total": 3606,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1948,
-      "all_time": 3375,
+      "last_30d": 1950,
+      "all_time": 3377,
       "subtypes": {
         "rent": {
-          "last_30d": 1041,
-          "all_time": 1737
+          "last_30d": 1043,
+          "all_time": 1739
         },
         "roommate": {
           "last_30d": 325,
@@ -27,20 +27,20 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 681,
-      "all_time": 1624
+      "last_30d": 683,
+      "all_time": 1626
     },
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 212,
-      "all_time": 461
+      "last_30d": 213,
+      "all_time": 462
     },
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 205,
-      "all_time": 419
+      "last_30d": 206,
+      "all_time": 420
     },
     {
       "niche": "transfer_bali",
@@ -49,16 +49,16 @@
       "all_time": 467
     },
     {
+      "niche": "visa_bali",
+      "label": "📄 Визы",
+      "last_30d": 79,
+      "all_time": 220
+    },
+    {
       "niche": "handyman_bali",
       "label": "🔧 Мастер на час",
       "last_30d": 78,
       "all_time": 269
-    },
-    {
-      "niche": "visa_bali",
-      "label": "📄 Визы",
-      "last_30d": 78,
-      "all_time": 219
     },
     {
       "niche": "auto_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3472
+      "total": 3479
     }
   ],
   "system": {
-    "messages_scanned_total": 1629456,
-    "messages_scanned_30d": 1011289,
-    "noise_filtered_total": 892177,
-    "noise_filtered_30d": 618130,
-    "lead_sightings_total": 12142,
+    "messages_scanned_total": 1631875,
+    "messages_scanned_30d": 1013708,
+    "noise_filtered_total": 893773,
+    "noise_filtered_30d": 619726,
+    "lead_sightings_total": 12154,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1965,19 +1965,20 @@
       },
       {
         "period": "2026-10-30",
-        "total": 71,
+        "total": 78,
         "by_niche": {
-          "beauty_bali": 8,
-          "bikes_bali": 9,
+          "beauty_bali": 9,
+          "bikes_bali": 11,
+          "games_bali": 1,
           "handyman_bali": 1,
-          "housing_bali": 44,
+          "housing_bali": 46,
           "photo_bali": 1,
           "transfer_bali": 4,
-          "visa_bali": 3,
+          "visa_bali": 4,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 23,
+          "rent": 25,
           "roommate": 9,
           "offer": 12
         }
@@ -2332,24 +2333,24 @@
       },
       {
         "period": "2026-10-26",
-        "total": 498,
+        "total": 505,
         "by_niche": {
           "auto_bali": 9,
           "banya_bali": 1,
-          "beauty_bali": 40,
-          "bikes_bali": 83,
-          "games_bali": 27,
+          "beauty_bali": 41,
+          "bikes_bali": 85,
+          "games_bali": 28,
           "handyman_bali": 13,
-          "housing_bali": 268,
+          "housing_bali": 270,
           "massage_bali": 4,
           "photo_bali": 9,
           "transfer_bali": 21,
           "video_bali": 5,
-          "visa_bali": 15,
+          "visa_bali": 16,
           "wedding_bali": 3
         },
         "housing": {
-          "rent": 132,
+          "rent": 134,
           "roommate": 38,
           "offer": 98
         },
@@ -2428,24 +2429,24 @@
       },
       {
         "period": "2026-10",
-        "total": 3472,
+        "total": 3479,
         "by_niche": {
           "auto_bali": 61,
           "banya_bali": 6,
-          "beauty_bali": 201,
-          "bikes_bali": 650,
-          "games_bali": 197,
+          "beauty_bali": 202,
+          "bikes_bali": 652,
+          "games_bali": 198,
           "handyman_bali": 74,
-          "housing_bali": 1883,
+          "housing_bali": 1885,
           "massage_bali": 48,
           "photo_bali": 59,
           "transfer_bali": 178,
           "video_bali": 29,
-          "visa_bali": 76,
+          "visa_bali": 77,
           "wedding_bali": 10
         },
         "housing": {
-          "rent": 1011,
+          "rent": 1013,
           "roommate": 312,
           "offer": 560
         },
@@ -2465,7 +2466,7 @@
       },
       {
         "geo": "Сесех",
-        "count": 170
+        "count": 171
       },
       {
         "geo": "Переренан",
@@ -2496,15 +2497,45 @@
         "count": 48
       }
     ],
-    "geo_unknown": 280,
+    "geo_unknown": 281,
     "budget_idr": {
-      "n": 780,
+      "n": 781,
       "p25": 10000000,
       "median": 16000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-30T20:00",
+      "text": "Привет)) Ищу русскоговорящего инструктора на мотоцикл. Открыла категорию А в России, но очень мало опыта. Хочу перед тем как выехать в город на Бали взять ещё…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-30T19:30",
+      "subtype": "rent",
+      "text": "Добрый день. Ищу виллу 2+ спальни, бассейн, кухня (с духовкой!), пляж до 20мин пешком. 2 взр + 2 реб (6 и 8 лет). Срок: с середины декабря до середины февраля…"
+    },
+    {
+      "niche": "visa_bali",
+      "at": "2026-10-30T19:30",
+      "text": "Приветик ! Подскажите , пожалуйста, как китас сделать?"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-30T19:15",
+      "subtype": "rent",
+      "geo": "Сесех",
+      "budget_m": 6,
+      "text": "Кто знает реально ли найти нормальный гест в районе сесеха за 5-6 мл? Может кто что посоветует"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-30T19:15",
+      "subtype": "rent",
+      "text": "Всем привет может кто то посоветовать риэлтора ? На завтра нужна квартира либо домик)"
+    },
     {
       "niche": "beauty_bali",
       "at": "2026-10-30T19:00",
@@ -2670,37 +2701,6 @@
       "geo": "Чангу",
       "budget_m": 25,
       "text": "Мы с женой хотим снять комнату на вилле(или 1к вилла/апартаменты) С 6 ноября до 6 февраля Хорошая закрытая кухня, красивая вилла и санузел, желательно…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-30T14:30",
-      "subtype": "roommate",
-      "geo": "Чемаги",
-      "budget_m": 14,
-      "text": "С 13 ноября освобождается комната на вилле (подруга улетает), ищу девушку кто хочет заехать на длительный срок ✨ Район: Чемаги/Сесех Вилла с 2 спальнями,…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-30T14:30",
-      "subtype": "roommate",
-      "geo": "Чангу",
-      "text": "Ребята может быть у кого-то хороший Гест? Может кто-то знает кто-то снимает где-то.. нужна одна комната. Район Чангу, Семиньяк, керобокан, умалас..."
-    },
-    {
-      "niche": "transfer_bali",
-      "at": "2026-10-30T14:00",
-      "text": "кто-нибудь знает водителей с большим кузовом, кто может длинный баннер перевезти 3,5м?"
-    },
-    {
-      "niche": "visa_bali",
-      "at": "2026-10-30T14:00",
-      "budget_m": 1,
-      "text": "👶 Родился ребёнок в Индонезии? В первые недели с малышом время летит незаметно💛 На регистрацию ребёнка и привязку к визе матери даётся 60 дней с момента…"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-10-30T13:45",
-      "text": "Подскажите парикмахера.🙏 Кто занимается наращиванием волос. Надо только заново переделать уже имеющиеся"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2720,8 +2720,8 @@
     },
     {
       "geo": "Сесех",
-      "n": 183,
-      "median": 15000000,
+      "n": 184,
+      "median": 14500000,
       "p25": 10000000,
       "p75": 25000000
     },
@@ -2876,11 +2876,11 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 974,
+    "villa": 975,
     "house": 68,
     "room": 131,
     "apartment": 43,
-    "unknown": 150
+    "unknown": 151
   },
   "activity_30d": {
     "all": [
@@ -3008,8 +3008,8 @@
         40,
         30,
         38,
-        37,
-        28,
+        42,
+        30,
         11,
         29,
         20
@@ -3378,7 +3378,7 @@
           1,
           1,
           4,
-          0,
+          1,
           1,
           1,
           0
@@ -3561,8 +3561,8 @@
           7,
           10,
           11,
-          6,
           7,
+          8,
           2,
           4,
           4
@@ -3745,7 +3745,7 @@
           2,
           1,
           1,
-          4,
+          5,
           1,
           1,
           6,
@@ -4113,7 +4113,7 @@
           21,
           15,
           17,
-          14,
+          16,
           13,
           5,
           15,
@@ -4665,7 +4665,7 @@
           2,
           1,
           1,
-          1,
+          2,
           0,
           0,
           2,
