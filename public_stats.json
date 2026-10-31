@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T11:27:14.405283+08:00",
-  "all_time_total": 7528,
-  "last_30d_total": 3517,
+  "generated_at": "2026-10-31T12:28:19.955839+08:00",
+  "all_time_total": 7533,
+  "last_30d_total": 3522,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1907,
-      "all_time": 3399,
+      "last_30d": 1908,
+      "all_time": 3400,
       "subtypes": {
         "rent": {
           "last_30d": 1026,
           "all_time": 1752
         },
         "roommate": {
-          "last_30d": 316,
-          "all_time": 564
+          "last_30d": 317,
+          "all_time": 565
         },
         "offer": {
           "last_30d": 565,
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 659,
-      "all_time": 1633
+      "last_30d": 662,
+      "all_time": 1636
     },
     {
       "niche": "beauty_bali",
@@ -39,8 +39,8 @@
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 199,
-      "all_time": 421
+      "last_30d": 200,
+      "all_time": 422
     },
     {
       "niche": "transfer_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3517
+      "total": 3522
     }
   ],
   "system": {
-    "messages_scanned_total": 1651001,
-    "messages_scanned_30d": 1000751,
-    "noise_filtered_total": 906081,
-    "noise_filtered_30d": 611039,
-    "lead_sightings_total": 12225,
+    "messages_scanned_total": 1651539,
+    "messages_scanned_30d": 1001289,
+    "noise_filtered_total": 906358,
+    "noise_filtered_30d": 611316,
+    "lead_sightings_total": 12230,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1970,21 +1970,21 @@
       },
       {
         "period": "2026-10-31",
-        "total": 26,
+        "total": 31,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 2,
-          "bikes_bali": 4,
-          "games_bali": 1,
+          "bikes_bali": 7,
+          "games_bali": 2,
           "handyman_bali": 1,
-          "housing_bali": 14,
+          "housing_bali": 15,
           "photo_bali": 1,
           "transfer_bali": 1,
           "visa_bali": 1
         },
         "housing": {
           "rent": 8,
-          "roommate": 4,
+          "roommate": 5,
           "offer": 2
         }
       }
@@ -2338,15 +2338,15 @@
       },
       {
         "period": "2026-10-26",
-        "total": 543,
+        "total": 548,
         "by_niche": {
           "auto_bali": 10,
           "banya_bali": 1,
           "beauty_bali": 43,
-          "bikes_bali": 92,
-          "games_bali": 29,
+          "bikes_bali": 95,
+          "games_bali": 30,
           "handyman_bali": 14,
-          "housing_bali": 292,
+          "housing_bali": 293,
           "massage_bali": 5,
           "photo_bali": 10,
           "transfer_bali": 22,
@@ -2356,7 +2356,7 @@
         },
         "housing": {
           "rent": 147,
-          "roommate": 42,
+          "roommate": 43,
           "offer": 103
         },
         "partial": true
@@ -2434,15 +2434,15 @@
       },
       {
         "period": "2026-10",
-        "total": 3517,
+        "total": 3522,
         "by_niche": {
           "auto_bali": 62,
           "banya_bali": 6,
           "beauty_bali": 204,
-          "bikes_bali": 659,
-          "games_bali": 199,
+          "bikes_bali": 662,
+          "games_bali": 200,
           "handyman_bali": 75,
-          "housing_bali": 1907,
+          "housing_bali": 1908,
           "massage_bali": 49,
           "photo_bali": 60,
           "transfer_bali": 179,
@@ -2452,7 +2452,7 @@
         },
         "housing": {
           "rent": 1026,
-          "roommate": 316,
+          "roommate": 317,
           "offer": 565
         },
         "partial": true
@@ -2467,7 +2467,7 @@
       },
       {
         "geo": "Улувату",
-        "count": 199
+        "count": 200
       },
       {
         "geo": "Сесех",
@@ -2511,6 +2511,30 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-31T12:15",
+      "geo": "Санур",
+      "text": "Всем привет , хотим сгонять на Нуса Пениду, подскажите где в Сануре безопасно байк на ночь оставить ? Спасибо 🙌"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-31T12:15",
+      "subtype": "roommate",
+      "geo": "Улувату",
+      "text": "Ищу соседку на 2-BD виллу в Улувату с 19 ноября; - топовая локация; - 6 мин езды до Улу бич, 3 мин до Mana; - тихо! без строек, дорог и пр. - включено все…"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-31T12:00",
+      "text": "I need fresh Red XMax. Ищу свежий красный XMax."
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-31T11:45",
+      "geo": "Чангу",
+      "text": "👋🏻 Hi. I’m looking for Honda ADV for 1 week in Canggu. Pls dm if you have options."
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-31T11:15",
@@ -2675,36 +2699,6 @@
       "niche": "beauty_bali",
       "at": "2026-10-31T00:15",
       "text": "Девочки, посоветуйте пожалуйста уход за волосами 🙏🏼☹️ Может какие-то процедуры кто делал?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-31T00:00",
-      "subtype": "rent",
-      "geo": "Санур",
-      "budget_m": 18,
-      "text": "Доброго времени суток. Ищем виллу на Бали. Семейная пара и 4 взрослых детей (26, 22, 16, 15 лет) 3 спальни с 9 по 20 ноября. Районы Санур, Кута, Семиньяк,…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-30T23:15",
-      "subtype": "rent",
-      "geo": "Улувату",
-      "budget_m": 8,
-      "text": "Сниму ✨ комнату на вилле/гест/апарты на месяц или два Улувату/Чангу Бюджет 7-8 млн max Вай фай и возможность готовить обязательна, ванна и смарт тв классный…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-30T23:00",
-      "subtype": "rent",
-      "geo": "Улувату",
-      "budget_m": 8,
-      "text": "Сниму ✨комнату на вилле/гэст/апарты Улувату/Чангу 7-8 млн max Вай фай важен, стиральная машинка, смарт тв и ванна - большие плюсы Такое нраицааа"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-30T21:45",
-      "geo": "Букит",
-      "text": "Всем привет! 🙂 Ищу компанию завтра куда-нибудь сгонять) Я живу на Буките, Джимбаран📍 Байк не вожу, передвигаюсь обычно на такси 🥲"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2880,7 +2874,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 967,
+    "villa": 968,
     "house": 64,
     "room": 124,
     "apartment": 38,
@@ -3030,8 +3024,8 @@
         6,
         18,
         19,
-        19,
-        22,
+        21,
+        25,
         31,
         24,
         26,
@@ -3583,8 +3577,8 @@
           1,
           2,
           5,
+          11,
           10,
-          8,
           9,
           2,
           13,
@@ -3767,7 +3761,7 @@
           0,
           0,
           1,
-          1,
+          2,
           1,
           2,
           2,
@@ -4136,7 +4130,7 @@
           10,
           10,
           6,
-          8,
+          9,
           11,
           14,
           9,
