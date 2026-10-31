@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T05:20:48.509808+08:00",
-  "all_time_total": 7517,
-  "last_30d_total": 3506,
+  "generated_at": "2026-10-31T08:23:59.197164+08:00",
+  "all_time_total": 7518,
+  "last_30d_total": 3507,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 656,
-      "all_time": 1630
+      "last_30d": 657,
+      "all_time": 1631
     },
     {
       "niche": "beauty_bali",
@@ -126,18 +126,18 @@
     },
     {
       "month": "2026-10",
-      "total": 3506
+      "total": 3507
     }
   ],
   "system": {
-    "messages_scanned_total": 1648681,
-    "messages_scanned_30d": 998431,
-    "noise_filtered_total": 904896,
-    "noise_filtered_30d": 609854,
-    "lead_sightings_total": 12204,
+    "messages_scanned_total": 1649061,
+    "messages_scanned_30d": 998811,
+    "noise_filtered_total": 905130,
+    "noise_filtered_30d": 610088,
+    "lead_sightings_total": 12205,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
-    "chats_monitored": 252
+    "chats_monitored": 254
   },
   "series": {
     "daily": [
@@ -1970,10 +1970,10 @@
       },
       {
         "period": "2026-10-31",
-        "total": 15,
+        "total": 16,
         "by_niche": {
           "beauty_bali": 2,
-          "bikes_bali": 1,
+          "bikes_bali": 2,
           "handyman_bali": 1,
           "housing_bali": 10,
           "transfer_bali": 1
@@ -2334,12 +2334,12 @@
       },
       {
         "period": "2026-10-26",
-        "total": 532,
+        "total": 533,
         "by_niche": {
           "auto_bali": 9,
           "banya_bali": 1,
           "beauty_bali": 43,
-          "bikes_bali": 89,
+          "bikes_bali": 90,
           "games_bali": 28,
           "handyman_bali": 14,
           "housing_bali": 288,
@@ -2430,12 +2430,12 @@
       },
       {
         "period": "2026-10",
-        "total": 3506,
+        "total": 3507,
         "by_niche": {
           "auto_bali": 61,
           "banya_bali": 6,
           "beauty_bali": 204,
-          "bikes_bali": 656,
+          "bikes_bali": 657,
           "games_bali": 198,
           "handyman_bali": 75,
           "housing_bali": 1903,
@@ -2507,6 +2507,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-10-31T05:45",
+      "budget_m": 2,
+      "text": "Hi need new keyless n-max today on month. Budget 1,7 mln , delivery airport"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-31T05:00",
@@ -2690,13 +2696,6 @@
       "niche": "beauty_bali",
       "at": "2026-10-30T19:00",
       "text": "Девушки, посоветуйте, пожалуйста, где можно сделать хороший маникюр и педикюр в Буде? Спасибо!"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-30T19:00",
-      "subtype": "rent",
-      "budget_m": 7,
-      "text": "Привет! Ищу апартаменты / гестхаус Пекату 8-20 ноября До 7 млн"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3016,7 +3015,7 @@
         12,
         10,
         5,
-        2,
+        3,
         2,
         3,
         4,
@@ -3569,7 +3568,7 @@
           2,
           0,
           0,
-          1,
+          2,
           1,
           2,
           1,
