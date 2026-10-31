@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T00:41:26.387889+08:00",
-  "all_time_total": 7611,
-  "last_30d_total": 3501,
+  "generated_at": "2026-11-01T01:42:27.622121+08:00",
+  "all_time_total": 7613,
+  "last_30d_total": 3503,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1891,
-      "all_time": 3437,
+      "last_30d": 1892,
+      "all_time": 3438,
       "subtypes": {
         "rent": {
-          "last_30d": 1017,
-          "all_time": 1769
+          "last_30d": 1018,
+          "all_time": 1770
         },
         "roommate": {
           "last_30d": 314,
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 658,
-      "all_time": 1654
+      "last_30d": 659,
+      "all_time": 1655
     },
     {
       "niche": "beauty_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2
+      "total": 4
     }
   ],
   "system": {
-    "messages_scanned_total": 1674527,
-    "messages_scanned_30d": 990723,
-    "noise_filtered_total": 922224,
-    "noise_filtered_30d": 606671,
-    "lead_sightings_total": 12362,
+    "messages_scanned_total": 1676487,
+    "messages_scanned_30d": 992683,
+    "noise_filtered_total": 923684,
+    "noise_filtered_30d": 608131,
+    "lead_sightings_total": 12365,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1974,13 +1974,14 @@
       },
       {
         "period": "2026-11-01",
-        "total": 2,
+        "total": 4,
         "by_niche": {
-          "housing_bali": 1,
+          "bikes_bali": 1,
+          "housing_bali": 2,
           "transfer_bali": 1
         },
         "housing": {
-          "rent": 1,
+          "rent": 2,
           "roommate": 0,
           "offer": 0
         }
@@ -2335,15 +2336,15 @@
       },
       {
         "period": "2026-10-26",
-        "total": 626,
+        "total": 628,
         "by_niche": {
           "auto_bali": 13,
           "banya_bali": 1,
           "beauty_bali": 45,
-          "bikes_bali": 113,
+          "bikes_bali": 114,
           "games_bali": 39,
           "handyman_bali": 15,
-          "housing_bali": 330,
+          "housing_bali": 331,
           "massage_bali": 5,
           "photo_bali": 11,
           "transfer_bali": 27,
@@ -2352,7 +2353,7 @@
           "wedding_bali": 3
         },
         "housing": {
-          "rent": 164,
+          "rent": 165,
           "roommate": 52,
           "offer": 114
         },
@@ -2456,13 +2457,14 @@
       },
       {
         "period": "2026-11",
-        "total": 2,
+        "total": 4,
         "by_niche": {
-          "housing_bali": 1,
+          "bikes_bali": 1,
+          "housing_bali": 2,
           "transfer_bali": 1
         },
         "housing": {
-          "rent": 1,
+          "rent": 2,
           "roommate": 0,
           "offer": 0
         },
@@ -2478,7 +2480,7 @@
       },
       {
         "geo": "Улувату",
-        "count": 200
+        "count": 201
       },
       {
         "geo": "Сесех",
@@ -2522,6 +2524,19 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-01T01:15",
+      "budget_m": 3,
+      "text": "Looking for an XMAX for a month for 3 million."
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-01T00:30",
+      "subtype": "rent",
+      "geo": "Улувату",
+      "text": "Девочки, всем привет Кто знает где можно арендовать студию в улувату Хочется потанцевать ( может студию йоги или прям танцев) не дорогую"
+    },
     {
       "niche": "transfer_bali",
       "at": "2026-11-01T00:15",
@@ -2694,20 +2709,6 @@
       "geo": "Чангу",
       "budget_m": 8,
       "text": "Сниму комнату на вилле, где проживают девушки , до 8 млн Чангу / умалас На ноябрь и декабрь, или только на декабрь Пишите в Лс плиз"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-31T17:15",
-      "subtype": "rent",
-      "geo": "Улувату",
-      "budget_m": 60,
-      "text": "Доброго дня, ищем виллу для двоих с 22 декабря на месяц, 3 недели. 📍Локация только Улувату, хорошее расположение. 🏠 Светлая, современная, комфортная, ванная,…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-31T17:00",
-      "subtype": "rent",
-      "text": "Привет, кто может добавить сегодня в Гест лист в десу?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2886,7 +2887,7 @@
     "villa": 967,
     "house": 60,
     "room": 121,
-    "apartment": 37,
+    "apartment": 38,
     "unknown": 146
   },
   "activity_30d": {
@@ -3048,8 +3049,8 @@
         24
       ],
       [
-        11,
-        5,
+        12,
+        6,
         5,
         4,
         1,
@@ -3602,7 +3603,7 @@
         ],
         [
           0,
-          1,
+          2,
           0,
           0,
           0,
@@ -4153,7 +4154,7 @@
           15
         ],
         [
-          10,
+          11,
           3,
           5,
           4,
