@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-31T09:25:03.686866+08:00",
-  "all_time_total": 7522,
-  "last_30d_total": 3511,
+  "generated_at": "2026-10-31T10:26:09.174966+08:00",
+  "all_time_total": 7524,
+  "last_30d_total": 3513,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1905,
-      "all_time": 3397,
+      "last_30d": 1906,
+      "all_time": 3398,
       "subtypes": {
         "rent": {
           "last_30d": 1026,
@@ -19,8 +19,8 @@
           "all_time": 563
         },
         "offer": {
-          "last_30d": 564,
-          "all_time": 1082
+          "last_30d": 565,
+          "all_time": 1083
         }
       }
     },
@@ -63,8 +63,8 @@
     {
       "niche": "auto_bali",
       "label": "🚙 Аренда авто",
-      "last_30d": 61,
-      "all_time": 139
+      "last_30d": 62,
+      "all_time": 140
     },
     {
       "niche": "photo_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-10",
-      "total": 3511
+      "total": 3513
     }
   ],
   "system": {
-    "messages_scanned_total": 1649885,
-    "messages_scanned_30d": 999635,
-    "noise_filtered_total": 905490,
-    "noise_filtered_30d": 610448,
-    "lead_sightings_total": 12212,
+    "messages_scanned_total": 1650411,
+    "messages_scanned_30d": 1000161,
+    "noise_filtered_total": 905779,
+    "noise_filtered_30d": 610737,
+    "lead_sightings_total": 12217,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1970,12 +1970,13 @@
       },
       {
         "period": "2026-10-31",
-        "total": 20,
+        "total": 22,
         "by_niche": {
+          "auto_bali": 1,
           "beauty_bali": 2,
           "bikes_bali": 2,
           "handyman_bali": 1,
-          "housing_bali": 12,
+          "housing_bali": 13,
           "photo_bali": 1,
           "transfer_bali": 1,
           "visa_bali": 1
@@ -1983,7 +1984,7 @@
         "housing": {
           "rent": 8,
           "roommate": 3,
-          "offer": 1
+          "offer": 2
         }
       }
     ],
@@ -2336,15 +2337,15 @@
       },
       {
         "period": "2026-10-26",
-        "total": 537,
+        "total": 539,
         "by_niche": {
-          "auto_bali": 9,
+          "auto_bali": 10,
           "banya_bali": 1,
           "beauty_bali": 43,
           "bikes_bali": 90,
           "games_bali": 28,
           "handyman_bali": 14,
-          "housing_bali": 290,
+          "housing_bali": 291,
           "massage_bali": 5,
           "photo_bali": 10,
           "transfer_bali": 22,
@@ -2355,7 +2356,7 @@
         "housing": {
           "rent": 147,
           "roommate": 41,
-          "offer": 102
+          "offer": 103
         },
         "partial": true
       }
@@ -2432,15 +2433,15 @@
       },
       {
         "period": "2026-10",
-        "total": 3511,
+        "total": 3513,
         "by_niche": {
-          "auto_bali": 61,
+          "auto_bali": 62,
           "banya_bali": 6,
           "beauty_bali": 204,
           "bikes_bali": 657,
           "games_bali": 198,
           "handyman_bali": 75,
-          "housing_bali": 1905,
+          "housing_bali": 1906,
           "massage_bali": 49,
           "photo_bali": 60,
           "transfer_bali": 179,
@@ -2451,7 +2452,7 @@
         "housing": {
           "rent": 1026,
           "roommate": 315,
-          "offer": 564
+          "offer": 565
         },
         "partial": true
       }
@@ -2509,6 +2510,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-10-31T10:15",
+      "subtype": "rent",
+      "text": "всем привет, кто-нибудь тоже сталкивался с таким обманом? отправила деньги на счёт за виллу, и на следующий день администратор (и якобы владелец) пишет, что…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-10-31T09:00",
@@ -2692,14 +2699,6 @@
       "at": "2026-10-30T20:15",
       "subtype": "rent",
       "text": "Добрый день. Ищу виллу 1br. Семньяк. С января по конец февраля. Точные даты пока что уточняются. Два человека"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-30T20:00",
-      "subtype": "rent",
-      "geo": "Убуд",
-      "budget_m": 15,
-      "text": "Ищу виллу в Убуде. 2 комнаты или 1 комната и кухня с чилл зоной. До 15 млн"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3023,8 +3022,8 @@
         2,
         3,
         6,
-        17,
-        17,
+        18,
+        18,
         16,
         22,
         31,
@@ -3208,7 +3207,7 @@
           0,
           0,
           0,
-          1,
+          2,
           0,
           0,
           1,
@@ -4129,7 +4128,7 @@
           1,
           3,
           10,
-          9,
+          10,
           5,
           8,
           11,
