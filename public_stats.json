@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T07:48:36.410541+08:00",
-  "all_time_total": 7616,
-  "last_30d_total": 3506,
+  "generated_at": "2026-11-01T08:49:37.220436+08:00",
+  "all_time_total": 7617,
+  "last_30d_total": 3507,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 180,
-      "all_time": 473
+      "last_30d": 181,
+      "all_time": 474
     },
     {
       "niche": "visa_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 7
+      "total": 8
     }
   ],
   "system": {
-    "messages_scanned_total": 1682007,
-    "messages_scanned_30d": 998203,
-    "noise_filtered_total": 927387,
-    "noise_filtered_30d": 611834,
-    "lead_sightings_total": 12369,
+    "messages_scanned_total": 1682465,
+    "messages_scanned_30d": 998661,
+    "noise_filtered_total": 927682,
+    "noise_filtered_30d": 612129,
+    "lead_sightings_total": 12371,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1974,12 +1974,12 @@
       },
       {
         "period": "2026-11-01",
-        "total": 7,
+        "total": 8,
         "by_niche": {
           "auto_bali": 1,
           "bikes_bali": 1,
           "housing_bali": 4,
-          "transfer_bali": 1
+          "transfer_bali": 2
         },
         "housing": {
           "rent": 3,
@@ -2337,7 +2337,7 @@
       },
       {
         "period": "2026-10-26",
-        "total": 631,
+        "total": 632,
         "by_niche": {
           "auto_bali": 14,
           "banya_bali": 1,
@@ -2348,7 +2348,7 @@
           "housing_bali": 333,
           "massage_bali": 5,
           "photo_bali": 11,
-          "transfer_bali": 27,
+          "transfer_bali": 28,
           "video_bali": 6,
           "visa_bali": 18,
           "wedding_bali": 3
@@ -2458,12 +2458,12 @@
       },
       {
         "period": "2026-11",
-        "total": 7,
+        "total": 8,
         "by_niche": {
           "auto_bali": 1,
           "bikes_bali": 1,
           "housing_bali": 4,
-          "transfer_bali": 1
+          "transfer_bali": 2
         },
         "housing": {
           "rent": 3,
@@ -3057,7 +3057,7 @@
         5,
         3,
         7,
-        4,
+        5,
         16,
         27,
         22,
@@ -4530,7 +4530,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0,
           1,
