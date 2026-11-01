@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T01:07:08.778261+08:00",
-  "all_time_total": 7668,
-  "last_30d_total": 3466,
+  "generated_at": "2026-11-02T02:08:11.367885+08:00",
+  "all_time_total": 7670,
+  "last_30d_total": 3468,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1867,
-      "all_time": 3462,
+      "last_30d": 1868,
+      "all_time": 3463,
       "subtypes": {
         "rent": {
           "last_30d": 1003,
@@ -19,8 +19,8 @@
           "all_time": 576
         },
         "offer": {
-          "last_30d": 557,
-          "all_time": 1105
+          "last_30d": 558,
+          "all_time": 1106
         }
       }
     },
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 182,
-      "all_time": 480
+      "last_30d": 183,
+      "all_time": 481
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 59
+      "total": 61
     }
   ],
   "system": {
-    "messages_scanned_total": 1702924,
-    "messages_scanned_30d": 984656,
-    "noise_filtered_total": 940795,
-    "noise_filtered_30d": 604124,
-    "lead_sightings_total": 12472,
+    "messages_scanned_total": 1704381,
+    "messages_scanned_30d": 986113,
+    "noise_filtered_total": 941586,
+    "noise_filtered_30d": 604915,
+    "lead_sightings_total": 12474,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1977,15 +1977,16 @@
       },
       {
         "period": "2026-11-02",
-        "total": 2,
+        "total": 4,
         "by_niche": {
           "bikes_bali": 1,
-          "housing_bali": 1
+          "housing_bali": 2,
+          "transfer_bali": 1
         },
         "housing": {
           "rent": 0,
           "roommate": 0,
-          "offer": 1
+          "offer": 2
         }
       }
     ],
@@ -2363,15 +2364,16 @@
       },
       {
         "period": "2026-11-02",
-        "total": 2,
+        "total": 4,
         "by_niche": {
           "bikes_bali": 1,
-          "housing_bali": 1
+          "housing_bali": 2,
+          "transfer_bali": 1
         },
         "housing": {
           "rent": 0,
           "roommate": 0,
-          "offer": 1
+          "offer": 2
         },
         "partial": true
       }
@@ -2473,22 +2475,22 @@
       },
       {
         "period": "2026-11",
-        "total": 59,
+        "total": 61,
         "by_niche": {
           "auto_bali": 3,
           "beauty_bali": 2,
           "bikes_bali": 10,
           "games_bali": 5,
           "handyman_bali": 1,
-          "housing_bali": 26,
-          "transfer_bali": 8,
+          "housing_bali": 27,
+          "transfer_bali": 9,
           "visa_bali": 3,
           "wedding_bali": 1
         },
         "housing": {
           "rent": 13,
           "roommate": 2,
-          "offer": 11
+          "offer": 12
         },
         "partial": true
       }
@@ -2546,6 +2548,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "transfer_bali",
+      "at": "2026-11-02T01:00",
+      "geo": "Денпасар",
+      "text": "Ребята ищу с кем пошерить такси в Денпасар или в ту сторону во вторник 3 ноября рано утром, напишите в лс 🙏❤️"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-02T00:45",
@@ -2714,11 +2722,6 @@
       "niche": "visa_bali",
       "at": "2026-11-01T14:15",
       "text": "Добрый день! Ситуация следующая, меня укусило уличное животное и в связи с этим вопрос Подскажите, пожалуйста, где лучше и дешевле сделать вакцинацию против…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-01T14:15",
-      "text": "Hey! Looking for new NMAX with surf racks."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2904,7 +2907,7 @@
     "all": [
       [
         13,
-        10,
+        12,
         8,
         2,
         6,
@@ -4009,7 +4012,7 @@
       "housing_bali": [
         [
           5,
-          7,
+          8,
           3,
           2,
           3,
@@ -4377,7 +4380,7 @@
       "transfer_bali": [
         [
           1,
-          0,
+          1,
           1,
           0,
           0,
