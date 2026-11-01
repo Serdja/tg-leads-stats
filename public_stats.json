@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T11:52:52.968928+08:00",
-  "all_time_total": 7625,
-  "last_30d_total": 3515,
+  "generated_at": "2026-11-01T12:53:55.644150+08:00",
+  "all_time_total": 7626,
+  "last_30d_total": 3516,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -33,8 +33,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 203,
-      "all_time": 466
+      "last_30d": 204,
+      "all_time": 467
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 16
+      "total": 17
     }
   ],
   "system": {
-    "messages_scanned_total": 1684007,
-    "messages_scanned_30d": 1000203,
-    "noise_filtered_total": 928591,
-    "noise_filtered_30d": 613038,
-    "lead_sightings_total": 12386,
+    "messages_scanned_total": 1684590,
+    "messages_scanned_30d": 1000786,
+    "noise_filtered_total": 928919,
+    "noise_filtered_30d": 613366,
+    "lead_sightings_total": 12397,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1974,9 +1974,10 @@
       },
       {
         "period": "2026-11-01",
-        "total": 16,
+        "total": 17,
         "by_niche": {
           "auto_bali": 1,
+          "beauty_bali": 1,
           "bikes_bali": 2,
           "housing_bali": 9,
           "transfer_bali": 3,
@@ -2338,11 +2339,11 @@
       },
       {
         "period": "2026-10-26",
-        "total": 640,
+        "total": 641,
         "by_niche": {
           "auto_bali": 14,
           "banya_bali": 1,
-          "beauty_bali": 45,
+          "beauty_bali": 46,
           "bikes_bali": 115,
           "games_bali": 39,
           "handyman_bali": 15,
@@ -2459,9 +2460,10 @@
       },
       {
         "period": "2026-11",
-        "total": 16,
+        "total": 17,
         "by_niche": {
           "auto_bali": 1,
+          "beauty_bali": 1,
           "bikes_bali": 2,
           "housing_bali": 9,
           "transfer_bali": 3,
@@ -2528,6 +2530,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-01T12:45",
+      "text": "Привет! Подскажите, пожалуйста, есть ли знакомые барберы проверенные?"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-01T11:45",
@@ -2711,11 +2718,6 @@
       "at": "2026-10-31T20:00",
       "subtype": "roommate",
       "text": "Ищу девчонок кто хочет снимать виллу 2,3 комнату на пополам. Гесты как-то так себе вариант а если объединится то можно снимать хорошую виллу"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-10-31T19:45",
-      "text": "Im looking for Nmax 2026 turbo for long rent"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3068,7 +3070,7 @@
         18,
         28,
         27,
-        23,
+        24,
         30,
         33,
         32,
@@ -3437,7 +3439,7 @@
           1,
           1,
           2,
-          0,
+          1,
           1,
           2,
           2,
