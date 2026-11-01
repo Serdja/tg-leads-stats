@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T09:50:42.868150+08:00",
-  "all_time_total": 7619,
-  "last_30d_total": 3509,
+  "generated_at": "2026-11-01T10:51:47.885498+08:00",
+  "all_time_total": 7620,
+  "last_30d_total": 3510,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1895,
-      "all_time": 3441,
+      "last_30d": 1896,
+      "all_time": 3442,
       "subtypes": {
         "rent": {
-          "last_30d": 1019,
-          "all_time": 1771
+          "last_30d": 1020,
+          "all_time": 1772
         },
         "roommate": {
           "last_30d": 315,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 10
+      "total": 11
     }
   ],
   "system": {
-    "messages_scanned_total": 1682926,
-    "messages_scanned_30d": 999122,
-    "noise_filtered_total": 927966,
-    "noise_filtered_30d": 612413,
-    "lead_sightings_total": 12373,
+    "messages_scanned_total": 1683429,
+    "messages_scanned_30d": 999625,
+    "noise_filtered_total": 928270,
+    "noise_filtered_30d": 612717,
+    "lead_sightings_total": 12377,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1974,16 +1974,16 @@
       },
       {
         "period": "2026-11-01",
-        "total": 10,
+        "total": 11,
         "by_niche": {
           "auto_bali": 1,
           "bikes_bali": 1,
-          "housing_bali": 5,
+          "housing_bali": 6,
           "transfer_bali": 2,
           "visa_bali": 1
         },
         "housing": {
-          "rent": 3,
+          "rent": 4,
           "roommate": 1,
           "offer": 1
         }
@@ -2338,7 +2338,7 @@
       },
       {
         "period": "2026-10-26",
-        "total": 634,
+        "total": 635,
         "by_niche": {
           "auto_bali": 14,
           "banya_bali": 1,
@@ -2346,7 +2346,7 @@
           "bikes_bali": 114,
           "games_bali": 39,
           "handyman_bali": 15,
-          "housing_bali": 334,
+          "housing_bali": 335,
           "massage_bali": 5,
           "photo_bali": 11,
           "transfer_bali": 28,
@@ -2355,7 +2355,7 @@
           "wedding_bali": 3
         },
         "housing": {
-          "rent": 166,
+          "rent": 167,
           "roommate": 53,
           "offer": 115
         },
@@ -2459,16 +2459,16 @@
       },
       {
         "period": "2026-11",
-        "total": 10,
+        "total": 11,
         "by_niche": {
           "auto_bali": 1,
           "bikes_bali": 1,
-          "housing_bali": 5,
+          "housing_bali": 6,
           "transfer_bali": 2,
           "visa_bali": 1
         },
         "housing": {
-          "rent": 3,
+          "rent": 4,
           "roommate": 1,
           "offer": 1
         },
@@ -2480,11 +2480,11 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 567
+        "count": 568
       },
       {
         "geo": "Улувату",
-        "count": 201
+        "count": 202
       },
       {
         "geo": "Сесех",
@@ -2521,13 +2521,21 @@
     ],
     "geo_unknown": 265,
     "budget_idr": {
-      "n": 760,
+      "n": 761,
       "p25": 10000000,
-      "median": 16500000,
+      "median": 17000000,
       "p75": 26000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-01T10:30",
+      "subtype": "rent",
+      "geo": "Улувату",
+      "budget_m": 20,
+      "text": "Добрый день, с 16 ноября по 15 декабря ищу жилье с девочками/отдельный апарт в районе Улувату/Чангу, не так важно, важнее, чтобы недалеко от центра, от…"
+    },
     {
       "niche": "visa_bali",
       "at": "2026-11-01T09:00",
@@ -2706,22 +2714,15 @@
       "niche": "bikes_bali",
       "at": "2026-10-31T19:15",
       "text": "Привет! Хочу арендовать скутер-табуретку на неделю-две. В аэропорт привезёте?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-10-31T19:00",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "text": "Ищу апартамент или виллу 1bd, район Чангу, сесех, или что рядом. Заселение 5-го октября, с хорошим вайфаем"
     }
   ],
   "housing_budget_by_geo_90d": [
     {
       "geo": "Чангу",
-      "n": 605,
+      "n": 606,
       "median": 20000000,
       "p25": 10000000,
-      "p75": 29000000
+      "p75": 28750000
     },
     {
       "geo": "Переренан",
@@ -2739,7 +2740,7 @@
     },
     {
       "geo": "Улувату",
-      "n": 182,
+      "n": 183,
       "median": 20000000,
       "p25": 13000000,
       "p75": 30000000
@@ -2888,7 +2889,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 969,
+    "villa": 970,
     "house": 60,
     "room": 121,
     "apartment": 38,
@@ -3063,7 +3064,7 @@
         7,
         5,
         18,
-        27,
+        28,
         22,
         23,
         30,
@@ -4168,7 +4169,7 @@
           3,
           0,
           7,
-          19,
+          20,
           7,
           17,
           15,
