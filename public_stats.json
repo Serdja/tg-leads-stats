@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T00:06:06.384872+08:00",
-  "all_time_total": 7666,
-  "last_30d_total": 3464,
+  "generated_at": "2026-11-02T01:07:08.778261+08:00",
+  "all_time_total": 7668,
+  "last_30d_total": 3466,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1866,
-      "all_time": 3461,
+      "last_30d": 1867,
+      "all_time": 3462,
       "subtypes": {
         "rent": {
           "last_30d": 1003,
@@ -19,16 +19,16 @@
           "all_time": 576
         },
         "offer": {
-          "last_30d": 556,
-          "all_time": 1104
+          "last_30d": 557,
+          "all_time": 1105
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 650,
-      "all_time": 1663
+      "last_30d": 651,
+      "all_time": 1664
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 57
+      "total": 59
     }
   ],
   "system": {
-    "messages_scanned_total": 1701591,
-    "messages_scanned_30d": 983323,
-    "noise_filtered_total": 939975,
-    "noise_filtered_30d": 603304,
-    "lead_sightings_total": 12470,
+    "messages_scanned_total": 1702924,
+    "messages_scanned_30d": 984656,
+    "noise_filtered_total": 940795,
+    "noise_filtered_30d": 604124,
+    "lead_sightings_total": 12472,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1977,12 +1977,15 @@
       },
       {
         "period": "2026-11-02",
-        "total": 0,
-        "by_niche": {},
+        "total": 2,
+        "by_niche": {
+          "bikes_bali": 1,
+          "housing_bali": 1
+        },
         "housing": {
           "rent": 0,
           "roommate": 0,
-          "offer": 0
+          "offer": 1
         }
       }
     ],
@@ -2360,12 +2363,15 @@
       },
       {
         "period": "2026-11-02",
-        "total": 0,
-        "by_niche": {},
+        "total": 2,
+        "by_niche": {
+          "bikes_bali": 1,
+          "housing_bali": 1
+        },
         "housing": {
           "rent": 0,
           "roommate": 0,
-          "offer": 0
+          "offer": 1
         },
         "partial": true
       }
@@ -2467,14 +2473,14 @@
       },
       {
         "period": "2026-11",
-        "total": 57,
+        "total": 59,
         "by_niche": {
           "auto_bali": 3,
           "beauty_bali": 2,
-          "bikes_bali": 9,
+          "bikes_bali": 10,
           "games_bali": 5,
           "handyman_bali": 1,
-          "housing_bali": 25,
+          "housing_bali": 26,
           "transfer_bali": 8,
           "visa_bali": 3,
           "wedding_bali": 1
@@ -2482,7 +2488,7 @@
         "housing": {
           "rent": 13,
           "roommate": 2,
-          "offer": 10
+          "offer": 11
         },
         "partial": true
       }
@@ -2540,6 +2546,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-02T00:45",
+      "text": "Hello guys im looking for pcx start 18nov with good price and good condition"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-01T23:15",
@@ -2708,12 +2719,6 @@
       "niche": "bikes_bali",
       "at": "2026-11-01T14:15",
       "text": "Hey! Looking for new NMAX with surf racks."
-    },
-    {
-      "niche": "auto_bali",
-      "at": "2026-11-01T13:30",
-      "budget_m": 4,
-      "text": "Looking for small car rent. Brio/ayla/agya or something similar. Up to 3.5mln/month"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2898,8 +2903,8 @@
   "activity_30d": {
     "all": [
       [
-        12,
-        9,
+        13,
+        10,
         8,
         2,
         6,
@@ -3451,7 +3456,7 @@
       ],
       "bikes_bali": [
         [
-          1,
+          2,
           2,
           2,
           0,
@@ -4004,7 +4009,7 @@
       "housing_bali": [
         [
           5,
-          6,
+          7,
           3,
           2,
           3,
