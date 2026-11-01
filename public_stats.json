@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-01T22:03:58.337845+08:00",
-  "all_time_total": 7665,
-  "last_30d_total": 3555,
+  "generated_at": "2026-11-01T23:05:03.085758+08:00",
+  "all_time_total": 7666,
+  "last_30d_total": 3556,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1914,
-      "all_time": 3460,
+      "last_30d": 1915,
+      "all_time": 3461,
       "subtypes": {
         "rent": {
-          "last_30d": 1028,
-          "all_time": 1780
+          "last_30d": 1029,
+          "all_time": 1781
         },
         "roommate": {
           "last_30d": 316,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 56
+      "total": 57
     }
   ],
   "system": {
-    "messages_scanned_total": 1698684,
-    "messages_scanned_30d": 1014880,
-    "noise_filtered_total": 938137,
-    "noise_filtered_30d": 622584,
-    "lead_sightings_total": 12469,
+    "messages_scanned_total": 1700048,
+    "messages_scanned_30d": 1016244,
+    "noise_filtered_total": 939021,
+    "noise_filtered_30d": 623468,
+    "lead_sightings_total": 12470,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1974,20 +1974,20 @@
       },
       {
         "period": "2026-11-01",
-        "total": 56,
+        "total": 57,
         "by_niche": {
           "auto_bali": 3,
           "beauty_bali": 2,
           "bikes_bali": 9,
           "games_bali": 5,
           "handyman_bali": 1,
-          "housing_bali": 24,
+          "housing_bali": 25,
           "transfer_bali": 8,
           "visa_bali": 3,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 12,
+          "rent": 13,
           "roommate": 2,
           "offer": 10
         }
@@ -2342,7 +2342,7 @@
       },
       {
         "period": "2026-10-26",
-        "total": 680,
+        "total": 681,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 1,
@@ -2350,7 +2350,7 @@
           "bikes_bali": 122,
           "games_bali": 44,
           "handyman_bali": 16,
-          "housing_bali": 353,
+          "housing_bali": 354,
           "massage_bali": 5,
           "photo_bali": 11,
           "transfer_bali": 34,
@@ -2359,7 +2359,7 @@
           "wedding_bali": 4
         },
         "housing": {
-          "rent": 175,
+          "rent": 176,
           "roommate": 54,
           "offer": 124
         },
@@ -2463,20 +2463,20 @@
       },
       {
         "period": "2026-11",
-        "total": 56,
+        "total": 57,
         "by_niche": {
           "auto_bali": 3,
           "beauty_bali": 2,
           "bikes_bali": 9,
           "games_bali": 5,
           "handyman_bali": 1,
-          "housing_bali": 24,
+          "housing_bali": 25,
           "transfer_bali": 8,
           "visa_bali": 3,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 12,
+          "rent": 13,
           "roommate": 2,
           "offer": 10
         },
@@ -2492,7 +2492,7 @@
       },
       {
         "geo": "Улувату",
-        "count": 203
+        "count": 204
       },
       {
         "geo": "Сесех",
@@ -2536,6 +2536,19 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-01T22:15",
+      "subtype": "rent",
+      "geo": "Улувату",
+      "text": "Ищем виллу на троих девушек, желательно 3 комнаты в улувату с 19 ноября на месяц 🙏🏻"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-01T22:00",
+      "subtype": "rent",
+      "text": "Здравствуйте. Нужны рабочие мужчины и женщины. Нужно помочь переместить товар в ТЦ. разложить коробки и освободить складскую зону. График 2 - 3 часа Оплата на…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-01T22:00",
@@ -2696,19 +2709,6 @@
       "niche": "bikes_bali",
       "at": "2026-11-01T13:00",
       "text": "need fazzio monthly"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-11-01T12:45",
-      "text": "Привет! Подскажите, пожалуйста, есть ли знакомые барберы проверенные?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-01T11:45",
-      "subtype": "rent",
-      "geo": "Денпасар",
-      "budget_m": 5,
-      "text": "С 8 по 18 ноября ищем жильё для семьи из трёх человек в районе Денпасара и ближайших окрестностях. Рассмотрим разные варианты, готовы выслушать ваши…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2884,7 +2884,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 973,
+    "villa": 974,
     "house": 62,
     "room": 123,
     "apartment": 38,
@@ -3071,7 +3071,7 @@
         15,
         50,
         26,
-        15,
+        16,
         19
       ]
     ],
@@ -4176,7 +4176,7 @@
           11,
           22,
           11,
-          10,
+          11,
           7
         ]
       ],
