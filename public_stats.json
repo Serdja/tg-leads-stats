@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T01:11:47.051878+08:00",
-  "all_time_total": 7782,
-  "last_30d_total": 3477,
+  "generated_at": "2026-11-03T02:12:49.454461+08:00",
+  "all_time_total": 7784,
+  "last_30d_total": 3479,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 181,
-      "all_time": 485
+      "last_30d": 182,
+      "all_time": 486
     },
     {
       "niche": "visa_bali",
@@ -81,8 +81,8 @@
     {
       "niche": "video_bali",
       "label": "🎥 Видеограф",
-      "last_30d": 29,
-      "all_time": 60
+      "last_30d": 30,
+      "all_time": 61
     },
     {
       "niche": "wedding_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 173
+      "total": 175
     }
   ],
   "system": {
-    "messages_scanned_total": 1735996,
-    "messages_scanned_30d": 982827,
-    "noise_filtered_total": 960124,
-    "noise_filtered_30d": 602505,
-    "lead_sightings_total": 12655,
+    "messages_scanned_total": 1737806,
+    "messages_scanned_30d": 984637,
+    "noise_filtered_total": 961176,
+    "noise_filtered_30d": 603557,
+    "lead_sightings_total": 12657,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1982,12 +1982,13 @@
       },
       {
         "period": "2026-11-03",
-        "total": 6,
+        "total": 8,
         "by_niche": {
           "beauty_bali": 1,
           "games_bali": 1,
           "housing_bali": 3,
-          "transfer_bali": 1
+          "transfer_bali": 2,
+          "video_bali": 1
         },
         "housing": {
           "rent": 3,
@@ -2370,7 +2371,7 @@
       },
       {
         "period": "2026-11-02",
-        "total": 116,
+        "total": 118,
         "by_niche": {
           "auto_bali": 2,
           "banya_bali": 1,
@@ -2381,8 +2382,8 @@
           "housing_bali": 69,
           "massage_bali": 3,
           "photo_bali": 1,
-          "transfer_bali": 5,
-          "video_bali": 1,
+          "transfer_bali": 6,
+          "video_bali": 2,
           "visa_bali": 1
         },
         "housing": {
@@ -2490,7 +2491,7 @@
       },
       {
         "period": "2026-11",
-        "total": 173,
+        "total": 175,
         "by_niche": {
           "auto_bali": 5,
           "banya_bali": 1,
@@ -2501,8 +2502,8 @@
           "housing_bali": 94,
           "massage_bali": 3,
           "photo_bali": 1,
-          "transfer_bali": 13,
-          "video_bali": 1,
+          "transfer_bali": 14,
+          "video_bali": 2,
           "visa_bali": 4,
           "wedding_bali": 1
         },
@@ -2567,6 +2568,22 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-03T01:45",
+      "subtype": "rent",
+      "text": "По мне, тут вообще никакой транспорт не нужен, если только отель не где-то на другой стороне или в центре и совсе лень идти. Я с огромным рюкзаком спокойно…"
+    },
+    {
+      "niche": "video_bali",
+      "at": "2026-11-03T01:45",
+      "text": "Я в студии тут занимать хочу. Может есть кто профессиональные видеографы там как разговаривать и тп. Надо записать но я сочкую"
+    },
+    {
+      "niche": "transfer_bali",
+      "at": "2026-11-03T01:30",
+      "text": "Подскажите трансфер пожалуйста с аэропорта"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-03T01:00",
@@ -2752,26 +2769,6 @@
       "geo": "Чангу",
       "budget_m": 13,
       "text": "Всем привет! Ищу жилье помесячно с 27.11 по 27.12 Рассматриваю форматы: • Комната на вилле • Комната в хорошем гестхаусе • Апартаменты / студия Желаемые…"
-    },
-    {
-      "niche": "photo_bali",
-      "at": "2026-11-02T20:15",
-      "geo": "Чангу",
-      "text": "Нужно завтра фотосет срочно сделать. В Чангу. Может есть фотографы здесь?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-02T19:45",
-      "subtype": "rent",
-      "geo": "Букит",
-      "text": "Западная часть Букита Ищу на 3+ месяца 1br апартаменты с кухней и желательно с нормальным столом для работы, либо комнату на вилле"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-02T19:45",
-      "subtype": "rent",
-      "geo": "Сесех",
-      "text": "Ищем с подругой виллу/апарты с собственной кухней район сесех, долгосрок"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2983,7 +2980,7 @@
       ],
       [
         27,
-        11,
+        13,
         7,
         7,
         8,
@@ -4456,7 +4453,7 @@
         ],
         [
           3,
-          0,
+          1,
           1,
           2,
           0,
