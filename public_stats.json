@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T08:14:25.775012+08:00",
-  "all_time_total": 7681,
-  "last_30d_total": 3479,
+  "generated_at": "2026-11-02T09:15:28.993429+08:00",
+  "all_time_total": 7686,
+  "last_30d_total": 3484,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1871,
-      "all_time": 3466,
+      "last_30d": 1875,
+      "all_time": 3470,
       "subtypes": {
         "rent": {
-          "last_30d": 1004,
-          "all_time": 1782
+          "last_30d": 1005,
+          "all_time": 1783
         },
         "roommate": {
           "last_30d": 308,
           "all_time": 577
         },
         "offer": {
-          "last_30d": 559,
-          "all_time": 1107
+          "last_30d": 562,
+          "all_time": 1110
         }
       }
     },
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 183,
-      "all_time": 481
+      "last_30d": 184,
+      "all_time": 482
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 72
+      "total": 77
     }
   ],
   "system": {
-    "messages_scanned_total": 1709738,
-    "messages_scanned_30d": 991470,
-    "noise_filtered_total": 944442,
-    "noise_filtered_30d": 607771,
-    "lead_sightings_total": 12488,
+    "messages_scanned_total": 1710183,
+    "messages_scanned_30d": 991915,
+    "noise_filtered_total": 944653,
+    "noise_filtered_30d": 607982,
+    "lead_sightings_total": 12501,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1977,18 +1977,18 @@
       },
       {
         "period": "2026-11-02",
-        "total": 15,
+        "total": 20,
         "by_niche": {
           "bikes_bali": 4,
           "games_bali": 2,
           "handyman_bali": 3,
-          "housing_bali": 5,
-          "transfer_bali": 1
+          "housing_bali": 9,
+          "transfer_bali": 2
         },
         "housing": {
-          "rent": 1,
+          "rent": 2,
           "roommate": 1,
-          "offer": 3
+          "offer": 6
         }
       }
     ],
@@ -2366,18 +2366,18 @@
       },
       {
         "period": "2026-11-02",
-        "total": 15,
+        "total": 20,
         "by_niche": {
           "bikes_bali": 4,
           "games_bali": 2,
           "handyman_bali": 3,
-          "housing_bali": 5,
-          "transfer_bali": 1
+          "housing_bali": 9,
+          "transfer_bali": 2
         },
         "housing": {
-          "rent": 1,
+          "rent": 2,
           "roommate": 1,
-          "offer": 3
+          "offer": 6
         },
         "partial": true
       }
@@ -2479,22 +2479,22 @@
       },
       {
         "period": "2026-11",
-        "total": 72,
+        "total": 77,
         "by_niche": {
           "auto_bali": 3,
           "beauty_bali": 2,
           "bikes_bali": 13,
           "games_bali": 7,
           "handyman_bali": 4,
-          "housing_bali": 30,
-          "transfer_bali": 9,
+          "housing_bali": 34,
+          "transfer_bali": 10,
           "visa_bali": 3,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 14,
+          "rent": 15,
           "roommate": 3,
-          "offer": 13
+          "offer": 16
         },
         "partial": true
       }
@@ -2512,7 +2512,7 @@
       },
       {
         "geo": "Сесех",
-        "count": 168
+        "count": 169
       },
       {
         "geo": "Переренан",
@@ -2524,7 +2524,7 @@
       },
       {
         "geo": "Букит",
-        "count": 138
+        "count": 139
       },
       {
         "geo": "Семиньяк",
@@ -2552,6 +2552,19 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-02T08:30",
+      "subtype": "rent",
+      "text": "Куплю монитор для офиса"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-02T08:15",
+      "subtype": "rent",
+      "geo": "Букит",
+      "text": "Ищем виллу, с двумя спальнями, оборудованной кухней, чтобы был стол в спальне или отдельная комната под кабинет для онлайн работы, кондиционер. Районы: Пекату…"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-02T07:00",
@@ -2714,17 +2727,6 @@
       "niche": "wedding_bali",
       "at": "2026-11-01T16:45",
       "text": "Всем привет) подскажите организаторов ATV и рафтинга"
-    },
-    {
-      "niche": "auto_bali",
-      "at": "2026-11-01T16:45",
-      "text": "I’m looking for [имя] Reborn 2.4 from December, 20 for a month."
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-01T16:00",
-      "subtype": "roommate",
-      "text": "О и меня тоже, дня на 3. Только мне нужна отдельная комната с кондиционером и побольше общения и социализации."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2900,7 +2902,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 950,
+    "villa": 951,
     "house": 62,
     "room": 120,
     "apartment": 38,
@@ -2917,8 +2919,8 @@
         4,
         4,
         6,
-        10,
-        15,
+        12,
+        18,
         29,
         34,
         30,
@@ -4022,8 +4024,8 @@
           3,
           1,
           3,
-          4,
-          5,
+          6,
+          7,
           13,
           21,
           12,
@@ -4391,7 +4393,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           2,
           0,
