@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T03:13:51.641508+08:00",
-  "all_time_total": 7787,
-  "last_30d_total": 3482,
+  "generated_at": "2026-11-03T04:14:53.937656+08:00",
+  "all_time_total": 7789,
+  "last_30d_total": 3484,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -51,8 +51,8 @@
     {
       "niche": "visa_bali",
       "label": "📄 Визы",
-      "last_30d": 76,
-      "all_time": 227
+      "last_30d": 78,
+      "all_time": 229
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 178
+      "total": 180
     }
   ],
   "system": {
-    "messages_scanned_total": 1739296,
-    "messages_scanned_30d": 986127,
-    "noise_filtered_total": 962117,
-    "noise_filtered_30d": 604498,
-    "lead_sightings_total": 12660,
+    "messages_scanned_total": 1740404,
+    "messages_scanned_30d": 987235,
+    "noise_filtered_total": 962841,
+    "noise_filtered_30d": 605222,
+    "lead_sightings_total": 12662,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1982,14 +1982,14 @@
       },
       {
         "period": "2026-11-03",
-        "total": 11,
+        "total": 13,
         "by_niche": {
           "beauty_bali": 1,
           "games_bali": 1,
           "housing_bali": 5,
           "transfer_bali": 2,
           "video_bali": 1,
-          "visa_bali": 1
+          "visa_bali": 3
         },
         "housing": {
           "rent": 4,
@@ -2372,7 +2372,7 @@
       },
       {
         "period": "2026-11-02",
-        "total": 121,
+        "total": 123,
         "by_niche": {
           "auto_bali": 2,
           "banya_bali": 1,
@@ -2385,7 +2385,7 @@
           "photo_bali": 1,
           "transfer_bali": 6,
           "video_bali": 2,
-          "visa_bali": 2
+          "visa_bali": 4
         },
         "housing": {
           "rent": 39,
@@ -2492,7 +2492,7 @@
       },
       {
         "period": "2026-11",
-        "total": 178,
+        "total": 180,
         "by_niche": {
           "auto_bali": 5,
           "banya_bali": 1,
@@ -2505,7 +2505,7 @@
           "photo_bali": 1,
           "transfer_bali": 14,
           "video_bali": 2,
-          "visa_bali": 5,
+          "visa_bali": 7,
           "wedding_bali": 1
         },
         "housing": {
@@ -2569,6 +2569,16 @@
     }
   },
   "ticker": [
+    {
+      "niche": "visa_bali",
+      "at": "2026-11-03T03:30",
+      "text": "Пытаюсь оформить визу онлайн Паспорт не грузит, посоветуйте, что сделать Фото делала на телефон Скан тоже"
+    },
+    {
+      "niche": "visa_bali",
+      "at": "2026-11-03T03:30",
+      "text": "Пытаюсь оформить визу онлайн Паспорт не грузит, посоветуйте, что сделать"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-03T02:30",
@@ -2752,22 +2762,6 @@
       "at": "2026-11-02T20:45",
       "geo": "Санур",
       "text": "Всем привет! Подскажите где в Сануре или рядом снять байк с рейлом для серфов 🙏"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-02T20:30",
-      "subtype": "rent",
-      "geo": "Унгасан",
-      "budget_m": 16,
-      "text": "Ищу виллу на унгасан/улувату / букит С 15 ноября, на месяц. Без строек, путехов, шумных дорог - это важно) Бюджет до 16 млн."
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-02T20:15",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "budget_m": 12,
-      "text": "Завтра в Чангу нужно сделать короткую фотосессию для блога, прям в отеле. Кто может завтра до 12:30?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2981,7 +2975,7 @@
         27,
         13,
         10,
-        7,
+        9,
         8,
         2,
         5,
@@ -4638,7 +4632,7 @@
           1,
           0,
           1,
-          0,
+          2,
           0,
           0,
           0,
