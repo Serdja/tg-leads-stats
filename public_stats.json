@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-02T13:59:17.379039+08:00",
-  "all_time_total": 7705,
-  "last_30d_total": 3503,
+  "generated_at": "2026-11-02T15:00:43.668131+08:00",
+  "all_time_total": 7709,
+  "last_30d_total": 3507,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1886,
-      "all_time": 3481,
+      "last_30d": 1888,
+      "all_time": 3483,
       "subtypes": {
         "rent": {
-          "last_30d": 1011,
-          "all_time": 1789
+          "last_30d": 1013,
+          "all_time": 1791
         },
         "roommate": {
           "last_30d": 310,
@@ -31,16 +31,16 @@
       "all_time": 1670
     },
     {
+      "niche": "games_bali",
+      "label": "🎲 Игры и эвенты",
+      "last_30d": 205,
+      "all_time": 439
+    },
+    {
       "niche": "beauty_bali",
       "label": "💅 Красота",
       "last_30d": 204,
       "all_time": 471
-    },
-    {
-      "niche": "games_bali",
-      "label": "🎲 Игры и эвенты",
-      "last_30d": 204,
-      "all_time": 438
     },
     {
       "niche": "transfer_bali",
@@ -81,8 +81,8 @@
     {
       "niche": "video_bali",
       "label": "🎥 Видеограф",
-      "last_30d": 28,
-      "all_time": 59
+      "last_30d": 29,
+      "all_time": 60
     },
     {
       "niche": "wedding_bali",
@@ -126,18 +126,18 @@
     },
     {
       "month": "2026-11",
-      "total": 96
+      "total": 100
     }
   ],
   "system": {
-    "messages_scanned_total": 1712649,
-    "messages_scanned_30d": 994381,
-    "noise_filtered_total": 945789,
-    "noise_filtered_30d": 609118,
-    "lead_sightings_total": 12533,
+    "messages_scanned_total": 1714305,
+    "messages_scanned_30d": 996037,
+    "noise_filtered_total": 946872,
+    "noise_filtered_30d": 610201,
+    "lead_sightings_total": 12551,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
-    "chats_monitored": 254
+    "chats_monitored": 252
   },
   "series": {
     "daily": [
@@ -1977,19 +1977,20 @@
       },
       {
         "period": "2026-11-02",
-        "total": 39,
+        "total": 43,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 3,
           "bikes_bali": 7,
-          "games_bali": 2,
+          "games_bali": 3,
           "handyman_bali": 3,
-          "housing_bali": 20,
+          "housing_bali": 22,
           "massage_bali": 1,
-          "transfer_bali": 2
+          "transfer_bali": 2,
+          "video_bali": 1
         },
         "housing": {
-          "rent": 8,
+          "rent": 10,
           "roommate": 3,
           "offer": 9
         }
@@ -2369,19 +2370,20 @@
       },
       {
         "period": "2026-11-02",
-        "total": 39,
+        "total": 43,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 3,
           "bikes_bali": 7,
-          "games_bali": 2,
+          "games_bali": 3,
           "handyman_bali": 3,
-          "housing_bali": 20,
+          "housing_bali": 22,
           "massage_bali": 1,
-          "transfer_bali": 2
+          "transfer_bali": 2,
+          "video_bali": 1
         },
         "housing": {
-          "rent": 8,
+          "rent": 10,
           "roommate": 3,
           "offer": 9
         },
@@ -2485,21 +2487,22 @@
       },
       {
         "period": "2026-11",
-        "total": 96,
+        "total": 100,
         "by_niche": {
           "auto_bali": 4,
           "beauty_bali": 5,
           "bikes_bali": 16,
-          "games_bali": 7,
+          "games_bali": 8,
           "handyman_bali": 4,
-          "housing_bali": 45,
+          "housing_bali": 47,
           "massage_bali": 1,
           "transfer_bali": 10,
+          "video_bali": 1,
           "visa_bali": 3,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 21,
+          "rent": 23,
           "roommate": 5,
           "offer": 19
         },
@@ -2515,7 +2518,7 @@
       },
       {
         "geo": "Улувату",
-        "count": 202
+        "count": 203
       },
       {
         "geo": "Сесех",
@@ -2527,11 +2530,11 @@
       },
       {
         "geo": "Убуд",
-        "count": 158
+        "count": 159
       },
       {
         "geo": "Букит",
-        "count": 142
+        "count": 143
       },
       {
         "geo": "Семиньяк",
@@ -2559,6 +2562,26 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-02T14:45",
+      "subtype": "rent",
+      "geo": "Убуд",
+      "text": "Убуд, ищу виллу 3/4 спальни. Заселение хоть сегодня."
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-02T14:00",
+      "subtype": "rent",
+      "geo": "Букит",
+      "text": "Ищу жилье! Букит,Улувату На месяц с 20 декабря Важно без петухов и строек. Кухня и стиральная машина 🙏"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-02T14:00",
+      "subtype": "rent",
+      "text": "Ищем людей для знакомства и возможного сотрудничества! 🤝 Мы объединяем людей, заинтересованных в современных онлайн-проектах, финансовых возможностях и…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-02T12:45",
@@ -2730,25 +2753,6 @@
       "subtype": "rent",
       "geo": "Улувату",
       "text": "Ищем виллу на троих девушек, желательно 3 комнаты в улувату с 19 ноября на месяц 🙏🏻"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-01T22:00",
-      "subtype": "rent",
-      "text": "Здравствуйте. Нужны рабочие мужчины и женщины. Нужно помочь переместить товар в ТЦ. разложить коробки и освободить складскую зону. График 2 - 3 часа Оплата на…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-01T22:00",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "budget_m": 18,
-      "text": "Всем привет, ищу апартаменты/виллу(1bd) с 10 ноября по 8 декабря. Тереториально Чангу/Семиньяк/Сесех и близ лежащие районы к Чангу. Обязательно светлая чистая,…"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-11-01T21:30",
-      "text": "Девочки, всем привет!🌸 Подскажите пожалуйста хорошего косметолога, который колит ботокс 🙏🏼"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2924,11 +2928,11 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 955,
+    "villa": 956,
     "house": 63,
     "room": 122,
     "apartment": 38,
-    "unknown": 143
+    "unknown": 144
   },
   "activity_30d": {
     "all": [
@@ -2947,7 +2951,7 @@
         43,
         35,
         41,
-        40,
+        44,
         40,
         19,
         30,
@@ -3684,7 +3688,7 @@
           1,
           1,
           1,
-          1,
+          2,
           2,
           1,
           0,
@@ -4052,7 +4056,7 @@
           27,
           15,
           22,
-          24,
+          26,
           17,
           13,
           13,
