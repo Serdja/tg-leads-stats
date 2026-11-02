@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T02:12:49.454461+08:00",
-  "all_time_total": 7784,
-  "last_30d_total": 3479,
+  "generated_at": "2026-11-03T03:13:51.641508+08:00",
+  "all_time_total": 7787,
+  "last_30d_total": 3482,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1875,
-      "all_time": 3530,
+      "last_30d": 1877,
+      "all_time": 3532,
       "subtypes": {
         "rent": {
-          "last_30d": 1015,
-          "all_time": 1819
+          "last_30d": 1016,
+          "all_time": 1820
         },
         "roommate": {
           "last_30d": 311,
           "all_time": 592
         },
         "offer": {
-          "last_30d": 549,
-          "all_time": 1119
+          "last_30d": 550,
+          "all_time": 1120
         }
       }
     },
@@ -51,8 +51,8 @@
     {
       "niche": "visa_bali",
       "label": "📄 Визы",
-      "last_30d": 75,
-      "all_time": 226
+      "last_30d": 76,
+      "all_time": 227
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 175
+      "total": 178
     }
   ],
   "system": {
-    "messages_scanned_total": 1737806,
-    "messages_scanned_30d": 984637,
-    "noise_filtered_total": 961176,
-    "noise_filtered_30d": 603557,
-    "lead_sightings_total": 12657,
+    "messages_scanned_total": 1739296,
+    "messages_scanned_30d": 986127,
+    "noise_filtered_total": 962117,
+    "noise_filtered_30d": 604498,
+    "lead_sightings_total": 12660,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1982,18 +1982,19 @@
       },
       {
         "period": "2026-11-03",
-        "total": 8,
+        "total": 11,
         "by_niche": {
           "beauty_bali": 1,
           "games_bali": 1,
-          "housing_bali": 3,
+          "housing_bali": 5,
           "transfer_bali": 2,
-          "video_bali": 1
+          "video_bali": 1,
+          "visa_bali": 1
         },
         "housing": {
-          "rent": 3,
+          "rent": 4,
           "roommate": 0,
-          "offer": 0
+          "offer": 1
         }
       }
     ],
@@ -2371,7 +2372,7 @@
       },
       {
         "period": "2026-11-02",
-        "total": 118,
+        "total": 121,
         "by_niche": {
           "auto_bali": 2,
           "banya_bali": 1,
@@ -2379,17 +2380,17 @@
           "bikes_bali": 17,
           "games_bali": 7,
           "handyman_bali": 3,
-          "housing_bali": 69,
+          "housing_bali": 71,
           "massage_bali": 3,
           "photo_bali": 1,
           "transfer_bali": 6,
           "video_bali": 2,
-          "visa_bali": 1
+          "visa_bali": 2
         },
         "housing": {
-          "rent": 38,
+          "rent": 39,
           "roommate": 16,
-          "offer": 15
+          "offer": 16
         },
         "partial": true
       }
@@ -2491,7 +2492,7 @@
       },
       {
         "period": "2026-11",
-        "total": 175,
+        "total": 178,
         "by_niche": {
           "auto_bali": 5,
           "banya_bali": 1,
@@ -2499,18 +2500,18 @@
           "bikes_bali": 26,
           "games_bali": 12,
           "handyman_bali": 4,
-          "housing_bali": 94,
+          "housing_bali": 96,
           "massage_bali": 3,
           "photo_bali": 1,
           "transfer_bali": 14,
           "video_bali": 2,
-          "visa_bali": 4,
+          "visa_bali": 5,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 51,
+          "rent": 52,
           "roommate": 18,
-          "offer": 25
+          "offer": 26
         },
         "partial": true
       }
@@ -2559,7 +2560,7 @@
         "count": 50
       }
     ],
-    "geo_unknown": 259,
+    "geo_unknown": 260,
     "budget_idr": {
       "n": 755,
       "p25": 10000000,
@@ -2568,6 +2569,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-03T02:30",
+      "subtype": "rent",
+      "text": "Ищу желающих протестировать новую игру. Всего 30 минут участия, вознаграждение 5.000 ₽"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-03T01:45",
@@ -2761,14 +2768,6 @@
       "geo": "Чангу",
       "budget_m": 12,
       "text": "Завтра в Чангу нужно сделать короткую фотосессию для блога, прям в отеле. Кто может завтра до 12:30?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-02T20:15",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "budget_m": 13,
-      "text": "Всем привет! Ищу жилье помесячно с 27.11 по 27.12 Рассматриваю форматы: • Комната на вилле • Комната в хорошем гестхаусе • Апартаменты / студия Желаемые…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2944,7 +2943,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 969,
+    "villa": 970,
     "house": 61,
     "room": 118,
     "apartment": 35,
@@ -2981,7 +2980,7 @@
       [
         27,
         13,
-        7,
+        10,
         7,
         8,
         2,
@@ -4086,7 +4085,7 @@
         [
           13,
           7,
-          3,
+          5,
           2,
           8,
           1,
@@ -4638,7 +4637,7 @@
         [
           1,
           0,
-          0,
+          1,
           0,
           0,
           0,
