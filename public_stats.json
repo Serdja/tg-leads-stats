@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T06:17:00.319876+08:00",
-  "all_time_total": 7792,
-  "last_30d_total": 3487,
+  "generated_at": "2026-11-03T07:18:02.434544+08:00",
+  "all_time_total": 7794,
+  "last_30d_total": 3489,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1879,
-      "all_time": 3534,
+      "last_30d": 1881,
+      "all_time": 3536,
       "subtypes": {
         "rent": {
           "last_30d": 1016,
           "all_time": 1820
         },
         "roommate": {
-          "last_30d": 311,
-          "all_time": 592
+          "last_30d": 313,
+          "all_time": 594
         },
         "offer": {
           "last_30d": 552,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 183
+      "total": 185
     }
   ],
   "system": {
-    "messages_scanned_total": 1742254,
-    "messages_scanned_30d": 989085,
-    "noise_filtered_total": 964007,
-    "noise_filtered_30d": 606388,
-    "lead_sightings_total": 12668,
+    "messages_scanned_total": 1742753,
+    "messages_scanned_30d": 989584,
+    "noise_filtered_total": 964235,
+    "noise_filtered_30d": 606616,
+    "lead_sightings_total": 12673,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1982,19 +1982,19 @@
       },
       {
         "period": "2026-11-03",
-        "total": 16,
+        "total": 18,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 1,
           "games_bali": 1,
-          "housing_bali": 7,
+          "housing_bali": 9,
           "transfer_bali": 2,
           "video_bali": 1,
           "visa_bali": 3
         },
         "housing": {
           "rent": 4,
-          "roommate": 0,
+          "roommate": 2,
           "offer": 3
         }
       }
@@ -2373,7 +2373,7 @@
       },
       {
         "period": "2026-11-02",
-        "total": 126,
+        "total": 128,
         "by_niche": {
           "auto_bali": 2,
           "banya_bali": 1,
@@ -2381,7 +2381,7 @@
           "bikes_bali": 18,
           "games_bali": 7,
           "handyman_bali": 3,
-          "housing_bali": 73,
+          "housing_bali": 75,
           "massage_bali": 3,
           "photo_bali": 1,
           "transfer_bali": 6,
@@ -2390,7 +2390,7 @@
         },
         "housing": {
           "rent": 39,
-          "roommate": 16,
+          "roommate": 18,
           "offer": 18
         },
         "partial": true
@@ -2493,7 +2493,7 @@
       },
       {
         "period": "2026-11",
-        "total": 183,
+        "total": 185,
         "by_niche": {
           "auto_bali": 5,
           "banya_bali": 1,
@@ -2501,7 +2501,7 @@
           "bikes_bali": 27,
           "games_bali": 12,
           "handyman_bali": 4,
-          "housing_bali": 98,
+          "housing_bali": 100,
           "massage_bali": 3,
           "photo_bali": 1,
           "transfer_bali": 14,
@@ -2511,7 +2511,7 @@
         },
         "housing": {
           "rent": 52,
-          "roommate": 18,
+          "roommate": 20,
           "offer": 28
         },
         "partial": true
@@ -2542,7 +2542,7 @@
       },
       {
         "geo": "Букит",
-        "count": 148
+        "count": 150
       },
       {
         "geo": "Семиньяк",
@@ -2570,6 +2570,19 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-03T06:45",
+      "subtype": "roommate",
+      "geo": "Букит",
+      "text": "Букит, джимбаран. Ищем соседей в отдельные комнаты со всеми удобствами. Сделан ремонт,рядом нет строек и петухов,тихо,общий бассейн и кухня,все включено,стирка…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-03T06:45",
+      "subtype": "roommate",
+      "geo": "Букит"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-03T05:45",
@@ -2748,20 +2761,6 @@
       "geo": "Чангу",
       "budget_m": 18,
       "text": "Всем привет! Ищу виллу или гест на вилле с 27 ноября до 15 января Основные пожелания: • Чангу • светлая, просторная • без шумных дорог и строек • стабильный…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-02T20:45",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "text": "Здравствуйте, подскажите пожалуйста красивую виллу. В Чангу Нужна в декабре почти на месяц"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-02T20:45",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "text": "Здравствуйте, нужна красивая вилла на месяц. Чангу."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2939,7 +2938,7 @@
   "housing_types_30d": {
     "villa": 970,
     "house": 61,
-    "room": 118,
+    "room": 120,
     "apartment": 35,
     "unknown": 143
   },
@@ -2978,7 +2977,7 @@
         9,
         8,
         5,
-        5,
+        7,
         7,
         16,
         14,
@@ -4083,7 +4082,7 @@
           2,
           8,
           3,
-          4,
+          6,
           7,
           8,
           5,
