@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T07:18:02.434544+08:00",
-  "all_time_total": 7794,
-  "last_30d_total": 3489,
+  "generated_at": "2026-11-03T08:19:04.411414+08:00",
+  "all_time_total": 7797,
+  "last_30d_total": 3492,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 648,
-      "all_time": 1681
+      "last_30d": 649,
+      "all_time": 1682
     },
     {
       "niche": "games_bali",
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 182,
-      "all_time": 486
+      "last_30d": 184,
+      "all_time": 488
     },
     {
       "niche": "visa_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 185
+      "total": 188
     }
   ],
   "system": {
-    "messages_scanned_total": 1742753,
-    "messages_scanned_30d": 989584,
-    "noise_filtered_total": 964235,
-    "noise_filtered_30d": 606616,
-    "lead_sightings_total": 12673,
+    "messages_scanned_total": 1743360,
+    "messages_scanned_30d": 990191,
+    "noise_filtered_total": 964510,
+    "noise_filtered_30d": 606891,
+    "lead_sightings_total": 12676,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1982,13 +1982,13 @@
       },
       {
         "period": "2026-11-03",
-        "total": 18,
+        "total": 21,
         "by_niche": {
           "beauty_bali": 1,
-          "bikes_bali": 1,
+          "bikes_bali": 2,
           "games_bali": 1,
           "housing_bali": 9,
-          "transfer_bali": 2,
+          "transfer_bali": 4,
           "video_bali": 1,
           "visa_bali": 3
         },
@@ -2373,18 +2373,18 @@
       },
       {
         "period": "2026-11-02",
-        "total": 128,
+        "total": 131,
         "by_niche": {
           "auto_bali": 2,
           "banya_bali": 1,
           "beauty_bali": 6,
-          "bikes_bali": 18,
+          "bikes_bali": 19,
           "games_bali": 7,
           "handyman_bali": 3,
           "housing_bali": 75,
           "massage_bali": 3,
           "photo_bali": 1,
-          "transfer_bali": 6,
+          "transfer_bali": 8,
           "video_bali": 2,
           "visa_bali": 4
         },
@@ -2493,18 +2493,18 @@
       },
       {
         "period": "2026-11",
-        "total": 185,
+        "total": 188,
         "by_niche": {
           "auto_bali": 5,
           "banya_bali": 1,
           "beauty_bali": 8,
-          "bikes_bali": 27,
+          "bikes_bali": 28,
           "games_bali": 12,
           "handyman_bali": 4,
           "housing_bali": 100,
           "massage_bali": 3,
           "photo_bali": 1,
-          "transfer_bali": 14,
+          "transfer_bali": 16,
           "video_bali": 2,
           "visa_bali": 7,
           "wedding_bali": 1
@@ -2570,6 +2570,22 @@
     }
   },
   "ticker": [
+    {
+      "niche": "transfer_bali",
+      "at": "2026-11-03T07:45",
+      "text": "Нужен водитель отвезти наличку (расходы,топливо оплачиваем) в лс подробности"
+    },
+    {
+      "niche": "transfer_bali",
+      "at": "2026-11-03T07:45",
+      "text": "Плюс от аэропорта нужен трансфер Часов 5 ехать"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-03T07:15",
+      "subtype": "rent",
+      "text": "Ребят привет Снять на месяц - 2 виллу Где можно ? Я буду с ребенком Желательно виллу с бассейном"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-03T06:45",
@@ -2741,26 +2757,6 @@
       "at": "2026-11-02T21:15",
       "subtype": "roommate",
       "text": "С 1 декабря на долгий срок ищу комнату на вилле / гест"
-    },
-    {
-      "niche": "transfer_bali",
-      "at": "2026-11-02T21:00",
-      "text": "Там не трансфер вроде а бесплатная экскурсия. Но надо ловить по времени. После прохождения паспортного контроля нужно найти: [имя] Information & [имя] •…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-02T20:45",
-      "subtype": "roommate",
-      "geo": "Чангу",
-      "text": "Ищу комнату на вилле, в хорошем гесте или апартах на долгосрок Районы Чангу, Переренан, Сесех"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-02T20:45",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "budget_m": 18,
-      "text": "Всем привет! Ищу виллу или гест на вилле с 27 ноября до 15 января Основные пожелания: • Чангу • светлая, просторная • без шумных дорог и строек • стабильный…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2978,8 +2974,8 @@
         8,
         5,
         7,
-        7,
-        16,
+        9,
+        17,
         14,
         28,
         35,
@@ -3532,7 +3528,7 @@
           2,
           0,
           0,
-          3,
+          4,
           7,
           2,
           7,
@@ -4451,7 +4447,7 @@
           0,
           0,
           0,
-          0,
+          2,
           0,
           1,
           3,
