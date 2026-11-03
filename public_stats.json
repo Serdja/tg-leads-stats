@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T06:30:11.901037+08:00",
-  "all_time_total": 7918,
-  "last_30d_total": 3532,
+  "generated_at": "2026-11-04T07:31:15.918872+08:00",
+  "all_time_total": 7922,
+  "last_30d_total": 3536,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1907,
-      "all_time": 3607,
+      "last_30d": 1909,
+      "all_time": 3609,
       "subtypes": {
         "rent": {
           "last_30d": 1026,
@@ -19,8 +19,8 @@
           "all_time": 609
         },
         "offer": {
-          "last_30d": 571,
-          "all_time": 1151
+          "last_30d": 573,
+          "all_time": 1153
         }
       }
     },
@@ -31,16 +31,16 @@
       "all_time": 1704
     },
     {
+      "niche": "beauty_bali",
+      "label": "💅 Красота",
+      "last_30d": 206,
+      "all_time": 480
+    },
+    {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
       "last_30d": 206,
       "all_time": 452
-    },
-    {
-      "niche": "beauty_bali",
-      "label": "💅 Красота",
-      "last_30d": 204,
-      "all_time": 478
     },
     {
       "niche": "transfer_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 309
+      "total": 313
     }
   ],
   "system": {
-    "messages_scanned_total": 1775582,
-    "messages_scanned_30d": 993649,
-    "noise_filtered_total": 984309,
-    "noise_filtered_30d": 610157,
-    "lead_sightings_total": 12852,
+    "messages_scanned_total": 1776001,
+    "messages_scanned_30d": 994068,
+    "noise_filtered_total": 984542,
+    "noise_filtered_30d": 610390,
+    "lead_sightings_total": 12856,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1986,18 +1986,19 @@
       },
       {
         "period": "2026-11-04",
-        "total": 14,
+        "total": 18,
         "by_niche": {
           "auto_bali": 2,
+          "beauty_bali": 2,
           "bikes_bali": 3,
-          "housing_bali": 6,
+          "housing_bali": 8,
           "photo_bali": 2,
           "transfer_bali": 1
         },
         "housing": {
           "rent": 1,
           "roommate": 1,
-          "offer": 4
+          "offer": 6
         }
       }
     ],
@@ -2375,15 +2376,15 @@
       },
       {
         "period": "2026-11-02",
-        "total": 252,
+        "total": 256,
         "by_niche": {
           "auto_bali": 4,
           "banya_bali": 1,
-          "beauty_bali": 10,
+          "beauty_bali": 12,
           "bikes_bali": 41,
           "games_bali": 16,
           "handyman_bali": 6,
-          "housing_bali": 146,
+          "housing_bali": 148,
           "massage_bali": 4,
           "photo_bali": 4,
           "transfer_bali": 13,
@@ -2393,7 +2394,7 @@
         "housing": {
           "rent": 66,
           "roommate": 33,
-          "offer": 47
+          "offer": 49
         },
         "partial": true
       }
@@ -2495,15 +2496,15 @@
       },
       {
         "period": "2026-11",
-        "total": 309,
+        "total": 313,
         "by_niche": {
           "auto_bali": 7,
           "banya_bali": 1,
-          "beauty_bali": 12,
+          "beauty_bali": 14,
           "bikes_bali": 50,
           "games_bali": 21,
           "handyman_bali": 7,
-          "housing_bali": 171,
+          "housing_bali": 173,
           "massage_bali": 4,
           "photo_bali": 4,
           "transfer_bali": 21,
@@ -2514,7 +2515,7 @@
         "housing": {
           "rent": 79,
           "roommate": 35,
-          "offer": 57
+          "offer": 59
         },
         "partial": true
       }
@@ -2572,6 +2573,16 @@
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-04T07:00",
+      "text": "Всем привет ) Посоветуйте пожалуйста барбера / барбершоп / мастера для кучерявых волос, объемной стрижки 🙏"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-04T06:45",
+      "text": "Всем привет ) Посоветуйте пожалуйста барбера / барбершоп для кучерявых волос, объемной стрижки 🙏"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-04T04:30",
@@ -2735,19 +2746,6 @@
       "geo": "Умалас",
       "budget_m": 120,
       "text": "Ищем офис на Бали для визово-консалтинговой компании 🌴 📍 Умалас, Керобокан, прибрежные районы, начало [имя]. 📐 50–70 м2, хорошая чистовая отделка, желательно с…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-03T19:45",
-      "geo": "Улувату",
-      "budget_m": 2,
-      "text": "Сниму байк в Улувату минимум на месяц, бюджет до 2 млн. Кто сдает байк, кидайте фото в личку"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-03T19:45",
-      "subtype": "rent",
-      "text": "Подскажите при продлении визы на 30 дней можно в любой визовый офис приехать который ближе для фото? Или конкретный закрепляется?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2990,8 +2988,8 @@
         7,
         24,
         11,
-        9,
-        13,
+        10,
+        16,
         14,
         25,
         34,
@@ -3359,8 +3357,8 @@
           0,
           0,
           0,
-          0,
-          0,
+          1,
+          1,
           0,
           0,
           0,
@@ -4096,7 +4094,7 @@
           18,
           8,
           7,
-          11,
+          13,
           10,
           16,
           20,
