@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T20:46:25.246143+08:00",
-  "all_time_total": 8002,
-  "last_30d_total": 3616,
+  "generated_at": "2026-11-04T21:47:34.878520+08:00",
+  "all_time_total": 8005,
+  "last_30d_total": 3619,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1951,
-      "all_time": 3651,
+      "last_30d": 1954,
+      "all_time": 3654,
       "subtypes": {
         "rent": {
-          "last_30d": 1043,
-          "all_time": 1864
+          "last_30d": 1045,
+          "all_time": 1866
         },
         "roommate": {
           "last_30d": 314,
           "all_time": 613
         },
         "offer": {
-          "last_30d": 594,
-          "all_time": 1174
+          "last_30d": 595,
+          "all_time": 1175
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 393
+      "total": 396
     }
   ],
   "system": {
-    "messages_scanned_total": 1794240,
-    "messages_scanned_30d": 1012307,
-    "noise_filtered_total": 995760,
-    "noise_filtered_30d": 621608,
-    "lead_sightings_total": 12978,
+    "messages_scanned_total": 1796423,
+    "messages_scanned_30d": 1014490,
+    "noise_filtered_total": 997135,
+    "noise_filtered_30d": 622983,
+    "lead_sightings_total": 12984,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1986,22 +1986,22 @@
       },
       {
         "period": "2026-11-04",
-        "total": 98,
+        "total": 101,
         "by_niche": {
           "auto_bali": 2,
           "beauty_bali": 9,
           "bikes_bali": 14,
           "games_bali": 10,
           "handyman_bali": 1,
-          "housing_bali": 50,
+          "housing_bali": 53,
           "massage_bali": 1,
           "photo_bali": 7,
           "transfer_bali": 4
         },
         "housing": {
-          "rent": 18,
+          "rent": 20,
           "roommate": 5,
-          "offer": 27
+          "offer": 28
         }
       }
     ],
@@ -2379,7 +2379,7 @@
       },
       {
         "period": "2026-11-02",
-        "total": 336,
+        "total": 339,
         "by_niche": {
           "auto_bali": 4,
           "banya_bali": 1,
@@ -2387,7 +2387,7 @@
           "bikes_bali": 52,
           "games_bali": 26,
           "handyman_bali": 7,
-          "housing_bali": 190,
+          "housing_bali": 193,
           "massage_bali": 5,
           "photo_bali": 9,
           "transfer_bali": 16,
@@ -2395,9 +2395,9 @@
           "visa_bali": 5
         },
         "housing": {
-          "rent": 83,
+          "rent": 85,
           "roommate": 37,
-          "offer": 70
+          "offer": 71
         },
         "partial": true
       }
@@ -2499,7 +2499,7 @@
       },
       {
         "period": "2026-11",
-        "total": 393,
+        "total": 396,
         "by_niche": {
           "auto_bali": 7,
           "banya_bali": 1,
@@ -2507,7 +2507,7 @@
           "bikes_bali": 61,
           "games_bali": 31,
           "handyman_bali": 8,
-          "housing_bali": 215,
+          "housing_bali": 218,
           "massage_bali": 5,
           "photo_bali": 9,
           "transfer_bali": 24,
@@ -2516,9 +2516,9 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 96,
+          "rent": 98,
           "roommate": 39,
-          "offer": 80
+          "offer": 81
         },
         "partial": true
       }
@@ -2532,7 +2532,7 @@
       },
       {
         "geo": "Улувату",
-        "count": 208
+        "count": 210
       },
       {
         "geo": "Сесех",
@@ -2569,13 +2569,29 @@
     ],
     "geo_unknown": 258,
     "budget_idr": {
-      "n": 770,
+      "n": 772,
       "p25": 10000000,
       "median": 17000000,
       "p75": 26000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-04T21:30",
+      "subtype": "rent",
+      "geo": "Улувату",
+      "budget_m": 60,
+      "text": "Ищу жилье в Улувату или рядом 💚 Срок: 2 месяца Даты: 14 ноября - 14 января Бюджет: (за два месяца)"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-04T21:30",
+      "subtype": "rent",
+      "geo": "Улувату",
+      "budget_m": 60,
+      "text": "Ищу виллу на Улувату или рядом 💚 Срок: 2 месяца Даты: 14 ноября - 14 января Бюджет: (за два месяца)"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-04T20:00",
@@ -2763,19 +2779,6 @@
       "at": "2026-11-04T15:00",
       "subtype": "rent",
       "text": "#ищу #продвижениеавито Добрый вечер! Посоветуйте авитолога для ремонта квартир в Казани. Аккаунт ведём своими силами, но заявок мало, а те, что приходят, в…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-04T14:45",
-      "subtype": "rent",
-      "geo": "Улувату",
-      "budget_m": 105,
-      "text": "Ищу виллу на Улувату 🎀 Бюджет на весь скок 105 миллионов С 1 декабря по 15 января"
-    },
-    {
-      "niche": "photo_bali",
-      "at": "2026-11-04T14:30",
-      "text": "🔎 Куплю хороший кальян! 💨 Здравствуйте! Ищу хороший, качественный кальян в отличном состоянии. Если продаёте — присылайте, пожалуйста, фотографии, описание и…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2802,7 +2805,7 @@
     },
     {
       "geo": "Улувату",
-      "n": 192,
+      "n": 194,
       "median": 20000000,
       "p25": 13000000,
       "p75": 30000000
@@ -2951,8 +2954,8 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 997,
-    "house": 61,
+    "villa": 998,
+    "house": 62,
     "room": 120,
     "apartment": 35,
     "unknown": 144
@@ -3033,7 +3036,7 @@
         25,
         32,
         21,
-        15,
+        18,
         13,
         20
       ],
@@ -4138,7 +4141,7 @@
           12,
           13,
           16,
-          8,
+          11,
           7,
           12
         ],
