@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T02:53:05.003189+08:00",
-  "all_time_total": 8025,
-  "last_30d_total": 3527,
+  "generated_at": "2026-11-05T03:54:09.664634+08:00",
+  "all_time_total": 8028,
+  "last_30d_total": 3530,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1906,
-      "all_time": 3665,
+      "last_30d": 1908,
+      "all_time": 3667,
       "subtypes": {
         "rent": {
-          "last_30d": 1025,
-          "all_time": 1875
+          "last_30d": 1026,
+          "all_time": 1876
         },
         "roommate": {
-          "last_30d": 310,
-          "all_time": 614
+          "last_30d": 311,
+          "all_time": 615
         },
         "offer": {
           "last_30d": 571,
@@ -81,8 +81,8 @@
     {
       "niche": "video_bali",
       "label": "🎥 Видеограф",
-      "last_30d": 30,
-      "all_time": 61
+      "last_30d": 31,
+      "all_time": 62
     },
     {
       "niche": "wedding_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 416
+      "total": 419
     }
   ],
   "system": {
-    "messages_scanned_total": 1805296,
-    "messages_scanned_30d": 991048,
-    "noise_filtered_total": 1002788,
-    "noise_filtered_30d": 609752,
-    "lead_sightings_total": 13011,
+    "messages_scanned_total": 1806823,
+    "messages_scanned_30d": 992575,
+    "noise_filtered_total": 1003599,
+    "noise_filtered_30d": 610563,
+    "lead_sightings_total": 13015,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1988,16 +1988,17 @@
       },
       {
         "period": "2026-11-05",
-        "total": 9,
+        "total": 12,
         "by_niche": {
           "auto_bali": 1,
           "bikes_bali": 3,
-          "housing_bali": 3,
-          "transfer_bali": 2
+          "housing_bali": 5,
+          "transfer_bali": 2,
+          "video_bali": 1
         },
         "housing": {
-          "rent": 2,
-          "roommate": 1,
+          "rent": 3,
+          "roommate": 2,
           "offer": 0
         }
       }
@@ -2376,7 +2377,7 @@
       },
       {
         "period": "2026-11-02",
-        "total": 359,
+        "total": 362,
         "by_niche": {
           "auto_bali": 5,
           "banya_bali": 1,
@@ -2384,16 +2385,16 @@
           "bikes_bali": 57,
           "games_bali": 26,
           "handyman_bali": 7,
-          "housing_bali": 204,
+          "housing_bali": 206,
           "massage_bali": 5,
           "photo_bali": 9,
           "transfer_bali": 19,
-          "video_bali": 2,
+          "video_bali": 3,
           "visa_bali": 5
         },
         "housing": {
-          "rent": 94,
-          "roommate": 38,
+          "rent": 95,
+          "roommate": 39,
           "offer": 72
         },
         "partial": true
@@ -2496,7 +2497,7 @@
       },
       {
         "period": "2026-11",
-        "total": 416,
+        "total": 419,
         "by_niche": {
           "auto_bali": 8,
           "banya_bali": 1,
@@ -2504,17 +2505,17 @@
           "bikes_bali": 66,
           "games_bali": 31,
           "handyman_bali": 8,
-          "housing_bali": 229,
+          "housing_bali": 231,
           "massage_bali": 5,
           "photo_bali": 9,
           "transfer_bali": 27,
-          "video_bali": 2,
+          "video_bali": 3,
           "visa_bali": 8,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 107,
-          "roommate": 40,
+          "rent": 108,
+          "roommate": 41,
           "offer": 82
         },
         "partial": true
@@ -2525,11 +2526,11 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 576
+        "count": 578
       },
       {
         "geo": "Улувату",
-        "count": 205
+        "count": 207
       },
       {
         "geo": "Сесех",
@@ -2573,6 +2574,32 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-05T03:30",
+      "subtype": "rent",
+      "text": "Ищем людей в офис подробней все розкажу в лс"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-05T03:15",
+      "subtype": "roommate",
+      "geo": "Улувату",
+      "text": "Всем привет Ищу комнату с кухней или гестхаус на долгий сурок в Улувату или Чангу. Буду благодарна за помощь и варианты 🙏"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-05T03:15",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "text": "Всем привет я ищу комнату с кухней или гестхаус, или мини апартаменты в Чангу или Улувату в очень хороших районах, на 2-3 месяца. Если у кого-то есть какие-то…"
+    },
+    {
+      "niche": "video_bali",
+      "at": "2026-11-05T03:00",
+      "geo": "Чангу",
+      "text": "ищу видеографа, Чангу"
+    },
     {
       "niche": "transfer_bali",
       "at": "2026-11-05T02:30",
@@ -2744,32 +2771,6 @@
       "geo": "Чангу",
       "budget_m": 10,
       "text": "Привет! Ищу гест, апартаменты, комнату на вилле - Чангу, Сесех, Букит, с 14 декабря на месяц с продлением до 3 месяцев Бюджет до 10млн☺️ Буду благодарна за…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-04T18:45",
-      "subtype": "rent",
-      "geo": "Сесех",
-      "budget_m": 25,
-      "text": "Сниму дом на 3 мес. Районе Сесех и все что рядом сним Ищу 1бр виллу. Бюджет до 25млн Ищу съем с 25 декабря"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-04T18:45",
-      "subtype": "rent",
-      "text": "Нужен дополнительный поток копейки? Открыта возможность на складе, погрузка, разгрузка, переезды, стройка и другие физические задачи."
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-04T18:15",
-      "subtype": "rent",
-      "text": "Нуса-Дуа, Саванган 🏡 Я живу на этой вилле с корги. Ищу одного человека для совместного проживания в уютной двухспальной вилле. Я очень люблю этот дом и…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-04T18:00",
-      "subtype": "roommate",
-      "text": "Нуса-Дуа, Саванган 🏡 Я живу на этой тут с корги. Ищу одного человека для совместного проживания в уютной двухспальной вилле. Я очень люблю этот дом и…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2947,7 +2948,7 @@
   "housing_types_30d": {
     "villa": 985,
     "house": 61,
-    "room": 117,
+    "room": 119,
     "apartment": 34,
     "unknown": 138
   },
@@ -3035,7 +3036,7 @@
         18,
         13,
         11,
-        6,
+        9,
         4,
         3,
         1,
@@ -4140,7 +4141,7 @@
           12,
           9,
           6,
-          3,
+          5,
           3,
           3,
           0,
