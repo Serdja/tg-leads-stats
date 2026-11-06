@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T09:27:42.052605+08:00",
-  "all_time_total": 8158,
-  "last_30d_total": 3530,
+  "generated_at": "2026-11-06T10:28:51.425764+08:00",
+  "all_time_total": 8159,
+  "last_30d_total": 3531,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 647,
-      "all_time": 1751
+      "last_30d": 648,
+      "all_time": 1752
     },
     {
       "niche": "beauty_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 549
+      "total": 550
     }
   ],
   "system": {
-    "messages_scanned_total": 1845066,
-    "messages_scanned_30d": 999741,
-    "noise_filtered_total": 1027242,
-    "noise_filtered_30d": 615311,
-    "lead_sightings_total": 13229,
+    "messages_scanned_total": 1845624,
+    "messages_scanned_30d": 1000299,
+    "noise_filtered_total": 1027535,
+    "noise_filtered_30d": 615604,
+    "lead_sightings_total": 13245,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1994,10 +1994,10 @@
       },
       {
         "period": "2026-11-06",
-        "total": 21,
+        "total": 22,
         "by_niche": {
           "beauty_bali": 3,
-          "bikes_bali": 9,
+          "bikes_bali": 10,
           "housing_bali": 8,
           "photo_bali": 1
         },
@@ -2382,12 +2382,12 @@
       },
       {
         "period": "2026-11-02",
-        "total": 492,
+        "total": 493,
         "by_niche": {
           "auto_bali": 7,
           "banya_bali": 2,
           "beauty_bali": 29,
-          "bikes_bali": 88,
+          "bikes_bali": 89,
           "games_bali": 31,
           "handyman_bali": 8,
           "housing_bali": 274,
@@ -2502,12 +2502,12 @@
       },
       {
         "period": "2026-11",
-        "total": 549,
+        "total": 550,
         "by_niche": {
           "auto_bali": 10,
           "banya_bali": 2,
           "beauty_bali": 31,
-          "bikes_bali": 97,
+          "bikes_bali": 98,
           "games_bali": 36,
           "handyman_bali": 9,
           "housing_bali": 299,
@@ -2579,6 +2579,18 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-06T09:45",
+      "subtype": "rent",
+      "geo": "Букит",
+      "text": "Привет! У нас есть компания из 4 человек на буките, две девушки и два парня (две пары) Мы ищем людей, с которыми вместе будем ходить в рестораны, играть в…"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-06T09:30",
+      "text": "Где найти yamaha fazzio на месяц?"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-06T09:00",
@@ -2749,21 +2761,6 @@
       "at": "2026-11-05T21:45",
       "subtype": "rent",
       "text": "У меня вопрос, сколько стоит жильё на Бали? Думаю вернуться на зимовку. И не совсем понимаю сколько мне надо денег на жильё. Без золотого унитаза. Самое…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-05T21:45",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "text": "Ищу комнату Чангу и близкие к нему районы"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-05T21:30",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "budget_m": 35,
-      "text": "🌴 Ищу виллу в аренду на Бали! 📍 Район: Чангу, Переренан и ближайшие районы. 🏡 Пожелания: • 1 спальня • Собственный бассейн • Светлый, современный интерьер •…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3068,7 +3065,7 @@
         2,
         9,
         12,
-        16,
+        17,
         29,
         31,
         29,
@@ -3621,7 +3618,7 @@
           0,
           2,
           6,
-          2,
+          3,
           7,
           9,
           5,
