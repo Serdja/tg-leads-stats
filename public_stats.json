@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-07T06:52:09.341372+08:00",
-  "all_time_total": 8257,
-  "last_30d_total": 3515,
+  "generated_at": "2026-11-07T07:53:16.576741+08:00",
+  "all_time_total": 8259,
+  "last_30d_total": 3517,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -51,8 +51,8 @@
     {
       "niche": "visa_bali",
       "label": "📄 Визы",
-      "last_30d": 76,
-      "all_time": 232
+      "last_30d": 77,
+      "all_time": 233
     },
     {
       "niche": "handyman_bali",
@@ -87,8 +87,8 @@
     {
       "niche": "wedding_bali",
       "label": "💍 Свадьбы",
-      "last_30d": 10,
-      "all_time": 44
+      "last_30d": 11,
+      "all_time": 45
     },
     {
       "niche": "banya_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 648
+      "total": 650
     }
   ],
   "system": {
-    "messages_scanned_total": 1874683,
-    "messages_scanned_30d": 996019,
-    "noise_filtered_total": 1045516,
-    "noise_filtered_30d": 612698,
-    "lead_sightings_total": 13411,
+    "messages_scanned_total": 1874993,
+    "messages_scanned_30d": 996329,
+    "noise_filtered_total": 1045673,
+    "noise_filtered_30d": 612855,
+    "lead_sightings_total": 13413,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1995,12 +1995,14 @@
       },
       {
         "period": "2026-11-07",
-        "total": 10,
+        "total": 12,
         "by_niche": {
           "bikes_bali": 2,
           "housing_bali": 6,
           "transfer_bali": 1,
-          "video_bali": 1
+          "video_bali": 1,
+          "visa_bali": 1,
+          "wedding_bali": 1
         },
         "housing": {
           "rent": 6,
@@ -2383,7 +2385,7 @@
       },
       {
         "period": "2026-11-02",
-        "total": 591,
+        "total": 593,
         "by_niche": {
           "auto_bali": 9,
           "banya_bali": 2,
@@ -2396,7 +2398,8 @@
           "photo_bali": 13,
           "transfer_bali": 28,
           "video_bali": 4,
-          "visa_bali": 7
+          "visa_bali": 8,
+          "wedding_bali": 1
         },
         "housing": {
           "rent": 149,
@@ -2503,7 +2506,7 @@
       },
       {
         "period": "2026-11",
-        "total": 648,
+        "total": 650,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 2,
@@ -2516,8 +2519,8 @@
           "photo_bali": 13,
           "transfer_bali": 36,
           "video_bali": 4,
-          "visa_bali": 10,
-          "wedding_bali": 1
+          "visa_bali": 11,
+          "wedding_bali": 2
         },
         "housing": {
           "rent": 162,
@@ -2580,6 +2583,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "visa_bali",
+      "at": "2026-11-07T07:15",
+      "text": "Я посмотрела через куаркод и мне там пишут не активна. Подскажите пожалуйста адрес визового центра."
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-07T06:00",
@@ -2767,14 +2775,6 @@
       "geo": "Кута",
       "budget_m": 1,
       "text": "Hello! I need pcx for a month start tomorrow Kuta My budget 1,5 per month"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-06T20:15",
-      "subtype": "rent",
-      "geo": "Убуд",
-      "budget_m": 20,
-      "text": "Ищу в Убуде - виллу, гест или апарты 📅 Даты: с 25 декабря (+-неделя) ⏳ Срок: 2 месяца, с возможностью продления 💰 Бюджет: до 20 млн за месяц Из важного: -…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3103,7 +3103,7 @@
         7,
         4,
         2,
-        2,
+        4,
         6,
         16,
         14,
@@ -4760,7 +4760,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           1,
           0,
