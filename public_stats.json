@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-07T02:47:44.877955+08:00",
-  "all_time_total": 8250,
-  "last_30d_total": 3508,
+  "generated_at": "2026-11-07T03:48:51.490667+08:00",
+  "all_time_total": 8251,
+  "last_30d_total": 3509,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -81,8 +81,8 @@
     {
       "niche": "video_bali",
       "label": "🎥 Видеограф",
-      "last_30d": 28,
-      "all_time": 62
+      "last_30d": 29,
+      "all_time": 63
     },
     {
       "niche": "wedding_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 641
+      "total": 642
     }
   ],
   "system": {
-    "messages_scanned_total": 1872328,
-    "messages_scanned_30d": 993664,
-    "noise_filtered_total": 1044514,
-    "noise_filtered_30d": 611696,
-    "lead_sightings_total": 13400,
+    "messages_scanned_total": 1873041,
+    "messages_scanned_30d": 994377,
+    "noise_filtered_total": 1044787,
+    "noise_filtered_30d": 611969,
+    "lead_sightings_total": 13402,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1995,11 +1995,12 @@
       },
       {
         "period": "2026-11-07",
-        "total": 3,
+        "total": 4,
         "by_niche": {
           "bikes_bali": 1,
           "housing_bali": 1,
-          "transfer_bali": 1
+          "transfer_bali": 1,
+          "video_bali": 1
         },
         "housing": {
           "rent": 1,
@@ -2382,7 +2383,7 @@
       },
       {
         "period": "2026-11-02",
-        "total": 584,
+        "total": 585,
         "by_niche": {
           "auto_bali": 9,
           "banya_bali": 2,
@@ -2394,7 +2395,7 @@
           "massage_bali": 9,
           "photo_bali": 13,
           "transfer_bali": 28,
-          "video_bali": 3,
+          "video_bali": 4,
           "visa_bali": 7
         },
         "housing": {
@@ -2502,7 +2503,7 @@
       },
       {
         "period": "2026-11",
-        "total": 641,
+        "total": 642,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 2,
@@ -2514,7 +2515,7 @@
           "massage_bali": 9,
           "photo_bali": 13,
           "transfer_bali": 36,
-          "video_bali": 3,
+          "video_bali": 4,
           "visa_bali": 10,
           "wedding_bali": 1
         },
@@ -2579,6 +2580,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "video_bali",
+      "at": "2026-11-07T03:00",
+      "text": "Мне видео для рилсов нужны"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-07T01:15",
@@ -2766,14 +2772,6 @@
       "at": "2026-11-06T18:00",
       "budget_m": 1,
       "text": "I’m looking for some premium car like fortuner, destinator or etc... budget up to 600k/day for 1 day starting tomorrow"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-06T17:45",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "budget_m": 12,
-      "text": "Всем привет! Ищу жилье на длительный срок (до года), заезд в ближайшее время Апартаменты или дом 1-2 bedroom 📍 Чангу и все что рядом (до 25 минут)! До 12млн"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3098,7 +3096,7 @@
         15,
         4,
         9,
-        9,
+        10,
         5,
         3,
         1,
