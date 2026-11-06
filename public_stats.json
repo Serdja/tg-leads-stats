@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T11:30:00.592050+08:00",
-  "all_time_total": 8168,
-  "last_30d_total": 3540,
+  "generated_at": "2026-11-06T12:31:12.242061+08:00",
+  "all_time_total": 8175,
+  "last_30d_total": 3547,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,14 +27,14 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 649,
-      "all_time": 1753
+      "last_30d": 651,
+      "all_time": 1755
     },
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 211,
-      "all_time": 498
+      "last_30d": 215,
+      "all_time": 502
     },
     {
       "niche": "games_bali",
@@ -57,8 +57,8 @@
     {
       "niche": "handyman_bali",
       "label": "🔧 Мастер на час",
-      "last_30d": 74,
-      "all_time": 280
+      "last_30d": 75,
+      "all_time": 281
     },
     {
       "niche": "auto_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 559
+      "total": 566
     }
   ],
   "system": {
-    "messages_scanned_total": 1846290,
-    "messages_scanned_30d": 1000965,
-    "noise_filtered_total": 1027848,
-    "noise_filtered_30d": 615917,
-    "lead_sightings_total": 13254,
+    "messages_scanned_total": 1846927,
+    "messages_scanned_30d": 1001602,
+    "noise_filtered_total": 1028125,
+    "noise_filtered_30d": 616194,
+    "lead_sightings_total": 13268,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1994,10 +1994,11 @@
       },
       {
         "period": "2026-11-06",
-        "total": 31,
+        "total": 38,
         "by_niche": {
-          "beauty_bali": 4,
-          "bikes_bali": 11,
+          "beauty_bali": 8,
+          "bikes_bali": 13,
+          "handyman_bali": 1,
           "housing_bali": 14,
           "photo_bali": 1,
           "transfer_bali": 1
@@ -2383,14 +2384,14 @@
       },
       {
         "period": "2026-11-02",
-        "total": 502,
+        "total": 509,
         "by_niche": {
           "auto_bali": 7,
           "banya_bali": 2,
-          "beauty_bali": 30,
-          "bikes_bali": 90,
+          "beauty_bali": 34,
+          "bikes_bali": 92,
           "games_bali": 31,
-          "handyman_bali": 8,
+          "handyman_bali": 9,
           "housing_bali": 280,
           "massage_bali": 7,
           "photo_bali": 11,
@@ -2503,14 +2504,14 @@
       },
       {
         "period": "2026-11",
-        "total": 559,
+        "total": 566,
         "by_niche": {
           "auto_bali": 10,
           "banya_bali": 2,
-          "beauty_bali": 32,
-          "bikes_bali": 99,
+          "beauty_bali": 36,
+          "bikes_bali": 101,
           "games_bali": 36,
-          "handyman_bali": 9,
+          "handyman_bali": 10,
           "housing_bali": 305,
           "massage_bali": 7,
           "photo_bali": 11,
@@ -2580,6 +2581,37 @@
     }
   },
   "ticker": [
+    {
+      "niche": "handyman_bali",
+      "at": "2026-11-06T12:00",
+      "text": "Приветствую! Очень нужен электрик или мастер на все руки чтобы починить фен :) заела кнопка и не включается, коротнуло чтоли... попробовать бы разобраться и…"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-06T12:00",
+      "geo": "Букит",
+      "text": "Ищу где сделать маникюр на Буките, в идеале Нуса-Дуа 🙏🏼 Гель лак, аппарат. Посоветуйте, пожалуйста."
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-06T12:00",
+      "text": "ищу аренду байка на 2 дня желательно 400,600 cc может кто-то шарит ?"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-06T11:45",
+      "text": "Привет! Ищу косметолога, кто УМЕЕТ делать губы😁 Буду благодарна за рекомендации❤️"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-06T11:30",
+      "text": "Девочки, посоветуйте пожалуйста хорошего парикмахера"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-06T11:30",
+      "text": "Девочки доброе утро ☀️ Ищу мастера кто сделает такие ресницы. Подойдут и коричневые / темный блонд Лиса 0.07 толщина Длина 7-13 Изгиб Д Другие варианты я не…"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-06T11:15",
@@ -2718,47 +2750,6 @@
       "at": "2026-11-05T23:45",
       "subtype": "rent",
       "text": "Ищем помощник на склад для уборки помещений. Без опыта. Оплата ежедневно."
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-05T23:45",
-      "subtype": "rent",
-      "text": "Ищем помощник на склад для разгрузки. Обучение на месте. Расчёт после смены."
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-05T23:45",
-      "subtype": "roommate",
-      "geo": "Букит",
-      "budget_m": 8,
-      "text": "Ищем соседку, Букит, трехкомнатная виллу, с бассейном. 7,5 млн комната. Заезд с 7 ноября"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-05T23:45",
-      "subtype": "rent",
-      "text": "Друзья, в магазине Circle можно купить проводочек Type-C cable или нужен специализированный магазин?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-05T22:30",
-      "subtype": "roommate",
-      "text": "Ищу комнату В ЛС"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-05T22:30",
-      "subtype": "rent",
-      "budget_m": 20,
-      "text": "Ищу виллу 2-комнатную. С хорошим wi-fi. С удобным местоположением, рассмотрим разные варианты. До 20млн"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-05T22:15",
-      "subtype": "rent",
-      "geo": "Переренан",
-      "budget_m": 25,
-      "text": "С 1 декабря ищу виллу в переренане, Чангу, бераве, Умалас. До 25 мил, рассмотрю апартаменты. До 6 месяцев аренда"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3065,8 +3056,8 @@
         12,
         17,
         34,
-        35,
-        29,
+        38,
+        33,
         24,
         35,
         31,
@@ -3434,8 +3425,8 @@
           0,
           1,
           3,
-          2,
-          3,
+          5,
+          4,
           1,
           0,
           2,
@@ -3619,7 +3610,7 @@
           3,
           7,
           10,
-          5,
+          7,
           6,
           5,
           4,
@@ -3987,7 +3978,7 @@
           0,
           0,
           0,
-          0,
+          1,
           1,
           0,
           1,
