@@ -1,40 +1,40 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-06T15:34:52.424859+08:00",
-  "all_time_total": 8201,
-  "last_30d_total": 3573,
+  "generated_at": "2026-11-06T16:36:07.520498+08:00",
+  "all_time_total": 8206,
+  "last_30d_total": 3578,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1940,
-      "all_time": 3757,
+      "last_30d": 1942,
+      "all_time": 3759,
       "subtypes": {
         "rent": {
           "last_30d": 1027,
           "all_time": 1909
         },
         "roommate": {
-          "last_30d": 316,
-          "all_time": 633
+          "last_30d": 317,
+          "all_time": 634
         },
         "offer": {
-          "last_30d": 597,
-          "all_time": 1215
+          "last_30d": 598,
+          "all_time": 1216
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 652,
-      "all_time": 1756
+      "last_30d": 653,
+      "all_time": 1757
     },
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 217,
-      "all_time": 504
+      "last_30d": 219,
+      "all_time": 506
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 592
+      "total": 597
     }
   ],
   "system": {
-    "messages_scanned_total": 1851244,
-    "messages_scanned_30d": 1005919,
-    "noise_filtered_total": 1030748,
-    "noise_filtered_30d": 618817,
-    "lead_sightings_total": 13325,
+    "messages_scanned_total": 1853563,
+    "messages_scanned_30d": 1008238,
+    "noise_filtered_total": 1032264,
+    "noise_filtered_30d": 620333,
+    "lead_sightings_total": 13331,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -1994,21 +1994,21 @@
       },
       {
         "period": "2026-11-06",
-        "total": 64,
+        "total": 69,
         "by_niche": {
-          "beauty_bali": 10,
-          "bikes_bali": 14,
+          "beauty_bali": 12,
+          "bikes_bali": 15,
           "games_bali": 3,
           "handyman_bali": 2,
-          "housing_bali": 30,
+          "housing_bali": 32,
           "massage_bali": 1,
           "photo_bali": 2,
           "transfer_bali": 2
         },
         "housing": {
           "rent": 7,
-          "roommate": 8,
-          "offer": 15
+          "roommate": 9,
+          "offer": 16
         }
       }
     ],
@@ -2386,15 +2386,15 @@
       },
       {
         "period": "2026-11-02",
-        "total": 535,
+        "total": 540,
         "by_niche": {
           "auto_bali": 7,
           "banya_bali": 2,
-          "beauty_bali": 36,
-          "bikes_bali": 93,
+          "beauty_bali": 38,
+          "bikes_bali": 94,
           "games_bali": 34,
           "handyman_bali": 10,
-          "housing_bali": 296,
+          "housing_bali": 298,
           "massage_bali": 8,
           "photo_bali": 12,
           "transfer_bali": 27,
@@ -2403,8 +2403,8 @@
         },
         "housing": {
           "rent": 128,
-          "roommate": 57,
-          "offer": 111
+          "roommate": 58,
+          "offer": 112
         },
         "partial": true
       }
@@ -2506,15 +2506,15 @@
       },
       {
         "period": "2026-11",
-        "total": 592,
+        "total": 597,
         "by_niche": {
           "auto_bali": 10,
           "banya_bali": 2,
-          "beauty_bali": 38,
-          "bikes_bali": 102,
+          "beauty_bali": 40,
+          "bikes_bali": 103,
           "games_bali": 39,
           "handyman_bali": 11,
-          "housing_bali": 321,
+          "housing_bali": 323,
           "massage_bali": 8,
           "photo_bali": 12,
           "transfer_bali": 35,
@@ -2524,8 +2524,8 @@
         },
         "housing": {
           "rent": 141,
-          "roommate": 59,
-          "offer": 121
+          "roommate": 60,
+          "offer": 122
         },
         "partial": true
       }
@@ -2555,7 +2555,7 @@
       },
       {
         "geo": "Букит",
-        "count": 149
+        "count": 150
       },
       {
         "geo": "Семиньяк",
@@ -2576,13 +2576,38 @@
     ],
     "geo_unknown": 253,
     "budget_idr": {
-      "n": 770,
+      "n": 771,
       "p25": 10000000,
       "median": 17000000,
-      "p75": 26750000
+      "p75": 26500000
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-06T16:15",
+      "geo": "Убуд",
+      "text": "Девочки очень нужен мастер по маникюру Убуд срочно !!!"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-06T16:15",
+      "subtype": "roommate",
+      "geo": "Букит",
+      "budget_m": 8,
+      "text": "Ищем соседку на виллу 📍Букит Трехкомнатная просторная вилла с бассейном 7,5 млн комната Заезд с 7-8 ноября"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-06T16:15",
+      "geo": "Букит",
+      "text": "Посоветуйте, пожалуйста, места для маникюра/педикюра на буките, чтобы там был Российский уровень качества и сервиса 🙏🏻"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-06T16:00",
+      "text": "Ищу в долгосрочную аренду свежий pcx С предложениями в личку"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-06T15:15",
@@ -2738,28 +2763,6 @@
       "at": "2026-11-06T09:00",
       "subtype": "rent",
       "text": "По правилам билет на выезд нужен, просто спрашивают не всегда. Не обязательно домой, можно в третью страну)"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-06T08:30",
-      "subtype": "rent",
-      "text": "Где найти повара в дом на каждый день?"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-06T07:45",
-      "text": "Looking for same type as this bike. Anyone have it?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-06T07:45",
-      "subtype": "rent",
-      "text": "Всем привет, только приехали на Ломбок, буду рада знакомству с девчонками. И подскажите где здесь можно найти жилье, его на самом деле так мало?"
-    },
-    {
-      "niche": "photo_bali",
-      "at": "2026-11-06T07:45",
-      "text": "Отзовитесь фотографы, кто сможет помочь реализовать такую красоту Нужна помощь в поиске образа и локации Если что можете сразу писать в лс все условия"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2793,8 +2796,8 @@
     },
     {
       "geo": "Букит",
-      "n": 180,
-      "median": 14500000,
+      "n": 181,
+      "median": 14000000,
       "p25": 9000000,
       "p75": 22000000
     },
@@ -2942,7 +2945,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 1001,
+    "villa": 1002,
     "house": 57,
     "room": 121,
     "apartment": 33,
@@ -3070,8 +3073,8 @@
         35,
         29,
         53,
-        32,
-        37,
+        33,
+        41,
         23,
         32,
         36,
@@ -3440,7 +3443,7 @@
           1,
           1,
           2,
-          2,
+          4,
           1,
           1,
           4,
@@ -3624,7 +3627,7 @@
           6,
           6,
           4,
-          7,
+          8,
           8,
           10,
           6,
@@ -4175,8 +4178,8 @@
           17,
           15,
           30,
-          21,
-          21,
+          22,
+          22,
           10,
           13,
           15,
