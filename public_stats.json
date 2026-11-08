@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T20:36:21.515859+08:00",
-  "all_time_total": 8428,
-  "last_30d_total": 3560,
+  "generated_at": "2026-11-08T21:37:41.576538+08:00",
+  "all_time_total": 8430,
+  "last_30d_total": 3562,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1941,
-      "all_time": 3886,
+      "last_30d": 1943,
+      "all_time": 3888,
       "subtypes": {
         "rent": {
-          "last_30d": 1053,
-          "all_time": 1983
+          "last_30d": 1055,
+          "all_time": 1985
         },
         "roommate": {
           "last_30d": 296,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 819
+      "total": 821
     }
   ],
   "system": {
-    "messages_scanned_total": 1902979,
-    "messages_scanned_30d": 995947,
-    "noise_filtered_total": 1059634,
-    "noise_filtered_30d": 609337,
-    "lead_sightings_total": 13711,
+    "messages_scanned_total": 1903921,
+    "messages_scanned_30d": 996889,
+    "noise_filtered_total": 1060194,
+    "noise_filtered_30d": 609897,
+    "lead_sightings_total": 13713,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2001,20 +2001,20 @@
       },
       {
         "period": "2026-11-08",
-        "total": 89,
+        "total": 91,
         "by_niche": {
           "auto_bali": 2,
           "beauty_bali": 5,
           "bikes_bali": 18,
           "games_bali": 3,
           "handyman_bali": 2,
-          "housing_bali": 54,
+          "housing_bali": 56,
           "massage_bali": 2,
           "photo_bali": 1,
           "transfer_bali": 2
         },
         "housing": {
-          "rent": 31,
+          "rent": 33,
           "roommate": 7,
           "offer": 16
         }
@@ -2394,7 +2394,7 @@
       },
       {
         "period": "2026-11-02",
-        "total": 762,
+        "total": 764,
         "by_niche": {
           "auto_bali": 13,
           "banya_bali": 2,
@@ -2402,7 +2402,7 @@
           "bikes_bali": 130,
           "games_bali": 52,
           "handyman_bali": 14,
-          "housing_bali": 425,
+          "housing_bali": 427,
           "massage_bali": 12,
           "photo_bali": 15,
           "transfer_bali": 36,
@@ -2411,7 +2411,7 @@
           "wedding_bali": 2
         },
         "housing": {
-          "rent": 202,
+          "rent": 204,
           "roommate": 73,
           "offer": 150
         },
@@ -2515,7 +2515,7 @@
       },
       {
         "period": "2026-11",
-        "total": 819,
+        "total": 821,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 2,
@@ -2523,7 +2523,7 @@
           "bikes_bali": 139,
           "games_bali": 57,
           "handyman_bali": 15,
-          "housing_bali": 450,
+          "housing_bali": 452,
           "massage_bali": 12,
           "photo_bali": 15,
           "transfer_bali": 44,
@@ -2532,7 +2532,7 @@
           "wedding_bali": 3
         },
         "housing": {
-          "rent": 215,
+          "rent": 217,
           "roommate": 75,
           "offer": 160
         },
@@ -2583,7 +2583,7 @@
         "count": 58
       }
     ],
-    "geo_unknown": 254,
+    "geo_unknown": 256,
     "budget_idr": {
       "n": 786,
       "p25": 10000000,
@@ -2592,6 +2592,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-08T20:45",
+      "subtype": "rent",
+      "text": "Подскажите кто по чем снимает жилье, какая средняя цена, стоит ли ехать вообще?"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-08T20:15",
@@ -2780,12 +2786,6 @@
       "niche": "photo_bali",
       "at": "2026-11-08T15:45",
       "text": "Всем привет! Ищу фотографа/видеографа для чувственной съемки. Если есть у кого контакты- напишите пожалуйста 🙏"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-08T15:30",
-      "subtype": "rent",
-      "text": "#кондиционер Ребята привет! Куплю Б/У напольный (мобильный) кондиционер или сплит-систему (1 set: внутренний + внешний блок). Параметры: • Лимит сети в доме…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2969,10 +2969,10 @@
   ],
   "housing_types_30d": {
     "villa": 1011,
-    "house": 53,
+    "house": 54,
     "room": 119,
     "apartment": 34,
-    "unknown": 132
+    "unknown": 133
   },
   "activity_30d": {
     "all": [
@@ -3153,7 +3153,7 @@
         22,
         24,
         17,
-        47,
+        49,
         25,
         15,
         16
@@ -4258,7 +4258,7 @@
           13,
           16,
           13,
-          20,
+          22,
           11,
           11,
           6
