@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-08T07:20:32.060977+08:00",
-  "all_time_total": 8349,
-  "last_30d_total": 3481,
+  "generated_at": "2026-11-08T08:21:39.395243+08:00",
+  "all_time_total": 8352,
+  "last_30d_total": 3484,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1893,
-      "all_time": 3838,
+      "last_30d": 1896,
+      "all_time": 3841,
       "subtypes": {
         "rent": {
           "last_30d": 1028,
           "all_time": 1958
         },
         "roommate": {
-          "last_30d": 289,
-          "all_time": 642
+          "last_30d": 291,
+          "all_time": 644
         },
         "offer": {
-          "last_30d": 576,
-          "all_time": 1238
+          "last_30d": 577,
+          "all_time": 1239
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 740
+      "total": 743
     }
   ],
   "system": {
-    "messages_scanned_total": 1893694,
-    "messages_scanned_30d": 986662,
-    "noise_filtered_total": 1054966,
-    "noise_filtered_30d": 604669,
-    "lead_sightings_total": 13563,
+    "messages_scanned_total": 1894000,
+    "messages_scanned_30d": 986968,
+    "noise_filtered_total": 1055120,
+    "noise_filtered_30d": 604823,
+    "lead_sightings_total": 13569,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2001,16 +2001,16 @@
       },
       {
         "period": "2026-11-08",
-        "total": 10,
+        "total": 13,
         "by_niche": {
           "bikes_bali": 2,
           "games_bali": 2,
-          "housing_bali": 6
+          "housing_bali": 9
         },
         "housing": {
           "rent": 6,
-          "roommate": 0,
-          "offer": 0
+          "roommate": 2,
+          "offer": 1
         }
       }
     ],
@@ -2388,7 +2388,7 @@
       },
       {
         "period": "2026-11-02",
-        "total": 683,
+        "total": 686,
         "by_niche": {
           "auto_bali": 11,
           "banya_bali": 2,
@@ -2396,7 +2396,7 @@
           "bikes_bali": 114,
           "games_bali": 51,
           "handyman_bali": 12,
-          "housing_bali": 377,
+          "housing_bali": 380,
           "massage_bali": 10,
           "photo_bali": 14,
           "transfer_bali": 34,
@@ -2406,8 +2406,8 @@
         },
         "housing": {
           "rent": 177,
-          "roommate": 66,
-          "offer": 134
+          "roommate": 68,
+          "offer": 135
         },
         "partial": false
       }
@@ -2509,7 +2509,7 @@
       },
       {
         "period": "2026-11",
-        "total": 740,
+        "total": 743,
         "by_niche": {
           "auto_bali": 14,
           "banya_bali": 2,
@@ -2517,7 +2517,7 @@
           "bikes_bali": 123,
           "games_bali": 56,
           "handyman_bali": 13,
-          "housing_bali": 402,
+          "housing_bali": 405,
           "massage_bali": 10,
           "photo_bali": 14,
           "transfer_bali": 42,
@@ -2527,8 +2527,8 @@
         },
         "housing": {
           "rent": 190,
-          "roommate": 68,
-          "offer": 144
+          "roommate": 70,
+          "offer": 145
         },
         "partial": true
       }
@@ -2577,15 +2577,23 @@
         "count": 55
       }
     ],
-    "geo_unknown": 247,
+    "geo_unknown": 248,
     "budget_idr": {
-      "n": 761,
+      "n": 763,
       "p25": 10000000,
       "median": 17000000,
       "p75": 27000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-08T07:30",
+      "subtype": "roommate",
+      "geo": "Кута",
+      "budget_m": 8,
+      "text": "Доброе утро! Ищу комнату на вилле южная Кута. С хорошей кухней,с бассейном На месяц Бюджет: до 8 млн Буду рада предложениям и рекомендациям"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-08T06:45",
@@ -2773,11 +2781,6 @@
       "subtype": "rent",
       "geo": "Сесех",
       "text": "Ищу виллу 1br с 13 января по 13 февраля. Семеньк/сесех. Другие районы не предлагайте"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-07T18:00",
-      "text": "Need xmax for monthly rent"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2888,8 +2891,8 @@
     },
     {
       "geo": "Кута",
-      "n": 29,
-      "median": 16000000,
+      "n": 30,
+      "median": 15500000,
       "p25": 10000000,
       "p75": 20000000
     }
@@ -2960,7 +2963,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 985,
+    "villa": 987,
     "house": 53,
     "room": 115,
     "apartment": 34,
@@ -3132,8 +3135,8 @@
         1,
         3,
         3,
-        7,
-        4,
+        9,
+        5,
         15,
         24,
         22,
@@ -4237,8 +4240,8 @@
           1,
           3,
           3,
-          3,
-          0,
+          5,
+          1,
           7,
           18,
           8,
