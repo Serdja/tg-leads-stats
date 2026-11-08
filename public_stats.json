@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T04:45:37.831408+08:00",
-  "all_time_total": 8462,
-  "last_30d_total": 3444,
+  "generated_at": "2026-11-09T05:46:45.538704+08:00",
+  "all_time_total": 8463,
+  "last_30d_total": 3445,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1896,
-      "all_time": 3911,
+      "last_30d": 1897,
+      "all_time": 3912,
       "subtypes": {
         "rent": {
           "last_30d": 1045,
@@ -19,8 +19,8 @@
           "all_time": 651
         },
         "offer": {
-          "last_30d": 572,
-          "all_time": 1257
+          "last_30d": 573,
+          "all_time": 1258
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 853
+      "total": 854
     }
   ],
   "system": {
-    "messages_scanned_total": 1909707,
-    "messages_scanned_30d": 970637,
-    "noise_filtered_total": 1063567,
-    "noise_filtered_30d": 593218,
-    "lead_sightings_total": 13757,
+    "messages_scanned_total": 1910265,
+    "messages_scanned_30d": 971195,
+    "noise_filtered_total": 1063902,
+    "noise_filtered_30d": 593553,
+    "lead_sightings_total": 13758,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2004,18 +2004,18 @@
       },
       {
         "period": "2026-11-09",
-        "total": 13,
+        "total": 14,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 1,
           "games_bali": 1,
-          "housing_bali": 9,
+          "housing_bali": 10,
           "photo_bali": 1
         },
         "housing": {
           "rent": 7,
           "roommate": 1,
-          "offer": 1
+          "offer": 2
         }
       }
     ],
@@ -2418,18 +2418,18 @@
       },
       {
         "period": "2026-11-09",
-        "total": 13,
+        "total": 14,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 1,
           "games_bali": 1,
-          "housing_bali": 9,
+          "housing_bali": 10,
           "photo_bali": 1
         },
         "housing": {
           "rent": 7,
           "roommate": 1,
-          "offer": 1
+          "offer": 2
         },
         "partial": true
       }
@@ -2531,7 +2531,7 @@
       },
       {
         "period": "2026-11",
-        "total": 853,
+        "total": 854,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 2,
@@ -2539,7 +2539,7 @@
           "bikes_bali": 141,
           "games_bali": 62,
           "handyman_bali": 15,
-          "housing_bali": 475,
+          "housing_bali": 476,
           "massage_bali": 12,
           "photo_bali": 16,
           "transfer_bali": 44,
@@ -2550,7 +2550,7 @@
         "housing": {
           "rent": 235,
           "roommate": 77,
-          "offer": 163
+          "offer": 164
         },
         "partial": true
       }
@@ -2608,6 +2608,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-09T05:00",
+      "subtype": "rent",
+      "text": "Добрый день! На дачном участке нужно вскопать небольшой цветник и подготовить землю к посадке. 5500 р"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-09T04:30",
@@ -2804,14 +2810,6 @@
       "at": "2026-11-08T20:45",
       "subtype": "rent",
       "text": "Подскажите кто по чем снимает жилье, какая средняя цена, стоит ли ехать вообще?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-08T20:15",
-      "subtype": "rent",
-      "geo": "Букит",
-      "budget_m": 20,
-      "text": "Добрый вечер! Прилетели на Бали, ищем виллу на Буките, желательна пешая доступность до океана. Семья из 3 человек, ребенок 1 год 8 месяцев, преимущественно…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3007,7 +3005,7 @@
         11,
         9,
         6,
-        10,
+        11,
         3,
         4,
         5,
@@ -4112,7 +4110,7 @@
           8,
           3,
           4,
-          5,
+          6,
           2,
           1,
           2,
