@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T01:42:17.247505+08:00",
-  "all_time_total": 8454,
-  "last_30d_total": 3436,
+  "generated_at": "2026-11-09T02:43:24.128684+08:00",
+  "all_time_total": 8456,
+  "last_30d_total": 3438,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 610,
-      "all_time": 1794
+      "last_30d": 611,
+      "all_time": 1795
     },
     {
       "niche": "games_bali",
@@ -39,8 +39,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 207,
-      "all_time": 513
+      "last_30d": 208,
+      "all_time": 514
     },
     {
       "niche": "transfer_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 845
+      "total": 847
     }
   ],
   "system": {
-    "messages_scanned_total": 1907462,
-    "messages_scanned_30d": 968392,
-    "noise_filtered_total": 1062389,
-    "noise_filtered_30d": 592040,
-    "lead_sightings_total": 13747,
+    "messages_scanned_total": 1908325,
+    "messages_scanned_30d": 969255,
+    "noise_filtered_total": 1062823,
+    "noise_filtered_30d": 592474,
+    "lead_sightings_total": 13750,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2004,8 +2004,10 @@
       },
       {
         "period": "2026-11-09",
-        "total": 5,
+        "total": 7,
         "by_niche": {
+          "beauty_bali": 1,
+          "bikes_bali": 1,
           "games_bali": 1,
           "housing_bali": 4
         },
@@ -2415,8 +2417,10 @@
       },
       {
         "period": "2026-11-09",
-        "total": 5,
+        "total": 7,
         "by_niche": {
+          "beauty_bali": 1,
+          "bikes_bali": 1,
           "games_bali": 1,
           "housing_bali": 4
         },
@@ -2525,12 +2529,12 @@
       },
       {
         "period": "2026-11",
-        "total": 845,
+        "total": 847,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 2,
-          "beauty_bali": 47,
-          "bikes_bali": 140,
+          "beauty_bali": 48,
+          "bikes_bali": 141,
           "games_bali": 62,
           "handyman_bali": 15,
           "housing_bali": 470,
@@ -2602,6 +2606,16 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-09T02:15",
+      "text": "Hello! I’m looking for Nmax !New or with a mileage of up to 2000 kilometers, without scratches and scuffs on the body and plastic!Location in Changgu! The bike…"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-09T01:45",
+      "text": "Всем доброй ночи 🫱🏽🫲🏾 подскажите пожалуйста чаты, где можно найти мастера по наращиванию ресниц, по маникюру и тд)"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-09T01:30",
@@ -2792,19 +2806,6 @@
       "niche": "bikes_bali",
       "at": "2026-11-08T19:15",
       "text": "Ботя аренда байка . Можно ли взять байк в аренду на Туламбен ? Сколько стоит ?"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-08T19:15",
-      "text": "Hello all 👋 Im looking for Fazzio . For long term, budget Rp 900. Please dm"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-08T19:15",
-      "subtype": "rent",
-      "geo": "Унгасан",
-      "budget_m": 150,
-      "text": "Доброго времени виллу 5-6 ,Джимбаран,Нуса Дуа.С 20-25 декабря на месяц 🌺Бюджет 150 млн(с процентами и электричеством)☀️🧚♀️"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2997,8 +2998,8 @@
     "all": [
       [
         17,
-        10,
-        6,
+        11,
+        7,
         4,
         8,
         3,
@@ -3366,7 +3367,7 @@
       "beauty_bali": [
         [
           1,
-          1,
+          2,
           0,
           0,
           0,
@@ -3551,7 +3552,7 @@
         [
           2,
           0,
-          2,
+          3,
           0,
           2,
           0,
