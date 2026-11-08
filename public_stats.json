@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T03:44:31.122467+08:00",
-  "all_time_total": 8460,
-  "last_30d_total": 3442,
+  "generated_at": "2026-11-09T04:45:37.831408+08:00",
+  "all_time_total": 8462,
+  "last_30d_total": 3444,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1894,
-      "all_time": 3909,
+      "last_30d": 1896,
+      "all_time": 3911,
       "subtypes": {
         "rent": {
-          "last_30d": 1044,
-          "all_time": 2002
+          "last_30d": 1045,
+          "all_time": 2003
         },
         "roommate": {
           "last_30d": 279,
           "all_time": 651
         },
         "offer": {
-          "last_30d": 571,
-          "all_time": 1256
+          "last_30d": 572,
+          "all_time": 1257
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 851
+      "total": 853
     }
   ],
   "system": {
-    "messages_scanned_total": 1909124,
-    "messages_scanned_30d": 970054,
-    "noise_filtered_total": 1063208,
-    "noise_filtered_30d": 592859,
-    "lead_sightings_total": 13755,
+    "messages_scanned_total": 1909707,
+    "messages_scanned_30d": 970637,
+    "noise_filtered_total": 1063567,
+    "noise_filtered_30d": 593218,
+    "lead_sightings_total": 13757,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2004,18 +2004,18 @@
       },
       {
         "period": "2026-11-09",
-        "total": 11,
+        "total": 13,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 1,
           "games_bali": 1,
-          "housing_bali": 7,
+          "housing_bali": 9,
           "photo_bali": 1
         },
         "housing": {
-          "rent": 6,
+          "rent": 7,
           "roommate": 1,
-          "offer": 0
+          "offer": 1
         }
       }
     ],
@@ -2418,18 +2418,18 @@
       },
       {
         "period": "2026-11-09",
-        "total": 11,
+        "total": 13,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 1,
           "games_bali": 1,
-          "housing_bali": 7,
+          "housing_bali": 9,
           "photo_bali": 1
         },
         "housing": {
-          "rent": 6,
+          "rent": 7,
           "roommate": 1,
-          "offer": 0
+          "offer": 1
         },
         "partial": true
       }
@@ -2531,7 +2531,7 @@
       },
       {
         "period": "2026-11",
-        "total": 851,
+        "total": 853,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 2,
@@ -2539,7 +2539,7 @@
           "bikes_bali": 141,
           "games_bali": 62,
           "handyman_bali": 15,
-          "housing_bali": 473,
+          "housing_bali": 475,
           "massage_bali": 12,
           "photo_bali": 16,
           "transfer_bali": 44,
@@ -2548,9 +2548,9 @@
           "wedding_bali": 3
         },
         "housing": {
-          "rent": 234,
+          "rent": 235,
           "roommate": 77,
-          "offer": 162
+          "offer": 163
         },
         "partial": true
       }
@@ -2560,7 +2560,7 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 568
+        "count": 569
       },
       {
         "geo": "Улувату",
@@ -2608,6 +2608,13 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-09T04:30",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "text": "ищу комнату в Чангу с 7 декабря на 1,5 мес"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-09T03:30",
@@ -2805,12 +2812,6 @@
       "geo": "Букит",
       "budget_m": 20,
       "text": "Добрый вечер! Прилетели на Бали, ищем виллу на Буките, желательна пешая доступность до океана. Семья из 3 человек, ребенок 1 год 8 месяцев, преимущественно…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-08T20:00",
-      "geo": "Убуд",
-      "text": "Hey everyone! Looking for a comfortable scooter for two people in Bali. Preferred models: • Yamaha NMAX 155 • Honda ADV 160 Requirements: • Price: 500 000 IDR…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2930,8 +2931,8 @@
   "housing_offer_price_by_geo_90d": [
     {
       "geo": "Чангу",
-      "n": 140,
-      "median": 24500000,
+      "n": 141,
+      "median": 25000000,
       "p25": 14000000,
       "p75": 40000000
     },
@@ -2995,7 +2996,7 @@
   "housing_types_30d": {
     "villa": 987,
     "house": 52,
-    "room": 116,
+    "room": 117,
     "apartment": 34,
     "unknown": 134
   },
@@ -3006,7 +3007,7 @@
         11,
         9,
         6,
-        8,
+        10,
         3,
         4,
         5,
@@ -4111,7 +4112,7 @@
           8,
           3,
           4,
-          3,
+          5,
           2,
           1,
           2,
