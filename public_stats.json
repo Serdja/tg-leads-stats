@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T06:47:51.986279+08:00",
-  "all_time_total": 8463,
-  "last_30d_total": 3445,
+  "generated_at": "2026-11-09T07:48:58.696720+08:00",
+  "all_time_total": 8464,
+  "last_30d_total": 3446,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 611,
-      "all_time": 1795
+      "last_30d": 612,
+      "all_time": 1796
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 854
+      "total": 855
     }
   ],
   "system": {
-    "messages_scanned_total": 1910602,
-    "messages_scanned_30d": 971532,
-    "noise_filtered_total": 1064067,
-    "noise_filtered_30d": 593718,
-    "lead_sightings_total": 13758,
+    "messages_scanned_total": 1910873,
+    "messages_scanned_30d": 971803,
+    "noise_filtered_total": 1064229,
+    "noise_filtered_30d": 593880,
+    "lead_sightings_total": 13759,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2004,10 +2004,10 @@
       },
       {
         "period": "2026-11-09",
-        "total": 14,
+        "total": 15,
         "by_niche": {
           "beauty_bali": 1,
-          "bikes_bali": 1,
+          "bikes_bali": 2,
           "games_bali": 1,
           "housing_bali": 10,
           "photo_bali": 1
@@ -2418,10 +2418,10 @@
       },
       {
         "period": "2026-11-09",
-        "total": 14,
+        "total": 15,
         "by_niche": {
           "beauty_bali": 1,
-          "bikes_bali": 1,
+          "bikes_bali": 2,
           "games_bali": 1,
           "housing_bali": 10,
           "photo_bali": 1
@@ -2531,12 +2531,12 @@
       },
       {
         "period": "2026-11",
-        "total": 854,
+        "total": 855,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 2,
           "beauty_bali": 48,
-          "bikes_bali": 141,
+          "bikes_bali": 142,
           "games_bali": 62,
           "handyman_bali": 15,
           "housing_bali": 476,
@@ -2608,6 +2608,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-09T07:15",
+      "text": "Подскажите пожалуйста установила навигатор на байк , а как на парковках или на улице просто у дороги оставлять ? Кто пользуется , не снимали воришки ?"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-09T05:00",
@@ -2804,12 +2809,6 @@
       "at": "2026-11-08T21:45",
       "subtype": "rent",
       "text": "Кто-нибудь знает, где тут арендовать студию под двух девушек?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-08T20:45",
-      "subtype": "rent",
-      "text": "Подскажите кто по чем снимает жилье, какая средняя цена, стоит ли ехать вообще?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3008,7 +3007,7 @@
         11,
         3,
         4,
-        5,
+        6,
         9,
         16,
         28,
@@ -3561,7 +3560,7 @@
           2,
           0,
           2,
-          1,
+          2,
           3,
           3,
           10,
