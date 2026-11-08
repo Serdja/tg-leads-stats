@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T02:43:24.128684+08:00",
-  "all_time_total": 8456,
-  "last_30d_total": 3438,
+  "generated_at": "2026-11-09T03:44:31.122467+08:00",
+  "all_time_total": 8460,
+  "last_30d_total": 3442,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1891,
-      "all_time": 3906,
+      "last_30d": 1894,
+      "all_time": 3909,
       "subtypes": {
         "rent": {
-          "last_30d": 1041,
-          "all_time": 1999
+          "last_30d": 1044,
+          "all_time": 2002
         },
         "roommate": {
           "last_30d": 279,
@@ -69,8 +69,8 @@
     {
       "niche": "photo_bali",
       "label": "📸 Фотограф",
-      "last_30d": 57,
-      "all_time": 221
+      "last_30d": 58,
+      "all_time": 222
     },
     {
       "niche": "massage_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 847
+      "total": 851
     }
   ],
   "system": {
-    "messages_scanned_total": 1908325,
-    "messages_scanned_30d": 969255,
-    "noise_filtered_total": 1062823,
-    "noise_filtered_30d": 592474,
-    "lead_sightings_total": 13750,
+    "messages_scanned_total": 1909124,
+    "messages_scanned_30d": 970054,
+    "noise_filtered_total": 1063208,
+    "noise_filtered_30d": 592859,
+    "lead_sightings_total": 13755,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2004,15 +2004,16 @@
       },
       {
         "period": "2026-11-09",
-        "total": 7,
+        "total": 11,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 1,
           "games_bali": 1,
-          "housing_bali": 4
+          "housing_bali": 7,
+          "photo_bali": 1
         },
         "housing": {
-          "rent": 3,
+          "rent": 6,
           "roommate": 1,
           "offer": 0
         }
@@ -2417,15 +2418,16 @@
       },
       {
         "period": "2026-11-09",
-        "total": 7,
+        "total": 11,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 1,
           "games_bali": 1,
-          "housing_bali": 4
+          "housing_bali": 7,
+          "photo_bali": 1
         },
         "housing": {
-          "rent": 3,
+          "rent": 6,
           "roommate": 1,
           "offer": 0
         },
@@ -2529,7 +2531,7 @@
       },
       {
         "period": "2026-11",
-        "total": 847,
+        "total": 851,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 2,
@@ -2537,16 +2539,16 @@
           "bikes_bali": 141,
           "games_bali": 62,
           "handyman_bali": 15,
-          "housing_bali": 470,
+          "housing_bali": 473,
           "massage_bali": 12,
-          "photo_bali": 15,
+          "photo_bali": 16,
           "transfer_bali": 44,
           "video_bali": 6,
           "visa_bali": 13,
           "wedding_bali": 3
         },
         "housing": {
-          "rent": 231,
+          "rent": 234,
           "roommate": 77,
           "offer": 162
         },
@@ -2558,7 +2560,7 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 567
+        "count": 568
       },
       {
         "geo": "Улувату",
@@ -2566,11 +2568,11 @@
       },
       {
         "geo": "Сесех",
-        "count": 184
+        "count": 185
       },
       {
         "geo": "Переренан",
-        "count": 164
+        "count": 165
       },
       {
         "geo": "Убуд",
@@ -2594,18 +2596,52 @@
       },
       {
         "geo": "Нуса Дуа",
-        "count": 53
+        "count": 54
       }
     ],
-    "geo_unknown": 250,
+    "geo_unknown": 251,
     "budget_idr": {
-      "n": 771,
+      "n": 772,
       "p25": 10000000,
       "median": 17000000,
-      "p75": 27000000
+      "p75": 27050000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-09T03:30",
+      "subtype": "rent",
+      "geo": "Семиньяк",
+      "text": "Подскажите место в Семиньяке, где снять студию для двух девушек?"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-09T03:30",
+      "subtype": "rent",
+      "text": "Кто знает, где тут можно арендовать студию на двоих девушек?"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-09T03:15",
+      "subtype": "rent",
+      "geo": "Нуса Дуа",
+      "text": "Здравствуйте, нужны виллы посуточно. Нуса Дуа с 7 по 10 декабря. Рядом с пляжем. 4 комнаты. С 12 по 14 декабря нужна вилла в Чангу. 4 комнаты. Присылайте в…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-09T02:45",
+      "subtype": "rent",
+      "geo": "Сесех",
+      "budget_m": 30,
+      "text": "Всем привет, ищу 2-х комнатную виллу в районах Seseh, Pererenan ( рядом тоже норм С 27 декабря - 2-3мес, до 30млн"
+    },
+    {
+      "niche": "photo_bali",
+      "at": "2026-11-09T02:45",
+      "geo": "Убуд",
+      "text": "Фотографы в убуде !! Ищу)"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-09T02:15",
@@ -2775,37 +2811,6 @@
       "at": "2026-11-08T20:00",
       "geo": "Убуд",
       "text": "Hey everyone! Looking for a comfortable scooter for two people in Bali. Preferred models: • Yamaha NMAX 155 • Honda ADV 160 Requirements: • Price: 500 000 IDR…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-08T19:45",
-      "subtype": "rent",
-      "geo": "Нуса Дуа",
-      "budget_m": 20,
-      "text": "Ищу виллу в Нуса Дуа 2 спальни, кухня С 9 ноября по 1 декабря Бюджет до 20 млн"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-08T19:45",
-      "subtype": "rent",
-      "text": "Добрый день. Ищу агента для сдачи в лизхолд землю 4,6 соток в районе Печату. Под строительство жилой недвижимости. Возможен договор сроком до 20лет с…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-08T19:30",
-      "subtype": "rent",
-      "text": "Добрый вечер всем, подскажите пожалуйста хотела купить сумку из кожи питона только не знаю это натур продукт или очередное разводилово туристов Магазин возле…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-08T19:30",
-      "subtype": "rent",
-      "text": "Но эт у меня такая стратегия, мне кажется если я куплю себе хату и еще хату чтобы сдавать в аренду то как бы вечные деньги... но это вроде не так... лажно…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-08T19:15",
-      "text": "Ботя аренда байка . Можно ли взять байк в аренду на Туламбен ? Сколько стоит ?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2818,14 +2823,14 @@
     },
     {
       "geo": "Переренан",
-      "n": 222,
+      "n": 223,
       "median": 20000000,
-      "p25": 10250000,
+      "p25": 10500000,
       "p75": 30000000
     },
     {
       "geo": "Сесех",
-      "n": 213,
+      "n": 214,
       "median": 15000000,
       "p25": 10000000,
       "p75": 25000000
@@ -2988,10 +2993,10 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 985,
+    "villa": 987,
     "house": 52,
     "room": 116,
-    "apartment": 33,
+    "apartment": 34,
     "unknown": 134
   },
   "activity_30d": {
@@ -2999,8 +3004,8 @@
       [
         17,
         11,
-        7,
-        4,
+        9,
+        6,
         8,
         3,
         4,
@@ -4104,8 +4109,8 @@
         [
           8,
           8,
-          2,
-          2,
+          3,
+          4,
           3,
           2,
           1,
@@ -4288,7 +4293,7 @@
         [
           1,
           0,
-          0,
+          1,
           0,
           0,
           0,
