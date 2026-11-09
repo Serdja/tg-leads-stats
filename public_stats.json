@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T00:08:00.463434+08:00",
-  "all_time_total": 8596,
-  "last_30d_total": 3474,
+  "generated_at": "2026-11-10T01:09:09.438660+08:00",
+  "all_time_total": 8601,
+  "last_30d_total": 3479,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1928,
-      "all_time": 3987,
+      "last_30d": 1933,
+      "all_time": 3992,
       "subtypes": {
         "rent": {
-          "last_30d": 1055,
-          "all_time": 2034
+          "last_30d": 1058,
+          "all_time": 2037
         },
         "roommate": {
-          "last_30d": 292,
-          "all_time": 671
+          "last_30d": 293,
+          "all_time": 672
         },
         "offer": {
-          "last_30d": 581,
-          "all_time": 1282
+          "last_30d": 582,
+          "all_time": 1283
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 987
+      "total": 992
     }
   ],
   "system": {
-    "messages_scanned_total": 1929857,
-    "messages_scanned_30d": 952692,
-    "noise_filtered_total": 1074571,
-    "noise_filtered_30d": 580786,
-    "lead_sightings_total": 13963,
+    "messages_scanned_total": 1931407,
+    "messages_scanned_30d": 954242,
+    "noise_filtered_total": 1075189,
+    "noise_filtered_30d": 581404,
+    "lead_sightings_total": 13971,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2007,12 +2007,14 @@
       },
       {
         "period": "2026-11-10",
-        "total": 0,
-        "by_niche": {},
+        "total": 5,
+        "by_niche": {
+          "housing_bali": 5
+        },
         "housing": {
-          "rent": 0,
-          "roommate": 0,
-          "offer": 0
+          "rent": 3,
+          "roommate": 1,
+          "offer": 1
         }
       }
     ],
@@ -2415,22 +2417,22 @@
       },
       {
         "period": "2026-11-09",
-        "total": 147,
+        "total": 152,
         "by_niche": {
           "banya_bali": 1,
           "beauty_bali": 7,
           "bikes_bali": 23,
           "games_bali": 10,
-          "housing_bali": 85,
+          "housing_bali": 90,
           "massage_bali": 2,
           "photo_bali": 3,
           "transfer_bali": 9,
           "visa_bali": 7
         },
         "housing": {
-          "rent": 38,
-          "roommate": 21,
-          "offer": 26
+          "rent": 41,
+          "roommate": 22,
+          "offer": 27
         },
         "partial": true
       }
@@ -2532,7 +2534,7 @@
       },
       {
         "period": "2026-11",
-        "total": 987,
+        "total": 992,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 3,
@@ -2540,7 +2542,7 @@
           "bikes_bali": 163,
           "games_bali": 71,
           "handyman_bali": 15,
-          "housing_bali": 551,
+          "housing_bali": 556,
           "massage_bali": 14,
           "photo_bali": 18,
           "transfer_bali": 53,
@@ -2549,9 +2551,9 @@
           "wedding_bali": 3
         },
         "housing": {
-          "rent": 266,
-          "roommate": 97,
-          "offer": 188
+          "rent": 269,
+          "roommate": 98,
+          "offer": 189
         },
         "partial": true
       }
@@ -2561,11 +2563,11 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 573
+        "count": 574
       },
       {
         "geo": "Улувату",
-        "count": 202
+        "count": 203
       },
       {
         "geo": "Сесех",
@@ -2600,7 +2602,7 @@
         "count": 55
       }
     ],
-    "geo_unknown": 255,
+    "geo_unknown": 256,
     "budget_idr": {
       "n": 793,
       "p25": 9000000,
@@ -2609,6 +2611,47 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-10T01:00",
+      "subtype": "rent",
+      "text": "💼 Маркетолог → CMO: строим систему и масштабируем агентство Hospitality & Lifestyle | Бали / удалённо с релокацией 🚀 О компании Мы — performance-агентство,…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-10T01:00",
+      "subtype": "rent",
+      "geo": "Джимбаран",
+      "text": "Ищу виллу с 16 по 28 января. Район джимбаран или Нуса-дуа. Максимум 2 спальни, в идеале одна"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-10T00:45",
+      "subtype": "rent",
+      "geo": "Кута",
+      "text": "Здравствуйте! Планируем своих ходом на Бали с 8 декабря, подскажите пожалуйста, если не трудно, кто знает, или недавно ездил на Бали: 1. Принимают ли старые…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-10T00:45",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "text": "привет ❤️ прилетаю 18 ноября с подругой, хотим снять виллу и ищем девочек кто тоже хочет присоединиться ❤️ (не тусовщицы) предпочтительнее чангу (ближе к…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-10T00:30",
+      "subtype": "rent",
+      "geo": "Кута",
+      "text": "Здравствуйте! Планируем на 2 небом своих ходом на Бали с 8 декабря, подскажите пожалуйста, если не трудно, кто знает, или недавно ездил на Бали: 1. Принимают…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-10T00:15",
+      "subtype": "roommate",
+      "geo": "Улувату",
+      "text": "хочу переехать в улувату на 2 недели пожить кто сдает комнату пишите"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-09T23:45",
@@ -2759,40 +2802,6 @@
       "at": "2026-11-09T21:00",
       "subtype": "rent",
       "text": "Продление C1 подаётся онлайн через аккаунт в системе e-visa, а не на кассе в иммиграционном офисе. После подачи в системе появляется billing-код, и платить по…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-09T20:45",
-      "subtype": "roommate",
-      "geo": "Чангу",
-      "budget_m": 10,
-      "text": "Ищу комнату на вилле, гест или апарты в Чангу До 10 млн С пятницы 13.11 😎"
-    },
-    {
-      "niche": "visa_bali",
-      "at": "2026-11-09T20:45",
-      "text": "Подскажите, правильно я понимаю, чтобы оформить электронную визу необходимо произвести оплату не с российской карты? Соответственно если иностранной карты нет-…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-09T20:30",
-      "text": "Looking for xmax techmax"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-09T20:30",
-      "geo": "Унгасан",
-      "text": "привет, подскажите где байк в унгасане арендовать"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-09T20:15",
-      "text": "Looking for fresh xmax tech max"
-    },
-    {
-      "niche": "transfer_bali",
-      "at": "2026-11-09T19:45",
-      "text": "Ищу водителя с личным авто. Маршрут по городу, плачу 15.000р + бензин. Пиши, если готов. 💸"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2975,9 +2984,9 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 1003,
+    "villa": 1006,
     "house": 51,
-    "room": 120,
+    "room": 121,
     "apartment": 37,
     "unknown": 136
   },
@@ -3010,8 +3019,8 @@
         19
       ],
       [
-        19,
-        10,
+        23,
+        11,
         10,
         6,
         4,
@@ -4115,8 +4124,8 @@
           14
         ],
         [
-          10,
-          5,
+          14,
+          6,
           5,
           1,
           4,
