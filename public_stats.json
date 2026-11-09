@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T18:00:47.694625+08:00",
-  "all_time_total": 8546,
-  "last_30d_total": 3528,
+  "generated_at": "2026-11-09T19:02:01.554127+08:00",
+  "all_time_total": 8548,
+  "last_30d_total": 3530,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 624,
-      "all_time": 1808
+      "last_30d": 625,
+      "all_time": 1809
     },
     {
       "niche": "games_bali",
@@ -51,8 +51,8 @@
     {
       "niche": "visa_bali",
       "label": "📄 Визы",
-      "last_30d": 74,
-      "all_time": 237
+      "last_30d": 75,
+      "all_time": 238
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 937
+      "total": 939
     }
   ],
   "system": {
-    "messages_scanned_total": 1920144,
-    "messages_scanned_30d": 981074,
-    "noise_filtered_total": 1069293,
-    "noise_filtered_30d": 598944,
-    "lead_sightings_total": 13888,
+    "messages_scanned_total": 1921713,
+    "messages_scanned_30d": 982643,
+    "noise_filtered_total": 1070192,
+    "noise_filtered_30d": 599843,
+    "lead_sightings_total": 13892,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2004,17 +2004,17 @@
       },
       {
         "period": "2026-11-09",
-        "total": 97,
+        "total": 99,
         "by_niche": {
           "banya_bali": 1,
           "beauty_bali": 5,
-          "bikes_bali": 14,
+          "bikes_bali": 15,
           "games_bali": 7,
           "housing_bali": 57,
           "massage_bali": 2,
           "photo_bali": 2,
           "transfer_bali": 7,
-          "visa_bali": 2
+          "visa_bali": 3
         },
         "housing": {
           "rent": 29,
@@ -2422,17 +2422,17 @@
       },
       {
         "period": "2026-11-09",
-        "total": 97,
+        "total": 99,
         "by_niche": {
           "banya_bali": 1,
           "beauty_bali": 5,
-          "bikes_bali": 14,
+          "bikes_bali": 15,
           "games_bali": 7,
           "housing_bali": 57,
           "massage_bali": 2,
           "photo_bali": 2,
           "transfer_bali": 7,
-          "visa_bali": 2
+          "visa_bali": 3
         },
         "housing": {
           "rent": 29,
@@ -2539,12 +2539,12 @@
       },
       {
         "period": "2026-11",
-        "total": 937,
+        "total": 939,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 3,
           "beauty_bali": 52,
-          "bikes_bali": 154,
+          "bikes_bali": 155,
           "games_bali": 68,
           "handyman_bali": 15,
           "housing_bali": 523,
@@ -2552,7 +2552,7 @@
           "photo_bali": 17,
           "transfer_bali": 51,
           "video_bali": 6,
-          "visa_bali": 15,
+          "visa_bali": 16,
           "wedding_bali": 3
         },
         "housing": {
@@ -2616,6 +2616,24 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-09T18:45",
+      "subtype": "rent",
+      "text": "Ребята, привет! У меня скоро переезд нескольких крупных вещей внутри дома: нужно поднять на третий этаж кресло и пару коробок. Вдвоём будет гораздо удобнее.…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-09T18:45",
+      "subtype": "rent",
+      "budget_m": 2,
+      "text": "🐱 Ищу дом для четырёх котят! Малышам около 2 месяцев: один серый мальчик и три девочки. Все получили первую прививку и обработаны от паразитов. Если вы…"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-09T18:30",
+      "text": "Looking for 2 bikes in good condition in Nusa Lembongan"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-09T17:45",
@@ -2786,24 +2804,6 @@
       "subtype": "rent",
       "geo": "Чангу",
       "text": "Ищу виллу в чангу с 16 ноября на месяц или до конца года напишите, пожалуйста, в личку"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-09T14:45",
-      "subtype": "rent",
-      "text": "Виза нужна в Индонезии. Офис на Бали или другом городе , могу приехать"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-09T14:45",
-      "subtype": "rent",
-      "text": "Здравствуйте. Подскажите проверенные сервисы , нужна будет виза на 1-2 года . Но пока все с кем общался работают по системе Малахова ) платите деньги ,…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-09T14:30",
-      "subtype": "rent",
-      "text": "Нужны помощники на склад 7500₽/день"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3013,7 +3013,7 @@
         38,
         36,
         49,
-        19,
+        21,
         33,
         44,
         21,
@@ -3566,7 +3566,7 @@
           7,
           3,
           13,
-          5,
+          6,
           3,
           4,
           3,
@@ -4670,7 +4670,7 @@
           1,
           4,
           1,
-          0,
+          1,
           1,
           0,
           0,
