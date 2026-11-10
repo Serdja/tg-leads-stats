@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T10:19:55.381894+08:00",
-  "all_time_total": 8622,
-  "last_30d_total": 3500,
+  "generated_at": "2026-11-10T11:21:09.194737+08:00",
+  "all_time_total": 8628,
+  "last_30d_total": 3506,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1946,
-      "all_time": 4005,
+      "last_30d": 1949,
+      "all_time": 4008,
       "subtypes": {
         "rent": {
           "last_30d": 1066,
@@ -19,16 +19,16 @@
           "all_time": 675
         },
         "offer": {
-          "last_30d": 584,
-          "all_time": 1285
+          "last_30d": 587,
+          "all_time": 1288
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 608,
-      "all_time": 1818
+      "last_30d": 611,
+      "all_time": 1821
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1013
+      "total": 1019
     }
   ],
   "system": {
-    "messages_scanned_total": 1937777,
-    "messages_scanned_30d": 960612,
-    "noise_filtered_total": 1078698,
-    "noise_filtered_30d": 584913,
-    "lead_sightings_total": 14010,
+    "messages_scanned_total": 1938277,
+    "messages_scanned_30d": 961112,
+    "noise_filtered_total": 1078904,
+    "noise_filtered_30d": 585119,
+    "lead_sightings_total": 14020,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2007,12 +2007,12 @@
       },
       {
         "period": "2026-11-10",
-        "total": 26,
+        "total": 32,
         "by_niche": {
           "beauty_bali": 1,
-          "bikes_bali": 1,
+          "bikes_bali": 4,
           "games_bali": 2,
-          "housing_bali": 18,
+          "housing_bali": 21,
           "massage_bali": 1,
           "visa_bali": 2,
           "wedding_bali": 1
@@ -2020,7 +2020,7 @@
         "housing": {
           "rent": 11,
           "roommate": 4,
-          "offer": 3
+          "offer": 6
         }
       }
     ],
@@ -2423,13 +2423,13 @@
       },
       {
         "period": "2026-11-09",
-        "total": 173,
+        "total": 179,
         "by_niche": {
           "banya_bali": 1,
           "beauty_bali": 8,
-          "bikes_bali": 24,
+          "bikes_bali": 27,
           "games_bali": 12,
-          "housing_bali": 103,
+          "housing_bali": 106,
           "massage_bali": 3,
           "photo_bali": 3,
           "transfer_bali": 9,
@@ -2439,7 +2439,7 @@
         "housing": {
           "rent": 49,
           "roommate": 25,
-          "offer": 29
+          "offer": 32
         },
         "partial": true
       }
@@ -2541,15 +2541,15 @@
       },
       {
         "period": "2026-11",
-        "total": 1013,
+        "total": 1019,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 3,
           "beauty_bali": 55,
-          "bikes_bali": 164,
+          "bikes_bali": 167,
           "games_bali": 73,
           "handyman_bali": 15,
-          "housing_bali": 569,
+          "housing_bali": 572,
           "massage_bali": 15,
           "photo_bali": 18,
           "transfer_bali": 53,
@@ -2560,7 +2560,7 @@
         "housing": {
           "rent": 277,
           "roommate": 101,
-          "offer": 191
+          "offer": 194
         },
         "partial": true
       }
@@ -2618,6 +2618,18 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-10T11:00",
+      "subtype": "rent",
+      "text": "Всё верно: первоначальная евиза — это только документ на въезд. Если условия выполнены, то электронный ITAS (e-ITAS) и разрешение на повторный въезд выдаются…"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-10T10:30",
+      "budget_m": 3,
+      "text": "Looking for xMax from tomorrow 3 mln per month >10k km"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-10T09:45",
@@ -2802,17 +2814,6 @@
       "at": "2026-11-09T23:30",
       "subtype": "rent",
       "text": "Привет)посоветуйте пожалуйста классную студию йоги где можно практиковать аштангу"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-09T23:30",
-      "text": "Rental bike avail.... No need deposit Paymebt when you get bike"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-09T23:00",
-      "geo": "Букит",
-      "text": "Посоветуйте район букита где можно с неделю пожить, может какое нить ваше любимое место. Байк есть, но чтоб и пешком было где погулять, кафешки бары варунги в…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3040,8 +3041,8 @@
         8,
         19,
         22,
-        19,
-        36,
+        24,
+        37,
         30,
         34,
         36,
@@ -3593,8 +3594,8 @@
           0,
           3,
           5,
-          2,
-          7,
+          4,
+          8,
           12,
           7,
           2,
@@ -4145,7 +4146,7 @@
           6,
           10,
           16,
-          10,
+          13,
           16,
           12,
           19,
