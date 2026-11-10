@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T08:17:27.867378+08:00",
-  "all_time_total": 8616,
-  "last_30d_total": 3494,
+  "generated_at": "2026-11-10T09:18:41.527945+08:00",
+  "all_time_total": 8618,
+  "last_30d_total": 3496,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -39,8 +39,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 207,
-      "all_time": 520
+      "last_30d": 208,
+      "all_time": 521
     },
     {
       "niche": "transfer_bali",
@@ -51,8 +51,8 @@
     {
       "niche": "visa_bali",
       "label": "📄 Визы",
-      "last_30d": 78,
-      "all_time": 243
+      "last_30d": 79,
+      "all_time": 244
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1007
+      "total": 1009
     }
   ],
   "system": {
-    "messages_scanned_total": 1936968,
-    "messages_scanned_30d": 959803,
-    "noise_filtered_total": 1078240,
-    "noise_filtered_30d": 584455,
-    "lead_sightings_total": 13989,
+    "messages_scanned_total": 1937346,
+    "messages_scanned_30d": 960181,
+    "noise_filtered_total": 1078449,
+    "noise_filtered_30d": 584664,
+    "lead_sightings_total": 13997,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2007,13 +2007,14 @@
       },
       {
         "period": "2026-11-10",
-        "total": 20,
+        "total": 22,
         "by_niche": {
+          "beauty_bali": 1,
           "bikes_bali": 1,
           "games_bali": 2,
           "housing_bali": 14,
           "massage_bali": 1,
-          "visa_bali": 1,
+          "visa_bali": 2,
           "wedding_bali": 1
         },
         "housing": {
@@ -2422,17 +2423,17 @@
       },
       {
         "period": "2026-11-09",
-        "total": 167,
+        "total": 169,
         "by_niche": {
           "banya_bali": 1,
-          "beauty_bali": 7,
+          "beauty_bali": 8,
           "bikes_bali": 24,
           "games_bali": 12,
           "housing_bali": 99,
           "massage_bali": 3,
           "photo_bali": 3,
           "transfer_bali": 9,
-          "visa_bali": 8,
+          "visa_bali": 9,
           "wedding_bali": 1
         },
         "housing": {
@@ -2540,11 +2541,11 @@
       },
       {
         "period": "2026-11",
-        "total": 1007,
+        "total": 1009,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 3,
-          "beauty_bali": 54,
+          "beauty_bali": 55,
           "bikes_bali": 164,
           "games_bali": 73,
           "handyman_bali": 15,
@@ -2553,7 +2554,7 @@
           "photo_bali": 18,
           "transfer_bali": 53,
           "video_bali": 6,
-          "visa_bali": 21,
+          "visa_bali": 22,
           "wedding_bali": 4
         },
         "housing": {
@@ -2617,6 +2618,23 @@
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-10T08:45",
+      "geo": "Букит",
+      "text": "Привет! Подскажите, пожалуйста, где на Буките хороший барбершоп 💈? Ну или в другом районе. Заранее благодарю 🙏🏼"
+    },
+    {
+      "niche": "visa_bali",
+      "at": "2026-11-10T08:30",
+      "text": "Подскажите, digital nomad виза (e33g) это же и есть китас? На почту пришла эта виза, но в банке BCA не хотят открывать счет, говорят эта виза а не китас"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-10T08:30",
+      "subtype": "rent",
+      "text": "Здравствуйте! Скажите, пожалуйста, есть ли вариант оплатить картой продление визы С1 и можно ли до оплаты узнать, в какой иммиграционный офис нужно будет…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-10T07:45",
@@ -2791,21 +2809,6 @@
       "at": "2026-11-09T22:45",
       "geo": "Букит",
       "text": "Привет! Есть ли контакт тех, кто может перегнать байк из Букита в Чангу? Нужно завтра утром, сам хочу на машине поехать"
-    },
-    {
-      "niche": "visa_bali",
-      "at": "2026-11-09T22:45",
-      "text": "Потому что, ищу реальный Китас, не бумажный . Легально , и т.д и т.п"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-11-09T22:45",
-      "text": "Кто делает татуаж бровей? Посоветуйте проверенного мастера, пожалуйста 🙏🏻"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-09T22:30",
-      "text": "hi, need white filano for a 6 month monthly, 2026 plz"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3031,7 +3034,7 @@
         6,
         6,
         8,
-        17,
+        19,
         18,
         19,
         36,
@@ -3400,7 +3403,7 @@
           0,
           1,
           0,
-          1,
+          2,
           0,
           1,
           2,
@@ -4688,7 +4691,7 @@
           0,
           0,
           0,
-          2,
+          3,
           0,
           2,
           2,
