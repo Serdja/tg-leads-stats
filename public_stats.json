@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T09:18:41.527945+08:00",
-  "all_time_total": 8618,
-  "last_30d_total": 3496,
+  "generated_at": "2026-11-10T10:19:55.381894+08:00",
+  "all_time_total": 8622,
+  "last_30d_total": 3500,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1942,
-      "all_time": 4001,
+      "last_30d": 1946,
+      "all_time": 4005,
       "subtypes": {
         "rent": {
-          "last_30d": 1064,
-          "all_time": 2043
+          "last_30d": 1066,
+          "all_time": 2045
         },
         "roommate": {
           "last_30d": 296,
           "all_time": 675
         },
         "offer": {
-          "last_30d": 582,
-          "all_time": 1283
+          "last_30d": 584,
+          "all_time": 1285
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1009
+      "total": 1013
     }
   ],
   "system": {
-    "messages_scanned_total": 1937346,
-    "messages_scanned_30d": 960181,
-    "noise_filtered_total": 1078449,
-    "noise_filtered_30d": 584664,
-    "lead_sightings_total": 13997,
+    "messages_scanned_total": 1937777,
+    "messages_scanned_30d": 960612,
+    "noise_filtered_total": 1078698,
+    "noise_filtered_30d": 584913,
+    "lead_sightings_total": 14010,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2007,20 +2007,20 @@
       },
       {
         "period": "2026-11-10",
-        "total": 22,
+        "total": 26,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 1,
           "games_bali": 2,
-          "housing_bali": 14,
+          "housing_bali": 18,
           "massage_bali": 1,
           "visa_bali": 2,
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 9,
+          "rent": 11,
           "roommate": 4,
-          "offer": 1
+          "offer": 3
         }
       }
     ],
@@ -2423,13 +2423,13 @@
       },
       {
         "period": "2026-11-09",
-        "total": 169,
+        "total": 173,
         "by_niche": {
           "banya_bali": 1,
           "beauty_bali": 8,
           "bikes_bali": 24,
           "games_bali": 12,
-          "housing_bali": 99,
+          "housing_bali": 103,
           "massage_bali": 3,
           "photo_bali": 3,
           "transfer_bali": 9,
@@ -2437,9 +2437,9 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 47,
+          "rent": 49,
           "roommate": 25,
-          "offer": 27
+          "offer": 29
         },
         "partial": true
       }
@@ -2541,7 +2541,7 @@
       },
       {
         "period": "2026-11",
-        "total": 1009,
+        "total": 1013,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 3,
@@ -2549,7 +2549,7 @@
           "bikes_bali": 164,
           "games_bali": 73,
           "handyman_bali": 15,
-          "housing_bali": 565,
+          "housing_bali": 569,
           "massage_bali": 15,
           "photo_bali": 18,
           "transfer_bali": 53,
@@ -2558,9 +2558,9 @@
           "wedding_bali": 4
         },
         "housing": {
-          "rent": 275,
+          "rent": 277,
           "roommate": 101,
-          "offer": 189
+          "offer": 191
         },
         "partial": true
       }
@@ -2570,11 +2570,11 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 577
+        "count": 579
       },
       {
         "geo": "Улувату",
-        "count": 206
+        "count": 208
       },
       {
         "geo": "Сесех",
@@ -2611,13 +2611,29 @@
     ],
     "geo_unknown": 259,
     "budget_idr": {
-      "n": 798,
+      "n": 800,
       "p25": 9000000,
       "median": 17000000,
       "p75": 27000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-10T09:45",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "budget_m": 20,
+      "text": "Ищу виллу / аппарты Бюджет до 20 млн Чангу, Улувату С 18 нояб по декабрь"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-10T09:45",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "budget_m": 20,
+      "text": "Ищу виллу / аппарты Бюджет до 20 млн Чангу, Улувату С 18 нояб"
+    },
     {
       "niche": "beauty_bali",
       "at": "2026-11-10T08:45",
@@ -2797,27 +2813,15 @@
       "at": "2026-11-09T23:00",
       "geo": "Букит",
       "text": "Посоветуйте район букита где можно с неделю пожить, может какое нить ваше любимое место. Байк есть, но чтоб и пешком было где погулять, кафешки бары варунги в…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-09T22:45",
-      "subtype": "rent",
-      "text": "🏡 Уже забронировали виллу на Бали, но не уверены, что в реальности она выглядит так же, как на фотографиях? Я живу на Бали и могу лично съездить на вашу виллу,…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-09T22:45",
-      "geo": "Букит",
-      "text": "Привет! Есть ли контакт тех, кто может перегнать байк из Букита в Чангу? Нужно завтра утром, сам хочу на машине поехать"
     }
   ],
   "housing_budget_by_geo_90d": [
     {
       "geo": "Чангу",
-      "n": 667,
+      "n": 669,
       "median": 20000000,
       "p25": 10000000,
-      "p75": 28500000
+      "p75": 28000000
     },
     {
       "geo": "Переренан",
@@ -2835,7 +2839,7 @@
     },
     {
       "geo": "Улувату",
-      "n": 210,
+      "n": 212,
       "median": 20000000,
       "p25": 13000000,
       "p75": 30000000
@@ -2991,7 +2995,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 1013,
+    "villa": 1015,
     "house": 51,
     "room": 121,
     "apartment": 38,
@@ -3035,7 +3039,7 @@
         6,
         8,
         19,
-        18,
+        22,
         19,
         36,
         30,
@@ -4140,7 +4144,7 @@
           5,
           6,
           10,
-          12,
+          16,
           10,
           16,
           12,
