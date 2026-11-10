@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T15:26:08.427680+08:00",
-  "all_time_total": 8662,
-  "last_30d_total": 3540,
+  "generated_at": "2026-11-10T16:27:30.804710+08:00",
+  "all_time_total": 8664,
+  "last_30d_total": 3542,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,14 +27,14 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 615,
-      "all_time": 1825
+      "last_30d": 616,
+      "all_time": 1826
     },
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 218,
-      "all_time": 506
+      "last_30d": 219,
+      "all_time": 507
     },
     {
       "niche": "beauty_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1053
+      "total": 1055
     }
   ],
   "system": {
-    "messages_scanned_total": 1942057,
-    "messages_scanned_30d": 964892,
-    "noise_filtered_total": 1081033,
-    "noise_filtered_30d": 587248,
-    "lead_sightings_total": 14074,
+    "messages_scanned_total": 1943555,
+    "messages_scanned_30d": 966390,
+    "noise_filtered_total": 1081927,
+    "noise_filtered_30d": 588142,
+    "lead_sightings_total": 14077,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2007,11 +2007,11 @@
       },
       {
         "period": "2026-11-10",
-        "total": 66,
+        "total": 68,
         "by_niche": {
           "beauty_bali": 2,
-          "bikes_bali": 8,
-          "games_bali": 4,
+          "bikes_bali": 9,
+          "games_bali": 5,
           "housing_bali": 41,
           "massage_bali": 1,
           "transfer_bali": 3,
@@ -2425,12 +2425,12 @@
       },
       {
         "period": "2026-11-09",
-        "total": 213,
+        "total": 215,
         "by_niche": {
           "banya_bali": 1,
           "beauty_bali": 9,
-          "bikes_bali": 31,
-          "games_bali": 14,
+          "bikes_bali": 32,
+          "games_bali": 15,
           "housing_bali": 126,
           "massage_bali": 3,
           "photo_bali": 3,
@@ -2544,13 +2544,13 @@
       },
       {
         "period": "2026-11",
-        "total": 1053,
+        "total": 1055,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 3,
           "beauty_bali": 56,
-          "bikes_bali": 171,
-          "games_bali": 75,
+          "bikes_bali": 172,
+          "games_bali": 76,
           "handyman_bali": 15,
           "housing_bali": 592,
           "massage_bali": 15,
@@ -2621,6 +2621,24 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-10T16:15",
+      "subtype": "rent",
+      "text": "Привет всем Ищу где можно заниматься pole dance 💃 А также потеряла всех кто писал в лс что делает ноготочки на дому 🙏🏼⭐️"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-10T16:00",
+      "geo": "Улувату",
+      "text": "Hello! Looking for adv/nmax pink/violet/green color Rent for 1 month Uluwatu"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-10T15:30",
+      "subtype": "rent",
+      "text": "Ищем помощников на уборку складского помещения, 5500₽ после смены"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-10T15:15",
@@ -2797,23 +2815,6 @@
       "at": "2026-11-10T11:30",
       "subtype": "rent",
       "text": "Всем привет ! 🤍 Ищем виллу с 2 спальнями или готовы подселиться на виллу у кого свободны 2 спальни ( нас 3 человека) Ищем на 1-2 месяца"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-10T11:30",
-      "geo": "Чангу",
-      "budget_m": 2,
-      "text": "Hello! I’m looking for a Yamaha NMAX, Honda ADV, or Honda PCX for long-term rental. 🔴 Color: Red or maroon ONLY 📍 Location: Canggu or nearby 💰 Budget: Around…"
-    },
-    {
-      "niche": "transfer_bali",
-      "at": "2026-11-10T11:15",
-      "text": "Добрый день! Подскажите, пожалуйста, сколько примерно стоит такси от порта Нуса-Пенида до Келингкинг бич и обратно? Есть проблемы с тем, чтобы им…"
-    },
-    {
-      "niche": "visa_bali",
-      "at": "2026-11-10T11:15",
-      "text": "👶 Ребёнок родился на Бали или в другом регионе Индонезии? Рассказываем, какие документы нужно оформить. После рождения малыша важно не только получить…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3046,8 +3047,8 @@
         35,
         40,
         46,
-        39,
-        30,
+        40,
+        31,
         34,
         28,
         40,
@@ -3600,7 +3601,7 @@
           7,
           2,
           14,
-          5,
+          6,
           5,
           5,
           7,
@@ -3783,7 +3784,7 @@
           1,
           3,
           3,
-          3,
+          4,
           2,
           1,
           6,
