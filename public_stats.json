@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T22:35:02.589422+08:00",
-  "all_time_total": 8697,
-  "last_30d_total": 3575,
+  "generated_at": "2026-11-10T23:36:13.474356+08:00",
+  "all_time_total": 8700,
+  "last_30d_total": 3578,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,20 +27,20 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 622,
-      "all_time": 1832
+      "last_30d": 623,
+      "all_time": 1833
     },
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 219,
-      "all_time": 507
+      "last_30d": 220,
+      "all_time": 508
     },
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 211,
-      "all_time": 524
+      "last_30d": 212,
+      "all_time": 525
     },
     {
       "niche": "transfer_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1088
+      "total": 1091
     }
   ],
   "system": {
-    "messages_scanned_total": 1953861,
-    "messages_scanned_30d": 976696,
-    "noise_filtered_total": 1088027,
-    "noise_filtered_30d": 594242,
-    "lead_sightings_total": 14143,
+    "messages_scanned_total": 1955996,
+    "messages_scanned_30d": 978831,
+    "noise_filtered_total": 1089197,
+    "noise_filtered_30d": 595412,
+    "lead_sightings_total": 14146,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 252
@@ -2007,11 +2007,11 @@
       },
       {
         "period": "2026-11-10",
-        "total": 102,
+        "total": 105,
         "by_niche": {
-          "beauty_bali": 4,
-          "bikes_bali": 15,
-          "games_bali": 5,
+          "beauty_bali": 5,
+          "bikes_bali": 16,
+          "games_bali": 6,
           "housing_bali": 63,
           "massage_bali": 1,
           "transfer_bali": 5,
@@ -2425,12 +2425,12 @@
       },
       {
         "period": "2026-11-09",
-        "total": 248,
+        "total": 251,
         "by_niche": {
           "banya_bali": 1,
-          "beauty_bali": 11,
-          "bikes_bali": 38,
-          "games_bali": 15,
+          "beauty_bali": 12,
+          "bikes_bali": 39,
+          "games_bali": 16,
           "housing_bali": 147,
           "massage_bali": 3,
           "photo_bali": 3,
@@ -2544,13 +2544,13 @@
       },
       {
         "period": "2026-11",
-        "total": 1088,
+        "total": 1091,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 3,
-          "beauty_bali": 58,
-          "bikes_bali": 178,
-          "games_bali": 76,
+          "beauty_bali": 59,
+          "bikes_bali": 179,
+          "games_bali": 77,
           "handyman_bali": 15,
           "housing_bali": 613,
           "massage_bali": 15,
@@ -2621,6 +2621,24 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-10T22:30",
+      "text": "Подскажите среднюю стоимость аренды pcx и Nmax новых на месяц ?"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-10T22:30",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "text": "Чангу , нужен барбер , который сможет сегодня приехать домой и подстричь только ножницами 🙏"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-10T22:30",
+      "geo": "Кута",
+      "text": "Ищу косметолога кто сможет уколоть мой препарат, Кута/Чангу/ Семиньяк"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-10T22:00",
@@ -2791,26 +2809,6 @@
       "at": "2026-11-10T17:30",
       "subtype": "rent",
       "text": "Здравствуйте ищу человека который будет сидеть и дома копировать и рассылать файлы по электронной почте времени занимает 10 мин в день , за услугу 4000р за 10…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-10T17:30",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "budget_m": 30,
-      "text": "Ищу виллу, Чангу/Сесех, с 15 ноября на 3-4 месяца, бюджет 30 мил. Новый ремонт."
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-10T17:30",
-      "text": "А подскажите пожалуйста, как быть с правами на байк, если лечу на две неделе? Как-то стоит получать местные? В России категория А не открыта"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-10T16:45",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "text": "Ребят виллу бы хотели на пару недель на Чангу подскажите варианты пожалуйста"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3050,8 +3048,8 @@
         44,
         30,
         30,
-        20,
-        17
+        22,
+        18
       ],
       [
         16,
@@ -3419,7 +3417,7 @@
           1,
           0,
           0,
-          1,
+          2,
           0
         ],
         [
@@ -3603,7 +3601,7 @@
           8,
           6,
           6,
-          5,
+          6,
           1
         ],
         [
@@ -3788,7 +3786,7 @@
           2,
           0,
           2,
-          2
+          3
         ],
         [
           2,
