@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T07:16:19.138197+08:00",
+  "generated_at": "2026-11-10T08:17:27.867378+08:00",
   "all_time_total": 8616,
   "last_30d_total": 3494,
   "by_niche": [
@@ -130,10 +130,10 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 1936636,
-    "messages_scanned_30d": 959471,
-    "noise_filtered_total": 1078057,
-    "noise_filtered_30d": 584272,
+    "messages_scanned_total": 1936968,
+    "messages_scanned_30d": 959803,
+    "noise_filtered_total": 1078240,
+    "noise_filtered_30d": 584455,
     "lead_sightings_total": 13989,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
@@ -2619,6 +2619,13 @@
   "ticker": [
     {
       "niche": "housing_bali",
+      "at": "2026-11-10T07:45",
+      "subtype": "roommate",
+      "geo": "Убуд",
+      "text": "Доброе утро! Подскажите пожалуйста хорошую недорогую вет клинику в районе Убуда. У наших соседей пес, мы с ним подружились, ему перебили байком лапу. Если мы…"
+    },
+    {
+      "niche": "housing_bali",
       "at": "2026-11-10T05:00",
       "subtype": "rent",
       "geo": "Улувату",
@@ -2799,13 +2806,6 @@
       "niche": "bikes_bali",
       "at": "2026-11-09T22:30",
       "text": "hi, need white filano for a 6 month monthly, 2026 plz"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-09T22:30",
-      "subtype": "rent",
-      "budget_m": 9,
-      "text": "Ищем жилье. Нас двое. На месяц. . Бюджет до 9 млн. Вариант перевода на карту в рублях. Если есть такие пишите в личку. Спасибо"
     }
   ],
   "housing_budget_by_geo_90d": [
