@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-12T03:09:31.182236+08:00",
-  "all_time_total": 8837,
-  "last_30d_total": 3481,
+  "generated_at": "2026-11-12T04:10:45.496288+08:00",
+  "all_time_total": 8839,
+  "last_30d_total": 3483,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -33,8 +33,8 @@
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 214,
-      "all_time": 518
+      "last_30d": 215,
+      "all_time": 519
     },
     {
       "niche": "beauty_bali",
@@ -45,8 +45,8 @@
     {
       "niche": "transfer_bali",
       "label": "🚗 Трансфер",
-      "last_30d": 170,
-      "all_time": 538
+      "last_30d": 171,
+      "all_time": 539
     },
     {
       "niche": "visa_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1228
+      "total": 1230
     }
   ],
   "system": {
-    "messages_scanned_total": 1991377,
-    "messages_scanned_30d": 943841,
-    "noise_filtered_total": 1110779,
-    "noise_filtered_30d": 573414,
-    "lead_sightings_total": 14368,
+    "messages_scanned_total": 1992511,
+    "messages_scanned_30d": 944975,
+    "noise_filtered_total": 1111494,
+    "noise_filtered_30d": 574129,
+    "lead_sightings_total": 14370,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2016,10 +2016,12 @@
       },
       {
         "period": "2026-11-12",
-        "total": 9,
+        "total": 11,
         "by_niche": {
           "bikes_bali": 1,
-          "housing_bali": 8
+          "games_bali": 1,
+          "housing_bali": 8,
+          "transfer_bali": 1
         },
         "housing": {
           "rent": 3,
@@ -2427,18 +2429,18 @@
       },
       {
         "period": "2026-11-09",
-        "total": 389,
+        "total": 391,
         "by_niche": {
           "auto_bali": 3,
           "banya_bali": 1,
           "beauty_bali": 19,
           "bikes_bali": 57,
-          "games_bali": 26,
+          "games_bali": 27,
           "handyman_bali": 4,
           "housing_bali": 226,
           "massage_bali": 8,
           "photo_bali": 3,
-          "transfer_bali": 22,
+          "transfer_bali": 23,
           "video_bali": 2,
           "visa_bali": 16,
           "wedding_bali": 2
@@ -2548,18 +2550,18 @@
       },
       {
         "period": "2026-11",
-        "total": 1228,
+        "total": 1230,
         "by_niche": {
           "auto_bali": 19,
           "banya_bali": 3,
           "beauty_bali": 66,
           "bikes_bali": 197,
-          "games_bali": 87,
+          "games_bali": 88,
           "handyman_bali": 19,
           "housing_bali": 691,
           "massage_bali": 20,
           "photo_bali": 18,
-          "transfer_bali": 66,
+          "transfer_bali": 67,
           "video_bali": 8,
           "visa_bali": 29,
           "wedding_bali": 5
@@ -2625,6 +2627,30 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-12T04:00",
+      "subtype": "rent",
+      "text": "Есть пакет с мелкими вещами из сервиса, надо заехать забрать и привезти обратно. Такси за мой счет. Скину 3000|На точке стоят поддоны с водой, нужно перекинуть…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-12T03:45",
+      "subtype": "rent",
+      "text": "🚨Кто спрашивал про аpбитраж? Сейчас идёт набoр в закpытую тиму. Удaлёнка, гибкий грaфик 🎯500–900 бакcoв за недeлю (зависит от включённости, а не «удачи») Oпыт…"
+    },
+    {
+      "niche": "transfer_bali",
+      "at": "2026-11-12T03:45",
+      "geo": "Убуд",
+      "text": "Подскажите, трансфер из аэропорта до убуд где заказать подешевле, на 6 человек и багаж 6 чемоданов)"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-12T03:30",
+      "subtype": "rent",
+      "text": "Думал снять отель Остаться"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-12T03:00",
@@ -2791,29 +2817,6 @@
       "geo": "Кута",
       "budget_m": 2,
       "text": "Ищем попутчицу в поездку на Батур с ночевкой. Выезжаем в воскресенье(кута, семиньяк), маршрут: keramas beach, sidemen, amed beach, lahangan sweet,…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-11T19:15",
-      "subtype": "rent",
-      "text": "Добрый вечер. Подскажите какими способами можно оплатить в Airbnb жилье, если нет зарубежной карты?"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-11T19:15",
-      "geo": "Улувату",
-      "text": "Looking for an NMAX. Monthly rental. Delivery to Uluwatu."
-    },
-    {
-      "niche": "auto_bali",
-      "at": "2026-11-11T19:15",
-      "text": "Hello. I want to rent a car for one day, tomorrow, automatically."
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-11T19:00",
-      "subtype": "rent",
-      "text": "Ищем людей для написания отзывов магазинам, платим 750 рублей за каждый отзыв, оплата моментальная"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3086,7 +3089,7 @@
         21,
         13,
         11,
-        7,
+        9,
         4,
         1,
         0,
@@ -3823,7 +3826,7 @@
           0,
           0,
           0,
-          0,
+          1,
           1,
           0,
           0,
@@ -4559,7 +4562,7 @@
           0,
           0,
           2,
-          1,
+          2,
           0,
           0,
           0,
