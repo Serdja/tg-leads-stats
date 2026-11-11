@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-11T09:48:00.721334+08:00",
-  "all_time_total": 8724,
-  "last_30d_total": 3502,
+  "generated_at": "2026-11-11T10:49:16.122813+08:00",
+  "all_time_total": 8726,
+  "last_30d_total": 3504,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -39,8 +39,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 204,
-      "all_time": 527
+      "last_30d": 205,
+      "all_time": 528
     },
     {
       "niche": "transfer_bali",
@@ -75,8 +75,8 @@
     {
       "niche": "massage_bali",
       "label": "💆 Массаж",
-      "last_30d": 44,
-      "all_time": 198
+      "last_30d": 45,
+      "all_time": 199
     },
     {
       "niche": "video_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1115
+      "total": 1117
     }
   ],
   "system": {
-    "messages_scanned_total": 1961112,
-    "messages_scanned_30d": 949943,
-    "noise_filtered_total": 1092056,
-    "noise_filtered_30d": 577577,
-    "lead_sightings_total": 14186,
+    "messages_scanned_total": 1961806,
+    "messages_scanned_30d": 950637,
+    "noise_filtered_total": 1092321,
+    "noise_filtered_30d": 577842,
+    "lead_sightings_total": 14196,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2010,12 +2010,13 @@
       },
       {
         "period": "2026-11-11",
-        "total": 22,
+        "total": 24,
         "by_niche": {
-          "beauty_bali": 1,
+          "beauty_bali": 2,
           "bikes_bali": 2,
           "games_bali": 2,
           "housing_bali": 13,
+          "massage_bali": 1,
           "transfer_bali": 3,
           "wedding_bali": 1
         },
@@ -2425,14 +2426,14 @@
       },
       {
         "period": "2026-11-09",
-        "total": 275,
+        "total": 277,
         "by_niche": {
           "banya_bali": 1,
-          "beauty_bali": 14,
+          "beauty_bali": 15,
           "bikes_bali": 41,
           "games_bali": 18,
           "housing_bali": 160,
-          "massage_bali": 3,
+          "massage_bali": 4,
           "photo_bali": 3,
           "transfer_bali": 17,
           "video_bali": 1,
@@ -2544,16 +2545,16 @@
       },
       {
         "period": "2026-11",
-        "total": 1115,
+        "total": 1117,
         "by_niche": {
           "auto_bali": 16,
           "banya_bali": 3,
-          "beauty_bali": 61,
+          "beauty_bali": 62,
           "bikes_bali": 181,
           "games_bali": 79,
           "handyman_bali": 15,
           "housing_bali": 626,
-          "massage_bali": 15,
+          "massage_bali": 16,
           "photo_bali": 18,
           "transfer_bali": 61,
           "video_bali": 7,
@@ -2621,6 +2622,16 @@
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-11T10:30",
+      "text": "Нужен косметолог на Бали!"
+    },
+    {
+      "niche": "massage_bali",
+      "at": "2026-11-11T09:45",
+      "text": "Здравствуйте , подскажите может на Бали есть хороший специалист по правке живота , массаж ?"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-11T09:45",
@@ -2800,20 +2811,6 @@
       "geo": "Чангу",
       "budget_m": 27,
       "text": "ищу виллу 2 спальни (или 1 спальня и 1 офис), 2 этажа (комнаты на 2 этаже), светлая, просторная, бассейн не приоритет, кухня закрытая цена: 20-27 млн в месяц…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-10T20:45",
-      "subtype": "rent",
-      "geo": "Улувату",
-      "text": "Привет! В поисках виллы на месяц с 15 ноября по 15 декабря. Районы: Улувату, Чангу и что-то между ними тоже подойдет Нужны 3 спальни для трех девушек Чтобы…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-10T20:00",
-      "subtype": "rent",
-      "geo": "Умалас",
-      "text": "Ищу виллу ухоженную район тюрьмы ,умалас. 2 спальни"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3066,8 +3063,8 @@
         10,
         16,
         22,
-        25,
-        27,
+        26,
+        28,
         35,
         37,
         44,
@@ -3436,7 +3433,7 @@
           1,
           0,
           0,
-          0,
+          1,
           0,
           5,
           2,
