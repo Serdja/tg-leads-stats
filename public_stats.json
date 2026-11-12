@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-13T06:42:28.038176+08:00",
-  "all_time_total": 8933,
-  "last_30d_total": 3428,
+  "generated_at": "2026-11-13T07:43:39.264066+08:00",
+  "all_time_total": 8936,
+  "last_30d_total": 3431,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1908,
-      "all_time": 4181,
+      "last_30d": 1909,
+      "all_time": 4182,
       "subtypes": {
         "rent": {
           "last_30d": 1058,
@@ -19,16 +19,16 @@
           "all_time": 699
         },
         "offer": {
-          "last_30d": 576,
-          "all_time": 1340
+          "last_30d": 577,
+          "all_time": 1341
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 595,
-      "all_time": 1869
+      "last_30d": 597,
+      "all_time": 1871
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1324
+      "total": 1327
     }
   ],
   "system": {
-    "messages_scanned_total": 2010835,
-    "messages_scanned_30d": 928208,
-    "noise_filtered_total": 1122292,
-    "noise_filtered_30d": 563015,
-    "lead_sightings_total": 14516,
+    "messages_scanned_total": 2011283,
+    "messages_scanned_30d": 928656,
+    "noise_filtered_total": 1122504,
+    "noise_filtered_30d": 563227,
+    "lead_sightings_total": 14521,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2019,18 +2019,18 @@
       },
       {
         "period": "2026-11-13",
-        "total": 15,
+        "total": 18,
         "by_niche": {
-          "bikes_bali": 1,
+          "bikes_bali": 3,
           "games_bali": 1,
-          "housing_bali": 11,
+          "housing_bali": 12,
           "transfer_bali": 1,
           "wedding_bali": 1
         },
         "housing": {
           "rent": 8,
           "roommate": 3,
-          "offer": 0
+          "offer": 1
         }
       }
     ],
@@ -2433,15 +2433,15 @@
       },
       {
         "period": "2026-11-09",
-        "total": 485,
+        "total": 488,
         "by_niche": {
           "auto_bali": 4,
           "banya_bali": 1,
           "beauty_bali": 23,
-          "bikes_bali": 75,
+          "bikes_bali": 77,
           "games_bali": 34,
           "handyman_bali": 4,
-          "housing_bali": 280,
+          "housing_bali": 281,
           "massage_bali": 8,
           "photo_bali": 6,
           "transfer_bali": 27,
@@ -2452,7 +2452,7 @@
         "housing": {
           "rent": 146,
           "roommate": 49,
-          "offer": 85
+          "offer": 86
         },
         "partial": true
       }
@@ -2554,15 +2554,15 @@
       },
       {
         "period": "2026-11",
-        "total": 1324,
+        "total": 1327,
         "by_niche": {
           "auto_bali": 20,
           "banya_bali": 3,
           "beauty_bali": 70,
-          "bikes_bali": 215,
+          "bikes_bali": 217,
           "games_bali": 95,
           "handyman_bali": 19,
-          "housing_bali": 745,
+          "housing_bali": 746,
           "massage_bali": 20,
           "photo_bali": 21,
           "transfer_bali": 71,
@@ -2573,7 +2573,7 @@
         "housing": {
           "rent": 374,
           "roommate": 125,
-          "offer": 246
+          "offer": 247
         },
         "partial": true
       }
@@ -2631,6 +2631,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-13T07:00",
+      "text": "Нужна аренда байк filano ! Кидайте в личку варианты 🫶🏼 Желательно у локалов"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-13T06:15",
@@ -2823,14 +2828,6 @@
       "subtype": "rent",
       "budget_m": 20,
       "text": "Привет! Ищем жилье на 1 или 2 месяца с 14 декабря. Нас двое (я и муж) Обязательно: отдельная кухня, не больше 15 минут на байке до пляжа, без строек, без…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-12T22:00",
-      "subtype": "roommate",
-      "geo": "Переренан",
-      "budget_m": 20,
-      "text": "Ищем соседей на просторную люкс виллу(всего 2 комнаты, мы с женой в одной из них) Переренан 2 минуты до [имя] вид на рисовые поля, тишина, рабочее место в…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3133,7 +3130,7 @@
         8,
         1,
         2,
-        8,
+        11,
         7,
         14,
         26,
@@ -3686,7 +3683,7 @@
           0,
           0,
           0,
-          2,
+          4,
           3,
           3,
           5,
@@ -4238,7 +4235,7 @@
           6,
           1,
           2,
-          2,
+          3,
           4,
           7,
           12,
