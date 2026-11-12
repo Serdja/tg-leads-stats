@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-13T00:35:07.138571+08:00",
-  "all_time_total": 8918,
-  "last_30d_total": 3413,
+  "generated_at": "2026-11-13T01:36:21.402784+08:00",
+  "all_time_total": 8923,
+  "last_30d_total": 3418,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1897,
-      "all_time": 4170,
+      "last_30d": 1900,
+      "all_time": 4173,
       "subtypes": {
         "rent": {
-          "last_30d": 1050,
-          "all_time": 2134
+          "last_30d": 1053,
+          "all_time": 2137
         },
         "roommate": {
           "last_30d": 271,
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 594,
-      "all_time": 1868
+      "last_30d": 595,
+      "all_time": 1869
     },
     {
       "niche": "games_bali",
@@ -87,8 +87,8 @@
     {
       "niche": "wedding_bali",
       "label": "💍 Свадьбы",
-      "last_30d": 12,
-      "all_time": 49
+      "last_30d": 13,
+      "all_time": 50
     },
     {
       "niche": "banya_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1309
+      "total": 1314
     }
   ],
   "system": {
-    "messages_scanned_total": 2003341,
-    "messages_scanned_30d": 920714,
-    "noise_filtered_total": 1117607,
-    "noise_filtered_30d": 558330,
-    "lead_sightings_total": 14497,
+    "messages_scanned_total": 2005441,
+    "messages_scanned_30d": 922814,
+    "noise_filtered_total": 1118845,
+    "noise_filtered_30d": 559568,
+    "lead_sightings_total": 14503,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2019,10 +2019,14 @@
       },
       {
         "period": "2026-11-13",
-        "total": 0,
-        "by_niche": {},
+        "total": 5,
+        "by_niche": {
+          "bikes_bali": 1,
+          "housing_bali": 3,
+          "wedding_bali": 1
+        },
         "housing": {
-          "rent": 0,
+          "rent": 3,
           "roommate": 0,
           "offer": 0
         }
@@ -2427,24 +2431,24 @@
       },
       {
         "period": "2026-11-09",
-        "total": 470,
+        "total": 475,
         "by_niche": {
           "auto_bali": 4,
           "banya_bali": 1,
           "beauty_bali": 23,
-          "bikes_bali": 74,
+          "bikes_bali": 75,
           "games_bali": 33,
           "handyman_bali": 4,
-          "housing_bali": 269,
+          "housing_bali": 272,
           "massage_bali": 8,
           "photo_bali": 6,
           "transfer_bali": 26,
           "video_bali": 2,
           "visa_bali": 17,
-          "wedding_bali": 3
+          "wedding_bali": 4
         },
         "housing": {
-          "rent": 138,
+          "rent": 141,
           "roommate": 46,
           "offer": 85
         },
@@ -2548,24 +2552,24 @@
       },
       {
         "period": "2026-11",
-        "total": 1309,
+        "total": 1314,
         "by_niche": {
           "auto_bali": 20,
           "banya_bali": 3,
           "beauty_bali": 70,
-          "bikes_bali": 214,
+          "bikes_bali": 215,
           "games_bali": 94,
           "handyman_bali": 19,
-          "housing_bali": 734,
+          "housing_bali": 737,
           "massage_bali": 20,
           "photo_bali": 21,
           "transfer_bali": 70,
           "video_bali": 8,
           "visa_bali": 30,
-          "wedding_bali": 6
+          "wedding_bali": 7
         },
         "housing": {
-          "rent": 366,
+          "rent": 369,
           "roommate": 122,
           "offer": 246
         },
@@ -2577,7 +2581,7 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 557
+        "count": 558
       },
       {
         "geo": "Улувату",
@@ -2597,7 +2601,7 @@
       },
       {
         "geo": "Букит",
-        "count": 146
+        "count": 147
       },
       {
         "geo": "Семиньяк",
@@ -2616,7 +2620,7 @@
         "count": 52
       }
     ],
-    "geo_unknown": 260,
+    "geo_unknown": 261,
     "budget_idr": {
       "n": 785,
       "p25": 10000000,
@@ -2625,6 +2629,32 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-13T01:15",
+      "subtype": "rent",
+      "geo": "Букит",
+      "text": "Здравствуйте, ищем жильё с 15.11 по 18.12 (Букит), желательно со своей небольшой кухней"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-13T01:00",
+      "budget_m": 30,
+      "text": "Всем привет! Ищу байк для покупки Желательно adv или аналог. До 30 млн"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-13T01:00",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "text": "Здравствуйте, ищу 2br виллу в Чангу с 30 ноября по 10 декабря, если есть варианты кидайте в лс"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-13T00:45",
+      "subtype": "rent",
+      "text": "Ищу жилье с 22 ноября по 8 декабря, рассмотрю все варианты )"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-13T00:00",
@@ -2805,29 +2835,6 @@
       "geo": "Убуд",
       "budget_m": 17,
       "text": "Всем привет! Ищу жилье на 1 чел . Хочется чтобы жилье было недалеко от центральной части района (готов рассмотреть убуд/чангу/куту/букит/сукавати/улувату и…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-12T22:00",
-      "subtype": "rent",
-      "text": "Кто сможет выручить с перестановкой в квартире? хочу передвинуть шкаф, диван и пару кресел. Вдвоем будет гораздо проще. 4000 наличными."
-    },
-    {
-      "niche": "visa_bali",
-      "at": "2026-11-12T22:00",
-      "text": "Есть виза B1 - хотим оформить C1 , нужно делать визаран ? По другому не оформить верно ? И куда можно вылететь не дорого ?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-12T22:00",
-      "subtype": "rent",
-      "text": "🌴 Собираетесь на Бали? Проверьте, всё ли вы подготовили к поездке! Билеты куплены, отель забронирован, чемодан почти собран. Но есть еще несколько важных…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-12T22:00",
-      "subtype": "rent",
-      "text": "И подскажите еще пожалуйста, нужны ли бумаги на то что ты оформил какое-то жилье?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3010,11 +3017,11 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 991,
+    "villa": 992,
     "house": 49,
     "room": 110,
     "apartment": 43,
-    "unknown": 128
+    "unknown": 130
   },
   "activity_30d": {
     "all": [
@@ -3123,8 +3130,8 @@
         18
       ],
       [
-        18,
-        11,
+        20,
+        14,
         7,
         4,
         5,
@@ -3677,7 +3684,7 @@
         ],
         [
           3,
-          2,
+          3,
           3,
           1,
           0,
@@ -4228,8 +4235,8 @@
           9
         ],
         [
+          10,
           9,
-          7,
           4,
           2,
           4,
