@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-14T02:07:43.507233+08:00",
-  "all_time_total": 9061,
-  "last_30d_total": 3312,
+  "generated_at": "2026-11-14T03:08:56.549535+08:00",
+  "all_time_total": 9062,
+  "last_30d_total": 3313,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1804,
-      "all_time": 4246,
+      "last_30d": 1805,
+      "all_time": 4247,
       "subtypes": {
         "rent": {
           "last_30d": 948,
           "all_time": 2165
         },
         "roommate": {
-          "last_30d": 275,
-          "all_time": 711
+          "last_30d": 276,
+          "all_time": 712
         },
         "offer": {
           "last_30d": 581,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1452
+      "total": 1453
     }
   ],
   "system": {
-    "messages_scanned_total": 2040191,
-    "messages_scanned_30d": 926514,
-    "noise_filtered_total": 1140783,
-    "noise_filtered_30d": 563202,
-    "lead_sightings_total": 14729,
+    "messages_scanned_total": 2041732,
+    "messages_scanned_30d": 928055,
+    "noise_filtered_total": 1141849,
+    "noise_filtered_30d": 564268,
+    "lead_sightings_total": 14732,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2026,14 +2026,14 @@
       },
       {
         "period": "2026-11-14",
-        "total": 5,
+        "total": 6,
         "by_niche": {
           "beauty_bali": 1,
-          "housing_bali": 4
+          "housing_bali": 5
         },
         "housing": {
           "rent": 2,
-          "roommate": 1,
+          "roommate": 2,
           "offer": 1
         }
       }
@@ -2437,7 +2437,7 @@
       },
       {
         "period": "2026-11-09",
-        "total": 613,
+        "total": 614,
         "by_niche": {
           "auto_bali": 5,
           "banya_bali": 1,
@@ -2445,7 +2445,7 @@
           "bikes_bali": 108,
           "games_bali": 37,
           "handyman_bali": 5,
-          "housing_bali": 345,
+          "housing_bali": 346,
           "massage_bali": 11,
           "photo_bali": 7,
           "transfer_bali": 33,
@@ -2455,7 +2455,7 @@
         },
         "housing": {
           "rent": 169,
-          "roommate": 61,
+          "roommate": 62,
           "offer": 115
         },
         "partial": true
@@ -2558,7 +2558,7 @@
       },
       {
         "period": "2026-11",
-        "total": 1452,
+        "total": 1453,
         "by_niche": {
           "auto_bali": 21,
           "banya_bali": 3,
@@ -2566,7 +2566,7 @@
           "bikes_bali": 248,
           "games_bali": 98,
           "handyman_bali": 20,
-          "housing_bali": 810,
+          "housing_bali": 811,
           "massage_bali": 23,
           "photo_bali": 22,
           "transfer_bali": 77,
@@ -2576,7 +2576,7 @@
         },
         "housing": {
           "rent": 397,
-          "roommate": 137,
+          "roommate": 138,
           "offer": 276
         },
         "partial": true
@@ -2591,7 +2591,7 @@
       },
       {
         "geo": "Сесех",
-        "count": 178
+        "count": 179
       },
       {
         "geo": "Улувату",
@@ -2628,13 +2628,21 @@
     ],
     "geo_unknown": 266,
     "budget_idr": {
-      "n": 682,
-      "p25": 9150000,
+      "n": 683,
+      "p25": 9300000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-14T02:00",
+      "subtype": "roommate",
+      "geo": "Сесех",
+      "budget_m": 15,
+      "text": "Ищу с мужем комнату на вилле в Сесехе Хотелось бы свежий ремонт, закрытую кухню, без плесени Бюджет до 15 млн в месяц Готовы заехать сейчас или позже В лс…"
+    },
     {
       "niche": "beauty_bali",
       "at": "2026-11-14T01:30",
@@ -2811,12 +2819,6 @@
       "at": "2026-11-13T17:45",
       "geo": "Улувату",
       "text": "Подскажите, что делать. Пробил колесо на скутере в районе улувату. Первый раз такая ситуация"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-13T17:45",
-      "geo": "Улувату",
-      "text": "Подскажите что делать, пробил колесо на скутере в улувату. Первый раз такая ситуация Железка в колесе пока что 😄"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2836,7 +2838,7 @@
     },
     {
       "geo": "Сесех",
-      "n": 229,
+      "n": 230,
       "median": 15000000,
       "p25": 10000000,
       "p75": 25000000
@@ -2999,7 +3001,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 886,
+    "villa": 887,
     "house": 52,
     "room": 110,
     "apartment": 42,
@@ -3140,7 +3142,7 @@
       [
         15,
         7,
-        8,
+        9,
         9,
         6,
         4,
@@ -4245,7 +4247,7 @@
         [
           6,
           4,
-          4,
+          5,
           6,
           3,
           1,
