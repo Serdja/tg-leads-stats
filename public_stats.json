@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-14T06:12:46.477596+08:00",
-  "all_time_total": 9066,
-  "last_30d_total": 3317,
+  "generated_at": "2026-11-14T08:15:54.955904+08:00",
+  "all_time_total": 9067,
+  "last_30d_total": 3318,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 591,
-      "all_time": 1903
+      "last_30d": 592,
+      "all_time": 1904
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1457
+      "total": 1458
     }
   ],
   "system": {
-    "messages_scanned_total": 2045284,
-    "messages_scanned_30d": 931607,
-    "noise_filtered_total": 1144350,
-    "noise_filtered_30d": 566769,
-    "lead_sightings_total": 14736,
+    "messages_scanned_total": 2046163,
+    "messages_scanned_30d": 932486,
+    "noise_filtered_total": 1144845,
+    "noise_filtered_30d": 567264,
+    "lead_sightings_total": 14738,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2026,10 +2026,10 @@
       },
       {
         "period": "2026-11-14",
-        "total": 10,
+        "total": 11,
         "by_niche": {
           "beauty_bali": 1,
-          "bikes_bali": 1,
+          "bikes_bali": 2,
           "housing_bali": 7,
           "visa_bali": 1
         },
@@ -2439,12 +2439,12 @@
       },
       {
         "period": "2026-11-09",
-        "total": 618,
+        "total": 619,
         "by_niche": {
           "auto_bali": 5,
           "banya_bali": 1,
           "beauty_bali": 30,
-          "bikes_bali": 109,
+          "bikes_bali": 110,
           "games_bali": 37,
           "handyman_bali": 5,
           "housing_bali": 348,
@@ -2560,12 +2560,12 @@
       },
       {
         "period": "2026-11",
-        "total": 1457,
+        "total": 1458,
         "by_niche": {
           "auto_bali": 21,
           "banya_bali": 3,
           "beauty_bali": 77,
-          "bikes_bali": 249,
+          "bikes_bali": 250,
           "games_bali": 98,
           "handyman_bali": 20,
           "housing_bali": 813,
@@ -3149,7 +3149,7 @@
         10,
         9,
         4,
-        2,
+        3,
         4,
         7,
         15,
@@ -3702,7 +3702,7 @@
           1,
           1,
           2,
-          0,
+          1,
           2,
           1,
           1,
