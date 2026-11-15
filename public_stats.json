@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T03:34:02.516058+08:00",
-  "all_time_total": 9213,
-  "last_30d_total": 3197,
+  "generated_at": "2026-11-16T04:35:17.595375+08:00",
+  "all_time_total": 9215,
+  "last_30d_total": 3199,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1751,
-      "all_time": 4321,
+      "last_30d": 1753,
+      "all_time": 4323,
       "subtypes": {
         "rent": {
-          "last_30d": 915,
-          "all_time": 2204
+          "last_30d": 917,
+          "all_time": 2206
         },
         "roommate": {
           "last_30d": 259,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1604
+      "total": 1606
     }
   ],
   "system": {
-    "messages_scanned_total": 2073461,
-    "messages_scanned_30d": 899160,
-    "noise_filtered_total": 1161101,
-    "noise_filtered_30d": 548376,
-    "lead_sightings_total": 14962,
+    "messages_scanned_total": 2074668,
+    "messages_scanned_30d": 900367,
+    "noise_filtered_total": 1161901,
+    "noise_filtered_30d": 549176,
+    "lead_sightings_total": 14964,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2027,15 +2027,15 @@
       },
       {
         "period": "2026-11-16",
-        "total": 11,
+        "total": 13,
         "by_niche": {
           "bikes_bali": 2,
-          "housing_bali": 7,
+          "housing_bali": 9,
           "photo_bali": 1,
           "video_bali": 1
         },
         "housing": {
-          "rent": 5,
+          "rent": 7,
           "roommate": 0,
           "offer": 2
         }
@@ -2465,15 +2465,15 @@
       },
       {
         "period": "2026-11-16",
-        "total": 11,
+        "total": 13,
         "by_niche": {
           "bikes_bali": 2,
-          "housing_bali": 7,
+          "housing_bali": 9,
           "photo_bali": 1,
           "video_bali": 1
         },
         "housing": {
-          "rent": 5,
+          "rent": 7,
           "roommate": 0,
           "offer": 2
         },
@@ -2577,7 +2577,7 @@
       },
       {
         "period": "2026-11",
-        "total": 1604,
+        "total": 1606,
         "by_niche": {
           "auto_bali": 23,
           "banya_bali": 4,
@@ -2585,7 +2585,7 @@
           "bikes_bali": 276,
           "games_bali": 113,
           "handyman_bali": 21,
-          "housing_bali": 885,
+          "housing_bali": 887,
           "massage_bali": 29,
           "photo_bali": 23,
           "transfer_bali": 83,
@@ -2594,7 +2594,7 @@
           "wedding_bali": 9
         },
         "housing": {
-          "rent": 436,
+          "rent": 438,
           "roommate": 147,
           "offer": 302
         },
@@ -2618,11 +2618,11 @@
       },
       {
         "geo": "Букит",
-        "count": 137
+        "count": 138
       },
       {
         "geo": "Убуд",
-        "count": 129
+        "count": 130
       },
       {
         "geo": "Переренан",
@@ -2641,19 +2641,34 @@
         "count": 46
       },
       {
-        "geo": "Семиньяк",
+        "geo": "Санур",
         "count": 36
       }
     ],
     "geo_unknown": 257,
     "budget_idr": {
-      "n": 656,
+      "n": 657,
       "p25": 9600000,
       "median": 15000000,
       "p75": 26000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-16T04:15",
+      "subtype": "rent",
+      "geo": "Санур",
+      "budget_m": 56,
+      "text": "Всем привет ! ищем жилье в период с 10 декабря по 10 января, в идеале вилла с бассейном , от 2х спален Бюджет 3500$ Районы: Санур, Нуса-Дуа, Убуд — рассмотрим…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-16T04:15",
+      "subtype": "rent",
+      "geo": "Букит",
+      "text": "Всем привет! Ищу жилье, гест или виллу на две-три недели. С завтрашнего дня желательно. На троих человек. Рассмотрю районы Букита. Очень буду благодарен за…"
+    },
     {
       "niche": "photo_bali",
       "at": "2026-11-16T02:45",
@@ -2838,16 +2853,6 @@
       "subtype": "rent",
       "budget_m": 50,
       "text": "Здравствуй. Мне нужен помощник по логистике, срочно. Ничего сложного, задачи от \"работы в телефоне\" до непосредственного участия в рейсах по регионах . То…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-15T19:30",
-      "text": "Hi! I'm looking for a new (fresh) NMAX"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-11-15T19:15",
-      "text": "А если вы покупатель 12 шт раков, значит нужно снимать видео отчёт с листиком с вашим именем и датой?) уважаемые, можно же глянуть отзывы в любых предложениях.…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2888,9 +2893,9 @@
     },
     {
       "geo": "Убуд",
-      "n": 172,
+      "n": 173,
       "median": 15000000,
-      "p25": 8375000,
+      "p25": 8500000,
       "p75": 24000000
     },
     {
@@ -2951,10 +2956,10 @@
     },
     {
       "geo": "Санур",
-      "n": 43,
-      "median": 14000000,
-      "p25": 9500000,
-      "p75": 23500000
+      "n": 44,
+      "median": 14500000,
+      "p25": 9750000,
+      "p75": 25250000
     },
     {
       "geo": "Кута",
@@ -3030,7 +3035,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 854,
+    "villa": 856,
     "house": 52,
     "room": 101,
     "apartment": 41,
@@ -3043,7 +3048,7 @@
         9,
         11,
         6,
-        8,
+        10,
         0,
         2,
         6,
@@ -3964,7 +3969,7 @@
           7,
           5,
           4,
-          5,
+          7,
           0,
           0,
           2,
