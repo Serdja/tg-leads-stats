@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T05:06:59.344261+08:00",
+  "generated_at": "2026-11-17T06:08:15.817442+08:00",
   "all_time_total": 9380,
   "last_30d_total": 3270,
   "by_niche": [
@@ -130,10 +130,10 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 2107876,
-    "messages_scanned_30d": 902085,
-    "noise_filtered_total": 1182966,
-    "noise_filtered_30d": 550950,
+    "messages_scanned_total": 2109385,
+    "messages_scanned_30d": 903594,
+    "noise_filtered_total": 1184211,
+    "noise_filtered_30d": 552195,
     "lead_sightings_total": 15248,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
@@ -2663,6 +2663,12 @@
   "ticker": [
     {
       "niche": "housing_bali",
+      "at": "2026-11-17T05:15",
+      "subtype": "roommate",
+      "text": "Всем хай, ищу компанию с кем можно с середины декабря до конца февраля (примерно) пошерить виллу. Я +1"
+    },
+    {
+      "niche": "housing_bali",
       "at": "2026-11-17T05:00",
       "subtype": "rent",
       "geo": "Чангу",
@@ -2853,13 +2859,6 @@
       "niche": "handyman_bali",
       "at": "2026-11-16T21:15",
       "text": "Добрый день, вчера в квартире сделали ремонт, нужно 3-4 человека которые помогут вынести хлам и занести новую мебель, за помощь обещаю кто сможет ?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-16T21:15",
-      "subtype": "rent",
-      "geo": "Сесех",
-      "text": "Привет! Ищу апартаменты или виллу, возможно и другие варианты. Главное с кухней. 2 человека. Взрослый + ребенок Район: Сесех, [имя] декабрь"
     }
   ],
   "housing_budget_by_geo_90d": [
