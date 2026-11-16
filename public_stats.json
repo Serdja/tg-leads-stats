@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T04:05:42.263432+08:00",
-  "all_time_total": 9379,
-  "last_30d_total": 3269,
+  "generated_at": "2026-11-17T05:06:59.344261+08:00",
+  "all_time_total": 9380,
+  "last_30d_total": 3270,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1810,
-      "all_time": 4425,
+      "last_30d": 1811,
+      "all_time": 4426,
       "subtypes": {
         "rent": {
-          "last_30d": 936,
-          "all_time": 2261
+          "last_30d": 937,
+          "all_time": 2262
         },
         "roommate": {
           "last_30d": 273,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1770
+      "total": 1771
     }
   ],
   "system": {
-    "messages_scanned_total": 2106668,
-    "messages_scanned_30d": 900877,
-    "noise_filtered_total": 1182124,
-    "noise_filtered_30d": 550108,
-    "lead_sightings_total": 15244,
+    "messages_scanned_total": 2107876,
+    "messages_scanned_30d": 902085,
+    "noise_filtered_total": 1182966,
+    "noise_filtered_30d": 550950,
+    "lead_sightings_total": 15248,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2029,12 +2029,12 @@
       },
       {
         "period": "2026-11-17",
-        "total": 9,
+        "total": 10,
         "by_niche": {
-          "housing_bali": 9
+          "housing_bali": 10
         },
         "housing": {
-          "rent": 5,
+          "rent": 6,
           "roommate": 3,
           "offer": 1
         }
@@ -2464,7 +2464,7 @@
       },
       {
         "period": "2026-11-16",
-        "total": 177,
+        "total": 178,
         "by_niche": {
           "auto_bali": 1,
           "banya_bali": 1,
@@ -2472,7 +2472,7 @@
           "bikes_bali": 26,
           "games_bali": 7,
           "handyman_bali": 3,
-          "housing_bali": 111,
+          "housing_bali": 112,
           "massage_bali": 7,
           "photo_bali": 5,
           "transfer_bali": 2,
@@ -2480,7 +2480,7 @@
           "visa_bali": 3
         },
         "housing": {
-          "rent": 62,
+          "rent": 63,
           "roommate": 14,
           "offer": 35
         },
@@ -2584,7 +2584,7 @@
       },
       {
         "period": "2026-11",
-        "total": 1770,
+        "total": 1771,
         "by_niche": {
           "auto_bali": 24,
           "banya_bali": 5,
@@ -2592,7 +2592,7 @@
           "bikes_bali": 300,
           "games_bali": 120,
           "handyman_bali": 24,
-          "housing_bali": 989,
+          "housing_bali": 990,
           "massage_bali": 36,
           "photo_bali": 27,
           "transfer_bali": 85,
@@ -2601,7 +2601,7 @@
           "wedding_bali": 9
         },
         "housing": {
-          "rent": 493,
+          "rent": 494,
           "roommate": 161,
           "offer": 335
         },
@@ -2613,7 +2613,7 @@
     "geo_top": [
       {
         "geo": "Чангу",
-        "count": 455
+        "count": 456
       },
       {
         "geo": "Сесех",
@@ -2661,6 +2661,13 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-17T05:00",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "text": "Ищу компанию , чтобы померить виллу в Чангу с декабря на три месяца. По датам подстроимся. Нас двое"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-17T03:15",
@@ -2853,12 +2860,6 @@
       "subtype": "rent",
       "geo": "Сесех",
       "text": "Привет! Ищу апартаменты или виллу, возможно и другие варианты. Главное с кухней. 2 человека. Взрослый + ребенок Район: Сесех, [имя] декабрь"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-16T21:00",
-      "subtype": "rent",
-      "text": "Подскажите пожалуйста а где заказывать газ дешево на виллу? Что-то нам хозяева говорили что он стоит копейки, а на граб марте как то дорого, Может мы не там…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3041,7 +3042,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 879,
+    "villa": 880,
     "house": 56,
     "room": 101,
     "apartment": 43,
@@ -3081,7 +3082,7 @@
         13,
         12,
         7,
-        5,
+        6,
         4,
         6,
         11,
@@ -4186,7 +4187,7 @@
           5,
           7,
           6,
-          4,
+          5,
           3,
           4,
           6,
