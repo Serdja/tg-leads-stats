@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T02:03:09.796360+08:00",
-  "all_time_total": 9374,
-  "last_30d_total": 3264,
+  "generated_at": "2026-11-17T03:04:25.548142+08:00",
+  "all_time_total": 9375,
+  "last_30d_total": 3265,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1805,
-      "all_time": 4420,
+      "last_30d": 1806,
+      "all_time": 4421,
       "subtypes": {
         "rent": {
           "last_30d": 933,
@@ -19,8 +19,8 @@
           "all_time": 734
         },
         "offer": {
-          "last_30d": 600,
-          "all_time": 1428
+          "last_30d": 601,
+          "all_time": 1429
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1765
+      "total": 1766
     }
   ],
   "system": {
-    "messages_scanned_total": 2104190,
-    "messages_scanned_30d": 898399,
-    "noise_filtered_total": 1180449,
-    "noise_filtered_30d": 548433,
-    "lead_sightings_total": 15235,
+    "messages_scanned_total": 2105442,
+    "messages_scanned_30d": 899651,
+    "noise_filtered_total": 1181290,
+    "noise_filtered_30d": 549274,
+    "lead_sightings_total": 15238,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2029,14 +2029,14 @@
       },
       {
         "period": "2026-11-17",
-        "total": 4,
+        "total": 5,
         "by_niche": {
-          "housing_bali": 4
+          "housing_bali": 5
         },
         "housing": {
           "rent": 2,
           "roommate": 2,
-          "offer": 0
+          "offer": 1
         }
       }
     ],
@@ -2464,7 +2464,7 @@
       },
       {
         "period": "2026-11-16",
-        "total": 172,
+        "total": 173,
         "by_niche": {
           "auto_bali": 1,
           "banya_bali": 1,
@@ -2472,7 +2472,7 @@
           "bikes_bali": 26,
           "games_bali": 7,
           "handyman_bali": 3,
-          "housing_bali": 106,
+          "housing_bali": 107,
           "massage_bali": 7,
           "photo_bali": 5,
           "transfer_bali": 2,
@@ -2482,7 +2482,7 @@
         "housing": {
           "rent": 59,
           "roommate": 13,
-          "offer": 34
+          "offer": 35
         },
         "partial": true
       }
@@ -2584,7 +2584,7 @@
       },
       {
         "period": "2026-11",
-        "total": 1765,
+        "total": 1766,
         "by_niche": {
           "auto_bali": 24,
           "banya_bali": 5,
@@ -2592,7 +2592,7 @@
           "bikes_bali": 300,
           "games_bali": 120,
           "handyman_bali": 24,
-          "housing_bali": 984,
+          "housing_bali": 985,
           "massage_bali": 36,
           "photo_bali": 27,
           "transfer_bali": 85,
@@ -2603,7 +2603,7 @@
         "housing": {
           "rent": 490,
           "roommate": 160,
-          "offer": 334
+          "offer": 335
         },
         "partial": true
       }
@@ -2661,6 +2661,20 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-17T02:45",
+      "subtype": "rent",
+      "budget_m": 2,
+      "text": "Эмпатия и саморефлексия: эмпатии в тексте почти нет, ставит смеющиеся реакции, в том числе на тревогу Яны за Максима, шутит над чужими видео, но не отражает…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-17T02:30",
+      "subtype": "rent",
+      "geo": "Санур",
+      "text": "в более ранних выборках тоже 0-8 сообщений за кусок, и тоже о себе: 3-4 ноября «Я такая злая вчера была», «Закладку не нашла гусь да поэтому», «Я хочу в Непал.…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-17T01:45",
@@ -2843,17 +2857,6 @@
       "at": "2026-11-16T20:45",
       "geo": "Убуд",
       "text": "Ребята всем, привет! 🌴 Ищу 3-х классных попутчиц в нашу женскую группу на Бали . Даты: 4–16 января (12 дней). Локации: Убуд (джунгли), Чангу (серфинг и…"
-    },
-    {
-      "niche": "photo_bali",
-      "at": "2026-11-16T20:45",
-      "geo": "Убуд",
-      "text": "Ребята всем, привет! 🌴 Ищу 3-х классных попутчиц в нашу женскую группу на Бали . Даты: 4–16 января 2027 (12 дней). Локации: Убуд (джунгли), Чангу (серфинг и…"
-    },
-    {
-      "niche": "massage_bali",
-      "at": "2026-11-16T20:30",
-      "text": "Всем привет, подскажите , район сименьяк массажки есть хорошие? Ходили в две чет вообще не понял , дно какое то("
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3074,7 +3077,7 @@
         18,
         17,
         13,
-        7,
+        8,
         7,
         5,
         4,
@@ -4179,7 +4182,7 @@
           10,
           11,
           5,
-          2,
+          3,
           6,
           4,
           3,
