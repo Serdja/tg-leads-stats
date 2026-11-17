@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T22:31:25.287414+08:00",
-  "all_time_total": 9470,
-  "last_30d_total": 3360,
+  "generated_at": "2026-11-17T23:32:44.549967+08:00",
+  "all_time_total": 9472,
+  "last_30d_total": 3362,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1857,
-      "all_time": 4472,
+      "last_30d": 1858,
+      "all_time": 4473,
       "subtypes": {
         "rent": {
-          "last_30d": 955,
-          "all_time": 2280
+          "last_30d": 956,
+          "all_time": 2281
         },
         "roommate": {
           "last_30d": 282,
@@ -39,8 +39,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 200,
-      "all_time": 571
+      "last_30d": 201,
+      "all_time": 572
     },
     {
       "niche": "transfer_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1861
+      "total": 1863
     }
   ],
   "system": {
-    "messages_scanned_total": 2131620,
-    "messages_scanned_30d": 925829,
-    "noise_filtered_total": 1198293,
-    "noise_filtered_30d": 566277,
-    "lead_sightings_total": 15449,
+    "messages_scanned_total": 2133570,
+    "messages_scanned_30d": 927779,
+    "noise_filtered_total": 1199626,
+    "noise_filtered_30d": 567610,
+    "lead_sightings_total": 15454,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2029,20 +2029,20 @@
       },
       {
         "period": "2026-11-17",
-        "total": 100,
+        "total": 102,
         "by_niche": {
           "auto_bali": 1,
-          "beauty_bali": 8,
+          "beauty_bali": 9,
           "bikes_bali": 22,
           "games_bali": 6,
           "handyman_bali": 3,
-          "housing_bali": 56,
+          "housing_bali": 57,
           "massage_bali": 1,
           "photo_bali": 1,
           "visa_bali": 2
         },
         "housing": {
-          "rent": 24,
+          "rent": 25,
           "roommate": 12,
           "offer": 20
         }
@@ -2472,15 +2472,15 @@
       },
       {
         "period": "2026-11-16",
-        "total": 268,
+        "total": 270,
         "by_niche": {
           "auto_bali": 2,
           "banya_bali": 1,
-          "beauty_bali": 18,
+          "beauty_bali": 19,
           "bikes_bali": 48,
           "games_bali": 13,
           "handyman_bali": 6,
-          "housing_bali": 158,
+          "housing_bali": 159,
           "massage_bali": 8,
           "photo_bali": 6,
           "transfer_bali": 2,
@@ -2488,7 +2488,7 @@
           "visa_bali": 5
         },
         "housing": {
-          "rent": 81,
+          "rent": 82,
           "roommate": 23,
           "offer": 54
         },
@@ -2592,15 +2592,15 @@
       },
       {
         "period": "2026-11",
-        "total": 1861,
+        "total": 1863,
         "by_niche": {
           "auto_bali": 25,
           "banya_bali": 5,
-          "beauty_bali": 105,
+          "beauty_bali": 106,
           "bikes_bali": 322,
           "games_bali": 126,
           "handyman_bali": 27,
-          "housing_bali": 1036,
+          "housing_bali": 1037,
           "massage_bali": 37,
           "photo_bali": 28,
           "transfer_bali": 85,
@@ -2609,7 +2609,7 @@
           "wedding_bali": 9
         },
         "housing": {
-          "rent": 512,
+          "rent": 513,
           "roommate": 170,
           "offer": 354
         },
@@ -2633,7 +2633,7 @@
       },
       {
         "geo": "Букит",
-        "count": 147
+        "count": 148
       },
       {
         "geo": "Убуд",
@@ -2669,6 +2669,13 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-17T22:45",
+      "subtype": "rent",
+      "geo": "Букит",
+      "text": "ищу виллу: 3 или 4 спальни БУКИТ! с бассейном!"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-17T22:15",
@@ -2843,11 +2850,6 @@
       "at": "2026-11-17T13:45",
       "geo": "Букит",
       "text": "hello i need scoopy or stylo or fasio in bukit 1.000-1.200k monthly rent long term"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-17T13:45",
-      "text": "Hello, i need yamaha filano blue colour for one week. please dm with 1) picture 2) price thank u"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3030,7 +3032,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 897,
+    "villa": 898,
     "house": 59,
     "room": 103,
     "apartment": 45,
@@ -3087,7 +3089,7 @@
         40,
         25,
         27,
-        19,
+        21,
         15
       ],
       [
@@ -3456,7 +3458,7 @@
           0,
           0,
           0,
-          2,
+          3,
           1
         ],
         [
@@ -4192,7 +4194,7 @@
           22,
           14,
           15,
-          7,
+          8,
           6
         ],
         [
