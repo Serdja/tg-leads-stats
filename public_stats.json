@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T14:20:04.895305+08:00",
-  "all_time_total": 9432,
-  "last_30d_total": 3322,
+  "generated_at": "2026-11-17T15:21:30.066151+08:00",
+  "all_time_total": 9436,
+  "last_30d_total": 3326,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1837,
-      "all_time": 4452,
+      "last_30d": 1841,
+      "all_time": 4456,
       "subtypes": {
         "rent": {
-          "last_30d": 947,
-          "all_time": 2272
+          "last_30d": 948,
+          "all_time": 2273
         },
         "roommate": {
-          "last_30d": 280,
-          "all_time": 742
+          "last_30d": 281,
+          "all_time": 743
         },
         "offer": {
-          "last_30d": 610,
-          "all_time": 1438
+          "last_30d": 612,
+          "all_time": 1440
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1823
+      "total": 1827
     }
   ],
   "system": {
-    "messages_scanned_total": 2115190,
-    "messages_scanned_30d": 909399,
-    "noise_filtered_total": 1187321,
-    "noise_filtered_30d": 555305,
-    "lead_sightings_total": 15340,
+    "messages_scanned_total": 2116854,
+    "messages_scanned_30d": 911063,
+    "noise_filtered_total": 1188392,
+    "noise_filtered_30d": 556376,
+    "lead_sightings_total": 15355,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2029,21 +2029,21 @@
       },
       {
         "period": "2026-11-17",
-        "total": 62,
+        "total": 66,
         "by_niche": {
           "beauty_bali": 6,
           "bikes_bali": 14,
           "games_bali": 1,
           "handyman_bali": 2,
-          "housing_bali": 36,
+          "housing_bali": 40,
           "massage_bali": 1,
           "photo_bali": 1,
           "visa_bali": 1
         },
         "housing": {
-          "rent": 16,
-          "roommate": 10,
-          "offer": 10
+          "rent": 17,
+          "roommate": 11,
+          "offer": 12
         }
       }
     ],
@@ -2471,7 +2471,7 @@
       },
       {
         "period": "2026-11-16",
-        "total": 230,
+        "total": 234,
         "by_niche": {
           "auto_bali": 1,
           "banya_bali": 1,
@@ -2479,7 +2479,7 @@
           "bikes_bali": 40,
           "games_bali": 8,
           "handyman_bali": 5,
-          "housing_bali": 138,
+          "housing_bali": 142,
           "massage_bali": 8,
           "photo_bali": 6,
           "transfer_bali": 2,
@@ -2487,9 +2487,9 @@
           "visa_bali": 4
         },
         "housing": {
-          "rent": 73,
-          "roommate": 21,
-          "offer": 44
+          "rent": 74,
+          "roommate": 22,
+          "offer": 46
         },
         "partial": true
       }
@@ -2591,7 +2591,7 @@
       },
       {
         "period": "2026-11",
-        "total": 1823,
+        "total": 1827,
         "by_niche": {
           "auto_bali": 24,
           "banya_bali": 5,
@@ -2599,7 +2599,7 @@
           "bikes_bali": 314,
           "games_bali": 121,
           "handyman_bali": 26,
-          "housing_bali": 1016,
+          "housing_bali": 1020,
           "massage_bali": 37,
           "photo_bali": 28,
           "transfer_bali": 85,
@@ -2608,9 +2608,9 @@
           "wedding_bali": 9
         },
         "housing": {
-          "rent": 504,
-          "roommate": 168,
-          "offer": 344
+          "rent": 505,
+          "roommate": 169,
+          "offer": 346
         },
         "partial": true
       }
@@ -2636,7 +2636,7 @@
       },
       {
         "geo": "Убуд",
-        "count": 131
+        "count": 132
       },
       {
         "geo": "Переренан",
@@ -2659,15 +2659,35 @@
         "count": 39
       }
     ],
-    "geo_unknown": 270,
+    "geo_unknown": 271,
     "budget_idr": {
-      "n": 685,
+      "n": 686,
       "p25": 10000000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-17T14:30",
+      "subtype": "rent",
+      "geo": "Убуд",
+      "budget_m": 2,
+      "text": "🌴 Ищу виллу на долгосрочную аренду в Убуде! 📍 Район: Kemenuh / [имя] уютную, красивую виллу для проживания на срок от 2 месяцев, возможно дольше. Что важно: •…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-17T14:30",
+      "subtype": "roommate",
+      "text": "Ищем чистую, просторную комнату на вилле (без плесени). с начала декабря. Я, сын 3х лет, подруга. Если вы ищите соседей - напишите нам, пожалуйста 🙏🏽"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-17T14:15",
+      "subtype": "roommate",
+      "text": "Кто может помочь перенести шкаф из одной комнаты в другую? Тяжелый, одному никак."
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-17T14:00",
@@ -2838,27 +2858,6 @@
       "niche": "beauty_bali",
       "at": "2026-11-17T09:30",
       "text": "Девочки, всем привет! Ищу мастера по окрашиванию бровей Только гипоаллергенная краска, чувствительная кожа Буду благодарна рекомендациям 🙏🏽"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-17T09:30",
-      "subtype": "roommate",
-      "geo": "Чангу",
-      "text": "Чангу Ищу комнату Гест/вилла/аппарты 7-8 милл На долгий срок С конца недели"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-17T09:15",
-      "subtype": "rent",
-      "geo": "Сесех",
-      "text": "🏡Ищу виллу - семейная пара 1-2.5к$/мес на 3-5 месяце Район: Сесех, Чемаги 1-2 спальни"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-17T08:45",
-      "subtype": "roommate",
-      "geo": "Амед",
-      "text": "Ищу попутчицу в амед . Еду с букита. Планирую ночевку либо в coral view villas либо mathis lodge amed. Ты можешь снять себе номер в другом отеле при желании. С…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2899,7 +2898,7 @@
     },
     {
       "geo": "Убуд",
-      "n": 176,
+      "n": 177,
       "median": 15000000,
       "p25": 8500000,
       "p75": 24000000
@@ -2992,10 +2991,10 @@
     },
     {
       "geo": "Букит",
-      "n": 52,
-      "median": 24000000,
-      "p25": 14750000,
-      "p75": 30500000
+      "n": 53,
+      "median": 23000000,
+      "p25": 15000000,
+      "p75": 30000000
     },
     {
       "geo": "Берава",
@@ -3041,7 +3040,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 890,
+    "villa": 892,
     "house": 59,
     "room": 103,
     "apartment": 43,
@@ -3090,7 +3089,7 @@
         47,
         29,
         45,
-        43,
+        47,
         30,
         24,
         28,
@@ -4195,7 +4194,7 @@
           23,
           12,
           20,
-          29,
+          33,
           11,
           13,
           16,
