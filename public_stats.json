@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-18T06:42:35.490528+08:00",
+  "generated_at": "2026-11-18T07:43:53.064853+08:00",
   "all_time_total": 9487,
   "last_30d_total": 3249,
   "by_niche": [
@@ -130,10 +130,10 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 2142835,
-    "messages_scanned_30d": 910085,
-    "noise_filtered_total": 1206008,
-    "noise_filtered_30d": 558208,
+    "messages_scanned_total": 2143189,
+    "messages_scanned_30d": 910439,
+    "noise_filtered_total": 1206195,
+    "noise_filtered_30d": 558395,
     "lead_sightings_total": 15473,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
@@ -2665,6 +2665,12 @@
   "ticker": [
     {
       "niche": "housing_bali",
+      "at": "2026-11-18T07:30",
+      "subtype": "rent",
+      "text": "Нужна помощь с несложным делом: разобрать коробки на складе. Оплата 5 217,35. Пишите в лс, обсудим!"
+    },
+    {
+      "niche": "housing_bali",
       "at": "2026-11-18T06:15",
       "subtype": "rent",
       "geo": "Улувату",
@@ -2849,11 +2855,6 @@
       "niche": "beauty_bali",
       "at": "2026-11-17T18:45",
       "text": "Индонезы в барбершопах отлично стригут если объяснить что нужно. На гугл картах найти понравившийся по фоткам и отзывам и вперед."
-    },
-    {
-      "niche": "handyman_bali",
-      "at": "2026-11-17T17:30",
-      "text": "Добрый день! Нужен специалист электрик провести розетки с заземлением и подключить посудомоечную машинку"
     }
   ],
   "housing_budget_by_geo_90d": [
