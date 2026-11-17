@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-18T03:38:36.676056+08:00",
-  "all_time_total": 9483,
-  "last_30d_total": 3245,
+  "generated_at": "2026-11-18T04:39:55.480610+08:00",
+  "all_time_total": 9484,
+  "last_30d_total": 3246,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1798,
-      "all_time": 4480,
+      "last_30d": 1799,
+      "all_time": 4481,
       "subtypes": {
         "rent": {
-          "last_30d": 918,
-          "all_time": 2288
+          "last_30d": 919,
+          "all_time": 2289
         },
         "roommate": {
           "last_30d": 280,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1874
+      "total": 1875
     }
   ],
   "system": {
-    "messages_scanned_total": 2140052,
-    "messages_scanned_30d": 907302,
-    "noise_filtered_total": 1204171,
-    "noise_filtered_30d": 556371,
-    "lead_sightings_total": 15468,
+    "messages_scanned_total": 2141282,
+    "messages_scanned_30d": 908532,
+    "noise_filtered_total": 1205010,
+    "noise_filtered_30d": 557210,
+    "lead_sightings_total": 15470,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2029,14 +2029,14 @@
       },
       {
         "period": "2026-11-18",
-        "total": 11,
+        "total": 12,
         "by_niche": {
           "bikes_bali": 2,
           "games_bali": 2,
-          "housing_bali": 7
+          "housing_bali": 8
         },
         "housing": {
-          "rent": 7,
+          "rent": 8,
           "roommate": 0,
           "offer": 0
         }
@@ -2466,7 +2466,7 @@
       },
       {
         "period": "2026-11-16",
-        "total": 281,
+        "total": 282,
         "by_niche": {
           "auto_bali": 2,
           "banya_bali": 1,
@@ -2474,7 +2474,7 @@
           "bikes_bali": 50,
           "games_bali": 15,
           "handyman_bali": 6,
-          "housing_bali": 166,
+          "housing_bali": 167,
           "massage_bali": 8,
           "photo_bali": 6,
           "transfer_bali": 2,
@@ -2482,7 +2482,7 @@
           "visa_bali": 5
         },
         "housing": {
-          "rent": 89,
+          "rent": 90,
           "roommate": 23,
           "offer": 54
         },
@@ -2586,7 +2586,7 @@
       },
       {
         "period": "2026-11",
-        "total": 1874,
+        "total": 1875,
         "by_niche": {
           "auto_bali": 25,
           "banya_bali": 5,
@@ -2594,7 +2594,7 @@
           "bikes_bali": 324,
           "games_bali": 128,
           "handyman_bali": 27,
-          "housing_bali": 1044,
+          "housing_bali": 1045,
           "massage_bali": 37,
           "photo_bali": 28,
           "transfer_bali": 85,
@@ -2603,7 +2603,7 @@
           "wedding_bali": 9
         },
         "housing": {
-          "rent": 520,
+          "rent": 521,
           "roommate": 170,
           "offer": 354
         },
@@ -2654,15 +2654,22 @@
         "count": 38
       }
     ],
-    "geo_unknown": 270,
+    "geo_unknown": 271,
     "budget_idr": {
-      "n": 664,
-      "p25": 9450000,
+      "n": 665,
+      "p25": 9600000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-18T03:45",
+      "subtype": "rent",
+      "budget_m": 40,
+      "text": "Привет всем) Мы пара, ищем уютную просторную виллу, желательно в тихом районе и отдельным рабочим местом, смотрим все, бюджет примерно +-40 млн/мес С 14…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-18T03:15",
@@ -2842,11 +2849,6 @@
       "niche": "bikes_bali",
       "at": "2026-11-17T16:30",
       "text": "Hello I need a bike from 21 till 29 nov Preferably bike ADV150 or XMAX250 cc With the option to travel outside if island"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-17T16:00",
-      "text": "Здравствуйте! Подскажите пожалуйста как обстоят дела с вождением байка? Есть права международные , но категории А нет, обязательно ли они нужны, спрашивают ли…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3029,7 +3031,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 860,
+    "villa": 861,
     "house": 58,
     "room": 102,
     "apartment": 44,
@@ -3093,7 +3095,7 @@
         18,
         18,
         9,
-        3,
+        4,
         13,
         5,
         4,
@@ -4198,7 +4200,7 @@
           8,
           9,
           6,
-          2,
+          3,
           7,
           2,
           1,
