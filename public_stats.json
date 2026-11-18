@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T04:11:16.723296+08:00",
-  "all_time_total": 9592,
-  "last_30d_total": 3234,
+  "generated_at": "2026-11-19T05:12:38.058900+08:00",
+  "all_time_total": 9594,
+  "last_30d_total": 3236,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1790,
-      "all_time": 4538,
+      "last_30d": 1791,
+      "all_time": 4539,
       "subtypes": {
         "rent": {
-          "last_30d": 901,
-          "all_time": 2315
+          "last_30d": 902,
+          "all_time": 2316
         },
         "roommate": {
           "last_30d": 293,
@@ -57,8 +57,8 @@
     {
       "niche": "massage_bali",
       "label": "💆 Массаж",
-      "last_30d": 52,
-      "all_time": 220
+      "last_30d": 53,
+      "all_time": 221
     },
     {
       "niche": "photo_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1983
+      "total": 1985
     }
   ],
   "system": {
-    "messages_scanned_total": 2173379,
-    "messages_scanned_30d": 912278,
-    "noise_filtered_total": 1225862,
-    "noise_filtered_30d": 561438,
-    "lead_sightings_total": 15686,
+    "messages_scanned_total": 2174473,
+    "messages_scanned_30d": 913372,
+    "noise_filtered_total": 1226632,
+    "noise_filtered_30d": 562208,
+    "lead_sightings_total": 15688,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2025,15 +2025,16 @@
       },
       {
         "period": "2026-11-19",
-        "total": 8,
+        "total": 10,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 1,
           "games_bali": 2,
-          "housing_bali": 4
+          "housing_bali": 5,
+          "massage_bali": 1
         },
         "housing": {
-          "rent": 2,
+          "rent": 3,
           "roommate": 1,
           "offer": 1
         }
@@ -2463,7 +2464,7 @@
       },
       {
         "period": "2026-11-16",
-        "total": 390,
+        "total": 392,
         "by_niche": {
           "auto_bali": 3,
           "banya_bali": 1,
@@ -2471,15 +2472,15 @@
           "bikes_bali": 78,
           "games_bali": 23,
           "handyman_bali": 7,
-          "housing_bali": 224,
-          "massage_bali": 8,
+          "housing_bali": 225,
+          "massage_bali": 9,
           "photo_bali": 6,
           "transfer_bali": 8,
           "video_bali": 1,
           "visa_bali": 7
         },
         "housing": {
-          "rent": 116,
+          "rent": 117,
           "roommate": 37,
           "offer": 71
         },
@@ -2583,7 +2584,7 @@
       },
       {
         "period": "2026-11",
-        "total": 1983,
+        "total": 1985,
         "by_niche": {
           "auto_bali": 26,
           "banya_bali": 5,
@@ -2591,8 +2592,8 @@
           "bikes_bali": 352,
           "games_bali": 136,
           "handyman_bali": 28,
-          "housing_bali": 1102,
-          "massage_bali": 37,
+          "housing_bali": 1103,
+          "massage_bali": 38,
           "photo_bali": 28,
           "transfer_bali": 91,
           "video_bali": 14,
@@ -2600,7 +2601,7 @@
           "wedding_bali": 9
         },
         "housing": {
-          "rent": 547,
+          "rent": 548,
           "roommate": 184,
           "offer": 371
         },
@@ -2651,15 +2652,22 @@
         "count": 37
       }
     ],
-    "geo_unknown": 267,
+    "geo_unknown": 268,
     "budget_idr": {
-      "n": 661,
+      "n": 662,
       "p25": 9000000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-19T04:30",
+      "subtype": "rent",
+      "budget_m": 6,
+      "text": "Hi! I’m looking for accommodation for one person for 1 month, starting December 12. Open to a private apartment, guesthouse, or a private room in a villa (no…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-19T03:45",
@@ -2840,13 +2848,6 @@
       "niche": "bikes_bali",
       "at": "2026-11-18T18:45",
       "text": "Подскажите, есть ли какой-то чат с арендой байков, где как в чатах других стран, например, можно написать даты, когда байк нужен, а местные сами уже в личку…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-18T18:45",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "text": "Ищу виллу Чангу, Сесех, berawa, Perenenan. 1 bedroom"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3029,7 +3030,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 857,
+    "villa": 858,
     "house": 59,
     "room": 100,
     "apartment": 43,
@@ -3120,7 +3121,7 @@
         7,
         10,
         11,
-        5,
+        7,
         2,
         0,
         1,
@@ -4041,7 +4042,7 @@
           5,
           6,
           4,
-          4,
+          5,
           2,
           0,
           1,
@@ -4225,7 +4226,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0,
           0,
