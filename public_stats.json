@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-20T06:47:02.909154+08:00",
+  "generated_at": "2026-11-20T07:48:22.646423+08:00",
   "all_time_total": 9690,
   "last_30d_total": 3204,
   "by_niche": [
@@ -130,11 +130,11 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 2210252,
-    "messages_scanned_30d": 915134,
-    "noise_filtered_total": 1249736,
-    "noise_filtered_30d": 563964,
-    "lead_sightings_total": 15913,
+    "messages_scanned_total": 2210728,
+    "messages_scanned_30d": 915610,
+    "noise_filtered_total": 1249957,
+    "noise_filtered_30d": 564185,
+    "lead_sightings_total": 15934,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2660,6 +2660,12 @@
   "ticker": [
     {
       "niche": "housing_bali",
+      "at": "2026-11-20T07:30",
+      "subtype": "rent",
+      "text": "Всем привет) подскажите, пожалуйста, в каких оффлайн магазинах можно купить ограждения на лестницы , типа таких?"
+    },
+    {
+      "niche": "housing_bali",
       "at": "2026-11-20T04:15",
       "subtype": "rent",
       "text": "Нужны идеи на названия для магазина10000"
@@ -2840,11 +2846,6 @@
       "at": "2026-11-19T19:30",
       "subtype": "rent",
       "text": "Друзья, ищу домик — район [имя] и выше (как он называется?) С 28 декабря, кто то сдает пересдает? На 2 месяца 🌹"
-    },
-    {
-      "niche": "auto_bali",
-      "at": "2026-11-19T19:30",
-      "text": "Привет! Кто-нибудь знает можно ли на Нуса Пениде арендовать машину?"
     }
   ],
   "housing_budget_by_geo_90d": [
