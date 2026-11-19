@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T11:20:52.205130+08:00",
-  "all_time_total": 9605,
-  "last_30d_total": 3247,
+  "generated_at": "2026-11-19T12:22:16.050324+08:00",
+  "all_time_total": 9611,
+  "last_30d_total": 3253,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1798,
-      "all_time": 4546,
+      "last_30d": 1802,
+      "all_time": 4550,
       "subtypes": {
         "rent": {
           "last_30d": 908,
@@ -19,16 +19,16 @@
           "all_time": 758
         },
         "offer": {
-          "last_30d": 597,
-          "all_time": 1466
+          "last_30d": 601,
+          "all_time": 1470
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 579,
-      "all_time": 2008
+      "last_30d": 581,
+      "all_time": 2010
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1996
+      "total": 2002
     }
   ],
   "system": {
-    "messages_scanned_total": 2177932,
-    "messages_scanned_30d": 916831,
-    "noise_filtered_total": 1228610,
-    "noise_filtered_30d": 564186,
-    "lead_sightings_total": 15727,
+    "messages_scanned_total": 2178634,
+    "messages_scanned_30d": 917533,
+    "noise_filtered_total": 1228932,
+    "noise_filtered_30d": 564508,
+    "lead_sightings_total": 15737,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2025,19 +2025,19 @@
       },
       {
         "period": "2026-11-19",
-        "total": 21,
+        "total": 27,
         "by_niche": {
           "beauty_bali": 1,
-          "bikes_bali": 3,
+          "bikes_bali": 5,
           "games_bali": 3,
-          "housing_bali": 12,
+          "housing_bali": 16,
           "massage_bali": 1,
           "visa_bali": 1
         },
         "housing": {
           "rent": 9,
           "roommate": 1,
-          "offer": 2
+          "offer": 6
         }
       }
     ],
@@ -2465,15 +2465,15 @@
       },
       {
         "period": "2026-11-16",
-        "total": 403,
+        "total": 409,
         "by_niche": {
           "auto_bali": 3,
           "banya_bali": 1,
           "beauty_bali": 24,
-          "bikes_bali": 80,
+          "bikes_bali": 82,
           "games_bali": 24,
           "handyman_bali": 7,
-          "housing_bali": 232,
+          "housing_bali": 236,
           "massage_bali": 9,
           "photo_bali": 6,
           "transfer_bali": 8,
@@ -2483,7 +2483,7 @@
         "housing": {
           "rent": 123,
           "roommate": 37,
-          "offer": 72
+          "offer": 76
         },
         "partial": true
       }
@@ -2585,15 +2585,15 @@
       },
       {
         "period": "2026-11",
-        "total": 1996,
+        "total": 2002,
         "by_niche": {
           "auto_bali": 26,
           "banya_bali": 5,
           "beauty_bali": 111,
-          "bikes_bali": 354,
+          "bikes_bali": 356,
           "games_bali": 137,
           "handyman_bali": 28,
-          "housing_bali": 1110,
+          "housing_bali": 1114,
           "massage_bali": 38,
           "photo_bali": 28,
           "transfer_bali": 91,
@@ -2604,7 +2604,7 @@
         "housing": {
           "rent": 554,
           "roommate": 184,
-          "offer": 372
+          "offer": 376
         },
         "partial": true
       }
@@ -2662,6 +2662,32 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-19T12:15",
+      "budget_m": 2,
+      "text": "Hello! I’m looking for Nmax for 1 month. Price till 1,5 mln. Please send me your variants"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-19T12:15",
+      "subtype": "rent",
+      "geo": "Убуд",
+      "text": "Ищу педиатра в Убуде с выездом на дом, нужен детский врач"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-19T12:00",
+      "subtype": "rent",
+      "budget_m": 25,
+      "text": "!!️ Ищу киноманов, которым хочется наконец использовать английский не только для “no spicy, please”. ⚡️набираю новые группы в свой английский киноклуб⚡️ Дома…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-19T11:45",
+      "subtype": "rent",
+      "text": "Ищу дом для очень милого котенка. Сейчас он проходит лечение в клинике. Я нашла его очень слабым и больным, но сейчас малыш уже идет на поправку ❤️🩹 Он…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-19T10:45",
@@ -2828,33 +2854,6 @@
       "niche": "transfer_bali",
       "at": "2026-11-18T21:45",
       "text": "Ищу водителей от 1000+ $$$, подробности в чате"
-    },
-    {
-      "niche": "transfer_bali",
-      "at": "2026-11-18T21:30",
-      "text": "Добрый вечер! Подскажите пожалуйста в среднем сколько трансфер стоит от Бали аэропорта до Кату?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-18T20:45",
-      "subtype": "rent",
-      "geo": "Переренан",
-      "budget_m": 7,
-      "text": "Всем привет! 👋 Срочно ищу апартаменты или виллу в Переренане, Сесехе или Чемаги с 21 ноября по 7 декабря. Бюджет — до рупий за весь период проживания. Если у…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-18T20:30",
-      "subtype": "rent",
-      "geo": "Букит",
-      "budget_m": 12,
-      "text": "Добрый вечер) Ищу апарты или комнату в хорошем гесте на Буките, до 12 млн в мес, заезд с 25 ноября"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-18T19:45",
-      "subtype": "rent",
-      "text": "Нужен совет: сколько сейчас стоит аренда студии на полгода? Ищем вариант с мебелью."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3022,18 +3021,18 @@
       "p75": 56500000
     },
     {
+      "geo": "Умалас",
+      "n": 26,
+      "median": 30000000,
+      "p25": 20750000,
+      "p75": 38150000
+    },
+    {
       "geo": "Улувату",
       "n": 25,
       "median": 45000000,
       "p25": 25000000,
       "p75": 50000000
-    },
-    {
-      "geo": "Умалас",
-      "n": 25,
-      "median": 30000000,
-      "p25": 20000000,
-      "p75": 40000000
     }
   ],
   "housing_types_30d": {
@@ -3135,8 +3134,8 @@
         11,
         10,
         26,
-        35,
-        20,
+        39,
+        22,
         30,
         26,
         25,
@@ -3504,8 +3503,8 @@
           2,
           0,
           4,
-          13,
-          7,
+          14,
+          8,
           7,
           6,
           1,
@@ -4056,8 +4055,8 @@
           8,
           7,
           16,
-          14,
-          6,
+          17,
+          7,
           15,
           18,
           16,
