@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T08:16:39.928297+08:00",
-  "all_time_total": 9600,
-  "last_30d_total": 3242,
+  "generated_at": "2026-11-19T09:18:03.881095+08:00",
+  "all_time_total": 9601,
+  "last_30d_total": 3243,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1795,
-      "all_time": 4543,
+      "last_30d": 1796,
+      "all_time": 4544,
       "subtypes": {
         "rent": {
-          "last_30d": 906,
-          "all_time": 2320
+          "last_30d": 907,
+          "all_time": 2321
         },
         "roommate": {
           "last_30d": 293,
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 1991
+      "total": 1992
     }
   ],
   "system": {
-    "messages_scanned_total": 2176187,
-    "messages_scanned_30d": 915086,
-    "noise_filtered_total": 1227697,
-    "noise_filtered_30d": 563273,
-    "lead_sightings_total": 15698,
+    "messages_scanned_total": 2176670,
+    "messages_scanned_30d": 915569,
+    "noise_filtered_total": 1227949,
+    "noise_filtered_30d": 563525,
+    "lead_sightings_total": 15701,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2025,16 +2025,16 @@
       },
       {
         "period": "2026-11-19",
-        "total": 16,
+        "total": 17,
         "by_niche": {
           "beauty_bali": 1,
           "bikes_bali": 2,
           "games_bali": 3,
-          "housing_bali": 9,
+          "housing_bali": 10,
           "massage_bali": 1
         },
         "housing": {
-          "rent": 7,
+          "rent": 8,
           "roommate": 1,
           "offer": 1
         }
@@ -2464,7 +2464,7 @@
       },
       {
         "period": "2026-11-16",
-        "total": 398,
+        "total": 399,
         "by_niche": {
           "auto_bali": 3,
           "banya_bali": 1,
@@ -2472,7 +2472,7 @@
           "bikes_bali": 79,
           "games_bali": 24,
           "handyman_bali": 7,
-          "housing_bali": 229,
+          "housing_bali": 230,
           "massage_bali": 9,
           "photo_bali": 6,
           "transfer_bali": 8,
@@ -2480,7 +2480,7 @@
           "visa_bali": 7
         },
         "housing": {
-          "rent": 121,
+          "rent": 122,
           "roommate": 37,
           "offer": 71
         },
@@ -2584,7 +2584,7 @@
       },
       {
         "period": "2026-11",
-        "total": 1991,
+        "total": 1992,
         "by_niche": {
           "auto_bali": 26,
           "banya_bali": 5,
@@ -2592,7 +2592,7 @@
           "bikes_bali": 353,
           "games_bali": 137,
           "handyman_bali": 28,
-          "housing_bali": 1107,
+          "housing_bali": 1108,
           "massage_bali": 38,
           "photo_bali": 28,
           "transfer_bali": 91,
@@ -2601,7 +2601,7 @@
           "wedding_bali": 9
         },
         "housing": {
-          "rent": 552,
+          "rent": 553,
           "roommate": 184,
           "offer": 371
         },
@@ -2629,7 +2629,7 @@
       },
       {
         "geo": "Убуд",
-        "count": 132
+        "count": 133
       },
       {
         "geo": "Переренан",
@@ -2654,13 +2654,21 @@
     ],
     "geo_unknown": 269,
     "budget_idr": {
-      "n": 665,
+      "n": 666,
       "p25": 9000000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-19T09:15",
+      "subtype": "rent",
+      "geo": "Убуд",
+      "budget_m": 15,
+      "text": "Всем привет! 🌴 Ищем виллу в центре Убуда или Куты с 28 ноября на месяц с возможностью продления. 🔹 2–3 спальни, 2 ванные комнаты 🔹 Бассейн 🔹 Современный…"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-19T07:45",
@@ -2845,12 +2853,6 @@
       "niche": "bikes_bali",
       "at": "2026-11-18T19:15",
       "text": "Хочу взять 2 байка на длительную аренду! Желательно н макс"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-18T19:00",
-      "subtype": "roommate",
-      "text": "📍 Нуса-Дуа, с 22.11 ищем соседа/соседку в комнату-студию (с двумя помещениями и TV) 👨🏻💻 WiFi 100 Mbps+, рабочее место, прачка, 2 кухни, везде кондеи. Большой…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2891,10 +2893,10 @@
     },
     {
       "geo": "Убуд",
-      "n": 181,
+      "n": 182,
       "median": 15000000,
       "p25": 8500000,
-      "p75": 24000000
+      "p75": 23500000
     },
     {
       "geo": "Семиньяк",
@@ -3033,7 +3035,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 862,
+    "villa": 863,
     "house": 59,
     "room": 100,
     "apartment": 43,
@@ -3129,7 +3131,7 @@
         2,
         5,
         11,
-        9,
+        10,
         22,
         35,
         20,
@@ -4050,7 +4052,7 @@
           1,
           4,
           8,
-          6,
+          7,
           14,
           14,
           6,
