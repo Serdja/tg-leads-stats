@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-20T03:43:01.586304+08:00",
+  "generated_at": "2026-11-20T04:44:23.287137+08:00",
   "all_time_total": 9689,
   "last_30d_total": 3203,
   "by_niche": [
@@ -130,10 +130,10 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 2207443,
-    "messages_scanned_30d": 912325,
-    "noise_filtered_total": 1247876,
-    "noise_filtered_30d": 562104,
+    "messages_scanned_total": 2208662,
+    "messages_scanned_30d": 913544,
+    "noise_filtered_total": 1248736,
+    "noise_filtered_30d": 562964,
     "lead_sightings_total": 15905,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
@@ -2659,6 +2659,12 @@
   },
   "ticker": [
     {
+      "niche": "housing_bali",
+      "at": "2026-11-20T04:15",
+      "subtype": "rent",
+      "text": "Нужны идеи на названия для магазина10000"
+    },
+    {
       "niche": "transfer_bali",
       "at": "2026-11-20T02:15",
       "text": "Ищу водителя для перевозки товара, работа высокооплачиваемая"
@@ -2839,14 +2845,6 @@
       "niche": "auto_bali",
       "at": "2026-11-19T19:30",
       "text": "Привет! Кто-нибудь знает можно ли на Нуса Пениде арендовать машину?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-19T19:15",
-      "subtype": "rent",
-      "geo": "Букит",
-      "budget_m": 20,
-      "text": "Ищу виллу 2BR с бассейном на 1 месяц на Буките, бюджет до 20 млн"
     }
   ],
   "housing_budget_by_geo_90d": [
