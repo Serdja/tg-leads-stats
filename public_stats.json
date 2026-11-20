@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-20T20:05:21.393578+08:00",
-  "all_time_total": 9759,
-  "last_30d_total": 3273,
+  "generated_at": "2026-11-20T21:06:47.028106+08:00",
+  "all_time_total": 9766,
+  "last_30d_total": 3280,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1827,
-      "all_time": 4634,
+      "last_30d": 1830,
+      "all_time": 4637,
       "subtypes": {
         "rent": {
           "last_30d": 899,
@@ -19,16 +19,16 @@
           "all_time": 777
         },
         "offer": {
-          "last_30d": 624,
-          "all_time": 1503
+          "last_30d": 627,
+          "all_time": 1506
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 577,
-      "all_time": 2036
+      "last_30d": 579,
+      "all_time": 2038
     },
     {
       "niche": "games_bali",
@@ -55,22 +55,22 @@
       "all_time": 269
     },
     {
+      "niche": "massage_bali",
+      "label": "💆 Массаж",
+      "last_30d": 51,
+      "all_time": 224
+    },
+    {
       "niche": "auto_bali",
       "label": "🚙 Аренда авто",
       "last_30d": 50,
       "all_time": 176
     },
     {
-      "niche": "massage_bali",
-      "label": "💆 Массаж",
-      "last_30d": 50,
-      "all_time": 223
-    },
-    {
       "niche": "handyman_bali",
       "label": "🔧 Мастер на час",
-      "last_30d": 49,
-      "all_time": 300
+      "last_30d": 50,
+      "all_time": 301
     },
     {
       "niche": "photo_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2150
+      "total": 2157
     }
   ],
   "system": {
-    "messages_scanned_total": 2226411,
-    "messages_scanned_30d": 931293,
-    "noise_filtered_total": 1259925,
-    "noise_filtered_30d": 574153,
-    "lead_sightings_total": 16100,
+    "messages_scanned_total": 2228558,
+    "messages_scanned_30d": 933440,
+    "noise_filtered_total": 1261393,
+    "noise_filtered_30d": 575621,
+    "lead_sightings_total": 16109,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2023,15 +2023,15 @@
       },
       {
         "period": "2026-11-20",
-        "total": 77,
+        "total": 84,
         "by_niche": {
           "auto_bali": 3,
           "beauty_bali": 4,
-          "bikes_bali": 12,
+          "bikes_bali": 14,
           "games_bali": 7,
-          "handyman_bali": 1,
-          "housing_bali": 40,
-          "massage_bali": 2,
+          "handyman_bali": 2,
+          "housing_bali": 43,
+          "massage_bali": 3,
           "photo_bali": 2,
           "transfer_bali": 4,
           "wedding_bali": 2
@@ -2039,7 +2039,7 @@
         "housing": {
           "rent": 12,
           "roommate": 9,
-          "offer": 19
+          "offer": 22
         }
       }
     ],
@@ -2467,16 +2467,16 @@
       },
       {
         "period": "2026-11-16",
-        "total": 557,
+        "total": 564,
         "by_niche": {
           "auto_bali": 10,
           "banya_bali": 1,
           "beauty_bali": 28,
-          "bikes_bali": 108,
+          "bikes_bali": 110,
           "games_bali": 36,
-          "handyman_bali": 8,
-          "housing_bali": 320,
-          "massage_bali": 11,
+          "handyman_bali": 9,
+          "housing_bali": 323,
+          "massage_bali": 12,
           "photo_bali": 9,
           "transfer_bali": 13,
           "video_bali": 1,
@@ -2486,7 +2486,7 @@
         "housing": {
           "rent": 155,
           "roommate": 56,
-          "offer": 109
+          "offer": 112
         },
         "partial": true
       }
@@ -2588,16 +2588,16 @@
       },
       {
         "period": "2026-11",
-        "total": 2150,
+        "total": 2157,
         "by_niche": {
           "auto_bali": 33,
           "banya_bali": 5,
           "beauty_bali": 115,
-          "bikes_bali": 382,
+          "bikes_bali": 384,
           "games_bali": 149,
-          "handyman_bali": 29,
-          "housing_bali": 1198,
-          "massage_bali": 40,
+          "handyman_bali": 30,
+          "housing_bali": 1201,
+          "massage_bali": 41,
           "photo_bali": 31,
           "transfer_bali": 96,
           "video_bali": 14,
@@ -2607,7 +2607,7 @@
         "housing": {
           "rent": 586,
           "roommate": 203,
-          "offer": 409
+          "offer": 412
         },
         "partial": true
       }
@@ -2665,6 +2665,17 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-20T20:45",
+      "subtype": "rent",
+      "text": "Всем привет Подскажите, пожалуйста, для подачи на японскую визу нужны только оплаченные брони отелей или подойдут брони с оплатой на месте?"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-20T20:15",
+      "text": "Hi! I’m looking for a 2026 Honda ADV with low mileage. If you have one available, please send me the price, photos, model year, and current mileage. Thanks!"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-20T20:00",
@@ -2841,17 +2852,6 @@
       "at": "2026-11-20T12:00",
       "subtype": "rent",
       "text": "Вчера мы нашли вот такую маленькую девочку, и теперь ищем для неё любящий дом 🥹🤍 Она невероятно ласковая, ручная и тактильная. Постоянно тянется к человеку,…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-20T12:00",
-      "text": "Looking for NMAX NEW with flesh color Long term rent From this days 🚨🛵"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-20T11:45",
-      "subtype": "roommate",
-      "text": "Мы с молодым человеком ищем пару, чтобы вместе арендовать виллу. Хотим найти приятных, дружелюбных ребят, с которыми будет комфортно жить и делить расходы на…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2985,10 +2985,10 @@
     },
     {
       "geo": "Букит",
-      "n": 58,
+      "n": 59,
       "median": 22500000,
-      "p25": 15250000,
-      "p75": 29500000
+      "p25": 15000000,
+      "p75": 29000000
     },
     {
       "geo": "Берава",
@@ -3174,7 +3174,7 @@
         25,
         37,
         37,
-        22,
+        29,
         18,
         26,
         16
@@ -3727,7 +3727,7 @@
           5,
           9,
           9,
-          5,
+          7,
           4,
           5,
           2
@@ -3969,6 +3969,190 @@
           2
         ]
       ],
+      "handyman_bali": [
+        [
+          0,
+          0,
+          0,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          1,
+          1,
+          1,
+          3,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      ],
       "housing_bali": [
         [
           6,
@@ -4095,7 +4279,7 @@
           15,
           21,
           18,
-          13,
+          16,
           10,
           13,
           11
@@ -4279,7 +4463,7 @@
           0,
           0,
           0,
-          2,
+          3,
           2,
           1,
           0
