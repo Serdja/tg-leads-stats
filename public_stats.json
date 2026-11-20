@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-20T07:48:22.646423+08:00",
-  "all_time_total": 9690,
-  "last_30d_total": 3204,
+  "generated_at": "2026-11-20T08:49:43.861286+08:00",
+  "all_time_total": 9691,
+  "last_30d_total": 3205,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -87,8 +87,8 @@
     {
       "niche": "wedding_bali",
       "label": "💍 Свадьбы",
-      "last_30d": 14,
-      "all_time": 52
+      "last_30d": 15,
+      "all_time": 53
     },
     {
       "niche": "banya_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2081
+      "total": 2082
     }
   ],
   "system": {
-    "messages_scanned_total": 2210728,
-    "messages_scanned_30d": 915610,
-    "noise_filtered_total": 1249957,
-    "noise_filtered_30d": 564185,
-    "lead_sightings_total": 15934,
+    "messages_scanned_total": 2211193,
+    "messages_scanned_30d": 916075,
+    "noise_filtered_total": 1250181,
+    "noise_filtered_30d": 564409,
+    "lead_sightings_total": 15938,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2023,12 +2023,13 @@
       },
       {
         "period": "2026-11-20",
-        "total": 8,
+        "total": 9,
         "by_niche": {
           "bikes_bali": 1,
           "games_bali": 1,
           "housing_bali": 4,
-          "transfer_bali": 2
+          "transfer_bali": 2,
+          "wedding_bali": 1
         },
         "housing": {
           "rent": 2,
@@ -2461,7 +2462,7 @@
       },
       {
         "period": "2026-11-16",
-        "total": 488,
+        "total": 489,
         "by_niche": {
           "auto_bali": 7,
           "banya_bali": 1,
@@ -2474,7 +2475,8 @@
           "photo_bali": 7,
           "transfer_bali": 11,
           "video_bali": 1,
-          "visa_bali": 10
+          "visa_bali": 10,
+          "wedding_bali": 1
         },
         "housing": {
           "rent": 145,
@@ -2581,7 +2583,7 @@
       },
       {
         "period": "2026-11",
-        "total": 2081,
+        "total": 2082,
         "by_niche": {
           "auto_bali": 30,
           "banya_bali": 5,
@@ -2595,7 +2597,7 @@
           "transfer_bali": 94,
           "video_bali": 14,
           "visa_bali": 47,
-          "wedding_bali": 9
+          "wedding_bali": 10
         },
         "housing": {
           "rent": 576,
@@ -2658,6 +2660,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "wedding_bali",
+      "at": "2026-11-20T07:45",
+      "budget_m": 2,
+      "text": "💍 Бали признан лучшим свадебным направлением Азии в 2026 году! На премии [имя] Awards остров вновь получил титул Asia’s [имя] Destination 2026. И…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-20T07:30",
@@ -2840,12 +2848,6 @@
       "geo": "Убуд",
       "budget_m": 28,
       "text": "Ищу виллу с 3 спальнями, с бассейном, кухней на 2 месяца с 22.11, бюджет до 28 млн/месяц (кроме Убуд/Амед)"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-19T19:30",
-      "subtype": "rent",
-      "text": "Друзья, ищу домик — район [имя] и выше (как он называется?) С 28 декабря, кто то сдает пересдает? На 2 месяца 🌹"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3155,7 +3157,7 @@
         7,
         0,
         2,
-        10,
+        11,
         9,
         20,
         26,
