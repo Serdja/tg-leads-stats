@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-21T00:10:57.456628+08:00",
-  "all_time_total": 9775,
-  "last_30d_total": 3176,
+  "generated_at": "2026-11-21T01:12:17.437133+08:00",
+  "all_time_total": 9777,
+  "last_30d_total": 3178,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 559,
-      "all_time": 2039
+      "last_30d": 560,
+      "all_time": 2040
     },
     {
       "niche": "games_bali",
@@ -55,16 +55,16 @@
       "all_time": 270
     },
     {
+      "niche": "massage_bali",
+      "label": "💆 Массаж",
+      "last_30d": 51,
+      "all_time": 225
+    },
+    {
       "niche": "handyman_bali",
       "label": "🔧 Мастер на час",
       "last_30d": 50,
       "all_time": 302
-    },
-    {
-      "niche": "massage_bali",
-      "label": "💆 Массаж",
-      "last_30d": 50,
-      "all_time": 224
     },
     {
       "niche": "auto_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2166
+      "total": 2168
     }
   ],
   "system": {
-    "messages_scanned_total": 2235201,
-    "messages_scanned_30d": 905546,
-    "noise_filtered_total": 1265712,
-    "noise_filtered_30d": 558806,
-    "lead_sightings_total": 16132,
+    "messages_scanned_total": 2237121,
+    "messages_scanned_30d": 907466,
+    "noise_filtered_total": 1266951,
+    "noise_filtered_30d": 560045,
+    "lead_sightings_total": 16134,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2024,8 +2024,11 @@
       },
       {
         "period": "2026-11-21",
-        "total": 0,
-        "by_niche": {},
+        "total": 2,
+        "by_niche": {
+          "bikes_bali": 1,
+          "massage_bali": 1
+        },
         "housing": {
           "rent": 0,
           "roommate": 0,
@@ -2457,16 +2460,16 @@
       },
       {
         "period": "2026-11-16",
-        "total": 573,
+        "total": 575,
         "by_niche": {
           "auto_bali": 10,
           "banya_bali": 1,
           "beauty_bali": 28,
-          "bikes_bali": 111,
+          "bikes_bali": 112,
           "games_bali": 37,
           "handyman_bali": 10,
           "housing_bali": 328,
-          "massage_bali": 12,
+          "massage_bali": 13,
           "photo_bali": 9,
           "transfer_bali": 13,
           "video_bali": 1,
@@ -2578,16 +2581,16 @@
       },
       {
         "period": "2026-11",
-        "total": 2166,
+        "total": 2168,
         "by_niche": {
           "auto_bali": 33,
           "banya_bali": 5,
           "beauty_bali": 115,
-          "bikes_bali": 385,
+          "bikes_bali": 386,
           "games_bali": 150,
           "handyman_bali": 31,
           "housing_bali": 1206,
-          "massage_bali": 41,
+          "massage_bali": 42,
           "photo_bali": 31,
           "transfer_bali": 96,
           "video_bali": 14,
@@ -2655,6 +2658,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "massage_bali",
+      "at": "2026-11-21T01:00",
+      "text": "Ребята, на завтра нужна помощь со съемкой массажа на айфон. В районе 16.00 Может кто-то может помочь?"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-20T22:30",
@@ -2838,12 +2846,6 @@
       "geo": "Чангу",
       "budget_m": 60,
       "text": "Всем привет! 🌴 Ищу жильё на Бали с 24 ноября на 2–4 месяца. Рассматриваю два варианта: 🏠 1. Комната в вилле с соседями • Район: Чангу • Бюджет: до 20 млн рупий…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-20T15:00",
-      "subtype": "rent",
-      "text": "Нужно снять дом в ближайшее время. Есть у кого-нибудь варианты?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3172,8 +3174,8 @@
         16
       ],
       [
-        11,
-        7,
+        12,
+        8,
         7,
         10,
         8,
@@ -3541,7 +3543,7 @@
           2
         ],
         [
-          1,
+          2,
           1,
           1,
           1,
@@ -4278,7 +4280,7 @@
         ],
         [
           0,
-          0,
+          1,
           0,
           0,
           0,
