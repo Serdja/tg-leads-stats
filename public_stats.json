@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-21T02:13:40.065737+08:00",
-  "all_time_total": 9778,
-  "last_30d_total": 3179,
+  "generated_at": "2026-11-21T03:15:01.295064+08:00",
+  "all_time_total": 9779,
+  "last_30d_total": 3180,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 560,
-      "all_time": 2040
+      "last_30d": 561,
+      "all_time": 2041
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2169
+      "total": 2170
     }
   ],
   "system": {
-    "messages_scanned_total": 2238780,
-    "messages_scanned_30d": 909125,
-    "noise_filtered_total": 1268117,
-    "noise_filtered_30d": 561211,
-    "lead_sightings_total": 16135,
+    "messages_scanned_total": 2241366,
+    "messages_scanned_30d": 911711,
+    "noise_filtered_total": 1270196,
+    "noise_filtered_30d": 563290,
+    "lead_sightings_total": 16136,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2024,9 +2024,9 @@
       },
       {
         "period": "2026-11-21",
-        "total": 3,
+        "total": 4,
         "by_niche": {
-          "bikes_bali": 1,
+          "bikes_bali": 2,
           "handyman_bali": 1,
           "massage_bali": 1
         },
@@ -2461,12 +2461,12 @@
       },
       {
         "period": "2026-11-16",
-        "total": 576,
+        "total": 577,
         "by_niche": {
           "auto_bali": 10,
           "banya_bali": 1,
           "beauty_bali": 28,
-          "bikes_bali": 112,
+          "bikes_bali": 113,
           "games_bali": 37,
           "handyman_bali": 11,
           "housing_bali": 328,
@@ -2582,12 +2582,12 @@
       },
       {
         "period": "2026-11",
-        "total": 2169,
+        "total": 2170,
         "by_niche": {
           "auto_bali": 33,
           "banya_bali": 5,
           "beauty_bali": 115,
-          "bikes_bali": 386,
+          "bikes_bali": 387,
           "games_bali": 150,
           "handyman_bali": 32,
           "housing_bali": 1206,
@@ -2659,6 +2659,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-21T02:15",
+      "text": "Hi, I need an NMAX for a month; I'd like one that is like new, not with many kilometers. Price and photos in private."
+    },
     {
       "niche": "handyman_bali",
       "at": "2026-11-21T01:00",
@@ -2836,14 +2841,6 @@
       "subtype": "rent",
       "geo": "Санур",
       "text": "Всем привет, собираюсь на Бали первый раз. Может кто тоже планирует. Бали, Санур, вылет 28.11 из Москвы, 8 ночей, бронирую отель с завтраком и бассейном, ищу…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-20T15:30",
-      "subtype": "rent",
-      "geo": "Улувату",
-      "budget_m": 8,
-      "text": "Ребята всем привет! Мы с женой ищем кто комнату в вилле или виллу небольшую в районе Улувату без стройки под боком с 6 декабря по 20 декабря. Буду рад изучить…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3174,7 +3171,7 @@
       [
         12,
         9,
-        7,
+        8,
         10,
         8,
         4,
@@ -3543,7 +3540,7 @@
         [
           2,
           1,
-          1,
+          2,
           1,
           1,
           2,
