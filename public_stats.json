@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-21T06:19:06.113187+08:00",
-  "all_time_total": 9784,
-  "last_30d_total": 3185,
+  "generated_at": "2026-11-21T07:20:29.053877+08:00",
+  "all_time_total": 9786,
+  "last_30d_total": 3187,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1761,
-      "all_time": 4643,
+      "last_30d": 1762,
+      "all_time": 4644,
       "subtypes": {
         "rent": {
           "last_30d": 853,
@@ -19,8 +19,8 @@
           "all_time": 778
         },
         "offer": {
-          "last_30d": 613,
-          "all_time": 1507
+          "last_30d": 614,
+          "all_time": 1508
         }
       }
     },
@@ -51,8 +51,8 @@
     {
       "niche": "visa_bali",
       "label": "📄 Визы",
-      "last_30d": 76,
-      "all_time": 271
+      "last_30d": 77,
+      "all_time": 272
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2175
+      "total": 2177
     }
   ],
   "system": {
-    "messages_scanned_total": 2245384,
-    "messages_scanned_30d": 915729,
-    "noise_filtered_total": 1273040,
-    "noise_filtered_30d": 566134,
-    "lead_sightings_total": 16142,
+    "messages_scanned_total": 2245825,
+    "messages_scanned_30d": 916170,
+    "noise_filtered_total": 1273238,
+    "noise_filtered_30d": 566332,
+    "lead_sightings_total": 16146,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2024,19 +2024,19 @@
       },
       {
         "period": "2026-11-21",
-        "total": 9,
+        "total": 11,
         "by_niche": {
           "bikes_bali": 2,
           "games_bali": 3,
           "handyman_bali": 1,
-          "housing_bali": 1,
+          "housing_bali": 2,
           "massage_bali": 1,
-          "visa_bali": 1
+          "visa_bali": 2
         },
         "housing": {
           "rent": 1,
           "roommate": 0,
-          "offer": 0
+          "offer": 1
         }
       }
     ],
@@ -2464,7 +2464,7 @@
       },
       {
         "period": "2026-11-16",
-        "total": 582,
+        "total": 584,
         "by_niche": {
           "auto_bali": 10,
           "banya_bali": 1,
@@ -2472,18 +2472,18 @@
           "bikes_bali": 113,
           "games_bali": 40,
           "handyman_bali": 11,
-          "housing_bali": 329,
+          "housing_bali": 330,
           "massage_bali": 13,
           "photo_bali": 9,
           "transfer_bali": 13,
           "video_bali": 1,
-          "visa_bali": 12,
+          "visa_bali": 13,
           "wedding_bali": 2
         },
         "housing": {
           "rent": 159,
           "roommate": 57,
-          "offer": 113
+          "offer": 114
         },
         "partial": true
       }
@@ -2585,7 +2585,7 @@
       },
       {
         "period": "2026-11",
-        "total": 2175,
+        "total": 2177,
         "by_niche": {
           "auto_bali": 33,
           "banya_bali": 5,
@@ -2593,18 +2593,18 @@
           "bikes_bali": 387,
           "games_bali": 153,
           "handyman_bali": 32,
-          "housing_bali": 1207,
+          "housing_bali": 1208,
           "massage_bali": 42,
           "photo_bali": 31,
           "transfer_bali": 96,
           "video_bali": 14,
-          "visa_bali": 49,
+          "visa_bali": 50,
           "wedding_bali": 11
         },
         "housing": {
           "rent": 590,
           "roommate": 204,
-          "offer": 413
+          "offer": 414
         },
         "partial": true
       }
@@ -2662,6 +2662,11 @@
     }
   },
   "ticker": [
+    {
+      "niche": "visa_bali",
+      "at": "2026-11-21T06:30",
+      "text": "Скажите пожалуйста, если уезжать с Бали , нужно ли закрывать китас ? И если да , то возможно ли самому это сделать ?"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-21T03:30",
@@ -2837,12 +2842,6 @@
       "niche": "photo_bali",
       "at": "2026-11-20T16:30",
       "text": "Повторю запросик, ищу фотографа для взаимной фотосессии 😌 техника есть, хотелось бы навыки лучше чем у штатива, если вы понимаете о чем я 😎"
-    },
-    {
-      "niche": "massage_bali",
-      "at": "2026-11-20T16:15",
-      "geo": "Чангу",
-      "text": "Девочки, где в Чангу делаете антицеллюлитный массаж и сколько стоит?"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3177,7 +3176,7 @@
         13,
         8,
         6,
-        3,
+        5,
         3,
         8,
         11,
@@ -4098,7 +4097,7 @@
           7,
           5,
           1,
-          1,
+          2,
           0,
           5,
           3,
@@ -4650,7 +4649,7 @@
           1,
           1,
           0,
-          0,
+          1,
           1,
           0,
           1,
