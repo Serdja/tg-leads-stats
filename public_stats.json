@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-21T11:26:18.140014+08:00",
-  "all_time_total": 9800,
-  "last_30d_total": 3201,
+  "generated_at": "2026-11-21T12:27:43.656299+08:00",
+  "all_time_total": 9807,
+  "last_30d_total": 3208,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1768,
-      "all_time": 4650,
+      "last_30d": 1770,
+      "all_time": 4652,
       "subtypes": {
         "rent": {
           "last_30d": 856,
@@ -19,16 +19,16 @@
           "all_time": 780
         },
         "offer": {
-          "last_30d": 615,
-          "all_time": 1509
+          "last_30d": 617,
+          "all_time": 1511
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 564,
-      "all_time": 2044
+      "last_30d": 567,
+      "all_time": 2047
     },
     {
       "niche": "games_bali",
@@ -39,8 +39,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 186,
-      "all_time": 584
+      "last_30d": 187,
+      "all_time": 585
     },
     {
       "niche": "transfer_bali",
@@ -55,6 +55,12 @@
       "all_time": 272
     },
     {
+      "niche": "auto_bali",
+      "label": "🚙 Аренда авто",
+      "last_30d": 51,
+      "all_time": 178
+    },
+    {
       "niche": "handyman_bali",
       "label": "🔧 Мастер на час",
       "last_30d": 51,
@@ -65,12 +71,6 @@
       "label": "💆 Массаж",
       "last_30d": 51,
       "all_time": 225
-    },
-    {
-      "niche": "auto_bali",
-      "label": "🚙 Аренда авто",
-      "last_30d": 50,
-      "all_time": 177
     },
     {
       "niche": "photo_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2191
+      "total": 2198
     }
   ],
   "system": {
-    "messages_scanned_total": 2247550,
-    "messages_scanned_30d": 917895,
-    "noise_filtered_total": 1274079,
-    "noise_filtered_30d": 567173,
-    "lead_sightings_total": 16172,
+    "messages_scanned_total": 2248082,
+    "messages_scanned_30d": 918427,
+    "noise_filtered_total": 1274294,
+    "noise_filtered_30d": 567388,
+    "lead_sightings_total": 16181,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2024,21 +2024,21 @@
       },
       {
         "period": "2026-11-21",
-        "total": 25,
+        "total": 32,
         "by_niche": {
-          "auto_bali": 1,
-          "beauty_bali": 3,
-          "bikes_bali": 5,
+          "auto_bali": 2,
+          "beauty_bali": 4,
+          "bikes_bali": 8,
           "games_bali": 4,
           "handyman_bali": 1,
-          "housing_bali": 8,
+          "housing_bali": 10,
           "massage_bali": 1,
           "visa_bali": 2
         },
         "housing": {
           "rent": 4,
           "roommate": 2,
-          "offer": 2
+          "offer": 4
         }
       }
     ],
@@ -2466,15 +2466,15 @@
       },
       {
         "period": "2026-11-16",
-        "total": 598,
+        "total": 605,
         "by_niche": {
-          "auto_bali": 11,
+          "auto_bali": 12,
           "banya_bali": 1,
-          "beauty_bali": 31,
-          "bikes_bali": 116,
+          "beauty_bali": 32,
+          "bikes_bali": 119,
           "games_bali": 41,
           "handyman_bali": 11,
-          "housing_bali": 336,
+          "housing_bali": 338,
           "massage_bali": 13,
           "photo_bali": 9,
           "transfer_bali": 13,
@@ -2485,7 +2485,7 @@
         "housing": {
           "rent": 162,
           "roommate": 59,
-          "offer": 115
+          "offer": 117
         },
         "partial": true
       }
@@ -2587,15 +2587,15 @@
       },
       {
         "period": "2026-11",
-        "total": 2191,
+        "total": 2198,
         "by_niche": {
-          "auto_bali": 34,
+          "auto_bali": 35,
           "banya_bali": 5,
-          "beauty_bali": 118,
-          "bikes_bali": 390,
+          "beauty_bali": 119,
+          "bikes_bali": 393,
           "games_bali": 154,
           "handyman_bali": 32,
-          "housing_bali": 1214,
+          "housing_bali": 1216,
           "massage_bali": 42,
           "photo_bali": 31,
           "transfer_bali": 96,
@@ -2606,7 +2606,7 @@
         "housing": {
           "rent": 593,
           "roommate": 206,
-          "offer": 415
+          "offer": 417
         },
         "partial": true
       }
@@ -2664,6 +2664,31 @@
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-21T12:15",
+      "text": "Привет девочки! Где можно осветлить корни волос? Посоветуйте колориста"
+    },
+    {
+      "niche": "auto_bali",
+      "at": "2026-11-21T12:15",
+      "text": "Hi. Iam looking for a car rental per month, long term."
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-21T12:00",
+      "text": "I need Xmax for daily rent. Send me a photo, price and how much mileage🤝"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-21T12:00",
+      "text": "I want to rent a PINK scoopy"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-21T11:45",
+      "text": "Good afternoon, I need a scooter SCOOPY for 7 days (bright color, so it stands out)"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-21T11:15",
@@ -2813,34 +2838,6 @@
       "at": "2026-11-20T21:30",
       "subtype": "rent",
       "text": "Друзья, подскажите, пожалуйста, места типа Plagoo, но более новое и может с виллами 🙏 меня длительная аренда интересует"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-20T20:45",
-      "subtype": "rent",
-      "text": "Всем привет Подскажите, пожалуйста, для подачи на японскую визу нужны только оплаченные брони отелей или подойдут брони с оплатой на месте?"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-20T20:15",
-      "text": "Hi! I’m looking for a 2026 Honda ADV with low mileage. If you have one available, please send me the price, photos, model year, and current mileage. Thanks!"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-20T20:00",
-      "subtype": "rent",
-      "text": "Привет, подскажите пожалуйста, на сколько реально заряжать электрокар от зарядки на вилле? Возможно у кого то есть опыт"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-20T19:15",
-      "subtype": "rent",
-      "text": "Собираем участников на интересные поручения. Квесты, съёмки, различные мероприятия и другие направления. Не во всех направлениях нужен опыт, главное, быть…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-20T19:00",
-      "text": "Нужен байк н Макс на месяц"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3180,8 +3177,8 @@
         10,
         14,
         13,
-        14,
-        12,
+        16,
+        17,
         10,
         15,
         25,
@@ -3366,7 +3363,7 @@
           2,
           1,
           1,
-          0,
+          1,
           0,
           0,
           1,
@@ -3550,7 +3547,7 @@
           3,
           1,
           0,
-          2,
+          3,
           1,
           0,
           1,
@@ -3733,8 +3730,8 @@
           1,
           3,
           4,
-          3,
-          3,
+          4,
+          5,
           1,
           3,
           7,
@@ -4285,8 +4282,8 @@
           7,
           4,
           7,
-          7,
-          4,
+          8,
+          5,
           5,
           5,
           11,
