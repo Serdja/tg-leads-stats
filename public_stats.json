@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-21T20:39:13.426314+08:00",
-  "all_time_total": 9856,
-  "last_30d_total": 3257,
+  "generated_at": "2026-11-21T21:40:38.463586+08:00",
+  "all_time_total": 9858,
+  "last_30d_total": 3259,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1795,
-      "all_time": 4677,
+      "last_30d": 1796,
+      "all_time": 4678,
       "subtypes": {
         "rent": {
-          "last_30d": 866,
-          "all_time": 2371
+          "last_30d": 867,
+          "all_time": 2372
         },
         "roommate": {
           "last_30d": 298,
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 579,
-      "all_time": 2059
+      "last_30d": 580,
+      "all_time": 2060
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2247
+      "total": 2249
     }
   ],
   "system": {
-    "messages_scanned_total": 2262346,
-    "messages_scanned_30d": 932691,
-    "noise_filtered_total": 1283271,
-    "noise_filtered_30d": 576365,
-    "lead_sightings_total": 16271,
+    "messages_scanned_total": 2264318,
+    "messages_scanned_30d": 934663,
+    "noise_filtered_total": 1284609,
+    "noise_filtered_30d": 577703,
+    "lead_sightings_total": 16275,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2024,21 +2024,21 @@
       },
       {
         "period": "2026-11-21",
-        "total": 81,
+        "total": 83,
         "by_niche": {
           "auto_bali": 2,
           "beauty_bali": 6,
-          "bikes_bali": 20,
+          "bikes_bali": 21,
           "games_bali": 8,
           "handyman_bali": 3,
-          "housing_bali": 35,
+          "housing_bali": 36,
           "massage_bali": 1,
           "photo_bali": 2,
           "transfer_bali": 1,
           "visa_bali": 3
         },
         "housing": {
-          "rent": 14,
+          "rent": 15,
           "roommate": 3,
           "offer": 18
         }
@@ -2468,15 +2468,15 @@
       },
       {
         "period": "2026-11-16",
-        "total": 654,
+        "total": 656,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 1,
           "beauty_bali": 34,
-          "bikes_bali": 131,
+          "bikes_bali": 132,
           "games_bali": 45,
           "handyman_bali": 13,
-          "housing_bali": 363,
+          "housing_bali": 364,
           "massage_bali": 13,
           "photo_bali": 11,
           "transfer_bali": 14,
@@ -2485,7 +2485,7 @@
           "wedding_bali": 2
         },
         "housing": {
-          "rent": 172,
+          "rent": 173,
           "roommate": 60,
           "offer": 131
         },
@@ -2589,15 +2589,15 @@
       },
       {
         "period": "2026-11",
-        "total": 2247,
+        "total": 2249,
         "by_niche": {
           "auto_bali": 35,
           "banya_bali": 5,
           "beauty_bali": 121,
-          "bikes_bali": 405,
+          "bikes_bali": 406,
           "games_bali": 158,
           "handyman_bali": 34,
-          "housing_bali": 1241,
+          "housing_bali": 1242,
           "massage_bali": 42,
           "photo_bali": 33,
           "transfer_bali": 97,
@@ -2606,7 +2606,7 @@
           "wedding_bali": 11
         },
         "housing": {
-          "rent": 603,
+          "rent": 604,
           "roommate": 207,
           "offer": 431
         },
@@ -2657,7 +2657,7 @@
         "count": 37
       }
     ],
-    "geo_unknown": 264,
+    "geo_unknown": 265,
     "budget_idr": {
       "n": 641,
       "p25": 9500000,
@@ -2666,6 +2666,23 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-21T21:15",
+      "subtype": "rent",
+      "text": "Всем привет! Ищу жилье на Бали с 10 декабря на 2-4 месяца. Что важно? 1. Отсутствие плесени: 2+ этаж, солнечная сторона, не низина, хорошо проветривается. 2.…"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-21T21:00",
+      "text": "Hi, I’m looking for nmax from 27 November for 1 month"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-21T21:00",
+      "subtype": "rent",
+      "text": "Всем привет! Планирую переезд с сыном, ему сейчас 2,8 года. Очень хочется пообщаться с мамами, которые уже живут здесь постоянно, особенно если переезжали одни…"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-21T19:30",
@@ -2828,28 +2845,6 @@
       "subtype": "rent",
       "geo": "Сесех",
       "text": "Ищу хорошие апартаменты / гэст Чанг, сесех, без строек рядом и шумной дороги, так же без запаха плесени, на долгий срок!"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-21T14:30",
-      "subtype": "rent",
-      "geo": "Букит",
-      "budget_m": 8,
-      "text": "Всем привет🌸 Ищем аппартаменты/ комнату на вилле/ хороший гест на 2-3 месяца, возможно с последующим продлением на Буките🌴. ☑ Обязательно: 1. Кондиционер 2.…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-21T14:15",
-      "subtype": "rent",
-      "geo": "Сесех",
-      "text": "Всем привет! ❤️ Нашли маленького котёнка в районе Seseh, Бали. Ему примерно 4 недели. 🐱 Ищем добрых людей, которые могли бы забрать его к себе и подарить ему…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-21T14:15",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "text": "Ищу комнату на вилле в Чангу/сесех"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3043,7 +3038,7 @@
     "house": 58,
     "room": 101,
     "apartment": 43,
-    "unknown": 134
+    "unknown": 135
   },
   "activity_30d": {
     "all": [
@@ -3199,7 +3194,7 @@
         17,
         20,
         19,
-        22,
+        24,
         18,
         11
       ],
@@ -3752,7 +3747,7 @@
           3,
           6,
           4,
-          1,
+          2,
           3,
           0
         ],
@@ -4304,7 +4299,7 @@
           8,
           8,
           8,
-          11,
+          12,
           10,
           9
         ],
