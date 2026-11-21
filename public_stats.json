@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-21T16:33:32.541315+08:00",
-  "all_time_total": 9833,
-  "last_30d_total": 3234,
+  "generated_at": "2026-11-21T17:34:57.011470+08:00",
+  "all_time_total": 9843,
+  "last_30d_total": 3244,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1786,
-      "all_time": 4668,
+      "last_30d": 1791,
+      "all_time": 4673,
       "subtypes": {
         "rent": {
           "last_30d": 863,
@@ -19,22 +19,22 @@
           "all_time": 781
         },
         "offer": {
-          "last_30d": 625,
-          "all_time": 1519
+          "last_30d": 630,
+          "all_time": 1524
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 571,
-      "all_time": 2051
+      "last_30d": 574,
+      "all_time": 2054
     },
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 214,
-      "all_time": 587
+      "last_30d": 215,
+      "all_time": 588
     },
     {
       "niche": "beauty_bali",
@@ -51,8 +51,8 @@
     {
       "niche": "visa_bali",
       "label": "📄 Визы",
-      "last_30d": 77,
-      "all_time": 272
+      "last_30d": 78,
+      "all_time": 273
     },
     {
       "niche": "handyman_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2224
+      "total": 2234
     }
   ],
   "system": {
-    "messages_scanned_total": 2254535,
-    "messages_scanned_30d": 924880,
-    "noise_filtered_total": 1278186,
-    "noise_filtered_30d": 571280,
-    "lead_sightings_total": 16235,
+    "messages_scanned_total": 2256497,
+    "messages_scanned_30d": 926842,
+    "noise_filtered_total": 1279396,
+    "noise_filtered_30d": 572490,
+    "lead_sightings_total": 16250,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2024,22 +2024,22 @@
       },
       {
         "period": "2026-11-21",
-        "total": 58,
+        "total": 68,
         "by_niche": {
           "auto_bali": 2,
           "beauty_bali": 6,
-          "bikes_bali": 12,
-          "games_bali": 6,
+          "bikes_bali": 15,
+          "games_bali": 7,
           "handyman_bali": 2,
-          "housing_bali": 26,
+          "housing_bali": 31,
           "massage_bali": 1,
           "photo_bali": 1,
-          "visa_bali": 2
+          "visa_bali": 3
         },
         "housing": {
           "rent": 11,
           "roommate": 3,
-          "offer": 12
+          "offer": 17
         }
       }
     ],
@@ -2467,26 +2467,26 @@
       },
       {
         "period": "2026-11-16",
-        "total": 631,
+        "total": 641,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 1,
           "beauty_bali": 34,
-          "bikes_bali": 123,
-          "games_bali": 43,
+          "bikes_bali": 126,
+          "games_bali": 44,
           "handyman_bali": 12,
-          "housing_bali": 354,
+          "housing_bali": 359,
           "massage_bali": 13,
           "photo_bali": 10,
           "transfer_bali": 13,
           "video_bali": 1,
-          "visa_bali": 13,
+          "visa_bali": 14,
           "wedding_bali": 2
         },
         "housing": {
           "rent": 169,
           "roommate": 60,
-          "offer": 125
+          "offer": 130
         },
         "partial": true
       }
@@ -2588,26 +2588,26 @@
       },
       {
         "period": "2026-11",
-        "total": 2224,
+        "total": 2234,
         "by_niche": {
           "auto_bali": 35,
           "banya_bali": 5,
           "beauty_bali": 121,
-          "bikes_bali": 397,
-          "games_bali": 156,
+          "bikes_bali": 400,
+          "games_bali": 157,
           "handyman_bali": 33,
-          "housing_bali": 1232,
+          "housing_bali": 1237,
           "massage_bali": 42,
           "photo_bali": 32,
           "transfer_bali": 96,
           "video_bali": 14,
-          "visa_bali": 50,
+          "visa_bali": 51,
           "wedding_bali": 11
         },
         "housing": {
           "rent": 600,
           "roommate": 207,
-          "offer": 425
+          "offer": 430
         },
         "partial": true
       }
@@ -2665,6 +2665,27 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-21T17:30",
+      "text": "Hi. I am looking for a new or very low-mileage Xmax. Long-term rental, 5–6 months."
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-21T17:00",
+      "budget_m": 5,
+      "text": "Ready ✅New XMAX 2026 Price : 4-7 days = 285/day : 8-14 days = 255k/day : 1 mounth = 4.5 million Spesial price for long term Includes : Phoneholder : Helmet 📲…"
+    },
+    {
+      "niche": "visa_bali",
+      "at": "2026-11-21T16:45",
+      "text": "Если не получается оформить визу, можно будет в аэропорту её получить. Билет нужен на вылет из Индонезии в соответствии с правилами въезда, могут спросить ещё…"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-21T16:30",
+      "text": "Hello 👋 want to buy old ADV Price dm"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-21T15:30",
@@ -2824,30 +2845,6 @@
       "at": "2026-11-21T11:00",
       "budget_m": 25,
       "text": "Также с подругой ищем компанию для совместного времяпровождения, дружеского общения, поездок по острову, с удовольствием разделили бы аренду машины,…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-21T10:45",
-      "subtype": "roommate",
-      "geo": "Улувату",
-      "text": "Привет всем🫶 ищу комнату на Улувату по ближе к хорошим локациям и без шума ремонтов, тараканов. нужно переехать уже завтра или после завтра. отправьте сразу…"
-    },
-    {
-      "niche": "beauty_bali",
-      "at": "2026-11-21T10:15",
-      "geo": "Чангу",
-      "text": "Посоветуйте лучший барбер в Чангу"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-21T10:00",
-      "subtype": "rent",
-      "text": "Кто разбирается в электрике ? Нужно заменить несколько розеток и выключателей в квартире , оплату согласуем"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-21T10:00",
-      "text": "Hi! I need a fazzio for the long term—3–4 months."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3192,8 +3189,8 @@
         13,
         20,
         38,
+        27,
         25,
-        17,
         16,
         13,
         16,
@@ -3745,8 +3742,8 @@
           1,
           4,
           9,
-          6,
-          2,
+          7,
+          4,
           2,
           2,
           4,
@@ -3930,7 +3927,7 @@
           2,
           4,
           2,
-          3,
+          4,
           2,
           2,
           2,
@@ -4298,7 +4295,7 @@
           9,
           18,
           12,
-          8,
+          13,
           8,
           6,
           7,
@@ -4849,7 +4846,7 @@
           1,
           0,
           0,
-          1,
+          2,
           1,
           0,
           1,
