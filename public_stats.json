@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-22T03:48:50.044641+08:00",
+  "generated_at": "2026-11-22T04:50:11.885461+08:00",
   "all_time_total": 9879,
   "last_30d_total": 3169,
   "by_niche": [
@@ -130,10 +130,10 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 2274783,
-    "messages_scanned_30d": 906740,
-    "noise_filtered_total": 1291690,
-    "noise_filtered_30d": 561285,
+    "messages_scanned_total": 2276096,
+    "messages_scanned_30d": 908053,
+    "noise_filtered_total": 1292535,
+    "noise_filtered_30d": 562130,
     "lead_sightings_total": 16319,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
@@ -2662,6 +2662,12 @@
   "ticker": [
     {
       "niche": "housing_bali",
+      "at": "2026-11-22T04:15",
+      "subtype": "rent",
+      "text": "🍂 Друзья, приглашаю вас на бесплатные онлайн-разборы! В субботу 28 ноября в 13:00 я планирую провести индивидуальные онлайн-консультации для подписчиков…"
+    },
+    {
+      "niche": "housing_bali",
       "at": "2026-11-22T03:30",
       "subtype": "roommate",
       "geo": "Чангу",
@@ -2834,13 +2840,6 @@
       "niche": "bikes_bali",
       "at": "2026-11-21T18:00",
       "text": "Хай гайз. Всё ещё ищу кому бы сдать свой байк."
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-21T17:45",
-      "subtype": "roommate",
-      "geo": "Улувату",
-      "text": "Саламчик) хочу на след неделе переехать в улувату на месяцок, нашла виллу прикольную 2В с джакузи на крыше, ищу компаньона. Пиши в лс"
     }
   ],
   "housing_budget_by_geo_90d": [
