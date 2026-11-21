@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-22T00:44:52.464411+08:00",
-  "all_time_total": 9872,
-  "last_30d_total": 3162,
+  "generated_at": "2026-11-22T01:46:10.567518+08:00",
+  "all_time_total": 9875,
+  "last_30d_total": 3165,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1725,
-      "all_time": 4685,
+      "last_30d": 1726,
+      "all_time": 4686,
       "subtypes": {
         "rent": {
           "last_30d": 844,
@@ -19,16 +19,16 @@
           "all_time": 781
         },
         "offer": {
-          "last_30d": 603,
-          "all_time": 1527
+          "last_30d": 604,
+          "all_time": 1528
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 569,
-      "all_time": 2062
+      "last_30d": 570,
+      "all_time": 2063
     },
     {
       "niche": "games_bali",
@@ -75,8 +75,8 @@
     {
       "niche": "photo_bali",
       "label": "📸 Фотограф",
-      "last_30d": 47,
-      "all_time": 239
+      "last_30d": 48,
+      "all_time": 240
     },
     {
       "niche": "video_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2263
+      "total": 2266
     }
   ],
   "system": {
-    "messages_scanned_total": 2270282,
-    "messages_scanned_30d": 902239,
-    "noise_filtered_total": 1288642,
-    "noise_filtered_30d": 558237,
-    "lead_sightings_total": 16308,
+    "messages_scanned_total": 2272075,
+    "messages_scanned_30d": 904032,
+    "noise_filtered_total": 1289851,
+    "noise_filtered_30d": 559446,
+    "lead_sightings_total": 16313,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2023,15 +2023,17 @@
       },
       {
         "period": "2026-11-22",
-        "total": 2,
+        "total": 5,
         "by_niche": {
-          "bikes_bali": 1,
+          "bikes_bali": 2,
+          "housing_bali": 1,
+          "photo_bali": 1,
           "transfer_bali": 1
         },
         "housing": {
           "rent": 0,
           "roommate": 0,
-          "offer": 0
+          "offer": 1
         }
       }
     ],
@@ -2459,17 +2461,17 @@
       },
       {
         "period": "2026-11-16",
-        "total": 670,
+        "total": 673,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 1,
           "beauty_bali": 35,
-          "bikes_bali": 134,
+          "bikes_bali": 135,
           "games_bali": 45,
           "handyman_bali": 13,
-          "housing_bali": 371,
+          "housing_bali": 372,
           "massage_bali": 13,
-          "photo_bali": 11,
+          "photo_bali": 12,
           "transfer_bali": 16,
           "video_bali": 1,
           "visa_bali": 16,
@@ -2478,7 +2480,7 @@
         "housing": {
           "rent": 178,
           "roommate": 60,
-          "offer": 133
+          "offer": 134
         },
         "partial": false
       }
@@ -2580,17 +2582,17 @@
       },
       {
         "period": "2026-11",
-        "total": 2263,
+        "total": 2266,
         "by_niche": {
           "auto_bali": 35,
           "banya_bali": 5,
           "beauty_bali": 122,
-          "bikes_bali": 408,
+          "bikes_bali": 409,
           "games_bali": 158,
           "handyman_bali": 34,
-          "housing_bali": 1249,
+          "housing_bali": 1250,
           "massage_bali": 42,
-          "photo_bali": 33,
+          "photo_bali": 34,
           "transfer_bali": 99,
           "video_bali": 14,
           "visa_bali": 53,
@@ -2599,7 +2601,7 @@
         "housing": {
           "rent": 609,
           "roommate": 207,
-          "offer": 433
+          "offer": 434
         },
         "partial": true
       }
@@ -2657,6 +2659,18 @@
     }
   },
   "ticker": [
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-22T01:00",
+      "text": "Hi! In looking for pcx, adv or nmax with interesting colors"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-22T01:00",
+      "subtype": "rent",
+      "geo": "Чангу",
+      "text": "Здравствуйте, девочки! Подскажите, пожалуйста, мастера по ресничкам в районе Чангу с выездом на дом🙏🏼🙏🏼🤍"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-22T00:30",
@@ -2826,17 +2840,6 @@
       "niche": "bikes_bali",
       "at": "2026-11-21T17:30",
       "text": "Hi. I am looking for a new or very low-mileage Xmax. Long-term rental, 5–6 months."
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-21T17:00",
-      "budget_m": 5,
-      "text": "Ready ✅New XMAX 2026 Price : 4-7 days = 285/day : 8-14 days = 255k/day : 1 mounth = 4.5 million Spesial price for long term Includes : Phoneholder : Helmet 📲…"
-    },
-    {
-      "niche": "visa_bali",
-      "at": "2026-11-21T16:45",
-      "text": "Если не получается оформить визу, можно будет в аэропорту её получить. Билет нужен на вылет из Индонезии в соответствии с правилами въезда, могут спросить ещё…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2970,10 +2973,10 @@
     },
     {
       "geo": "Букит",
-      "n": 59,
+      "n": 60,
       "median": 22500000,
       "p25": 15000000,
-      "p75": 29000000
+      "p75": 30000000
     },
     {
       "geo": "Берава",
@@ -3192,7 +3195,7 @@
       ],
       [
         11,
-        5,
+        8,
         6,
         1,
         0,
@@ -3745,7 +3748,7 @@
         ],
         [
           1,
-          1,
+          2,
           1,
           1,
           0,
@@ -4297,7 +4300,7 @@
         ],
         [
           6,
-          4,
+          5,
           4,
           0,
           0,
