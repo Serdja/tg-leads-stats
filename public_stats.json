@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-22T04:50:11.885461+08:00",
-  "all_time_total": 9879,
-  "last_30d_total": 3169,
+  "generated_at": "2026-11-22T05:51:33.908342+08:00",
+  "all_time_total": 9881,
+  "last_30d_total": 3171,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -57,20 +57,20 @@
     {
       "niche": "handyman_bali",
       "label": "🔧 Мастер на час",
-      "last_30d": 53,
-      "all_time": 306
+      "last_30d": 54,
+      "all_time": 307
+    },
+    {
+      "niche": "massage_bali",
+      "label": "💆 Массаж",
+      "last_30d": 52,
+      "all_time": 226
     },
     {
       "niche": "auto_bali",
       "label": "🚙 Аренда авто",
       "last_30d": 51,
       "all_time": 178
-    },
-    {
-      "niche": "massage_bali",
-      "label": "💆 Массаж",
-      "last_30d": 51,
-      "all_time": 225
     },
     {
       "niche": "photo_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2270
+      "total": 2272
     }
   ],
   "system": {
-    "messages_scanned_total": 2276096,
-    "messages_scanned_30d": 908053,
-    "noise_filtered_total": 1292535,
-    "noise_filtered_30d": 562130,
-    "lead_sightings_total": 16319,
+    "messages_scanned_total": 2277042,
+    "messages_scanned_30d": 908999,
+    "noise_filtered_total": 1293154,
+    "noise_filtered_30d": 562749,
+    "lead_sightings_total": 16321,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2023,11 +2023,12 @@
       },
       {
         "period": "2026-11-22",
-        "total": 9,
+        "total": 11,
         "by_niche": {
           "bikes_bali": 2,
-          "handyman_bali": 1,
+          "handyman_bali": 2,
           "housing_bali": 3,
+          "massage_bali": 1,
           "photo_bali": 1,
           "transfer_bali": 2
         },
@@ -2462,16 +2463,16 @@
       },
       {
         "period": "2026-11-16",
-        "total": 677,
+        "total": 679,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 1,
           "beauty_bali": 35,
           "bikes_bali": 135,
           "games_bali": 45,
-          "handyman_bali": 14,
+          "handyman_bali": 15,
           "housing_bali": 374,
-          "massage_bali": 13,
+          "massage_bali": 14,
           "photo_bali": 12,
           "transfer_bali": 17,
           "video_bali": 1,
@@ -2583,16 +2584,16 @@
       },
       {
         "period": "2026-11",
-        "total": 2270,
+        "total": 2272,
         "by_niche": {
           "auto_bali": 35,
           "banya_bali": 5,
           "beauty_bali": 122,
           "bikes_bali": 409,
           "games_bali": 158,
-          "handyman_bali": 35,
+          "handyman_bali": 36,
           "housing_bali": 1252,
-          "massage_bali": 42,
+          "massage_bali": 43,
           "photo_bali": 34,
           "transfer_bali": 100,
           "video_bali": 14,
@@ -2660,6 +2661,22 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-22T05:45",
+      "subtype": "rent",
+      "text": "🚨Кто искал ра60ту ? Сейчас идёт набor в к0мaнду. Рa6отаем с рeклaмой фeйсбук Удaлёнка, гибкий гpaфик 🎯5OO–1OOO баkcoв за недeлю (зависит от включённости, а не…"
+    },
+    {
+      "niche": "handyman_bali",
+      "at": "2026-11-22T05:15",
+      "text": "Ковыряние чего? Прокалывающий щуп не оставляет следов, но, как правило, даже он не нужен. Я не про воровство электроэнергии, но, если сломалось что то, я…"
+    },
+    {
+      "niche": "massage_bali",
+      "at": "2026-11-22T05:15",
+      "text": "Народ, подскажите , а вот тут в массажках все также происходит как и в тайланде"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-22T04:15",
@@ -2824,22 +2841,6 @@
       "subtype": "rent",
       "geo": "Санур",
       "text": "Спасибо большое. Подскажите пожалуйста, нужна вилла 2-3 спальни с бассейном с 14 декабря по 4 января район Санур, кто может помочь с поиском и бронированием?🙏🏻"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-21T19:00",
-      "text": "Првиет! Посоветуйте пожалуйста, где можно арендовать мотоцикл?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-21T18:45",
-      "subtype": "rent",
-      "text": "Девочки, ищу участницу в группу по турецкому 🇹🇷 С нуля можно Урок- знакомство индивидуальный бесплатно Пиши «Турецкий» в личку"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-21T18:00",
-      "text": "Хай гайз. Всё ещё ищу кому бы сдать свой байк."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3199,7 +3200,7 @@
         7,
         4,
         0,
-        0,
+        2,
         2,
         3,
         48,
@@ -4120,7 +4121,7 @@
           0,
           1,
           0,
-          0,
+          1,
           0,
           0,
           0,
@@ -4488,7 +4489,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0,
           2,
