@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-22T19:10:12.520221+08:00",
-  "all_time_total": 9926,
-  "last_30d_total": 3216,
+  "generated_at": "2026-11-22T20:11:39.188248+08:00",
+  "all_time_total": 9930,
+  "last_30d_total": 3220,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1751,
-      "all_time": 4711,
+      "last_30d": 1753,
+      "all_time": 4713,
       "subtypes": {
         "rent": {
           "last_30d": 853,
           "all_time": 2386
         },
         "roommate": {
-          "last_30d": 285,
-          "all_time": 788
+          "last_30d": 287,
+          "all_time": 790
         },
         "offer": {
           "last_30d": 613,
@@ -33,14 +33,14 @@
     {
       "niche": "games_bali",
       "label": "🎲 Игры и эвенты",
-      "last_30d": 216,
-      "all_time": 592
+      "last_30d": 217,
+      "all_time": 593
     },
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 183,
-      "all_time": 591
+      "last_30d": 184,
+      "all_time": 592
     },
     {
       "niche": "transfer_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2317
+      "total": 2321
     }
   ],
   "system": {
-    "messages_scanned_total": 2290941,
-    "messages_scanned_30d": 922898,
-    "noise_filtered_total": 1301981,
-    "noise_filtered_30d": 571576,
-    "lead_sightings_total": 16395,
+    "messages_scanned_total": 2292899,
+    "messages_scanned_30d": 924856,
+    "noise_filtered_total": 1303346,
+    "noise_filtered_30d": 572941,
+    "lead_sightings_total": 16405,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2023,21 +2023,21 @@
       },
       {
         "period": "2026-11-22",
-        "total": 56,
+        "total": 60,
         "by_niche": {
           "auto_bali": 1,
-          "beauty_bali": 3,
+          "beauty_bali": 4,
           "bikes_bali": 12,
-          "games_bali": 3,
+          "games_bali": 4,
           "handyman_bali": 3,
-          "housing_bali": 26,
+          "housing_bali": 28,
           "massage_bali": 3,
           "photo_bali": 2,
           "transfer_bali": 3
         },
         "housing": {
           "rent": 9,
-          "roommate": 7,
+          "roommate": 9,
           "offer": 10
         }
       }
@@ -2466,15 +2466,15 @@
       },
       {
         "period": "2026-11-16",
-        "total": 724,
+        "total": 728,
         "by_niche": {
           "auto_bali": 13,
           "banya_bali": 1,
-          "beauty_bali": 38,
+          "beauty_bali": 39,
           "bikes_bali": 145,
-          "games_bali": 48,
+          "games_bali": 49,
           "handyman_bali": 16,
-          "housing_bali": 397,
+          "housing_bali": 399,
           "massage_bali": 16,
           "photo_bali": 13,
           "transfer_bali": 18,
@@ -2484,7 +2484,7 @@
         },
         "housing": {
           "rent": 187,
-          "roommate": 67,
+          "roommate": 69,
           "offer": 143
         },
         "partial": false
@@ -2587,15 +2587,15 @@
       },
       {
         "period": "2026-11",
-        "total": 2317,
+        "total": 2321,
         "by_niche": {
           "auto_bali": 36,
           "banya_bali": 5,
-          "beauty_bali": 125,
+          "beauty_bali": 126,
           "bikes_bali": 419,
-          "games_bali": 161,
+          "games_bali": 162,
           "handyman_bali": 37,
-          "housing_bali": 1275,
+          "housing_bali": 1277,
           "massage_bali": 45,
           "photo_bali": 35,
           "transfer_bali": 101,
@@ -2605,7 +2605,7 @@
         },
         "housing": {
           "rent": 618,
-          "roommate": 214,
+          "roommate": 216,
           "offer": 443
         },
         "partial": true
@@ -2624,7 +2624,7 @@
       },
       {
         "geo": "Сесех",
-        "count": 157
+        "count": 158
       },
       {
         "geo": "Букит",
@@ -2636,7 +2636,7 @@
       },
       {
         "geo": "Переренан",
-        "count": 88
+        "count": 89
       },
       {
         "geo": "Унгасан",
@@ -2657,13 +2657,33 @@
     ],
     "geo_unknown": 266,
     "budget_idr": {
-      "n": 619,
+      "n": 620,
       "p25": 9500000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-22T20:00",
+      "subtype": "roommate",
+      "geo": "Сесех",
+      "text": "Ищу комнату Сесех, Переренан или рядышком, с 27 ноября по 24 дек. Спасибо!"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-22T19:45",
+      "subtype": "roommate",
+      "geo": "Джимбаран",
+      "budget_m": 39,
+      "text": "📍Нуса-Дуа С 22.11 ищем соседей от 3 мес проживания в просторную комнату с двумя помещениями и ТВ 🏠 Новая свежая 3х этажная вилла после реновации 🛜 WiFi 100Mbps…"
+    },
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-22T19:30",
+      "text": "Всем привет, вопрос к девочкам: если наращиваете ресницы, то где? Сколько стоит и сколько делают по времени, плохо или хорошо в целом тут развита эта сфера?…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-22T19:00",
@@ -2835,25 +2855,6 @@
       "subtype": "rent",
       "geo": "Чангу",
       "text": "Ищу помощницу/помощника для проведения киновечеров в красивом ресторане в Чангу. Протекшен согласован. В ресторане ежедневная экосистема мероприятий. Сегодня…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-22T11:30",
-      "subtype": "rent",
-      "text": "Здравствуйте, нужно в комнате разрисовать стену в стиле супергероев Марвел"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-22T11:15",
-      "text": "Подскажите кто знает - можно ли оставить байк в Падангбее, есть там паркинги на 4 дня?"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-22T10:30",
-      "subtype": "rent",
-      "geo": "Джимбаран",
-      "budget_m": 8,
-      "text": "Ищу жильё на Бали (Джимбаран / Букит / Унгасан ) 📅 Даты: с 8 декабря на 3 недели 🏡 Формат: уютная комната в гестхаусе или небольшой дом с зелёной территорией /…"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2936,10 +2937,10 @@
     },
     {
       "geo": "Джимбаран",
-      "n": 54,
-      "median": 11000000,
+      "n": 55,
+      "median": 12000000,
       "p25": 8000000,
-      "p75": 17250000
+      "p75": 19000000
     },
     {
       "geo": "Керобокан",
@@ -3043,9 +3044,9 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 801,
+    "villa": 802,
     "house": 55,
-    "room": 105,
+    "room": 106,
     "apartment": 41,
     "unknown": 136
   },
@@ -3227,8 +3228,8 @@
         29,
         17,
         22,
-        19,
-        40,
+        22,
+        41,
         16,
         23,
         17
@@ -3596,7 +3597,7 @@
           2,
           1,
           0,
-          2,
+          3,
           1,
           2,
           0,
@@ -3964,7 +3965,7 @@
           2,
           0,
           2,
-          2,
+          3,
           3,
           2,
           3,
@@ -4332,8 +4333,8 @@
           13,
           10,
           12,
-          9,
-          21,
+          10,
+          22,
           9,
           15,
           11
