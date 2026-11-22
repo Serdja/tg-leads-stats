@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-23T06:25:45.891089+08:00",
-  "all_time_total": 9972,
-  "last_30d_total": 3150,
+  "generated_at": "2026-11-23T07:27:04.895984+08:00",
+  "all_time_total": 9973,
+  "last_30d_total": 3151,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1718,
-      "all_time": 4741,
+      "last_30d": 1719,
+      "all_time": 4742,
       "subtypes": {
         "rent": {
           "last_30d": 836,
@@ -19,8 +19,8 @@
           "all_time": 796
         },
         "offer": {
-          "last_30d": 598,
-          "all_time": 1545
+          "last_30d": 599,
+          "all_time": 1546
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2363
+      "total": 2364
     }
   ],
   "system": {
-    "messages_scanned_total": 2307812,
-    "messages_scanned_30d": 904065,
-    "noise_filtered_total": 1313200,
-    "noise_filtered_30d": 561868,
-    "lead_sightings_total": 16496,
+    "messages_scanned_total": 2308122,
+    "messages_scanned_30d": 904375,
+    "noise_filtered_total": 1313378,
+    "noise_filtered_30d": 562046,
+    "lead_sightings_total": 16499,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2022,18 +2022,18 @@
       },
       {
         "period": "2026-11-23",
-        "total": 19,
+        "total": 20,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 1,
           "bikes_bali": 3,
-          "housing_bali": 13,
+          "housing_bali": 14,
           "transfer_bali": 1
         },
         "housing": {
           "rent": 7,
           "roommate": 2,
-          "offer": 4
+          "offer": 5
         }
       }
     ],
@@ -2486,18 +2486,18 @@
       },
       {
         "period": "2026-11-23",
-        "total": 19,
+        "total": 20,
         "by_niche": {
           "auto_bali": 1,
           "beauty_bali": 1,
           "bikes_bali": 3,
-          "housing_bali": 13,
+          "housing_bali": 14,
           "transfer_bali": 1
         },
         "housing": {
           "rent": 7,
           "roommate": 2,
-          "offer": 4
+          "offer": 5
         },
         "partial": true
       }
@@ -2599,7 +2599,7 @@
       },
       {
         "period": "2026-11",
-        "total": 2363,
+        "total": 2364,
         "by_niche": {
           "auto_bali": 37,
           "banya_bali": 5,
@@ -2607,7 +2607,7 @@
           "bikes_bali": 426,
           "games_bali": 162,
           "handyman_bali": 38,
-          "housing_bali": 1305,
+          "housing_bali": 1306,
           "massage_bali": 45,
           "photo_bali": 35,
           "transfer_bali": 104,
@@ -2618,7 +2618,7 @@
         "housing": {
           "rent": 632,
           "roommate": 222,
-          "offer": 451
+          "offer": 452
         },
         "partial": true
       }
@@ -2676,6 +2676,14 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-23T07:15",
+      "subtype": "rent",
+      "geo": "Улувату",
+      "budget_m": 16,
+      "text": "Бунгало с 1 спальней в самом сердце Улувату Отличное расположение — за Lola’s, в пешей доступности от пляжа [имя], а также лучших ресторанов и баров Улувату…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-23T05:45",
@@ -2864,12 +2872,6 @@
       "niche": "transfer_bali",
       "at": "2026-11-22T20:45",
       "text": "Ищу водителей от 1000+ $$$"
-    },
-    {
-      "niche": "transfer_bali",
-      "at": "2026-11-22T20:45",
-      "budget_m": 16,
-      "text": "Есть права ? ищу водителя , даю от 1000$ за рейс"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3075,7 +3077,7 @@
         12,
         3,
         2,
-        5,
+        6,
         6,
         26,
         32,
@@ -4180,7 +4182,7 @@
           8,
           2,
           1,
-          1,
+          2,
           3,
           14,
           17,
