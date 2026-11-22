@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-22T07:54:14.972842+08:00",
-  "all_time_total": 9883,
-  "last_30d_total": 3173,
+  "generated_at": "2026-11-22T08:55:36.813152+08:00",
+  "all_time_total": 9885,
+  "last_30d_total": 3175,
   "by_niche": [
     {
       "niche": "housing_bali",
@@ -27,8 +27,8 @@
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 570,
-      "all_time": 2063
+      "last_30d": 571,
+      "all_time": 2064
     },
     {
       "niche": "games_bali",
@@ -39,8 +39,8 @@
     {
       "niche": "beauty_bali",
       "label": "💅 Красота",
-      "last_30d": 180,
-      "all_time": 588
+      "last_30d": 181,
+      "all_time": 589
     },
     {
       "niche": "transfer_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2274
+      "total": 2276
     }
   ],
   "system": {
-    "messages_scanned_total": 2277830,
-    "messages_scanned_30d": 909787,
-    "noise_filtered_total": 1293513,
-    "noise_filtered_30d": 563108,
-    "lead_sightings_total": 16323,
+    "messages_scanned_total": 2278264,
+    "messages_scanned_30d": 910221,
+    "noise_filtered_total": 1293736,
+    "noise_filtered_30d": 563331,
+    "lead_sightings_total": 16325,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2023,9 +2023,10 @@
       },
       {
         "period": "2026-11-22",
-        "total": 13,
+        "total": 15,
         "by_niche": {
-          "bikes_bali": 2,
+          "beauty_bali": 1,
+          "bikes_bali": 3,
           "games_bali": 1,
           "handyman_bali": 2,
           "housing_bali": 4,
@@ -2464,12 +2465,12 @@
       },
       {
         "period": "2026-11-16",
-        "total": 681,
+        "total": 683,
         "by_niche": {
           "auto_bali": 12,
           "banya_bali": 1,
-          "beauty_bali": 35,
-          "bikes_bali": 135,
+          "beauty_bali": 36,
+          "bikes_bali": 136,
           "games_bali": 46,
           "handyman_bali": 15,
           "housing_bali": 375,
@@ -2585,12 +2586,12 @@
       },
       {
         "period": "2026-11",
-        "total": 2274,
+        "total": 2276,
         "by_niche": {
           "auto_bali": 35,
           "banya_bali": 5,
-          "beauty_bali": 122,
-          "bikes_bali": 409,
+          "beauty_bali": 123,
+          "bikes_bali": 410,
           "games_bali": 159,
           "handyman_bali": 36,
           "housing_bali": 1253,
@@ -2662,6 +2663,17 @@
     }
   },
   "ticker": [
+    {
+      "niche": "beauty_bali",
+      "at": "2026-11-22T08:30",
+      "geo": "Чангу",
+      "text": "Всем привет, подскажите пожалуйста, где можно в Чангу сделать стрижку нормально? Или в целом здесь с этим проблем нет?"
+    },
+    {
+      "niche": "bikes_bali",
+      "at": "2026-11-22T08:30",
+      "text": "Здравствуйте. Нужен N max на 2 недели, напишите в личку. Halo, saya sedang mencari sewa Yamaha NMAX selama 2 minggu. Silakan DM saya. Terima kasih!"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-22T07:15",
@@ -2830,18 +2842,6 @@
       "geo": "Чангу",
       "budget_m": 15,
       "text": "Всем привет! Ищем с девушкой виллу/комнату в хорошем гестхаусе или может кто-то совместно хочет снять. Готовы смотреть и в целом заезжать (только после…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-21T19:30",
-      "subtype": "rent",
-      "geo": "Чангу",
-      "text": "Ищу на Бали (Canggu/Pererenan/Denpasar) мастерскую или магазин, где можно купить и сразу установить оригинальный пластик на Yamaha NMAX [имя] MAX 2024 (Magma…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-21T19:30",
-      "text": "I need a custom XMax for 2–4 months, in a bright color."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3204,7 +3204,7 @@
         2,
         2,
         5,
-        48,
+        50,
         14,
         22,
         19,
@@ -3573,7 +3573,7 @@
           0,
           0,
           0,
-          3,
+          4,
           0,
           1,
           2,
@@ -3757,7 +3757,7 @@
           0,
           0,
           0,
-          9,
+          10,
           2,
           5,
           5,
