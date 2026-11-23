@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-24T04:57:15.932685+08:00",
+  "generated_at": "2026-11-24T05:58:39.508722+08:00",
   "all_time_total": 10090,
   "last_30d_total": 3188,
   "by_niche": [
@@ -130,10 +130,10 @@
     }
   ],
   "system": {
-    "messages_scanned_total": 2341006,
-    "messages_scanned_30d": 902939,
-    "noise_filtered_total": 1334899,
-    "noise_filtered_30d": 562314,
+    "messages_scanned_total": 2342028,
+    "messages_scanned_30d": 903961,
+    "noise_filtered_total": 1335579,
+    "noise_filtered_30d": 562994,
     "lead_sightings_total": 16742,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
@@ -2686,6 +2686,12 @@
   },
   "ticker": [
     {
+      "niche": "housing_bali",
+      "at": "2026-11-24T05:15",
+      "subtype": "rent",
+      "text": "мало информации. рисовые террасы какие, Тегаллаланг или [имя]? с деревянными столами типа барных стоек - таких кафе десятки и там и там. в таких местах на…"
+    },
+    {
       "niche": "transfer_bali",
       "at": "2026-11-24T04:30",
       "text": "доброго времени суток! подскажите пожалуйста контакты проверенных водителей, которые могут по приемлемой цене отвезти из / в аэропорт и между частями острова🙏🏻"
@@ -2865,12 +2871,6 @@
       "geo": "Сесех",
       "budget_m": 1,
       "text": "Hello. Need old and cheap Vario for 6 months, price 500k. Starting 26 November. Seseh."
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-23T21:30",
-      "geo": "Амед",
-      "text": "Всем привет! Планируем маршрут, подскажите 2 вопроса кто знает: Есть ли возможность с Гили приплыть сразу в Амед или рядом к нему? Есть ли возможность снять…"
     }
   ],
   "housing_budget_by_geo_90d": [
