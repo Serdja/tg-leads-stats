@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-24T08:01:47.055148+08:00",
-  "all_time_total": 10090,
-  "last_30d_total": 3188,
+  "generated_at": "2026-11-24T09:03:15.436745+08:00",
+  "all_time_total": 10093,
+  "last_30d_total": 3191,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1754,
-      "all_time": 4812,
+      "last_30d": 1755,
+      "all_time": 4813,
       "subtypes": {
         "rent": {
           "last_30d": 861,
@@ -19,16 +19,16 @@
           "all_time": 808
         },
         "offer": {
-          "last_30d": 599,
-          "all_time": 1563
+          "last_30d": 600,
+          "all_time": 1564
         }
       }
     },
     {
       "niche": "bikes_bali",
       "label": "🛵 Байки",
-      "last_30d": 569,
-      "all_time": 2096
+      "last_30d": 571,
+      "all_time": 2098
     },
     {
       "niche": "games_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2481
+      "total": 2484
     }
   ],
   "system": {
-    "messages_scanned_total": 2343045,
-    "messages_scanned_30d": 904978,
-    "noise_filtered_total": 1336102,
-    "noise_filtered_30d": 563517,
-    "lead_sightings_total": 16744,
+    "messages_scanned_total": 2343669,
+    "messages_scanned_30d": 905602,
+    "noise_filtered_total": 1336371,
+    "noise_filtered_30d": 563786,
+    "lead_sightings_total": 16751,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2022,13 +2022,13 @@
       },
       {
         "period": "2026-11-24",
-        "total": 19,
+        "total": 22,
         "by_niche": {
           "beauty_bali": 1,
-          "bikes_bali": 1,
+          "bikes_bali": 3,
           "games_bali": 1,
           "handyman_bali": 4,
-          "housing_bali": 9,
+          "housing_bali": 10,
           "photo_bali": 1,
           "transfer_bali": 1,
           "visa_bali": 1
@@ -2036,7 +2036,7 @@
         "housing": {
           "rent": 6,
           "roommate": 2,
-          "offer": 1
+          "offer": 2
         }
       }
     ],
@@ -2489,14 +2489,14 @@
       },
       {
         "period": "2026-11-23",
-        "total": 137,
+        "total": 140,
         "by_niche": {
           "auto_bali": 2,
           "beauty_bali": 6,
-          "bikes_bali": 19,
+          "bikes_bali": 21,
           "games_bali": 4,
           "handyman_bali": 6,
-          "housing_bali": 84,
+          "housing_bali": 85,
           "massage_bali": 2,
           "photo_bali": 2,
           "transfer_bali": 9,
@@ -2506,7 +2506,7 @@
         "housing": {
           "rent": 48,
           "roommate": 14,
-          "offer": 22
+          "offer": 23
         },
         "partial": true
       }
@@ -2608,15 +2608,15 @@
       },
       {
         "period": "2026-11",
-        "total": 2481,
+        "total": 2484,
         "by_niche": {
           "auto_bali": 38,
           "banya_bali": 5,
           "beauty_bali": 132,
-          "bikes_bali": 442,
+          "bikes_bali": 444,
           "games_bali": 166,
           "handyman_bali": 44,
-          "housing_bali": 1376,
+          "housing_bali": 1377,
           "massage_bali": 47,
           "photo_bali": 37,
           "transfer_bali": 112,
@@ -2627,7 +2627,7 @@
         "housing": {
           "rent": 673,
           "roommate": 234,
-          "offer": 469
+          "offer": 470
         },
         "partial": true
       }
@@ -2685,6 +2685,12 @@
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-24T08:00",
+      "subtype": "rent",
+      "text": "Добрый день! Открыт набор на разовую подработку. Нужно помочь с разгрузкой товара и переносом коробок в складское помещение. Продолжительность работы несколько…"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-24T05:15",
@@ -2864,13 +2870,6 @@
       "niche": "beauty_bali",
       "at": "2026-11-23T22:00",
       "text": "Всем привет! Посоветуйте пожалуйста мастера по наращиванию ресниц 🙏🏻"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-23T21:30",
-      "geo": "Сесех",
-      "budget_m": 1,
-      "text": "Hello. Need old and cheap Vario for 6 months, price 500k. Starting 26 November. Seseh."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -3103,7 +3102,7 @@
         5,
         3,
         8,
-        18,
+        21,
         23,
         10,
         39,
@@ -3656,7 +3655,7 @@
           1,
           0,
           1,
-          4,
+          6,
           3,
           4,
           7,
@@ -4208,7 +4207,7 @@
           4,
           3,
           5,
-          8,
+          9,
           17,
           4,
           22,
