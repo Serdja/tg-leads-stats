@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-25T03:30:19.018129+08:00",
-  "all_time_total": 10186,
-  "last_30d_total": 3201,
+  "generated_at": "2026-11-25T04:31:42.716002+08:00",
+  "all_time_total": 10189,
+  "last_30d_total": 3204,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1755,
-      "all_time": 4862,
+      "last_30d": 1757,
+      "all_time": 4864,
       "subtypes": {
         "rent": {
-          "last_30d": 857,
-          "all_time": 2462
+          "last_30d": 859,
+          "all_time": 2464
         },
         "roommate": {
           "last_30d": 292,
@@ -87,8 +87,8 @@
     {
       "niche": "wedding_bali",
       "label": "💍 Свадьбы",
-      "last_30d": 16,
-      "all_time": 56
+      "last_30d": 17,
+      "all_time": 57
     },
     {
       "niche": "banya_bali",
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2577
+      "total": 2580
     }
   ],
   "system": {
-    "messages_scanned_total": 2378097,
-    "messages_scanned_30d": 916733,
-    "noise_filtered_total": 1358487,
-    "noise_filtered_30d": 572489,
-    "lead_sightings_total": 16911,
+    "messages_scanned_total": 2379488,
+    "messages_scanned_30d": 918124,
+    "noise_filtered_total": 1359397,
+    "noise_filtered_30d": 573399,
+    "lead_sightings_total": 16915,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2024,13 +2024,14 @@
       },
       {
         "period": "2026-11-25",
-        "total": 7,
+        "total": 10,
         "by_niche": {
           "bikes_bali": 2,
-          "housing_bali": 5
+          "housing_bali": 7,
+          "wedding_bali": 1
         },
         "housing": {
-          "rent": 3,
+          "rent": 5,
           "roommate": 0,
           "offer": 2
         }
@@ -2485,23 +2486,23 @@
       },
       {
         "period": "2026-11-23",
-        "total": 233,
+        "total": 236,
         "by_niche": {
           "auto_bali": 4,
           "beauty_bali": 15,
           "bikes_bali": 34,
           "games_bali": 12,
           "handyman_bali": 10,
-          "housing_bali": 134,
+          "housing_bali": 136,
           "massage_bali": 3,
           "photo_bali": 3,
           "transfer_bali": 13,
           "video_bali": 2,
           "visa_bali": 2,
-          "wedding_bali": 1
+          "wedding_bali": 2
         },
         "housing": {
-          "rent": 69,
+          "rent": 71,
           "roommate": 20,
           "offer": 45
         },
@@ -2605,7 +2606,7 @@
       },
       {
         "period": "2026-11",
-        "total": 2577,
+        "total": 2580,
         "by_niche": {
           "auto_bali": 40,
           "banya_bali": 5,
@@ -2613,16 +2614,16 @@
           "bikes_bali": 457,
           "games_bali": 174,
           "handyman_bali": 48,
-          "housing_bali": 1426,
+          "housing_bali": 1428,
           "massage_bali": 48,
           "photo_bali": 38,
           "transfer_bali": 116,
           "video_bali": 16,
           "visa_bali": 55,
-          "wedding_bali": 13
+          "wedding_bali": 14
         },
         "housing": {
-          "rent": 694,
+          "rent": 696,
           "roommate": 240,
           "offer": 492
         },
@@ -2654,7 +2655,7 @@
       },
       {
         "geo": "Переренан",
-        "count": 87
+        "count": 88
       },
       {
         "geo": "Унгасан",
@@ -2673,15 +2674,40 @@
         "count": 39
       }
     ],
-    "geo_unknown": 272,
+    "geo_unknown": 273,
     "budget_idr": {
-      "n": 636,
+      "n": 637,
       "p25": 9000000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-25T04:15",
+      "subtype": "rent",
+      "text": "Здравствуйте! Ищем с мужем жилье ( без детей и животных ), на побережье с 1 декабря по 17 декабря. Можно виллу. Напишите пожалуйста в личку. Благодарю 🙏"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-25T04:00",
+      "subtype": "rent",
+      "geo": "Переренан",
+      "budget_m": 50,
+      "text": "Всем привет! Ищу современную виллу (не в балийском стиле) в районе Pererenan. • 1 BR / 2 BR • Private pool • С 1 декабря, минимум на 3 месяца • Бюджет до 50…"
+    },
+    {
+      "niche": "wedding_bali",
+      "at": "2026-11-25T04:00",
+      "text": "Всем привет! Мы тут свадебной компанией с друзьями хотим приехать, и задались вопросом — можно ли у кого то снять яхту на бали, до Гили докатить Вдруг кто…"
+    },
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-25T03:45",
+      "subtype": "rent",
+      "text": "Ищу людей для помощи с переездом. Нужно вынести вещи из квартиры и погрузить в машину. Оплата — 6 000 рублей. За подробностями пишите в личные сообщения!"
+    },
     {
       "niche": "bikes_bali",
       "at": "2026-11-25T03:00",
@@ -2846,29 +2872,6 @@
       "niche": "wedding_bali",
       "at": "2026-11-24T20:00",
       "text": "Что б пожениться, нужны документы. Руки порежите, дадите клятву перед макакой, и считай брак заключен. Чёкнитесь кокосами"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-24T19:45",
-      "subtype": "rent",
-      "text": "Нужен надёжный агент по недвижимости. Откликнитесь. Напишите в ЛС."
-    },
-    {
-      "niche": "transfer_bali",
-      "at": "2026-11-24T19:45",
-      "text": "Привет! Мне нужна помощь или совет с трансфером из аэропорта. Я пыталась забронировать трансфер через booking, но приложение вылетело на этапе оплаты и деньги…"
-    },
-    {
-      "niche": "bikes_bali",
-      "at": "2026-11-24T19:15",
-      "text": "Ищу цветной ADV Looking for a colored ADV"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-24T19:00",
-      "subtype": "rent",
-      "budget_m": 8,
-      "text": "Ищем чат менеджера в команду, работа в Европе, платим от 1.500$ долларов в месяц, переезд, жильё и питание оплачиваем, жду в приватных."
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2888,7 +2891,7 @@
     },
     {
       "geo": "Переренан",
-      "n": 248,
+      "n": 249,
       "median": 20000000,
       "p25": 11000000,
       "p75": 30000000
@@ -3065,7 +3068,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 806,
+    "villa": 808,
     "house": 51,
     "room": 104,
     "apartment": 39,
@@ -3130,7 +3133,7 @@
         18,
         10,
         5,
-        8,
+        11,
         4,
         5,
         4,
@@ -4235,7 +4238,7 @@
           10,
           6,
           3,
-          3,
+          5,
           0,
           3,
           3,
