@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-25T00:26:13.307885+08:00",
-  "all_time_total": 10181,
-  "last_30d_total": 3196,
+  "generated_at": "2026-11-25T01:27:36.653101+08:00",
+  "all_time_total": 10183,
+  "last_30d_total": 3198,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1752,
-      "all_time": 4859,
+      "last_30d": 1754,
+      "all_time": 4861,
       "subtypes": {
         "rent": {
-          "last_30d": 855,
-          "all_time": 2460
+          "last_30d": 856,
+          "all_time": 2461
         },
         "roommate": {
           "last_30d": 292,
           "all_time": 814
         },
         "offer": {
-          "last_30d": 605,
-          "all_time": 1585
+          "last_30d": 606,
+          "all_time": 1586
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2572
+      "total": 2574
     }
   ],
   "system": {
-    "messages_scanned_total": 2373032,
-    "messages_scanned_30d": 911668,
-    "noise_filtered_total": 1355029,
-    "noise_filtered_30d": 569031,
-    "lead_sightings_total": 16906,
+    "messages_scanned_total": 2374974,
+    "messages_scanned_30d": 913610,
+    "noise_filtered_total": 1356376,
+    "noise_filtered_30d": 570378,
+    "lead_sightings_total": 16908,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2024,14 +2024,14 @@
       },
       {
         "period": "2026-11-25",
-        "total": 2,
+        "total": 4,
         "by_niche": {
-          "housing_bali": 2
+          "housing_bali": 4
         },
         "housing": {
-          "rent": 1,
+          "rent": 2,
           "roommate": 0,
-          "offer": 1
+          "offer": 2
         }
       }
     ],
@@ -2484,14 +2484,14 @@
       },
       {
         "period": "2026-11-23",
-        "total": 228,
+        "total": 230,
         "by_niche": {
           "auto_bali": 4,
           "beauty_bali": 15,
           "bikes_bali": 32,
           "games_bali": 12,
           "handyman_bali": 10,
-          "housing_bali": 131,
+          "housing_bali": 133,
           "massage_bali": 3,
           "photo_bali": 3,
           "transfer_bali": 13,
@@ -2500,9 +2500,9 @@
           "wedding_bali": 1
         },
         "housing": {
-          "rent": 67,
+          "rent": 68,
           "roommate": 20,
-          "offer": 44
+          "offer": 45
         },
         "partial": true
       }
@@ -2604,7 +2604,7 @@
       },
       {
         "period": "2026-11",
-        "total": 2572,
+        "total": 2574,
         "by_niche": {
           "auto_bali": 40,
           "banya_bali": 5,
@@ -2612,7 +2612,7 @@
           "bikes_bali": 455,
           "games_bali": 174,
           "handyman_bali": 48,
-          "housing_bali": 1423,
+          "housing_bali": 1425,
           "massage_bali": 48,
           "photo_bali": 38,
           "transfer_bali": 116,
@@ -2621,9 +2621,9 @@
           "wedding_bali": 13
         },
         "housing": {
-          "rent": 692,
+          "rent": 693,
           "roommate": 240,
-          "offer": 491
+          "offer": 492
         },
         "partial": true
       }
@@ -2636,11 +2636,11 @@
         "count": 400
       },
       {
-        "geo": "Сесех",
-        "count": 157
+        "geo": "Улувату",
+        "count": 158
       },
       {
-        "geo": "Улувату",
+        "geo": "Сесех",
         "count": 157
       },
       {
@@ -2674,13 +2674,21 @@
     ],
     "geo_unknown": 271,
     "budget_idr": {
-      "n": 635,
+      "n": 636,
       "p25": 9000000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-25T00:15",
+      "subtype": "rent",
+      "geo": "Улувату",
+      "budget_m": 90,
+      "text": "Ищу 1bd/2bd виллу в Улувату Срок: 2 месяца Даты: 30 ноября - 30 января Бюджет: 90 млн (за два месяца)"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-25T00:15",
@@ -2861,13 +2869,6 @@
       "at": "2026-11-24T18:00",
       "subtype": "rent",
       "text": "Добрый день, подскажите пожалуйста, как сейчас можно перевести задаток за аренду виллы с России на индонезийскую карту?)"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-24T17:30",
-      "subtype": "rent",
-      "geo": "Букит",
-      "text": "Ищу 2br виллу или комнату на вилле Прилетаю 24 декабря с подругой на месяц. Букит Тихое место, без строек"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2894,7 +2895,7 @@
     },
     {
       "geo": "Улувату",
-      "n": 245,
+      "n": 246,
       "median": 20000000,
       "p25": 13000000,
       "p75": 30000000
@@ -3064,7 +3065,7 @@
     }
   ],
   "housing_types_30d": {
-    "villa": 805,
+    "villa": 806,
     "house": 51,
     "room": 104,
     "apartment": 39,
@@ -3125,8 +3126,8 @@
         11
       ],
       [
+        18,
         17,
-        16,
         9,
         4,
         8,
@@ -4230,8 +4231,8 @@
           2
         ],
         [
-          8,
-          8,
+          9,
+          9,
           6,
           3,
           3,
