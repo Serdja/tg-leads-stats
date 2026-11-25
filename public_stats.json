@@ -1,26 +1,26 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-25T09:38:54.413375+08:00",
-  "all_time_total": 10199,
-  "last_30d_total": 3214,
+  "generated_at": "2026-11-25T10:40:21.417197+08:00",
+  "all_time_total": 10201,
+  "last_30d_total": 3216,
   "by_niche": [
     {
       "niche": "housing_bali",
       "label": "🏠 Жильё",
-      "last_30d": 1764,
-      "all_time": 4871,
+      "last_30d": 1766,
+      "all_time": 4873,
       "subtypes": {
         "rent": {
           "last_30d": 863,
           "all_time": 2468
         },
         "roommate": {
-          "last_30d": 293,
-          "all_time": 815
+          "last_30d": 294,
+          "all_time": 816
         },
         "offer": {
-          "last_30d": 608,
-          "all_time": 1588
+          "last_30d": 609,
+          "all_time": 1589
         }
       }
     },
@@ -126,15 +126,15 @@
     },
     {
       "month": "2026-11",
-      "total": 2590
+      "total": 2592
     }
   ],
   "system": {
-    "messages_scanned_total": 2383677,
-    "messages_scanned_30d": 922313,
-    "noise_filtered_total": 1361787,
-    "noise_filtered_30d": 575789,
-    "lead_sightings_total": 16939,
+    "messages_scanned_total": 2384353,
+    "messages_scanned_30d": 922989,
+    "noise_filtered_total": 1362131,
+    "noise_filtered_30d": 576133,
+    "lead_sightings_total": 16943,
     "leads_since": "2026-07-11",
     "traffic_since": "2026-08-04",
     "chats_monitored": 251
@@ -2024,18 +2024,18 @@
       },
       {
         "period": "2026-11-25",
-        "total": 20,
+        "total": 22,
         "by_niche": {
           "bikes_bali": 3,
           "handyman_bali": 1,
-          "housing_bali": 14,
+          "housing_bali": 16,
           "transfer_bali": 1,
           "wedding_bali": 1
         },
         "housing": {
           "rent": 9,
-          "roommate": 1,
-          "offer": 4
+          "roommate": 2,
+          "offer": 5
         }
       }
     ],
@@ -2488,14 +2488,14 @@
       },
       {
         "period": "2026-11-23",
-        "total": 246,
+        "total": 248,
         "by_niche": {
           "auto_bali": 4,
           "beauty_bali": 15,
           "bikes_bali": 35,
           "games_bali": 12,
           "handyman_bali": 11,
-          "housing_bali": 143,
+          "housing_bali": 145,
           "massage_bali": 3,
           "photo_bali": 3,
           "transfer_bali": 14,
@@ -2505,8 +2505,8 @@
         },
         "housing": {
           "rent": 75,
-          "roommate": 21,
-          "offer": 47
+          "roommate": 22,
+          "offer": 48
         },
         "partial": true
       }
@@ -2608,7 +2608,7 @@
       },
       {
         "period": "2026-11",
-        "total": 2590,
+        "total": 2592,
         "by_niche": {
           "auto_bali": 40,
           "banya_bali": 5,
@@ -2616,7 +2616,7 @@
           "bikes_bali": 458,
           "games_bali": 174,
           "handyman_bali": 49,
-          "housing_bali": 1435,
+          "housing_bali": 1437,
           "massage_bali": 48,
           "photo_bali": 38,
           "transfer_bali": 117,
@@ -2626,8 +2626,8 @@
         },
         "housing": {
           "rent": 700,
-          "roommate": 241,
-          "offer": 494
+          "roommate": 242,
+          "offer": 495
         },
         "partial": true
       }
@@ -2665,7 +2665,7 @@
       },
       {
         "geo": "Нуса Дуа",
-        "count": 50
+        "count": 51
       },
       {
         "geo": "Берава",
@@ -2678,13 +2678,21 @@
     ],
     "geo_unknown": 274,
     "budget_idr": {
-      "n": 641,
-      "p25": 9500000,
+      "n": 642,
+      "p25": 9125000,
       "median": 15000000,
       "p75": 25000000
     }
   },
   "ticker": [
+    {
+      "niche": "housing_bali",
+      "at": "2026-11-25T10:15",
+      "subtype": "roommate",
+      "geo": "Нуса Дуа",
+      "budget_m": 5,
+      "text": "привет, друзья! ищу гест до 5М в Нуса Дуа или поблизости. без байков и собак по соседству. подскажете? спасибо!"
+    },
     {
       "niche": "housing_bali",
       "at": "2026-11-25T09:15",
@@ -2872,14 +2880,6 @@
       "at": "2026-11-24T21:15",
       "subtype": "rent",
       "text": "Девочки, в кого-то есть такие, или подобные массивные туфли/босоножки? 🙏 ищу на завтра на фотосьемку. Хелп 🥺 Поделите пожалуйста если есть. Сьемка будет на…"
-    },
-    {
-      "niche": "housing_bali",
-      "at": "2026-11-24T21:00",
-      "subtype": "rent",
-      "geo": "Сесех",
-      "budget_m": 25,
-      "text": "Всем привет! Ищу виллу 2BR (или 1BR, но с большой ливинг рум) в районе [имя]-Сесех. Бюджет до 25млн., срок: до марта с возможным продлением"
     }
   ],
   "housing_budget_by_geo_90d": [
@@ -2948,10 +2948,10 @@
     },
     {
       "geo": "Нуса Дуа",
-      "n": 77,
+      "n": 78,
       "median": 15000000,
-      "p25": 9000000,
-      "p75": 28000000
+      "p25": 8250000,
+      "p75": 27750000
     },
     {
       "geo": "Умалас",
@@ -3080,7 +3080,7 @@
     "house": 51,
     "room": 104,
     "apartment": 39,
-    "unknown": 149
+    "unknown": 150
   },
   "activity_30d": {
     "all": [
@@ -3146,8 +3146,8 @@
         6,
         7,
         18,
-        17,
-        19,
+        18,
+        20,
         28,
         29,
         39,
@@ -4251,8 +4251,8 @@
           4,
           5,
           11,
-          7,
           8,
+          9,
           15,
           14,
           23,
